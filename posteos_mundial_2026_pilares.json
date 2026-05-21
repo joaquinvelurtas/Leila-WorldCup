@@ -1,3 +1,62 @@
-{
-  "prueba": "Bocaaa"
-}
+[
+  {
+    "titulo_corto": "Alemania confirma lista mundialista",
+    "resumen": "Alemania presentó su lista para el Mundial con una sorpresa entre los convocados. La noticia permite seguir cómo se arma uno de los rivales fuertes en la previa del torneo.",
+    "medio": "TN",
+    "pilar": "Rivales"
+  },
+  {
+    "titulo_corto": "Valdano ve favorita a España",
+    "resumen": "Jorge Valdano señaló a España como candidata fuerte para el Mundial y dejó una reflexión sobre la Selección Argentina. El contenido instala una comparación directa entre Argentina y una de las potencias europeas.",
+    "medio": "TN",
+    "pilar": "Rivales"
+  },
+  {
+    "titulo_corto": "Alarma por lesión del Dibu",
+    "resumen": "La lesión del Dibu Martínez encendió preocupación en la Selección argentina a semanas del Mundial. El foco está puesto en su recuperación y en el impacto que podría tener para el equipo de Scaloni.",
+    "medio": "TN",
+    "pilar": "Equipo"
+  },
+  {
+    "titulo_corto": "Scaloni evalúa al jugador 27",
+    "resumen": "Lionel Scaloni analiza quién podría ocupar el lugar número 27 en la lista de la Selección Argentina para el Mundial 2026. La nota se centra en las decisiones finales del armado del plantel.",
+    "medio": "Infobae",
+    "pilar": "Equipo"
+  },
+  {
+    "titulo_corto": "El riesgo del Mundial ampliado",
+    "resumen": "La nota analiza los desafíos del nuevo formato ampliado del Mundial 2026 y plantea si el crecimiento del torneo puede generar problemas para la FIFA. El eje está en la escala, la organización y el impacto deportivo.",
+    "medio": "Infobae",
+    "pilar": "Logística"
+  },
+  {
+    "titulo_corto": "Fechas clave del Mundial 2026",
+    "resumen": "La nota reúne los días más importantes del calendario del Mundial 2026. Sirve para ordenar la agenda del torneo y ubicar los principales hitos de la competencia.",
+    "medio": "La Nación",
+    "pilar": "Logística"
+  },
+  {
+    "titulo_corto": "Gemini activa con la Selección",
+    "resumen": "Google Gemini llegó a Times Square con una activación vinculada a la Selección Argentina en la previa del Mundial. El contenido cruza tecnología, visibilidad marcaria y expectativa mundialista.",
+    "medio": "Infobae",
+    "pilar": "Marcas"
+  },
+  {
+    "titulo_corto": "La Selección usará IA",
+    "resumen": "La Selección Argentina reveló que utilizará inteligencia artificial durante el Mundial 2026. La noticia posiciona a la tecnología como parte de la preparación y del relato innovador alrededor del equipo.",
+    "medio": "La Nación",
+    "pilar": "Marcas"
+  },
+  {
+    "titulo_corto": "Dibu habló de su lesión",
+    "resumen": "Dibu Martínez reveló detalles de la lesión que sufrió tras el título del Aston Villa. El tema mantiene la atención sobre una figura clave del entorno de la Selección en la antesala mundialista.",
+    "medio": "Infobae",
+    "pilar": "Messi"
+  },
+  {
+    "titulo_corto": "Alemania recupera a un histórico",
+    "resumen": "Alemania dio su lista para el Mundial con el regreso de un jugador histórico tras dos años sin jugar en la selección. La noticia suma contexto sobre cómo llegan los rivales de peso al torneo.",
+    "medio": "Infobae",
+    "pilar": "Messi"
+  }
+]
