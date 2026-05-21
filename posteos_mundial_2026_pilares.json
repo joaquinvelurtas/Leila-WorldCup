@@ -1,62 +1,62 @@
 [
   {
-    "titulo_corto": "Alemania confirma lista mundialista",
-    "resumen": "Alemania presentó su lista para el Mundial con una sorpresa entre los convocados. La noticia permite seguir cómo se arma uno de los rivales fuertes en la previa del torneo.",
-    "medio": "TN",
-    "pilar": "Rivales"
-  },
-  {
-    "titulo_corto": "Valdano ve favorita a España",
-    "resumen": "Jorge Valdano señaló a España como candidata fuerte para el Mundial y dejó una reflexión sobre la Selección Argentina. El contenido instala una comparación directa entre Argentina y una de las potencias europeas.",
-    "medio": "TN",
-    "pilar": "Rivales"
-  },
-  {
-    "titulo_corto": "Alarma por lesión del Dibu",
-    "resumen": "La lesión del Dibu Martínez encendió preocupación en la Selección argentina a semanas del Mundial. El foco está puesto en su recuperación y en el impacto que podría tener para el equipo de Scaloni.",
-    "medio": "TN",
-    "pilar": "Equipo"
-  },
-  {
-    "titulo_corto": "Scaloni evalúa al jugador 27",
-    "resumen": "Lionel Scaloni analiza quién podría ocupar el lugar número 27 en la lista de la Selección Argentina para el Mundial 2026. La nota se centra en las decisiones finales del armado del plantel.",
+    "titulo_corto": "Docente viraliza a Julián Álvarez",
+    "resumen": "Una docente evaluó a sus alumnos con referencias a jugadores de la Selección argentina, en una dinámica que se volvió viral en la previa del Mundial. El caso muestra cómo el clima mundialista empieza a filtrarse en escenas cotidianas y escolares.",
     "medio": "Infobae",
     "pilar": "Equipo"
   },
   {
-    "titulo_corto": "El riesgo del Mundial ampliado",
-    "resumen": "La nota analiza los desafíos del nuevo formato ampliado del Mundial 2026 y plantea si el crecimiento del torneo puede generar problemas para la FIFA. El eje está en la escala, la organización y el impacto deportivo.",
+    "titulo_corto": "La Selección usará IA en el Mundial",
+    "resumen": "La Selección argentina reveló que incorporará inteligencia artificial durante el Mundial 2026. La noticia conecta la preparación del equipo con nuevas herramientas tecnológicas aplicadas al análisis y la competencia.",
+    "medio": "La Nación",
+    "pilar": "Equipo"
+  },
+  {
+    "titulo_corto": "Brasil deja afuera a una figura",
+    "resumen": "Un futbolista brasileño se filmó esperando ser convocado para el Mundial, pero finalmente no fue citado por Carlo Ancelotti. El episodio expone la tensión emocional y deportiva alrededor de las listas de Brasil.",
+    "medio": "Infobae",
+    "pilar": "Rivales"
+  },
+  {
+    "titulo_corto": "Brujería alrededor de Paraguay",
+    "resumen": "En Paraguay se instaló una alarma mediática por una supuesta brujería contra la selección antes del Mundial. La nota funciona como contenido de color sobre rivales y narrativas periféricas de la previa mundialista.",
+    "medio": "Infobae",
+    "pilar": "Rivales"
+  },
+  {
+    "titulo_corto": "Cambio europeo tras la ausencia italiana",
+    "resumen": "Italia vuelve a quedar afuera del Mundial y celebra un cambio en las Eliminatorias europeas que podría modificar su panorama futuro. La nota permite leer el impacto competitivo y organizativo del sistema de clasificación.",
     "medio": "Infobae",
     "pilar": "Logística"
   },
   {
     "titulo_corto": "Fechas clave del Mundial 2026",
-    "resumen": "La nota reúne los días más importantes del calendario del Mundial 2026. Sirve para ordenar la agenda del torneo y ubicar los principales hitos de la competencia.",
+    "resumen": "La nota ordena los días principales de la Copa del Mundo 2026 y funciona como guía de calendario para seguir el torneo. Es un contenido útil para planificar la agenda mundialista.",
     "medio": "La Nación",
     "pilar": "Logística"
   },
   {
-    "titulo_corto": "Gemini activa con la Selección",
-    "resumen": "Google Gemini llegó a Times Square con una activación vinculada a la Selección Argentina en la previa del Mundial. El contenido cruza tecnología, visibilidad marcaria y expectativa mundialista.",
+    "titulo_corto": "Figura inglesa queda afuera",
+    "resumen": "Una figura de Inglaterra confirmó que no irá al Mundial y expresó públicamente su shock. El caso alimenta la conversación sobre ausencias, decisiones técnicas y expectativas alrededor de las selecciones europeas.",
+    "medio": "TN",
+    "pilar": "Marcas"
+  },
+  {
+    "titulo_corto": "Maguire no será convocado",
+    "resumen": "Harry Maguire publicó un fuerte mensaje tras confirmar que no será convocado por Inglaterra para el Mundial. La noticia combina impacto deportivo, reacción pública y conversación de alto alcance en redes.",
     "medio": "Infobae",
     "pilar": "Marcas"
   },
   {
-    "titulo_corto": "La Selección usará IA",
-    "resumen": "La Selección Argentina reveló que utilizará inteligencia artificial durante el Mundial 2026. La noticia posiciona a la tecnología como parte de la preparación y del relato innovador alrededor del equipo.",
-    "medio": "La Nación",
-    "pilar": "Marcas"
-  },
-  {
-    "titulo_corto": "Dibu habló de su lesión",
-    "resumen": "Dibu Martínez reveló detalles de la lesión que sufrió tras el título del Aston Villa. El tema mantiene la atención sobre una figura clave del entorno de la Selección en la antesala mundialista.",
-    "medio": "Infobae",
+    "titulo_corto": "Alarma por la lesión del Dibu",
+    "resumen": "La Selección argentina sigue de cerca la lesión del Dibu Martínez a pocas semanas del Mundial. La preocupación gira en torno a su estado físico y a cómo puede afectar la preparación del equipo campeón.",
+    "medio": "TN",
     "pilar": "Messi"
   },
   {
-    "titulo_corto": "Alemania recupera a un histórico",
-    "resumen": "Alemania dio su lista para el Mundial con el regreso de un jugador histórico tras dos años sin jugar en la selección. La noticia suma contexto sobre cómo llegan los rivales de peso al torneo.",
-    "medio": "Infobae",
+    "titulo_corto": "Valdano analiza a los candidatos",
+    "resumen": "Jorge Valdano ubicó a Argentina entre las candidatas al Mundial, aunque eligió a otra selección como gran favorita. La nota instala una lectura comparativa sobre expectativas, presión y rivales en la previa del torneo.",
+    "medio": "Página/12",
     "pilar": "Messi"
   }
 ]
