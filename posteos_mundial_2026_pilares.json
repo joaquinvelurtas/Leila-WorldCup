@@ -1,62 +1,62 @@
 [
   {
-    "titulo_corto": "Sorpresas en la lista de Inglaterra",
-    "resumen": "Thomas Tuchel presentó la lista de Inglaterra para el Mundial 2026 con ausencias importantes y decisiones inesperadas. La noticia es relevante porque involucra a uno de los potenciales rivales fuertes del torneo.",
+    "titulo_corto": "Julián y el objetivo histórico",
+    "resumen": "Julián Álvarez habló sobre el objetivo de la Selección Argentina de cara al Mundial y se refirió a la posibilidad de que el equipo sea considerado uno de los mejores de la historia.",
+    "medio": "TN",
+    "pilar": "Equipo"
+  },
+  {
+    "titulo_corto": "Jugadores llegan y avisan a Scaloni",
+    "resumen": "Varios futbolistas de la Selección llegaron al país en la recta final previa al Mundial y dejaron señales hacia Scaloni en medio de la definición del plantel.",
+    "medio": "TN",
+    "pilar": "Equipo"
+  },
+  {
+    "titulo_corto": "España define figuras para el Mundial",
+    "resumen": "Lamine Yamal, Pedri y Nico Williams encabezan la lista de España para el Mundial, posicionando a la selección europea como uno de los rivales fuertes a seguir.",
     "medio": "TN",
     "pilar": "Rivales"
   },
   {
-    "titulo_corto": "Lautaro busca revancha mundialista",
-    "resumen": "Lautaro Martínez quiere cerrar bien la temporada y llegar con continuidad para convencer a Lionel Scaloni. La nota se enfoca en su lugar dentro de la Selección Argentina y su búsqueda de revancha personal en el Mundial.",
-    "medio": "La Nación",
-    "pilar": "Equipo"
-  },
-  {
-    "titulo_corto": "Entrada mundialista por menos de 7 dólares",
-    "resumen": "La nota aborda un posible error o imagen falsa vinculada al sistema de entradas del Mundial. El tema es relevante por el interés alrededor de la venta de tickets, precios y accesibilidad para los hinchas.",
-    "medio": "Infobae",
-    "pilar": "Logística"
-  },
-  {
-    "titulo_corto": "Cancelan vuelos al Mundial desde el interior",
-    "resumen": "La baja demanda y el aumento de combustibles impactan en la planificación de viajes al Mundial. La noticia conecta directamente con la logística de los hinchas argentinos que podrían viajar a ver a la Selección.",
-    "medio": "Infobae",
-    "pilar": "Logística"
-  },
-  {
-    "titulo_corto": "Bielsa dejará Uruguay tras el Mundial",
-    "resumen": "La nota trata sobre el futuro de Marcelo Bielsa en la selección uruguaya luego del Mundial. Es relevante porque Uruguay aparece como un rival regional de alto interés para Argentina.",
-    "medio": "Infobae",
+    "titulo_corto": "Rival de Argentina con lesiones",
+    "resumen": "El primer rival de la Argentina en el Mundial enfrenta un panorama complejo de lesiones a días de presentar su lista, un factor que puede incidir en el debut de la Selección.",
+    "medio": "TN",
     "pilar": "Rivales"
   },
   {
-    "titulo_corto": "Scaloni evalúa una sorpresa",
-    "resumen": "La nota analiza a un jugador no convocado por Lionel Scaloni que podría convertirse en sorpresa para la Selección Argentina en el Mundial. El foco está en la conformación final del plantel.",
-    "medio": "Infobae",
-    "pilar": "Equipo"
+    "titulo_corto": "El búnker de la Selección",
+    "resumen": "La Selección Argentina ya tiene definido el centro de entrenamiento que utilizará durante el Mundial, con foco en infraestructura, preparación y logística del plantel.",
+    "medio": "TN",
+    "pilar": "Logística"
   },
   {
-    "titulo_corto": "Google Gemini activa con la Selección",
-    "resumen": "Google Gemini llegó a Times Square con una campaña vinculada a la Selección Argentina. La noticia es relevante desde el territorio de marcas asociadas al clima mundialista.",
+    "titulo_corto": "Sedes de entrenamiento definidas",
+    "resumen": "Se conocieron las sedes de entrenamiento de las 48 selecciones que disputarán el Mundial 2026, un dato clave para seguir la organización previa del torneo.",
+    "medio": "Infobae",
+    "pilar": "Logística"
+  },
+  {
+    "titulo_corto": "Caso Quilmes y alcohol al volante",
+    "resumen": "Una noticia policial vinculada al consumo de alcohol fue detectada por menciones asociadas a Quilmes, aunque no corresponde a una acción marcaria ni a Cervecería y Maltería Quilmes.",
+    "medio": "TN",
+    "pilar": "Marcas"
+  },
+  {
+    "titulo_corto": "Dibu y las biografías deportivas",
+    "resumen": "La nota sobre Dibu Martínez analiza el nuevo peso narrativo de las biografías deportivas en plataformas globales y proyecta el valor de las figuras de la Selección como contenido de marca.",
     "medio": "Infobae",
     "pilar": "Marcas"
   },
   {
-    "titulo_corto": "Quilmes aparece en agenda deportiva",
-    "resumen": "La noticia menciona a Quilmes en contexto deportivo, vinculada a la Primera Nacional. No corresponde a Cervecería y Maltería Quilmes, sino al club y territorio Quilmes, por lo que su relevancia marcaria es baja.",
-    "medio": "La Nación",
-    "pilar": "Marcas"
-  },
-  {
-    "titulo_corto": "Ghana y Uruguay recuerdan Sudáfrica 2010",
-    "resumen": "La nota recupera la confesión del jugador de Ghana que erró el penal ante Uruguay en el Mundial 2010. El contenido funciona como memoria mundialista y se vincula con el recorrido histórico de grandes figuras y relatos de Copa del Mundo.",
+    "titulo_corto": "Hollywood se rinde ante Messi",
+    "resumen": "Una estrella de Hollywood celebró la magia de Lionel Messi en su último partido con Inter Miami antes del Mundial, reforzando su impacto cultural en Estados Unidos.",
     "medio": "Infobae",
     "pilar": "Messi"
   },
   {
-    "titulo_corto": "Viral por Julián Álvarez",
-    "resumen": "La nota retoma la idea de una docente que usó figuras de la Selección para evaluar alumnos. El contenido muestra cómo el Mundial activa conversación social y referencias populares asociadas a los campeones del mundo.",
-    "medio": "Infobae",
+    "titulo_corto": "Dudas por Messi en amistosos",
+    "resumen": "La Selección sigue de cerca la recuperación de Messi y existen dudas sobre su presencia en los próximos amistosos, un tema sensible para la preparación mundialista.",
+    "medio": "TN",
     "pilar": "Messi"
   }
 ]
