@@ -168,6 +168,7 @@
     max-width: 37.5%;
     overflow: hidden;
     min-width: 0;
+    height: 100%;
     display: flex;
     flex-direction: column;
     background: var(--col-bg);
@@ -182,7 +183,6 @@
     min-height: 0;
     position: relative;
   }
-  #bubbleCanvas { width: 100%; flex: 1; min-height: 0; display: block; }
   #bubbleCanvas { position: absolute; inset: 0; display: block; }
 
   /* Right half */
@@ -393,7 +393,7 @@ const BASE             = "https://raw.githubusercontent.com/joaquinvelurtas/Leil
 const RAW_JSON         = BASE + "posteos_mundial_2026_pilares.json";
 const TWITTER_JSON     = BASE + "twitter_temas.json";
 const GOLD_KEYS        = ["neymar", "hoteles", "nueva jersey"];
-const PILLARS          = ["Equipo", "Rivales", "Logística", "Marcas", "Messi"];
+const PILLARS          = ["Equipo", "Humor", "Controversia", "Hinchada disruptiva", "Argentina por el mundo", "Alcohol"];
 const SLIDE_INTERVAL_MS = 20000;
 
 const LOGOS = {
@@ -413,16 +413,16 @@ const MEDIO_INITIALS = {
 
 // ── Fallback data: news ───────────────────────────────────────
 const DUMMY_NEWS = [
-  { titulo_corto: "Julián y el objetivo histórico",    resumen: "Julián Álvarez habló sobre el objetivo de la Selección Argentina de cara al Mundial y se refirió a la posibilidad de que el equipo sea considerado uno de los mejores de la historia.", medio: "TN",      pilar: "Equipo"    },
-  { titulo_corto: "Jugadores llegan y avisan a Scaloni", resumen: "Varios futbolistas de la Selección llegaron al país en la recta final previa al Mundial y dejaron señales hacia Scaloni en medio de la definición del plantel.", medio: "TN",      pilar: "Equipo"    },
-  { titulo_corto: "España define figuras para el Mundial", resumen: "Lamine Yamal, Pedri y Nico Williams encabezan la lista de España para el Mundial, posicionando a la selección europea como uno de los rivales fuertes a seguir.", medio: "TN",      pilar: "Rivales"   },
-  { titulo_corto: "Rival de Argentina con lesiones",   resumen: "El primer rival de la Argentina en el Mundial enfrenta un panorama complejo de lesiones a días de presentar su lista, un factor que puede incidir en el debut de la Selección.", medio: "TN",      pilar: "Rivales"   },
-  { titulo_corto: "El búnker de la Selección",         resumen: "La Selección Argentina ya tiene definido el centro de entrenamiento que utilizará durante el Mundial, con foco en infraestructura, preparación y logística del plantel.", medio: "TN",      pilar: "Logística" },
-  { titulo_corto: "Sedes de entrenamiento definidas",  resumen: "Se conocieron las sedes de entrenamiento de las 48 selecciones que disputarán el Mundial 2026, un dato clave para seguir la organización previa del torneo.", medio: "Infobae", pilar: "Logística" },
-  { titulo_corto: "Caso Quilmes y alcohol al volante", resumen: "Una noticia policial vinculada al consumo de alcohol fue detectada por menciones asociadas a Quilmes, aunque no corresponde a una acción marcaria.", medio: "TN",      pilar: "Marcas"    },
-  { titulo_corto: "Dibu y las biografías deportivas",  resumen: "La nota sobre Dibu Martínez analiza el nuevo peso narrativo de las biografías deportivas en plataformas globales y proyecta el valor de las figuras de la Selección como contenido de marca.", medio: "Infobae", pilar: "Marcas"    },
-  { titulo_corto: "Hollywood se rinde ante Messi",     resumen: "Una estrella de Hollywood celebró la magia de Lionel Messi en su último partido con Inter Miami antes del Mundial, reforzando su impacto cultural en Estados Unidos.", medio: "Infobae", pilar: "Messi"     },
-  { titulo_corto: "Dudas por Messi en amistosos",      resumen: "La Selección sigue de cerca la recuperación de Messi y existen dudas sobre su presencia en los próximos amistosos, un tema sensible para la preparación mundialista.", medio: "TN",      pilar: "Messi"     }
+  { titulo_corto: "Julián y el objetivo histórico",      resumen: "Julián Álvarez habló sobre el objetivo de la Selección Argentina de cara al Mundial y se refirió a la posibilidad de que el equipo sea considerado uno de los mejores de la historia.", medio: "TN",      pilar: "Equipo"                  },
+  { titulo_corto: "Jugadores llegan y avisan a Scaloni", resumen: "Varios futbolistas de la Selección llegaron al país en la recta final previa al Mundial y dejaron señales hacia Scaloni en medio de la definición del plantel.",                         medio: "TN",      pilar: "Equipo"                  },
+  { titulo_corto: "Los memes de la convocatoria",        resumen: "La publicación de la lista mundialista desató una ola de memes en redes sociales. Los hinchas no dejaron pasar ningún detalle y los jugadores también reaccionaron.",                     medio: "Infobae", pilar: "Humor"                   },
+  { titulo_corto: "El chiste que se volvió viral",       resumen: "Un posteo humorístico sobre los horarios de los partidos de Argentina en el Mundial se viralizó rápidamente y acumuló miles de interacciones en pocas horas.",                           medio: "TN",      pilar: "Humor"                   },
+  { titulo_corto: "Polémica por la camiseta alternativa",resumen: "El diseño de la camiseta alternativa de la Selección generó controversia entre los hinchas. Mientras algunos la defienden, otros cuestionan la decisión de AFA.",                        medio: "La Nación",pilar: "Controversia"            },
+  { titulo_corto: "Debate por el DT suplente",           resumen: "La falta de definición sobre el cuerpo técnico alternativo encendió el debate en los medios. Hay voces que piden más transparencia en las decisiones de conducción.",                    medio: "Infobae", pilar: "Controversia"            },
+  { titulo_corto: "Argentinos copan Miami antes del Mundial", resumen: "Miles de hinchas argentinos ya están en Miami preparando el aguante para el Mundial. Banderas, canciones y un clima de fiesta anticipada inundaron la ciudad.",                    medio: "TN",      pilar: "Hinchada disruptiva"     },
+  { titulo_corto: "El banderazo en el aeropuerto",       resumen: "Hinchas argentinos organizaron un banderazo espontáneo en el aeropuerto internacional de Miami al cruzarse con jugadores de la Selección. Las imágenes se viralizaron al instante.",      medio: "Infobae", pilar: "Hinchada disruptiva"     },
+  { titulo_corto: "Hollywood se rinde ante Messi",       resumen: "Una estrella de Hollywood celebró la magia de Lionel Messi en su último partido con Inter Miami antes del Mundial, reforzando su impacto cultural en Estados Unidos.",                    medio: "Infobae", pilar: "Argentina por el mundo"  },
+  { titulo_corto: "Nueva Jersey homenajea a Argentina",  resumen: "Una intersección de calles fue renombrada en honor a la Selección Argentina en plena previa mundialista, mostrando el impacto simbólico del equipo en una de las sedes del torneo.",      medio: "La Nación",pilar: "Argentina por el mundo"  }
 ];
 
 // ── Fallback data: twitter bubble chart ──────────────────────
@@ -488,13 +488,17 @@ function renderDashboard(data) {
     ...item,
     gold: GOLD_KEYS.some(k => item.titulo_corto.toLowerCase().includes(k))
   }));
+  // Only show pillars that appear in the data, preserving the canonical order
+  const presentPillars = PILLARS.filter(p => data.some(d => d.pilar === p));
   const dashboard = document.getElementById("dashboard");
   dashboard.innerHTML = "";
-  PILLARS.forEach(pilar => {
+  // Reset grid columns dynamically to match number of present pillars
+  dashboard.style.gridTemplateColumns = "repeat(" + presentPillars.length + ", 1fr)";
+  presentPillars.forEach(pilar => {
     const items = data.filter(d => d.pilar === pilar);
     const col   = document.createElement("div");
     col.className = "column";
-    col.innerHTML = `<div class="column-title">${pilar}</div>` + items.map(buildCard).join("");
+    col.innerHTML = '<div class="column-title">' + pilar + '</div>' + items.map(buildCard).join("");
     dashboard.appendChild(col);
   });
 }
