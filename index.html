@@ -149,6 +149,16 @@
     border-radius: 4px; overflow: hidden;
     flex-shrink: 0; position: relative;
   }
+  .x-logo-wrap {
+    width: 22px; height: 22px;
+    border-radius: 4px;
+    background: #000;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+  }
   .medio-logo img { width: 100%; height: 100%; object-fit: cover; border-radius: 4px; }
   .medio-logo .initials {
     display: none;
@@ -160,8 +170,13 @@
   }
   .medio-name { font-size: 11px; font-weight: 600; color: var(--text-muted); letter-spacing: 0.2px; }
 
-  /* ── Slide 2: two-column layout ──────────────────────────── */
+  /* ── Slide 2: Twitter dashboard (same layout as slide-1) ── */
   #slide-2 {
+    padding: 24px 24px 0;
+  }
+
+  /* ── Slide 3: two-column layout ──────────────────────────── */
+  #slide-3 {
     padding: 20px 24px 0;
     flex-direction: row;
     gap: 14px;
@@ -373,8 +388,13 @@
   <div class="dashboard" id="dashboard"></div>
 </div>
 
-<!-- ── Slide 2: Bubble chart ───────────────────────────────── -->
+<!-- ── Slide 2: Twitter dashboard ──────────────────────────── -->
 <div class="slide" id="slide-2">
+  <div class="dashboard" id="dashboard-twitter"></div>
+</div>
+
+<!-- ── Slide 3: Bubble chart ────────────────────────────────── -->
+<div class="slide" id="slide-3">
   <div class="chart-shell">
     <div style="font-family:'Syne',sans-serif;font-size:15px;font-weight:800;color:var(--text-primary);margin-bottom:12px;flex-shrink:0;">X conversation</div>
     <div class="chart-body">
@@ -487,15 +507,80 @@ function buildCard(item) {
     </div>`;
 }
 
+// ── Dummy twitter news ───────────────────────────────────────
+const DUMMY_TWITTER_NEWS = [
+  { titulo_corto: "Convocatorias de sparrings jóvenes",  resumen: "Santiago Beltrán y Joaquín Freitas fueron convocados por Scaloni como sparrings para los amistosos previos al Mundial 2026 en Estados Unidos.",                                            autor: "𝙈𝘼𝙓𝙄 (@maxpugliese92)",                    pilar: "Equipo"                 },
+  { titulo_corto: "Estreno de 'El método Scaloni'",      resumen: "Llega la serie documental 'El método Scaloni' con testimonios de Messi, De Paul, Di María y otros referentes de la Selección.",                                                             autor: "Filo.news (@filonewsOK)",                    pilar: "Equipo"                 },
+  { titulo_corto: "Memes de realidad alterada",          resumen: "Video viral de Messi con la frase 'todavía no sé si me convocan' y Braida con la realidad completamente alterada.",                                                                         autor: "bigote (@Exbigote_)",                        pilar: "Humor"                  },
+  { titulo_corto: "Clemente y cuenta regresiva",         resumen: "Tiras históricas de Clemente (Caloi) revividas en las redes como cuenta regresiva humorística al Mundial 2026.",                                                                            autor: "Archivo de Humor Gráfico Argentino (@AHGArgentino)", pilar: "Humor"         },
+  { titulo_corto: "Exclusión de Dybala del Mundial",     resumen: "Scaloni explicó la no convocatoria de Paulo Dybala, priorizando presente y futuro con jugadores más jóvenes.",                                                                              autor: "Ataque Futbolero (@AtaqueFutbolero)",        pilar: "Controversia"           },
+  { titulo_corto: "Criterios de Scaloni en la lista",    resumen: "Debate sobre las declaraciones de Scaloni respecto a mirar el presente y futuro en la conformación del plantel.",                                                                           autor: "TyC Sports (@TyCSports)",                    pilar: "Controversia"           },
+  { titulo_corto: "Lista de hinchas con antecedentes",   resumen: "El gobierno argentino entregó una lista con más de 34.000 hinchas con antecedentes para restringir su ingreso al Mundial 2026.",                                                            autor: "El Portavoz Argentino (@ElPortavozARG)",    pilar: "Hinchada disruptiva"    },
+  { titulo_corto: "Reacciones por la ausencia de Dybala",resumen: "Hinchada expresó decepción y cuestionamientos fuertes ante las explicaciones de Scaloni sobre la no convocatoria de Dybala.",                                                              autor: "Deportes 24 - Argentina (@deportes24ar)",   pilar: "Hinchada disruptiva"    },
+  { titulo_corto: "Avión 'el más argentino del mundo'",  resumen: "Aerolíneas Argentinas presentó un avión temático de la Selección y Messi que volará por América y Europa.",                                                                                 autor: "LOS ANDES (@LosAndesDiario)",               pilar: "Argentina por el mundo" },
+  { titulo_corto: "Preocupación por Messi en Miami",     resumen: "La comunidad argentina en Miami mostró preocupación tras las molestias físicas de Messi en un partido del Inter Miami.",                                                                    autor: "Claro Sports (@ClaroSports)",               pilar: "Argentina por el mundo" }
+];
+
+// ── X icon SVG ────────────────────────────────────────────────
+const X_ICON = '<svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.747l7.73-8.835L1.254 2.25H8.08l4.253 5.622L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/></svg>';
+
+// ── Extract @handle from autor string ─────────────────────────
+function extractHandle(autor) {
+  const m = autor.match(/@(\S+?)\)?$/);
+  return m ? '@' + m[1].replace(/[)]/g, '') : autor;
+}
+
+// ── Build a twitter card ──────────────────────────────────────
+function buildTwitterCard(item) {
+  const goldClass = item.gold ? " gold" : "";
+  const handle    = extractHandle(item.autor);
+  return '<div class="card' + goldClass + '">'
+    + '<div class="card-top">'
+    + '<div class="card-header">'
+    + '<div class="card-title">' + item.titulo_corto + '</div>'
+    + '<div class="arrow-wrap">' + arrowSVG + '</div>'
+    + '</div>'
+    + '<p class="card-summary">' + item.resumen + '</p>'
+    + '</div>'
+    + '<div>'
+    + '<div class="card-divider" style="margin-bottom:10px;"></div>'
+    + '<div class="card-footer">'
+    + '<div class="x-logo-wrap">' + X_ICON + '</div>'
+    + '<span class="medio-name">' + handle + '</span>'
+    + '</div>'
+    + '</div>'
+    + '</div>';
+}
+
+// ── Render twitter dashboard ──────────────────────────────────
+function renderTwitterDashboard(data) {
+  data = data.map(item => ({
+    ...item,
+    gold: GOLD_KEYS.some(k => item.titulo_corto.toLowerCase().includes(k))
+  }));
+  const presentPillars = PILLARS.filter(p => data.some(d => d.pilar === p));
+  const dashboard = document.getElementById("dashboard-twitter");
+  if (!dashboard) return;
+  dashboard.innerHTML = "";
+  dashboard.style.gridTemplateColumns = "repeat(" + presentPillars.length + ", 1fr)";
+  presentPillars.forEach(pilar => {
+    const items = data.filter(d => d.pilar === pilar);
+    const col   = document.createElement("div");
+    col.className = "column";
+    col.innerHTML = '<div class="column-title">' + pilar + '</div>' + items.map(buildTwitterCard).join("");
+    dashboard.appendChild(col);
+  });
+}
+
 // ── Render news dashboard ─────────────────────────────────────
-function renderDashboard(data) {
+function renderDashboard(data, targetId) {
   data = data.map(item => ({
     ...item,
     gold: GOLD_KEYS.some(k => item.titulo_corto.toLowerCase().includes(k))
   }));
   // Only show pillars that appear in the data, preserving the canonical order
   const presentPillars = PILLARS.filter(p => data.some(d => d.pilar === p));
-  const dashboard = document.getElementById("dashboard");
+  const dashboard = document.getElementById(targetId || "dashboard");
   dashboard.innerHTML = "";
   // Reset grid columns dynamically to match number of present pillars
   dashboard.style.gridTemplateColumns = "repeat(" + presentPillars.length + ", 1fr)";
@@ -513,10 +598,16 @@ async function initNews() {
   try {
     const res = await fetch(RAW_JSON);
     if (!res.ok) throw new Error("HTTP " + res.status);
-    renderDashboard(await res.json());
+    const json = await res.json();
+    // Support both old flat array and new {portales, twitter} format
+    const portales = json.portales || json;
+    const twitter  = json.twitter  || [];
+    renderDashboard(portales, "dashboard");
+    renderTwitterDashboard(twitter);
   } catch(e) {
-    console.warn("News JSON failed, using fallback:", e.message);
-    renderDashboard(DUMMY_NEWS);
+    console.warn("JSON failed, using fallback:", e.message);
+    renderDashboard(DUMMY_NEWS, "dashboard");
+    renderTwitterDashboard(DUMMY_TWITTER_NEWS);
   }
 }
 
@@ -674,21 +765,21 @@ async function initTwitter() {
 (function() {
   const slides = [
     document.getElementById("slide-1"),
-    document.getElementById("slide-2")
+    document.getElementById("slide-2"),
+    document.getElementById("slide-3")
   ];
-  let current        = 0;
-  let chartRendered  = false;
+  let current       = 0;
+  let chartRendered = false;
 
   setInterval(() => {
     slides[current].classList.remove("active");
     current = (current + 1) % slides.length;
     slides[current].classList.add("active");
 
-    // Render chart the first time slide-2 becomes visible
-    // (canvas needs to be visible to get correct dimensions)
-    if (current === 1 && !chartRendered) {
+    // Render bubble chart the first time slide-3 becomes visible
+    if (current === 2 && !chartRendered) {
       chartRendered = true;
-      setTimeout(initTwitter, 50); // brief delay so CSS transition settles
+      setTimeout(initTwitter, 50);
     }
   }, SLIDE_INTERVAL_MS);
 })();
