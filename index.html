@@ -149,48 +149,16 @@
     border-radius: 4px; overflow: hidden;
     flex-shrink: 0; position: relative;
   }
-/* ── Twitter card extras ──────────────────────────────────── */
   .x-logo-wrap {
     width: 22px; height: 22px;
     border-radius: 4px;
     background: #000;
     flex-shrink: 0;
-    display: flex; align-items: center; justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: #fff;
   }
-  .tweet-text {
-    font-size: 11.5px;
-    line-height: 1.5;
-    color: var(--text-primary);
-    font-weight: 500;
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-  }
-  .card.gold .tweet-text { color: #f0dfa0; }
-  .tweet-desc {
-    font-size: 11px;
-    line-height: 1.5;
-    color: var(--text-secondary);
-    flex: 1;
-    overflow: hidden;
-  }
-  .tweet-metrics {
-    display: flex;
-    gap: 12px;
-    align-items: center;
-    margin-bottom: 8px;
-  }
-  .metric {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-    font-size: 10.5px;
-    font-weight: 600;
-    color: var(--text-muted);
-  }
-  .metric svg { flex-shrink: 0; }
   .medio-logo img { width: 100%; height: 100%; object-fit: cover; border-radius: 4px; }
   .medio-logo .initials {
     display: none;
@@ -448,10 +416,9 @@
 // ── Config ────────────────────────────────────────────────────
 const BASE             = "https://raw.githubusercontent.com/joaquinvelurtas/Leila-WorldCup/main/";
 const RAW_JSON         = BASE + "posteos_mundial_2026_pilares.json";
-const TWITTER_JSON     = BASE + "TWITTER_posteos_mundial_2026_pilares.json";
-const BUBBLE_JSON      = BASE + "twitter_temas.json";
+const TWITTER_JSON     = BASE + "twitter_temas.json";
 const GOLD_KEYS        = ["neymar", "hoteles", "nueva jersey"];
-const PILLARS          = ["Equipo", "Humor", "Controversia", "Color en la tribuna", "Argentina por el mundo", "Alcohol"];
+const PILLARS          = ["Equipo", "Humor", "Controversia", "Hinchada disruptiva", "Argentina por el mundo", "Alcohol"];
 const SLIDE_INTERVAL_MS = 20000;
 
 const LOGOS = {
@@ -486,17 +453,17 @@ const DUMMY_NEWS = [
 // ── Fallback data: twitter bubble chart ──────────────────────
 // Structure: { tema, likes, reposts, views, replies }
 // "messi" in tema name → gold bubble (auto-detected, no extra flag)
-const DUMMY_TWITTER_NEWS = [
-  { Texto: "⚠️🇦🇷 LIONEL SCALONI ANUNCIARÁ MAÑANA LA LISTA DE CONVOCADOS DE ARGENTINA PARA EL MUNDIAL.", Descripción: "La conversación gira en torno a la impaciencia por conocer la lista definitiva. Los usuarios bromean con el estilo 'misterioso' de Scaloni y especulan sobre posibles inclusiones y exclusiones.", Autor: "@AtaqueFutbolero", Pilar: "Equipo",                  Likes: 7651, Reposts: 159, Replies: 68  },
-  { Texto: "🤯🇦🇷 Argentina va a llevar MÁS DE 30 JUGADORES a la GIRA PREVIA DEL MUNDIAL para los amistosos ante Islandia y Honduras.", Descripción: "Críticas hacia Scaloni acusándolo de favorecer jugadores de Boca y River. Tono de desconfianza y enojo por supuestos 'negociados' en las convocatorias.", Autor: "@sudanalytics_",   Pilar: "Equipo",                  Likes: 3624, Reposts: 66,  Replies: 160 },
-  { Texto: "🇦🇷🇩🇿 SEÑORAS Y SEÑORES HAY GOL DE ARGELIA: En Blender hicieron un ritual para que Argentina se quede afuera en fase de grupos del Mundial.", Descripción: "Conversación mayoritariamente burlona hacia los hinchas argelinos y el canal Blender. Predomina el humor irónico más que la ofensa.", Autor: "@derechazoar",     Pilar: "Humor/Memes",            Likes: 2326, Reposts: 103, Replies: 46  },
-  { Texto: "Comienza el mundial y es un buen momento para recordar que cuando Argentina salió campeón en 2022, el litro de nafta salía 180 pesos y el kilo de asado 1200 pesos.", Descripción: "Tono nostálgico y comparativo. La conversación mezcla humor con desencanto por cómo cambió el país desde el título de 2022.", Autor: "@etupito",          Pilar: "Humor/Memes",            Likes: 522,  Reposts: 121, Replies: 37  },
-  { Texto: "Hoy presenté una denuncia penal contra Claudio Tapia por la presunta venta de entradas protocolares del Mundial 2026. Los tickets los entregó la FIFA a la AFA. No están a la venta. Y sin embargo se comercializaban a USD 850.", Descripción: "Fuerte rechazo hacia la dirigencia de la AFA. Los comentarios apoyan la denuncia y expresan descontento acumulado contra Claudio Tapia.", Autor: "@FacundoDelGaiso", Pilar: "Controversia",           Likes: 673,  Reposts: 348, Replies: 17  },
-  { Texto: "Todos se rien pero después del mundial la selección Argentina vs Cosobo va a despedir al Chiqui Tapia con la 10 en cancha...", Descripción: "Comentarios irónicos que coinciden en que Tapia debería irse. Consenso de rechazo hacia su figura y sensación de ciclo agotado.", Autor: "@GastonB777",       Pilar: "Controversia",           Likes: 88,   Reposts: 0,   Replies: 1   },
-  { Texto: "No convoca a Barco y a Buendía para llevar a Masqueuncono y Low Celsius y el sábado cometo una locura", Descripción: "Faceta más enfadada de la hinchada. Frustración visible por las decisiones de Scaloni y tono disruptivo con enojo exagerado por inclusiones que consideran injustas.", Autor: "@pomberobaitata",   Pilar: "Color en la tribuna",    Likes: 315,  Reposts: 5,   Replies: 6   },
-  { Texto: "La gente se ríe pero después del mundial la selección Argentina vs Cosobo va a despedir al Chiqui Tapia con la 10 en cancha...", Descripción: "Humor negro para canalizar el rechazo hacia la dirigencia de la AFA. Una parte de la hinchada ya da por terminado el ciclo de Tapia.", Autor: "@GastonB777",       Pilar: "Color en la tribuna",    Likes: 88,   Reposts: 0,   Replies: 1   },
-  { Texto: "Vinicius eligió a la Selección Argentina entre las favoritas para el Mundial: 'Fueron los últimos campeones, tienen una gran confianza. Y tienen a Messi, que siempre aporta algo diferente.'", Descripción: "Orgullo y satisfacción por el reconocimiento internacional. Se destaca el respeto que genera Argentina y especialmente Messi fuera del país.", Autor: "@ModoScaloneta",    Pilar: "Argentina por el mundo", Likes: 241,  Reposts: 12,  Replies: 3   },
-  { Texto: "Lionel Messi se une a la selección argentina para el Mundial, pero aún no está en plena forma. Scaloni confirma que varios jugadores sufren lesiones.", Descripción: "Preocupación moderada por el estado físico de Messi, pero confianza en que llegarán bien al torneo. Se discute el manejo de cargas previas al Mundial.", Autor: "@Goal_en_espanol",  Pilar: "Argentina por el mundo", Likes: 23,   Reposts: 2,   Replies: 1   }
+const DUMMY_TWITTER = [
+  { tema: "Messi pre-Mundial",        likes: 64200, reposts: 23200, views: 1840000, replies: 4200 },
+  { tema: "Messi en Miami",           likes: 44800, reposts: 16400, views: 1290000, replies: 2800 },
+  { tema: "Scaloni convocatoria",     likes: 38100, reposts: 14000, views:  980000, replies: 3100 },
+  { tema: "Argentina vs rival",       likes: 32600, reposts: 12200, views:  860000, replies: 2400 },
+  { tema: "Lamine Yamal",             likes: 28100, reposts: 10400, views:  720000, replies: 1900 },
+  { tema: "CR7 sexto Mundial",        likes: 22800, reposts:  8400, views:  610000, replies: 1600 },
+  { tema: "Hoteles sin reservas",     likes: 13600, reposts:  5100, views:  340000, replies:  780 },
+  { tema: "Tapia viaje autorizado",   likes:  9100, reposts:  3300, views:  210000, replies:  540 },
+  { tema: "Sorteo viaje Infobae",     likes:  6700, reposts:  2400, views:  165000, replies:  390 },
+  { tema: "James en Netflix",         likes:  5300, reposts:  1900, views:  128000, replies:  310 }
 ];
 
 // ── Arrow SVG ─────────────────────────────────────────────────
@@ -563,26 +530,26 @@ function extractHandle(autor) {
   return m ? '@' + m[1].replace(/[)]/g, '') : autor;
 }
 
-// ── Build Twitter card ────────────────────────────────────────
+// ── Build a twitter card ──────────────────────────────────────
 function buildTwitterCard(item) {
-  const gc = item.gold ? " gold" : "";
-  const handle = extractHandle(item.Autor);
-  return '<div class="card' + gc + '">'
-    + '<div class="card-top" style="gap:6px;">'
-    + '<div class="tweet-text">' + item.Texto.replace(/\n/g, ' ') + '</div>'
-    + '<p class="tweet-desc">' + item.Descripción + '</p>'
+  const goldClass = item.gold ? " gold" : "";
+  const handle    = extractHandle(item.autor);
+  return '<div class="card' + goldClass + '">'
+    + '<div class="card-top">'
+    + '<div class="card-header">'
+    + '<div class="card-title">' + item.titulo_corto + '</div>'
+    + '<div class="arrow-wrap">' + arrowSVG + '</div>'
+    + '</div>'
+    + '<p class="card-summary">' + item.resumen + '</p>'
     + '</div>'
     + '<div>'
-    + '<div class="tweet-metrics">'
-    + '<span class="metric">' + likeIcon + ' ' + fmtNum(item.Likes)   + '</span>'
-    + '<span class="metric">' + rtIcon   + ' ' + fmtNum(item.Reposts) + '</span>'
-    + '<span class="metric">' + repIcon  + ' ' + fmtNum(item.Replies) + '</span>'
-    + '</div>'
-    + '<div class="card-divider" style="margin-bottom:8px;"></div>'
+    + '<div class="card-divider" style="margin-bottom:10px;"></div>'
     + '<div class="card-footer">'
     + '<div class="x-logo-wrap">' + X_ICON + '</div>'
     + '<span class="medio-name">' + handle + '</span>'
-    + '</div></div></div>';
+    + '</div>'
+    + '</div>'
+    + '</div>';
 }
 
 // ── Render twitter dashboard ──────────────────────────────────
@@ -605,53 +572,42 @@ function renderTwitterDashboard(data) {
   });
 }
 
-// ── Render dashboard (generic) ────────────────────────────────
-function renderDashboard(data, targetId, cardFn) {
-  const presentPillars = PILLARS.filter(p => data.some(d => (d.pilar || d.Pilar) === p));
-  const el = document.getElementById(targetId);
-  if (!el) return;
-  el.innerHTML = "";
-  el.style.gridTemplateColumns = "repeat(" + presentPillars.length + ", 1fr)";
+// ── Render news dashboard ─────────────────────────────────────
+function renderDashboard(data, targetId) {
+  data = data.map(item => ({
+    ...item,
+    gold: GOLD_KEYS.some(k => item.titulo_corto.toLowerCase().includes(k))
+  }));
+  // Only show pillars that appear in the data, preserving the canonical order
+  const presentPillars = PILLARS.filter(p => data.some(d => d.pilar === p));
+  const dashboard = document.getElementById(targetId || "dashboard");
+  dashboard.innerHTML = "";
+  // Reset grid columns dynamically to match number of present pillars
+  dashboard.style.gridTemplateColumns = "repeat(" + presentPillars.length + ", 1fr)";
   presentPillars.forEach(pilar => {
-    const items = data.filter(d => (d.pilar || d.Pilar) === pilar);
+    const items = data.filter(d => d.pilar === pilar);
     const col   = document.createElement("div");
     col.className = "column";
-    col.innerHTML = '<div class="column-title">' + pilar + '</div>' + items.map(cardFn).join("");
-    el.appendChild(col);
+    col.innerHTML = '<div class="column-title">' + pilar + '</div>' + items.map(buildCard).join("");
+    dashboard.appendChild(col);
   });
 }
 
-// ── Prepare portales data ─────────────────────────────────────
-function prepPortales(data) {
-  return data.map(item => ({ ...item, gold: GOLD_KEYS.some(k => item.titulo_corto.toLowerCase().includes(k)) }));
-}
-// ── Prepare twitter data ──────────────────────────────────────
-function prepTwitter(data) {
-  return data.map(item => ({ ...item, gold: item.Pilar === "Argentina por el mundo" || item.titulo_corto && GOLD_KEYS.some(k => (item.Texto||'').toLowerCase().includes(k)) }));
-}
-
-// ── Fetch portales (slide 1) ──────────────────────────────────
-async function initPortales() {
+// ── Fetch news JSON ───────────────────────────────────────────
+async function initNews() {
   try {
     const res = await fetch(RAW_JSON);
     if (!res.ok) throw new Error("HTTP " + res.status);
-    renderDashboard(prepPortales(await res.json()), "dashboard", buildCard);
+    const json = await res.json();
+    // Support both old flat array and new {portales, twitter} format
+    const portales = json.portales || json;
+    const twitter  = json.twitter  || [];
+    renderDashboard(portales, "dashboard");
+    renderTwitterDashboard(twitter);
   } catch(e) {
-    console.warn("Portales JSON failed:", e.message);
-    renderDashboard(prepPortales(DUMMY_NEWS), "dashboard", buildCard);
-  }
-}
-
-// ── Fetch twitter posts (slide 2) ─────────────────────────────
-async function initTwitterPosts() {
-  try {
-    const res = await fetch(TWITTER_JSON);
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    const data = await res.json();
-    renderDashboard(prepTwitter(data), "dashboard-twitter", buildTwitterCard);
-  } catch(e) {
-    console.warn("Twitter posts JSON failed:", e.message);
-    renderDashboard(prepTwitter(DUMMY_TWITTER_NEWS), "dashboard-twitter", buildTwitterCard);
+    console.warn("JSON failed, using fallback:", e.message);
+    renderDashboard(DUMMY_NEWS, "dashboard");
+    renderTwitterDashboard(DUMMY_TWITTER_NEWS);
   }
 }
 
@@ -957,8 +913,7 @@ function renderRightPanel() {
 
 // ── Boot ──────────────────────────────────────────────────────
 renderRightPanel();
-initPortales();
-initTwitterPosts();
+initNews();
 </script>
 </body>
 </html>
