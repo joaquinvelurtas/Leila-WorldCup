@@ -1,63 +1,92 @@
-{
-  "twitter": [
-    {
-      "titulo_corto": "Convocatorias de sparrings jóvenes",
-      "resumen": "Santiago Beltrán y Joaquín Freitas fueron convocados por Scaloni como sparrings para los amistosos previos al Mundial 2026 en Estados Unidos.",
-      "autor": "\uD83C\uDDF2\uD83C\uDDE6X\uD83C\uDDEE (@maxpugliese92)",
-      "pilar": "Equipo"
-    },
-    {
-      "titulo_corto": "Estreno de 'El m\u00e9todo Scaloni'",
-      "resumen": "Llega la serie documental 'El m\u00e9todo Scaloni' con testimonios de Messi, De Paul, Di Mar\u00eda y otros referentes de la Selecci\u00f3n.",
-      "autor": "Filo.news (@filonewsOK)",
-      "pilar": "Equipo"
-    },
-    {
-      "titulo_corto": "Memes de realidad alterada",
-      "resumen": "Video viral de Messi con la frase 'todav\u00eda no s\u00e9 si me convocan' y Braida con la realidad completamente alterada.",
-      "autor": "bigote (@Exbigote_)"
-    },
-    {
-      "titulo_corto": "Clemente y cuenta regresiva",
-      "resumen": "Tiras hist\u00f3ricas de Clemente (Caloi) revividas en las redes como cuenta regresiva humor\u00edstica al Mundial 2026.",
-      "autor": "Archivo de Humor Gr\u00e1fico Argentino (@AHGArgentino)",
-      "pilar": "Humor/Memes"
-    },
-    {
-      "titulo_corto": "Exclusi\u00f3n de Dybala del Mundial",
-      "resumen": "Scaloni explic\u00f3 la no convocatoria de Paulo Dybala, priorizando presente y futuro con jugadores m\u00e1s j\u00f3venes.",
-      "autor": "Ataque Futbolero (@AtaqueFutbolero)",
-      "pilar": "Controversia"
-    },
-    {
-      "titulo_corto": "Criterios de Scaloni en la lista",
-      "resumen": "Debate sobre las declaraciones de Scaloni respecto a mirar el presente y futuro en la conformaci\u00f3n del plantel.",
-      "autor": "TyC Sports (@TyCSports)",
-      "pilar": "Controversia"
-    },
-    {
-      "titulo_corto": "Lista de hinchas con antecedentes",
-      "resumen": "El gobierno argentino entreg\u00f3 una lista con m\u00e1s de 34.000 hinchas con antecedentes para restringir su ingreso al Mundial 2026.",
-      "autor": "El Portavoz Argentino (@ElPortavozARG)",
-      "pilar": "Color en la tribuna"
-    },
-    {
-      "titulo_corto": "Reacciones por la ausencia de Dybala",
-      "resumen": "Hinchada expres\u00f3 decepci\u00f3n y cuestionamientos fuertes ante las explicaciones de Scaloni sobre la no convocatoria de Dybala.",
-      "autor": "Deportes 24 - Argentina (@deportes24ar)",
-      "pilar": "Color en la tribuna"
-    },
-    {
-      "titulo_corto": "Avi\u00f3n 'el m\u00e1s argentino del mundo'",
-      "resumen": "Aerol\u00edneas Argentinas present\u00f3 un avi\u00f3n tem\u00e1tico de la Selecci\u00f3n y Messi que volar\u00e1 por Am\u00e9rica y Europa.",
-      "autor": "LOS ANDES (@LosAndesDiario)",
-      "pilar": "Argentina por el mundo"
-    },
-    {
-      "titulo_corto": "Preocupaci\u00f3n por Messi en Miami",
-      "resumen": "La comunidad argentina en Miami mostr\u00f3 preocupaci\u00f3n tras las molestias f\u00edsicas de Messi en un partido del Inter Miami.",
-      "autor": "Claro Sports (@ClaroSports)",
-      "pilar": "Argentina por el mundo"
-    }
-  ]
-}
+[
+  {
+    "Texto": "⚠️🇦🇷 LIONEL SCALONI ANUNCIARÁ MAÑANA LA LISTA DE CONVOCADOS DE ARGENTINA PARA EL MUNDIAL.\n\n[@arevalo_martin]",
+    "Descripción": "La conversación gira en torno a la impaciencia por conocer la lista definitiva. Los usuarios bromean constantemente con el estilo 'misterioso' de Scaloni, especulan sobre posibles inclusiones y exclusiones, y hay un tono irónico recurrente hacia jugadores como Lo Celso. Se percibe una mezcla de expectativa, humor negro y cierto fastidio por la demora en el anuncio.",
+    "Autor": "@AtaqueFutbolero",
+    "Pilar": "Equipo",
+    "Likes": 7651,
+    "Reposts": 159,
+    "Replies": 68
+  },
+  {
+    "Texto": "🤯🇦🇷 Argentina va a llevar MÁS DE 30 JUGADORES a la GIRA PREVIA DEL MUNDIAL para los amistosos ante Islandia y Honduras:\n\n‼️ Entre los CONVOCADOS están:\n\n➜ Santiago Beltrán.\n➜ Tomás Aranda.\n➜ Joaquín Freitas.\n➜ Nicolás Capaldo.\n\nVía @gastonedul.",
+    "Descripción": "Los comentarios están dominados por fuertes críticas hacia Scaloni, acusándolo de favorecer a jugadores de Boca y River. Hay mucho sarcasmo y burla dirigida especialmente a Tomás Aranda, Joaquín Freitas y Nicolás Capaldo. Algunos usuarios defienden a Capaldo por su rendimiento en Alemania, pero el tono general es de desconfianza y enojo por supuestos 'negociados' en las convocatorias.",
+    "Autor": "@sudanalytics_",
+    "Pilar": "Equipo",
+    "Likes": 3624,
+    "Reposts": 66,
+    "Replies": 160
+  },
+  {
+    "Texto": "🇦🇷🇩🇿 SEÑORAS Y SEÑORES HAY GOL DE ARGELIA: En Blender hicieron un ritual para que Argentina se quede afuera en fase de grupos del Mundial.",
+    "Descripción": "La conversación tiene un tono mayoritariamente burlón hacia los hinchas argelinos y el canal Blender. Muchos comentarios se ríen del ritual, mientras que otros aprovechan para expresar hartazgo hacia las canciones oficiales del Mundial y el marketing alrededor de la selección. Predomina el humor irónico más que la ofensa.",
+    "Autor": "@derechazoar",
+    "Pilar": "Humor/Memes",
+    "Likes": 2326,
+    "Reposts": 103,
+    "Replies": 46
+  },
+  {
+    "Texto": "Comienza el mundial y es un buen momento para recordar que cuando Argentina salió campeón en 2022, el litro de nafta salía 180 pesos y el kilo de asado 1200 pesos.\n¿Que otros precios se acuerdan de aquella época?",
+    "Descripción": "Los comentarios tienen un tono nostálgico y comparativo. Muchos usuarios recuerdan con cierta melancolía la época del título de 2022, contrastándola con la situación económica actual. La conversación mezcla humor con un trasfondo de desencanto por cómo cambió el país desde aquel momento.",
+    "Autor": "@etupito",
+    "Pilar": "Humor/Memes",
+    "Likes": 522,
+    "Reposts": 121,
+    "Replies": 37
+  },
+  {
+    "Texto": "Hoy presenté una denuncia penal contra Claudio Tapia, Fernando Isla Casares y Walter Rodríguez (de la agencia Somos Argentina) por la presunta venta de entradas protocolares del Mundial 2026.\nLos tickets los entregó la FIFA a la AFA. No están a la venta. Y sin embargo se comercializaban a USD 850 cada una.\nQue la Justicia investigue.",
+    "Descripción": "La conversación refleja un fuerte rechazo hacia la dirigencia de la AFA. Los comentarios mayoritariamente apoyan la denuncia y expresan un profundo descontento acumulado contra Claudio Tapia. Se percibe un clima de hartazgo y desconfianza generalizada hacia el manejo de la federación.",
+    "Autor": "@FacundoDelGaiso",
+    "Pilar": "Controversia",
+    "Likes": 673,
+    "Reposts": 348,
+    "Replies": 17
+  },
+  {
+    "Texto": "Todos se rien pero en después del mundial la selección Argentina vs Cosobo va a despedir al Chiqui Tapia con la 10 en cancha...",
+    "Descripción": "Los comentarios coinciden de forma irónica y mayoritaria en que Tapia debería dejar su cargo después del Mundial. Hay un consenso claro de rechazo hacia su figura y una sensación de que su ciclo ya está agotado, independientemente del resultado del torneo.",
+    "Autor": "@GastonB777",
+    "Pilar": "Controversia",
+    "Likes": 88,
+    "Reposts": 0,
+    "Replies": 1
+  },
+  {
+    "Texto": "No convoca a Barco y a Buendía para llevar a Masqueuncono y Low Celsius y el sábado cometo una locura",
+    "Descripción": "Este tipo de comentarios representa la faceta más enfadada de la hinchada. Hay frustración visible por las decisiones de Scaloni y un tono disruptivo, con usuarios que expresan enojo exagerado o amenazante ante posibles inclusiones que consideran injustas o por favoritismo.",
+    "Autor": "@pomberobaitata",
+    "Pilar": "Color en la tribuna",
+    "Likes": 315,
+    "Reposts": 5,
+    "Replies": 6
+  },
+  {
+    "Texto": "La gente se ríe pero en después del mundial la selección Argentina vs Cosobo va a despedir al Chiqui Tapia con la 10 en cancha...",
+    "Descripción": "Aunque el post es irónico, los comentarios revelan un sentimiento de hartazgo profundo hacia Tapia. La conversación muestra cómo una parte de la hinchada ya da por terminado su ciclo y utiliza el humor negro para canalizar el rechazo hacia la dirigencia de la AFA.",
+    "Autor": "@GastonB777",
+    "Pilar": "Color en la tribuna",
+    "Likes": 88,
+    "Reposts": 0,
+    "Replies": 1
+  },
+  {
+    "Texto": "Vinicius eligió a la Selección Argentina entre las favoritas para el Mundial: \"Fueron los últimos campeones, tienen una gran confianza. Y tienen a Messi, que siempre aporta algo diferente, no podemos imaginar nunca qué podría hacer.\""",
+    "Descripción": "Los comentarios transmiten orgullo y satisfacción por el reconocimiento internacional. La conversación se centra en el respeto que genera Argentina y especialmente Messi fuera del país, con usuarios destacando que incluso rivales reconocen el nivel actual de la selección.",
+    "Autor": "@ModoScaloneta",
+    "Pilar": "Argentina por el mundo",
+    "Likes": 241,
+    "Reposts": 12,
+    "Replies": 3
+  },
+  {
+    "Texto": "Lionel Messi se une a la selección argentina para el Mundial, pero aún no está en plena forma. Scaloni confirma que varios jugadores sufren lesiones.",
+    "Descripción": "La conversación refleja preocupación moderada por el estado físico de Messi y otros jugadores, pero también hay confianza en que llegarán bien al torneo. Se discute el manejo de las cargas y la importancia de Messi incluso en un contexto de lesiones previas al Mundial.",
+    "Autor": "@Goal_en_espanol",
+    "Pilar": "Argentina por el mundo",
+    "Likes": 23,
+    "Reposts": 2,
+    "Replies": 1
+  }
+]
