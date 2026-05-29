@@ -193,11 +193,13 @@
   }
   .tweet-metrics {
     display: flex;
-    gap: 12px;
+    justify-content: space-between;
     align-items: center;
     margin-bottom: 8px;
   }
   .metric {
+    flex: 1;
+    justify-content: center;
     display: flex;
     align-items: center;
     gap: 4px;
@@ -324,9 +326,12 @@
 
 <!-- Footer -->
 <div class="bottom-bar">
-  <span class="bottom-label">Noticias Mundiales</span>
-  <div class="bottom-pill"><span class="dot"></span>Mundial 2026</div>
-  <span class="bottom-label" style="color:#c9a84c;">⚽ Dashboard</span>
+  <span class="bottom-label" id="footer-left">Portales de Noticias</span>
+  <div class="bottom-pill"><span class="dot"></span>Mundial de Fútbol 2026</div>
+  <img src="https://raw.githubusercontent.com/joaquinvelurtas/Leila-WorldCup/main/wc_logo_png.png"
+       alt="WC 2026"
+       style="height:34px;width:auto;object-fit:contain;opacity:0.92;"
+       onerror="this.style.display='none'"/>
 </div>
 
 <script>
@@ -723,10 +728,12 @@ function renderRightPanel() {
   ];
   let current       = 0;
   let bubbleRendered = false;
+  const footerLabels = ["Portales de Noticias", "X (Twitter)", "X (Twitter)"];
   setInterval(() => {
     slides[current].classList.remove("active");
     current = (current + 1) % slides.length;
     slides[current].classList.add("active");
+    document.getElementById("footer-left").textContent = footerLabels[current];
     if (current === 2 && !bubbleRendered) {
       bubbleRendered = true;
       setTimeout(initBubble, 50);
