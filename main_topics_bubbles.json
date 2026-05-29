@@ -1,74 +1,74 @@
 {
   "topics": [
     {
-      "tema": "Anuncio de la lista de 26 convocados por Scaloni",
-      "engagement": 520000,
-      "views": 3800000,
-      "volumen": 16200,
+      "tema": "Reacciones a la lista de convocados Scaloni",
+      "engagement": 485000,
+      "views": 3450000,
+      "volumen": 13200,
       "sentiment": "Positive"
     },
     {
-      "tema": "Reacciones y sorpresas en la nómina (Garnacho, Buendía fuera)",
-      "engagement": 285000,
-      "views": 1950000,
+      "tema": "Nico Paz convocado para su primer Mundial",
+      "engagement": 295000,
+      "views": 2250000,
       "volumen": 8750,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Messi convocado para su sexto Mundial",
-      "engagement": 465000,
-      "views": 3100000,
-      "volumen": 11800,
       "sentiment": "Positive"
     },
     {
-      "tema": "Fixture Argentina: debut vs Argelia, Austria y Jordania",
-      "engagement": 195000,
-      "views": 1250000,
-      "volumen": 6800,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Análisis de la nómina: veteranos y generación nueva",
-      "engagement": 240000,
-      "views": 1450000,
-      "volumen": 7450,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Preparación Scaloneta y base en Kansas City",
-      "engagement": 135000,
-      "views": 920000,
-      "volumen": 4650,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Expectativas bicampeonato y cuarta estrella",
-      "engagement": 310000,
-      "views": 2050000,
-      "volumen": 8950,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Videos oficiales y presentación de la lista AFA",
-      "engagement": 380000,
+      "tema": "Otamendi refuerzo de River antes del Mundial",
+      "engagement": 385000,
       "views": 2650000,
-      "volumen": 10200,
+      "volumen": 11200,
       "sentiment": "Positive"
     },
     {
-      "tema": "Incorporación de talentos jóvenes como Nico Paz y Simeone",
+      "tema": "Rumores de traspaso Julián Álvarez a Barcelona",
+      "engagement": 225000,
+      "views": 1680000,
+      "volumen": 6950,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Celebraciones de clubes por sus mundialistas",
+      "engagement": 195000,
+      "views": 1320000,
+      "volumen": 5850,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Base Argentina en Kansas City y preparativos",
+      "engagement": 105000,
+      "views": 820000,
+      "volumen": 3650,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Cobertura mediática y periodistas viajando a USA",
+      "engagement": 135000,
+      "views": 1050000,
+      "volumen": 4450,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Análisis de chances bicampeonato Argentina",
       "engagement": 175000,
-      "views": 1150000,
-      "volumen": 5450,
+      "views": 1380000,
+      "volumen": 6200,
       "sentiment": "Positive"
     },
     {
-      "tema": "Hype en redes por el Mundial 2026 en Argentina",
-      "engagement": 145000,
-      "views": 980000,
-      "volumen": 4800,
+      "tema": "Videos virales y reacciones de jugadores convocados",
+      "engagement": 260000,
+      "views": 1920000,
+      "volumen": 7800,
       "sentiment": "Positive"
+    },
+    {
+      "tema": "Expectativas por el debut vs Argelia",
+      "engagement": 125000,
+      "views": 920000,
+      "volumen": 4250,
+      "sentiment": "Neutral"
     }
   ]
 }
