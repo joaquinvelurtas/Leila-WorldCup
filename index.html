@@ -174,7 +174,7 @@
     flex: 0 0 37.5%; max-width: 37.5%; overflow: hidden; min-width: 0; height: 100%;
     display: flex; flex-direction: column;
     background: var(--col-bg); border: 1px solid var(--border); border-radius: var(--radius);
-    padding: 20px 20px 14px;
+    padding: 14px 14px 12px;
   }
   .chart-body { flex: 1; min-height: 0; position: relative; }
   #bubbleCanvas { position: absolute; inset: 0; display: block; }
@@ -263,7 +263,7 @@
   .delta-up   { color: #3fb87a; }
   .delta-down { color: #e04848; }
   .delta-flat { color: var(--text-muted); }
-  .topic-canvas { width: 100%; display: block; flex: 1; min-height: 0; }
+  .topic-canvas { width: 100%; height: 32px; display: block; flex: 0 0 32px; min-height: 32px; }
 
   /* ── Footer ───────────────────────────────────────────────── */
   .bottom-bar {
@@ -528,42 +528,114 @@ function renderBubbleChart(raw) {
     engagement: d.engagement !== undefined ? d.engagement : ((d.likes||0)+(d.reposts||0)),
     volumen:    d.volumen    !== undefined ? d.volumen    : (d.replies||0),
     isMessi: d.tema.toLowerCase().includes("messi")
-  }));
+  })).filter(d => Number.isFinite(d.engagement) && Number.isFinite(d.views) && Number.isFinite(d.volumen));
   const canvas = document.getElementById("bubbleCanvas");
-  if (!canvas) return;
+  if (!canvas || data.length === 0) return;
+
   const body  = canvas.parentElement;
   const DPR   = window.devicePixelRatio || 1;
-  const W_CSS = body.clientWidth;
-  const H_CSS = body.clientHeight;
+  const W_CSS = Math.max(1, body.clientWidth);
+  const H_CSS = Math.max(1, body.clientHeight);
   canvas.width  = W_CSS * DPR;  canvas.height = H_CSS * DPR;
   canvas.style.width = W_CSS+"px"; canvas.style.height = H_CSS+"px";
+
   const ctx = canvas.getContext("2d");
-  ctx.scale(DPR, DPR);
+  ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+  ctx.clearRect(0, 0, W_CSS, H_CSS);
+
   const W = W_CSS, H = H_CSS;
-  const PAD = { top:20, right:80, bottom:36, left:36 };
-  const plotW = W - PAD.left - PAD.right;
-  const plotH = H - PAD.top  - PAD.bottom;
-  const maxEng   = Math.max(...data.map(d=>d.engagement));
-  const maxViews = Math.max(...data.map(d=>d.views));
-  const maxVol   = Math.max(...data.map(d=>d.volumen));
-  const minVol   = Math.min(...data.map(d=>d.volumen));
-  const scaleX = v => PAD.left + (Math.sqrt(v)/Math.sqrt(maxEng*1.5))*plotW;
-  const scaleY = v => PAD.top  + (1-Math.sqrt(v)/Math.sqrt(maxViews*2.5))*plotH;
-  const scaleR = v => { const t=(v-minVol)/(maxVol-minVol||1); return 10+t*40; };
-  const clampX = (cx,r) => Math.max(cx, PAD.left+r);
-  const clampY = (cy,r) => Math.min(Math.max(cy, PAD.top+r), PAD.top+plotH-r);
+  const PAD = { top: 14, right: 22, bottom: 34, left: 42 };
+  const plotW = Math.max(1, W - PAD.left - PAD.right);
+  const plotH = Math.max(1, H - PAD.top  - PAD.bottom);
+
+  const engVals   = data.map(d => d.engagement);
+  const viewVals  = data.map(d => d.views);
+  const volVals   = data.map(d => d.volumen);
+  const minEng    = Math.min(...engVals),   maxEng   = Math.max(...engVals);
+  const minViews  = Math.min(...viewVals),  maxViews = Math.max(...viewVals);
+  const minVol    = Math.min(...volVals),   maxVol   = Math.max(...volVals);
+
+  const domain = (min, max) => {
+    if (min === max) {
+      const pad = Math.max(1, max * 0.18);
+      return [Math.max(0, min - pad), max + pad];
+    }
+    const pad = (max - min) * 0.12;
+    return [Math.max(0, min - pad), max + pad];
+  };
+  const [engMin, engMax]     = domain(minEng, maxEng);
+  const [viewsMin, viewsMax] = domain(minViews, maxViews);
+
+  // Dynamic axis scales: use the real bubble ranges instead of fixed multipliers,
+  // so the chart fills the available plot area inside its card.
+  const scaleX = v => PAD.left + ((v - engMin) / (engMax - engMin || 1)) * plotW;
+  const scaleY = v => PAD.top  + (1 - ((v - viewsMin) / (viewsMax - viewsMin || 1))) * plotH;
+  const scaleR = v => {
+    const t = (v - minVol) / (maxVol - minVol || 1);
+    const maxR = Math.max(18, Math.min(44, Math.min(plotW, plotH) * 0.15));
+    const minR = Math.max(8, Math.min(14, maxR * 0.35));
+    return minR + Math.sqrt(Math.max(0, t)) * (maxR - minR);
+  };
+  const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
+
+  const nodes = data.map(d => {
+    const r = scaleR(d.volumen);
+    const minX = PAD.left + r;
+    const maxX = PAD.left + plotW - r;
+    const minY = PAD.top + r;
+    const maxY = PAD.top + plotH - r;
+    return {
+      ...d,
+      r,
+      targetX: clamp(scaleX(d.engagement), minX, maxX),
+      targetY: clamp(scaleY(d.views), minY, maxY),
+      x: clamp(scaleX(d.engagement), minX, maxX),
+      y: clamp(scaleY(d.views), minY, maxY)
+    };
+  });
+
+  // Simple collision relaxation. Keeps bubbles near their data position but
+  // adds breathing room between them so labels and circles do not feel cramped.
+  const GAP = Math.max(6, Math.min(12, Math.min(plotW, plotH) * 0.022));
+  for (let iter = 0; iter < 90; iter++) {
+    for (let i = 0; i < nodes.length; i++) {
+      const a = nodes[i];
+      a.x += (a.targetX - a.x) * 0.045;
+      a.y += (a.targetY - a.y) * 0.045;
+      for (let j = i + 1; j < nodes.length; j++) {
+        const b = nodes[j];
+        let dx = b.x - a.x;
+        let dy = b.y - a.y;
+        let dist = Math.hypot(dx, dy) || 0.01;
+        const minDist = a.r + b.r + GAP;
+        if (dist < minDist) {
+          const push = (minDist - dist) * 0.52;
+          dx /= dist; dy /= dist;
+          a.x -= dx * push * 0.5; a.y -= dy * push * 0.5;
+          b.x += dx * push * 0.5; b.y += dy * push * 0.5;
+        }
+      }
+    }
+    nodes.forEach(n => {
+      n.x = clamp(n.x, PAD.left + n.r, PAD.left + plotW - n.r);
+      n.y = clamp(n.y, PAD.top + n.r,  PAD.top + plotH - n.r);
+    });
+  }
+
   ctx.strokeStyle="rgba(90,105,148,0.7)"; ctx.lineWidth=1.5; ctx.setLineDash([5,5]);
   ctx.beginPath(); ctx.moveTo(PAD.left,PAD.top); ctx.lineTo(PAD.left,PAD.top+plotH); ctx.stroke();
   ctx.beginPath(); ctx.moveTo(PAD.left,PAD.top+plotH); ctx.lineTo(PAD.left+plotW,PAD.top+plotH); ctx.stroke();
   ctx.setLineDash([]);
+
   ctx.fillStyle="rgba(238,240,248,0.75)"; ctx.font="600 10px 'DM Sans',sans-serif";
   ctx.textBaseline="middle"; ctx.textAlign="center";
   ctx.fillText("Engagement (likes + reposts)", PAD.left+plotW/2, PAD.top+plotH+20);
-  ctx.save(); ctx.translate(PAD.left-24,PAD.top+plotH/2); ctx.rotate(-Math.PI/2);
+  ctx.save(); ctx.translate(PAD.left-27,PAD.top+plotH/2); ctx.rotate(-Math.PI/2);
   ctx.textAlign="center"; ctx.fillText("Views (total)",0,0); ctx.restore();
-  const sorted = [...data].sort((a,b)=>+a.isMessi-+b.isMessi);
+
+  const sorted = [...nodes].sort((a,b)=>+a.isMessi-+b.isMessi);
   sorted.forEach(d => {
-    const r=scaleR(d.volumen), x=clampX(scaleX(d.engagement),r), y=clampY(scaleY(d.views),r);
+    const r=d.r, x=d.x, y=d.y;
     const lg=ctx.createLinearGradient(x-r,y,x+r,y);
     if(d.isMessi){lg.addColorStop(0,"rgba(215,178,70,0.88)");lg.addColorStop(1,"rgba(201,168,76,0.78)");}
     else{lg.addColorStop(0,"rgba(56,78,155,0.85)");lg.addColorStop(1,"rgba(42,62,130,0.75)");}
@@ -571,20 +643,19 @@ function renderBubbleChart(raw) {
     ctx.lineWidth=1; ctx.beginPath(); ctx.arc(x,y,r,0,Math.PI*2); ctx.fill(); ctx.stroke();
   });
   sorted.forEach(d => {
-    const r=scaleR(d.volumen), x=clampX(scaleX(d.engagement),r), y=clampY(scaleY(d.views),r);
-    const fs=Math.max(9,Math.min(12,r*0.28));
+    const r=d.r, x=d.x, y=d.y;
+    const fs=Math.max(9,Math.min(12,r*0.30));
     ctx.font="600 "+fs+"px 'DM Sans',sans-serif"; ctx.textBaseline="middle";
     const tw=ctx.measureText(d.tema).width;
     let lx,align;
-    if(x+r+6+tw<PAD.left+plotW){lx=x+r+6;align="left";}
-    else if(x-r-6-tw>PAD.left){lx=x-r-6;align="right";}
+    if(x+r+7+tw<PAD.left+plotW){lx=x+r+7;align="left";}
+    else if(x-r-7-tw>PAD.left){lx=x-r-7;align="right";}
     else{lx=x;align="center";}
     ctx.textAlign=align; ctx.fillStyle=d.isMessi?"#e8ca7a":"rgba(160,175,215,0.9)";
     ctx.shadowColor="rgba(0,0,0,0.65)"; ctx.shadowBlur=5;
     ctx.fillText(d.tema,lx,y); ctx.shadowBlur=0;
   });
 }
-
 async function initBubble() {
   try {
     const res = await fetch(BUBBLE_JSON);
@@ -600,12 +671,20 @@ async function initBubble() {
 // ── Sparkline ─────────────────────────────────────────────────
 function drawSparkline(canvas, vals, color) {
   if (!canvas || vals.length === 0) return;
-  const DPR=window.devicePixelRatio||1;
-  const W=canvas.offsetWidth||120, H=canvas.offsetHeight||28;
-  canvas.width=W*DPR; canvas.height=H*DPR;
-  const ctx=canvas.getContext("2d"); ctx.scale(DPR,DPR);
+  const DPR = window.devicePixelRatio || 1;
+  const rect = canvas.getBoundingClientRect();
+  const W = Math.max(1, Math.round(rect.width || canvas.offsetWidth || 120));
+  const H = 32; // fixed visual height: prevents vertical stretching in fullscreen
 
-  // Single point → gray dot in center
+  canvas.style.height = H + "px";
+  canvas.width  = Math.round(W * DPR);
+  canvas.height = Math.round(H * DPR);
+
+  const ctx = canvas.getContext("2d");
+  ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+  ctx.clearRect(0, 0, W, H);
+
+  // Single point: gray dot in center
   if (vals.length === 1) {
     ctx.fillStyle = "#4a5170";
     ctx.beginPath(); ctx.arc(W/2, H/2, 3, 0, Math.PI*2); ctx.fill();
@@ -622,7 +701,7 @@ function drawSparkline(canvas, vals, color) {
   // Line
   ctx.beginPath();
   pts.forEach((p,i) => i===0 ? ctx.moveTo(p.x,p.y) : ctx.lineTo(p.x,p.y));
-  ctx.strokeStyle=color; ctx.lineWidth=1.5; ctx.lineJoin="round"; ctx.stroke();
+  ctx.strokeStyle=color; ctx.lineWidth=1.5; ctx.lineJoin="round"; ctx.lineCap="round"; ctx.stroke();
 
   // Dot at each point
   pts.forEach(p => {
@@ -630,6 +709,20 @@ function drawSparkline(canvas, vals, color) {
     ctx.fillStyle=color; ctx.fill();
   });
 }
+
+function redrawSparklines() {
+  document.querySelectorAll(".topic-canvas").forEach(canvas => {
+    if (canvas.__sparkVals && canvas.__sparkColor) {
+      drawSparkline(canvas, canvas.__sparkVals, canvas.__sparkColor);
+    }
+  });
+}
+
+let sparkResizeTimer = null;
+window.addEventListener("resize", () => {
+  clearTimeout(sparkResizeTimer);
+  sparkResizeTimer = setTimeout(redrawSparklines, 120);
+});
 
 // ── Brand news column ─────────────────────────────────────────
 function buildNewsCol(title, temas) {
@@ -680,7 +773,11 @@ function buildTopicsSection(topicsData) {
     // draw sparkline after DOM paint
     requestAnimationFrame(() => {
       const cv = card.querySelector(".topic-canvas");
-      if (cv) drawSparkline(cv, vals, color);
+      if (cv) {
+        cv.__sparkVals = vals;
+        cv.__sparkColor = color;
+        drawSparkline(cv, vals, color);
+      }
     });
   });
   bottom.appendChild(grid);
