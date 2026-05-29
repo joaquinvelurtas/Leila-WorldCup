@@ -263,7 +263,12 @@
   .delta-up   { color: #3fb87a; }
   .delta-down { color: #e04848; }
   .delta-flat { color: var(--text-muted); }
-  .topic-canvas { width: 100%; display: block; flex: 1; min-height: 0; }
+  .topic-canvas {
+    width: 100%; height: 32px;
+    display: block;
+    flex: 0 0 32px;
+    min-height: 32px; max-height: 32px;
+  }
 
   /* ── Footer ───────────────────────────────────────────────── */
   .bottom-bar {
@@ -523,12 +528,18 @@ async function initTwitterPosts() {
 
 // ── Bubble chart ──────────────────────────────────────────────
 function renderBubbleChart(raw) {
-  const data = raw.map(d => ({
-    ...d,
-    engagement: d.engagement !== undefined ? d.engagement : ((d.likes||0)+(d.reposts||0)),
-    volumen:    d.volumen    !== undefined ? d.volumen    : (d.replies||0),
-    isMessi: d.tema.toLowerCase().includes("messi")
-  })).filter(d => Number.isFinite(d.engagement) && Number.isFinite(d.views) && Number.isFinite(d.volumen));
+  const num = v => Number.isFinite(Number(v)) ? Number(v) : 0;
+  const data = (raw || []).map(d => {
+    const likes   = num(d.likes ?? d.Likes);
+    const reposts = num(d.reposts ?? d.Reposts);
+    const replies = num(d.replies ?? d.Replies);
+    const tema = String(d.tema ?? d.topic ?? d.name ?? d.titulo ?? "Tema");
+    const engagement = num(d.engagement ?? d.Engagement ?? d.interacciones ?? (likes + reposts));
+    const views = num(d.views ?? d.Views ?? d.visualizaciones ?? d.impresiones ?? d.reach ?? d.alcance ?? Math.max(engagement * 8, 1));
+    const volumen = num(d.volumen ?? d.volume ?? d.Volumen ?? d.menciones ?? replies ?? 1);
+    return { ...d, tema, engagement, views, volumen, isMessi: tema.toLowerCase().includes("messi") };
+  }).filter(d => Number.isFinite(d.engagement) && Number.isFinite(d.views) && Number.isFinite(d.volumen));
+
   const canvas = document.getElementById("bubbleCanvas");
   if (!canvas || data.length === 0) return;
 
@@ -536,44 +547,44 @@ function renderBubbleChart(raw) {
   const DPR   = window.devicePixelRatio || 1;
   const W_CSS = Math.max(1, body.clientWidth);
   const H_CSS = Math.max(1, body.clientHeight);
-  canvas.width  = W_CSS * DPR;  canvas.height = H_CSS * DPR;
-  canvas.style.width = W_CSS+"px"; canvas.style.height = H_CSS+"px";
+  canvas.width  = Math.round(W_CSS * DPR);
+  canvas.height = Math.round(H_CSS * DPR);
+  canvas.style.width = W_CSS + "px";
+  canvas.style.height = H_CSS + "px";
 
   const ctx = canvas.getContext("2d");
   ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
   ctx.clearRect(0, 0, W_CSS, H_CSS);
 
   const W = W_CSS, H = H_CSS;
-  const PAD = { top: 14, right: 22, bottom: 34, left: 42 };
+  const PAD = { top: 12, right: 20, bottom: 34, left: 42 };
   const plotW = Math.max(1, W - PAD.left - PAD.right);
   const plotH = Math.max(1, H - PAD.top  - PAD.bottom);
 
-  const engVals   = data.map(d => d.engagement);
-  const viewVals  = data.map(d => d.views);
-  const volVals   = data.map(d => d.volumen);
-  const minEng    = Math.min(...engVals),   maxEng   = Math.max(...engVals);
-  const minViews  = Math.min(...viewVals),  maxViews = Math.max(...viewVals);
-  const minVol    = Math.min(...volVals),   maxVol   = Math.max(...volVals);
+  const engVals  = data.map(d => d.engagement);
+  const viewVals = data.map(d => d.views);
+  const volVals  = data.map(d => d.volumen);
+  const minEng   = Math.min(...engVals),  maxEng   = Math.max(...engVals);
+  const minViews = Math.min(...viewVals), maxViews = Math.max(...viewVals);
+  const minVol   = Math.min(...volVals),  maxVol   = Math.max(...volVals);
 
   const domain = (min, max) => {
     if (min === max) {
-      const pad = Math.max(1, max * 0.18);
+      const pad = Math.max(1, max * 0.20);
       return [Math.max(0, min - pad), max + pad];
     }
-    const pad = (max - min) * 0.12;
+    const pad = (max - min) * 0.16;
     return [Math.max(0, min - pad), max + pad];
   };
-  const [engMin, engMax]     = domain(minEng, maxEng);
+  const [engMin, engMax] = domain(minEng, maxEng);
   const [viewsMin, viewsMax] = domain(minViews, maxViews);
 
-  // Dynamic axis scales: use the real bubble ranges instead of fixed multipliers,
-  // so the chart fills the available plot area inside its card.
   const scaleX = v => PAD.left + ((v - engMin) / (engMax - engMin || 1)) * plotW;
-  const scaleY = v => PAD.top  + (1 - ((v - viewsMin) / (viewsMax - viewsMin || 1))) * plotH;
+  const scaleY = v => PAD.top + (1 - ((v - viewsMin) / (viewsMax - viewsMin || 1))) * plotH;
   const scaleR = v => {
     const t = (v - minVol) / (maxVol - minVol || 1);
-    const maxR = Math.max(18, Math.min(44, Math.min(plotW, plotH) * 0.15));
-    const minR = Math.max(8, Math.min(14, maxR * 0.35));
+    const maxR = Math.max(16, Math.min(36, Math.min(plotW, plotH) * 0.115));
+    const minR = Math.max(7, Math.min(12, maxR * 0.34));
     return minR + Math.sqrt(Math.max(0, t)) * (maxR - minR);
   };
   const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
@@ -584,24 +595,19 @@ function renderBubbleChart(raw) {
     const maxX = PAD.left + plotW - r;
     const minY = PAD.top + r;
     const maxY = PAD.top + plotH - r;
-    return {
-      ...d,
-      r,
-      targetX: clamp(scaleX(d.engagement), minX, maxX),
-      targetY: clamp(scaleY(d.views), minY, maxY),
-      x: clamp(scaleX(d.engagement), minX, maxX),
-      y: clamp(scaleY(d.views), minY, maxY)
-    };
+    const sx = scaleX(d.engagement);
+    const sy = scaleY(d.views);
+    return { ...d, r, targetX: clamp(sx, minX, maxX), targetY: clamp(sy, minY, maxY), x: clamp(sx, minX, maxX), y: clamp(sy, minY, maxY) };
   });
 
-  // Simple collision relaxation. Keeps bubbles near their data position but
-  // adds breathing room between them so labels and circles do not feel cramped.
-  const GAP = Math.max(10, Math.min(18, Math.min(plotW, plotH) * 0.035));
-  for (let iter = 0; iter < 120; iter++) {
+  // Collision relaxation: softer than the previous version, so the bubbles stay
+  // close to their real values while avoiding overlap.
+  const GAP = Math.max(4, Math.min(9, Math.min(plotW, plotH) * 0.018));
+  for (let iter = 0; iter < 90; iter++) {
     for (let i = 0; i < nodes.length; i++) {
       const a = nodes[i];
-      a.x += (a.targetX - a.x) * 0.045;
-      a.y += (a.targetY - a.y) * 0.045;
+      a.x += (a.targetX - a.x) * 0.065;
+      a.y += (a.targetY - a.y) * 0.065;
       for (let j = i + 1; j < nodes.length; j++) {
         const b = nodes[j];
         let dx = b.x - a.x;
@@ -609,7 +615,7 @@ function renderBubbleChart(raw) {
         let dist = Math.hypot(dx, dy) || 0.01;
         const minDist = a.r + b.r + GAP;
         if (dist < minDist) {
-          const push = (minDist - dist) * 0.52;
+          const push = (minDist - dist) * 0.42;
           dx /= dist; dy /= dist;
           a.x -= dx * push * 0.5; a.y -= dy * push * 0.5;
           b.x += dx * push * 0.5; b.y += dy * push * 0.5;
@@ -618,7 +624,7 @@ function renderBubbleChart(raw) {
     }
     nodes.forEach(n => {
       n.x = clamp(n.x, PAD.left + n.r, PAD.left + plotW - n.r);
-      n.y = clamp(n.y, PAD.top + n.r,  PAD.top + plotH - n.r);
+      n.y = clamp(n.y, PAD.top + n.r, PAD.top + plotH - n.r);
     });
   }
 
@@ -656,16 +662,22 @@ function renderBubbleChart(raw) {
     ctx.fillText(d.tema,lx,y); ctx.shadowBlur=0;
   });
 }
+let bubbleDataCache = null;
+function rerenderBubbleIfVisible() {
+  const slide = document.getElementById("slide-3");
+  if (bubbleDataCache && slide && slide.classList.contains("active")) renderBubbleChart(bubbleDataCache);
+}
 async function initBubble() {
   try {
     const res = await fetch(BUBBLE_JSON);
     if (!res.ok) throw new Error("HTTP " + res.status);
     const json = await res.json();
-    renderBubbleChart(json.topics || json);
+    bubbleDataCache = json.topics || json;
   } catch(e) {
     console.warn("Bubble JSON failed:", e.message);
-    renderBubbleChart(DUMMY_BUBBLE);
+    bubbleDataCache = DUMMY_BUBBLE;
   }
+  renderBubbleChart(bubbleDataCache);
 }
 
 // ── Sparkline ─────────────────────────────────────────────────
@@ -781,6 +793,12 @@ async function initRightPanel() {
   // Bottom: topic evolution
   container.appendChild(buildTopicsSection(topicsData.topics || []));
 }
+
+
+window.addEventListener("resize", () => {
+  clearTimeout(window.__bubbleResizeTimer);
+  window.__bubbleResizeTimer = setTimeout(rerenderBubbleIfVisible, 120);
+});
 
 // ── Slide rotation ────────────────────────────────────────────
 (function() {
