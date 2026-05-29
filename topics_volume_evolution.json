@@ -1,1 +1,60 @@
-{"topics": [{"topic": "Lista de convocados Scaloni", "series": [{"date": "2026-05-28", "volume": 9500}]}, {"topic": "Estado de Messi para el Mundial", "series": [{"date": "2026-05-28", "volume": 13500}]}, {"topic": "Fixture Argentina vs Argelia Austria Jordania", "series": [{"date": "2026-05-28", "volume": 7200}]}, {"topic": "Expectativas Argentina cuarta estrella", "series": [{"date": "2026-05-28", "volume": 8200}]}, {"topic": "Campañas publicitarias y sponsors Mundial", "series": [{"date": "2026-05-28", "volume": 4500}]}, {"topic": "Amistosos previos y preparación Scaloneta", "series": [{"date": "2026-05-28", "volume": 3800}]}]}
+```json id="topics-series-argentina-01"
+{
+  "topics": [
+    {
+      "topic": "Lista de convocados Scaloni",
+      "series": [
+        {
+          "date": "2026-05-28",
+          "volume": 9500
+        }
+      ]
+    },
+    {
+      "topic": "Estado de Messi para el Mundial",
+      "series": [
+        {
+          "date": "2026-05-28",
+          "volume": 13500
+        }
+      ]
+    },
+    {
+      "topic": "Fixture Argentina vs Argelia, Austria y Jordania",
+      "series": [
+        {
+          "date": "2026-05-28",
+          "volume": 7200
+        }
+      ]
+    },
+    {
+      "topic": "Expectativas Argentina cuarta estrella",
+      "series": [
+        {
+          "date": "2026-05-28",
+          "volume": 8200
+        }
+      ]
+    },
+    {
+      "topic": "Campañas publicitarias y sponsors Mundial",
+      "series": [
+        {
+          "date": "2026-05-28",
+          "volume": 4500
+        }
+      ]
+    },
+    {
+      "topic": "Amistosos previos y preparación Scaloneta",
+      "series": [
+        {
+          "date": "2026-05-28",
+          "volume": 3800
+        }
+      ]
+    }
+  ]
+}
+```
