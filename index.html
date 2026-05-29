@@ -548,7 +548,7 @@ function renderBubbleChart(raw) {
   const maxVol   = Math.max(...data.map(d=>d.volumen));
   const minVol   = Math.min(...data.map(d=>d.volumen));
   const scaleX = v => PAD.left + (Math.sqrt(v)/Math.sqrt(maxEng*1.5))*plotW;
-  const scaleY = v => PAD.top  + (1-Math.sqrt(v)/Math.sqrt(maxViews*1.15))*plotH;
+  const scaleY = v => PAD.top  + (1-Math.sqrt(v)/Math.sqrt(maxViews*2.5))*plotH;
   const scaleR = v => { const t=(v-minVol)/(maxVol-minVol||1); return 10+t*40; };
   const clampX = (cx,r) => Math.max(cx, PAD.left+r);
   const clampY = (cy,r) => Math.min(Math.max(cy, PAD.top+r), PAD.top+plotH-r);
@@ -599,20 +599,36 @@ async function initBubble() {
 
 // ── Sparkline ─────────────────────────────────────────────────
 function drawSparkline(canvas, vals, color) {
-  if (!canvas || vals.length < 2) return;
+  if (!canvas || vals.length === 0) return;
   const DPR=window.devicePixelRatio||1;
   const W=canvas.offsetWidth||120, H=canvas.offsetHeight||28;
   canvas.width=W*DPR; canvas.height=H*DPR;
   const ctx=canvas.getContext("2d"); ctx.scale(DPR,DPR);
-  const max=Math.max(...vals), min=Math.min(...vals), pad=2;
-  const step=(W-pad*2)/(vals.length-1);
+
+  // Single point → gray dot in center
+  if (vals.length === 1) {
+    ctx.fillStyle = "#4a5170";
+    ctx.beginPath(); ctx.arc(W/2, H/2, 3, 0, Math.PI*2); ctx.fill();
+    return;
+  }
+
+  const max=Math.max(...vals), min=Math.min(...vals), pad=4;
+  const range = max - min || 1;
+  const pts = vals.map((v,i) => ({
+    x: pad + i*(W-pad*2)/(vals.length-1),
+    y: H-pad-((v-min)/range)*(H-pad*2)
+  }));
+
+  // Line
   ctx.beginPath();
-  vals.forEach((v,i)=>{
-    const x=pad+i*step;
-    const y=H-pad-((v-min)/(max-min||1))*(H-pad*2);
-    i===0?ctx.moveTo(x,y):ctx.lineTo(x,y);
-  });
+  pts.forEach((p,i) => i===0 ? ctx.moveTo(p.x,p.y) : ctx.lineTo(p.x,p.y));
   ctx.strokeStyle=color; ctx.lineWidth=1.5; ctx.lineJoin="round"; ctx.stroke();
+
+  // Dot at each point
+  pts.forEach(p => {
+    ctx.beginPath(); ctx.arc(p.x, p.y, 2.5, 0, Math.PI*2);
+    ctx.fillStyle=color; ctx.fill();
+  });
 }
 
 // ── Brand news column ─────────────────────────────────────────
@@ -644,19 +660,21 @@ function buildTopicsSection(topicsData) {
   topicsData.forEach(t => {
     const vals  = t.series.map(s => s.volume);
     const last  = vals[vals.length - 1];
-    const prev  = vals.length > 1 ? vals[vals.length - 2] : last;
-    const diff  = last - prev;
-    const pct   = prev ? Math.round((diff/prev)*100) : 0;
+    const single = vals.length === 1;
+    const prev  = !single ? vals[vals.length - 2] : null;
+    const diff  = prev !== null ? last - prev : 0;
+    const pct   = (prev && prev !== 0) ? Math.round((diff/prev)*100) : 0;
     const isUp  = diff > 0;
-    const isFlat= diff === 0;
-    const deltaClass = isFlat ? "delta-flat" : isUp ? "delta-up" : "delta-down";
-    const deltaSign  = isFlat ? "–" : isUp ? "+" : "";
-    const color = isFlat ? "#4a5170" : isUp ? "#3fb87a" : "#e04848";
+    const isFlat= diff === 0 || single;
+    const deltaClass = single ? "delta-flat" : isFlat ? "delta-flat" : isUp ? "delta-up" : "delta-down";
+    const deltaSign  = single ? "" : isFlat ? "–" : isUp ? "+" : "";
+    const deltaText  = single ? "sin historial" : isFlat ? "–" : deltaSign + Math.abs(pct) + "%";
+    const color = single ? "#4a5170" : isFlat ? "#4a5170" : isUp ? "#3fb87a" : "#e04848";
     const card  = document.createElement("div");
     card.className = "topic-card";
     card.innerHTML = '<div class="topic-name">' + t.topic + '</div>'
       + '<div class="topic-vol">' + fmtVol(last) + '</div>'
-      + '<div class="topic-delta ' + deltaClass + '">' + deltaSign + Math.abs(pct) + '%</div>'
+      + '<div class="topic-delta ' + deltaClass + '">' + deltaText + '</div>'
       + '<canvas class="topic-canvas"></canvas>';
     grid.appendChild(card);
     // draw sparkline after DOM paint
