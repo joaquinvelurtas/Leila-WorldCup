@@ -263,7 +263,7 @@
   .delta-up   { color: #3fb87a; }
   .delta-down { color: #e04848; }
   .delta-flat { color: var(--text-muted); }
-  .topic-canvas { width: 100%; height: 32px; display: block; flex: 0 0 32px; min-height: 32px; }
+  .topic-canvas { width: 100%; display: block; flex: 1; min-height: 0; }
 
   /* ── Footer ───────────────────────────────────────────────── */
   .bottom-bar {
@@ -316,7 +316,7 @@
 // ── Config ────────────────────────────────────────────────────
 const BASE              = "https://raw.githubusercontent.com/joaquinvelurtas/Leila-WorldCup/main/";
 const RAW_JSON          = BASE + "posteos_mundial_2026_pilares.json";
-const TWITTER_JSON      = BASE + "Twitter_posteos_mundial_2026.json";
+const TWITTER_JSON      = BASE + "TWITTER_posteos_mundial_2026_pilares.json";
 const BUBBLE_JSON       = BASE + "main_topics_bubbles.json";
 const BEER_JSON         = BASE + "beer_conversation.json";
 const COMPETITION_JSON  = BASE + "competition_conversation.json";
@@ -596,8 +596,8 @@ function renderBubbleChart(raw) {
 
   // Simple collision relaxation. Keeps bubbles near their data position but
   // adds breathing room between them so labels and circles do not feel cramped.
-  const GAP = Math.max(6, Math.min(12, Math.min(plotW, plotH) * 0.022));
-  for (let iter = 0; iter < 90; iter++) {
+  const GAP = Math.max(10, Math.min(18, Math.min(plotW, plotH) * 0.035));
+  for (let iter = 0; iter < 120; iter++) {
     for (let i = 0; i < nodes.length; i++) {
       const a = nodes[i];
       a.x += (a.targetX - a.x) * 0.045;
@@ -671,20 +671,12 @@ async function initBubble() {
 // ── Sparkline ─────────────────────────────────────────────────
 function drawSparkline(canvas, vals, color) {
   if (!canvas || vals.length === 0) return;
-  const DPR = window.devicePixelRatio || 1;
-  const rect = canvas.getBoundingClientRect();
-  const W = Math.max(1, Math.round(rect.width || canvas.offsetWidth || 120));
-  const H = 32; // fixed visual height: prevents vertical stretching in fullscreen
+  const DPR=window.devicePixelRatio||1;
+  const W=canvas.offsetWidth||120, H=canvas.offsetHeight||28;
+  canvas.width=W*DPR; canvas.height=H*DPR;
+  const ctx=canvas.getContext("2d"); ctx.scale(DPR,DPR);
 
-  canvas.style.height = H + "px";
-  canvas.width  = Math.round(W * DPR);
-  canvas.height = Math.round(H * DPR);
-
-  const ctx = canvas.getContext("2d");
-  ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
-  ctx.clearRect(0, 0, W, H);
-
-  // Single point: gray dot in center
+  // Single point → gray dot in center
   if (vals.length === 1) {
     ctx.fillStyle = "#4a5170";
     ctx.beginPath(); ctx.arc(W/2, H/2, 3, 0, Math.PI*2); ctx.fill();
@@ -701,7 +693,7 @@ function drawSparkline(canvas, vals, color) {
   // Line
   ctx.beginPath();
   pts.forEach((p,i) => i===0 ? ctx.moveTo(p.x,p.y) : ctx.lineTo(p.x,p.y));
-  ctx.strokeStyle=color; ctx.lineWidth=1.5; ctx.lineJoin="round"; ctx.lineCap="round"; ctx.stroke();
+  ctx.strokeStyle=color; ctx.lineWidth=1.5; ctx.lineJoin="round"; ctx.stroke();
 
   // Dot at each point
   pts.forEach(p => {
@@ -709,20 +701,6 @@ function drawSparkline(canvas, vals, color) {
     ctx.fillStyle=color; ctx.fill();
   });
 }
-
-function redrawSparklines() {
-  document.querySelectorAll(".topic-canvas").forEach(canvas => {
-    if (canvas.__sparkVals && canvas.__sparkColor) {
-      drawSparkline(canvas, canvas.__sparkVals, canvas.__sparkColor);
-    }
-  });
-}
-
-let sparkResizeTimer = null;
-window.addEventListener("resize", () => {
-  clearTimeout(sparkResizeTimer);
-  sparkResizeTimer = setTimeout(redrawSparklines, 120);
-});
 
 // ── Brand news column ─────────────────────────────────────────
 function buildNewsCol(title, temas) {
@@ -773,11 +751,7 @@ function buildTopicsSection(topicsData) {
     // draw sparkline after DOM paint
     requestAnimationFrame(() => {
       const cv = card.querySelector(".topic-canvas");
-      if (cv) {
-        cv.__sparkVals = vals;
-        cv.__sparkColor = color;
-        drawSparkline(cv, vals, color);
-      }
+      if (cv) drawSparkline(cv, vals, color);
     });
   });
   bottom.appendChild(grid);
