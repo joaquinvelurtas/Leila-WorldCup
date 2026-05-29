@@ -13,33 +13,38 @@
         },
         {
           "date": "2026-05-29",
-          "volume": 14500
+          "volume": 13200
         }
       ]
     },
     {
-      "topic": "Messi en su sexto Mundial",
+      "topic": "Nico Paz primer Mundial y reacciones",
       "series": [
         {
-          "date": "2026-05-27",
-          "volume": 14200
-        },
-        {
           "date": "2026-05-28",
-          "volume": 13500
+          "volume": 4500
         },
         {
           "date": "2026-05-29",
-          "volume": 9200
+          "volume": 8750
         }
       ]
     },
     {
-      "topic": "Fixture Argentina vs Argelia, Austria y Jordania",
+      "topic": "Otamendi a River y Mundial",
+      "series": [
+        {
+          "date": "2026-05-29",
+          "volume": 11200
+        }
+      ]
+    },
+    {
+      "topic": "Reacciones y sorpresas en la nómina",
       "series": [
         {
           "date": "2026-05-27",
-          "volume": 6300
+          "volume": 5800
         },
         {
           "date": "2026-05-28",
@@ -47,16 +52,7 @@
         },
         {
           "date": "2026-05-29",
-          "volume": 6100
-        }
-      ]
-    },
-    {
-      "topic": "Reacciones y sorpresas en la nómina Scaloni",
-      "series": [
-        {
-          "date": "2026-05-29",
-          "volume": 8200
+          "volume": 9500
         }
       ]
     },
@@ -64,8 +60,12 @@
       "topic": "Análisis de nómina y talentos jóvenes",
       "series": [
         {
+          "date": "2026-05-28",
+          "volume": 5100
+        },
+        {
           "date": "2026-05-29",
-          "volume": 5800
+          "volume": 6950
         }
       ]
     },
@@ -82,7 +82,7 @@
         },
         {
           "date": "2026-05-29",
-          "volume": 7500
+          "volume": 7800
         }
       ]
     }
