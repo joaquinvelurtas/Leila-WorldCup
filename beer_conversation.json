@@ -1,1 +1,19 @@
-{"temas": [{"marca": "Quilmes", "titulo": "CoRazones para creer - Nueva campaña de Quilmes para el Mundial 2026", "resumen": "La icónica cerveza argentina lanza un spot que destaca la convicción del corazón y la pasión de los argentinos por la Selección en la previa al Mundial. Enfocado en la identidad nacional y el apoyo a la Scaloneta."}, {"marca": "Michelob Ultra", "titulo": "THE SUPERIOR MATCH - Campaña global oficial con Messi y Lautaro Martínez", "resumen": "Patrocinadora oficial de la FIFA World Cup 2026, presenta campaña que celebra el espíritu competitivo con superestrellas del fútbol incluyendo a Lionel Messi y Lautaro Martínez de Argentina."}, {"marca": "Anheuser-Busch (Michelob Ultra, Stella Artois)", "titulo": "Roster de marcas para el Mundial 2026", "resumen": "Anheuser-Busch anuncia sus marcas líderes como Michelob ULTRA y Stella Artois como parte del patrocinio oficial del Mundial 2026, con foco en experiencias para fans."}]}
+{
+  "temas": [
+    {
+      "marca": "Quilmes",
+      "titulo": "CoRazones para creer - Nueva campaña de Quilmes para el Mundial 2026",
+      "resumen": "La icónica cerveza argentina lanza un spot que destaca la convicción del corazón y la pasión de los argentinos por la Selección en la previa al Mundial. Enfocado en la identidad nacional y el apoyo a la Scaloneta."
+    },
+    {
+      "marca": "Michelob Ultra",
+      "titulo": "THE SUPERIOR MATCH - Campaña global oficial con Messi y Lautaro Martínez",
+      "resumen": "Patrocinadora oficial de la FIFA World Cup 2026, presenta una campaña que celebra el espíritu competitivo con superestrellas del fútbol, incluyendo a Lionel Messi y Lautaro Martínez de Argentina."
+    },
+    {
+      "marca": "Anheuser-Busch (Michelob Ultra, Stella Artois)",
+      "titulo": "Roster de marcas para el Mundial 2026",
+      "resumen": "Anheuser-Busch anuncia sus marcas líderes, como Michelob Ultra y Stella Artois, como parte del patrocinio oficial del Mundial 2026, con foco en experiencias para fans."
+    }
+  ]
+}
