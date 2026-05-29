@@ -2,63 +2,73 @@
   "topics": [
     {
       "tema": "Anuncio de la lista de 26 convocados por Scaloni",
-      "engagement": 320000,
-      "views": 2100000,
-      "volumen": 9500
+      "engagement": 520000,
+      "views": 3800000,
+      "volumen": 16200,
+      "sentiment": "Positive"
     },
     {
-      "tema": "Estado físico de Messi y su participación en el debut vs Argelia",
-      "engagement": 480000,
-      "views": 3500000,
-      "volumen": 13500
+      "tema": "Reacciones y sorpresas en la nómina (Garnacho, Buendía fuera)",
+      "engagement": 285000,
+      "views": 1950000,
+      "volumen": 8750,
+      "sentiment": "Mixed"
     },
     {
-      "tema": "Fixture de Argentina: debut vs Argelia el 16 de junio, Austria y Jordania",
-      "engagement": 210000,
-      "views": 1200000,
-      "volumen": 7200
+      "tema": "Messi convocado para su sexto Mundial",
+      "engagement": 465000,
+      "views": 3100000,
+      "volumen": 11800,
+      "sentiment": "Positive"
     },
     {
-      "tema": "Convocatoria de aproximadamente 30 jugadores para amistosos previos al Mundial",
-      "engagement": 95000,
-      "views": 650000,
-      "volumen": 3800
+      "tema": "Fixture Argentina: debut vs Argelia, Austria y Jordania",
+      "engagement": 195000,
+      "views": 1250000,
+      "volumen": 6800,
+      "sentiment": "Neutral"
     },
     {
-      "tema": "Posibles sorpresas en la lista: Buendía, Soulé y otros",
+      "tema": "Análisis de la nómina: veteranos y generación nueva",
+      "engagement": 240000,
+      "views": 1450000,
+      "volumen": 7450,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Preparación Scaloneta y base en Kansas City",
+      "engagement": 135000,
+      "views": 920000,
+      "volumen": 4650,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Expectativas bicampeonato y cuarta estrella",
+      "engagement": 310000,
+      "views": 2050000,
+      "volumen": 8950,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Videos oficiales y presentación de la lista AFA",
+      "engagement": 380000,
+      "views": 2650000,
+      "volumen": 10200,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Incorporación de talentos jóvenes como Nico Paz y Simeone",
       "engagement": 175000,
+      "views": 1150000,
+      "volumen": 5450,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Hype en redes por el Mundial 2026 en Argentina",
+      "engagement": 145000,
       "views": 980000,
-      "volumen": 5100
-    },
-    {
-      "tema": "Preparación de la Scaloneta y base en Kansas",
-      "engagement": 85000,
-      "views": 520000,
-      "volumen": 2900
-    },
-    {
-      "tema": "Expectativas y confianza argentina para defender el título",
-      "engagement": 290000,
-      "views": 1800000,
-      "volumen": 8200
-    },
-    {
-      "tema": "Comentarios de Scaloni sobre Messi, Dybala y la nómina",
-      "engagement": 260000,
-      "views": 1400000,
-      "volumen": 6800
-    },
-    {
-      "tema": "Hype en redes y calles: clima de Mundial en Argentina",
-      "engagement": 150000,
-      "views": 1100000,
-      "volumen": 4500
-    },
-    {
-      "tema": "Posible formación de Argentina vs. Argelia",
-      "engagement": 120000,
-      "views": 780000,
-      "volumen": 4100
+      "volumen": 4800,
+      "sentiment": "Positive"
     }
   ]
 }
