@@ -2,18 +2,18 @@
   "temas": [
     {
       "marca": "Coca-Cola",
-      "titulo": "La Selección Coca-Cola - Campaña con Scaloni y promociones Panini",
-      "resumen": "Coca-Cola Argentina lanzó su campaña 'La Selección Coca-Cola', protagonizada por Lionel Scaloni, con films emotivos sobre el orgullo nacional, activaciones en puntos de venta y promoción de figuritas Panini para el Mundial 2026."
+      "titulo": "La Selección Coca-Cola - Campaña con Scaloni y Panini",
+      "resumen": "Coca-Cola Argentina intensifica 'La Selección Coca-Cola' con Scaloni como protagonista, campañas emocionales sobre el orgullo nacional, activaciones y promoción de figuritas Panini para el Mundial 2026. Conexión fuerte con la afición argentina."
     },
     {
       "marca": "McDonald's",
-      "titulo": "Combos temáticos McÁlvarez, McFernández y MacAllister + eventos en AFA",
-      "resumen": "McDonald's Argentina impulsa una campaña con hamburguesas y combos inspirados en jugadores de la Scaloneta, como Mac Allister, Álvarez y Fernández. La propuesta incluye figuritas del Mundial y un evento en el predio de la AFA en Ezeiza con leyendas."
+      "titulo": "Combos temáticos McÁlvarez, McFernández y eventos AFA",
+      "resumen": "McDonald's Argentina promueve combos inspirados en jugadores de la Scaloneta (Mac Allister, Álvarez, Fernández), figuritas del Mundial y eventos en el predio de la AFA en Ezeiza con leyendas, para acompañar el hype previo."
     },
     {
-      "marca": "Coca-Cola / McDonald's",
-      "titulo": "Activaciones y promos de sponsors para el camino al Mundial",
-      "resumen": "Marcas líderes como Coca-Cola y McDonald's intensifican sus campañas en Argentina con contenido emocional, promociones y activaciones para acompañar la emoción de los fans de cara al debut de la Selección en junio."
+      "marca": "Heineken / Schneider",
+      "titulo": "Activaciones de sponsors cerveceros y promos Mundial",
+      "resumen": "Marcas como Heineken (sponsor global) y locales como Schneider intensifican presencia con activaciones, promos y contenido para fans argentinos de cara al debut de la Selección en el Mundial 2026."
     }
   ]
 }
