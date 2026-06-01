@@ -2,18 +2,18 @@
   "temas": [
     {
       "marca": "Coca-Cola",
-      "titulo": "Campañas emocionales y activaciones Scaloneta",
-      "resumen": "Coca-Cola Argentina mantiene fuerte presencia con 'La Selección Coca-Cola', campañas con Scaloni, figuritas Panini y activaciones de orgullo nacional de cara al Mundial 2026. Conexión emocional con hinchas argentinos."
+      "titulo": "La Selección Coca-Cola con Scaloni",
+      "resumen": "Coca-Cola Argentina refuerza 'La Selección Coca-Cola' con campaña emocional protagonizada por Scaloni, figuritas Panini, promociones y activaciones de orgullo nacional. Conexión con hinchas argentinos de cara al bicampeonato."
+    },
+    {
+      "marca": "Mostaza",
+      "titulo": "Nunca te achiques - Cuarta estrella",
+      "resumen": "Mostaza lanzó campaña mundialista 'nunca te achiques' con foco en el hambre por la cuarta estrella. Incluye a Di María (cambio de bando), humor y rivalidad con McDonald's para conectar con fans argentinos."
     },
     {
       "marca": "McDonald's",
-      "titulo": "Combos temáticos y eventos AFA",
-      "resumen": "McDonald's promueve combos inspirados en jugadores de la Scaloneta y eventos en el predio de la AFA, acompañando el hype previo al Mundial con promociones y contenido fan-friendly."
-    },
-    {
-      "marca": "Heineken / Schneider",
-      "titulo": "Activaciones sponsors cerveceros y promos",
-      "resumen": "Heineken (sponsor global) y Schneider intensifican activaciones, promos y contenido para fans argentinos, complementando la emoción del Mundial 2026 con experiencias cerveceras."
+      "titulo": "Activaciones y humor Scaloneta",
+      "resumen": "McDonald's mantiene presencia con combos temáticos, eventos y humor irónico con personajes como 'Mostaza' Merlo, acompañando el hype de la Scaloneta y el Mundial 2026."
     }
   ]
 }

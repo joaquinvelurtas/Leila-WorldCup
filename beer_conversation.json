@@ -1,19 +1,19 @@
 {
   "temas": [
     {
+      "marca": "Quilmes",
+      "titulo": "CoRazones para creer - Spot argentinidad",
+      "resumen": "Quilmes, sponsor oficial del Mundial 2026, lanzó spot emocional 'CoRazones para creer' enfocado en la argentinidad, Scaloneta y creer en el bicampeonato. Incluye ediciones limitadas y activaciones locales que generan emoción en redes argentinas."
+    },
+    {
       "marca": "Michelob ULTRA",
-      "titulo": "The Superior Match campaign con Messi",
-      "resumen": "Michelob ULTRA, sponsor oficial de la FIFA World Cup 2026, lanzó campaña 'The Superior Match' protagonizada por Lionel Messi y estrellas como Pulisic. Incluye trofeo MVP por voto de fans, Pitchside Clubs en ciudades sede y activaciones masivas."
+      "titulo": "The Superior Match con Messi",
+      "resumen": "Michelob ULTRA (sponsor oficial) promueve 'The Superior Match' con Messi, Pulisic y estrellas. Incluye trofeo MVP votado por fans, Pitchside Clubs en sedes y activaciones masivas previas al debut argentino."
     },
     {
       "marca": "Budweiser",
-      "titulo": "Let It Pour - 40 años de sponsor",
-      "resumen": "Budweiser continuó su campaña global 'Let It Pour' con Erling Haaland y Jürgen Klopp, celebrando 40 años como sponsor oficial de la Copa del Mundo. Enfoque emocional en la emoción del fútbol y activaciones fan para el Mundial 2026."
-    },
-    {
-      "marca": "Quilmes",
-      "titulo": "CoRazones para creer - Activaciones locales",
-      "resumen": "Quilmes intensificó su campaña emocional 'CoRazones para creer' con spots épicos y ediciones limitadas de latas para el Mundial. Genera reacciones orgánicas en redes argentinas y eventos previos al debut de la Scaloneta."
+      "titulo": "Let It Pour - 40 años sponsor",
+      "resumen": "Budweiser continúa campaña global 'Let It Pour' con Haaland y Klopp, celebrando 40 años como sponsor oficial de la Copa del Mundo. Enfoque emocional en la emoción del fútbol y activaciones para el Mundial 2026."
     }
   ]
 }

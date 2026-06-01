@@ -1,76 +1,16 @@
 {
   "topics": [
     {
-      "topic": "Lista de convocados Scaloni",
+      "topic": "Llegada Messi y concentración Kansas",
       "series": [
         {
-          "date": "2026-05-27",
-          "volume": 7000
-        },
-        {
-          "date": "2026-05-28",
-          "volume": 9500
-        },
-        {
-          "date": "2026-05-29",
-          "volume": 13200
+          "date": "2026-06-01",
+          "volume": 9200
         }
       ]
     },
     {
-      "topic": "Nico Paz primer Mundial y reacciones",
-      "series": [
-        {
-          "date": "2026-05-28",
-          "volume": 4500
-        },
-        {
-          "date": "2026-05-29",
-          "volume": 8750
-        }
-      ]
-    },
-    {
-      "topic": "Otamendi a River y Mundial",
-      "series": [
-        {
-          "date": "2026-05-29",
-          "volume": 11200
-        }
-      ]
-    },
-    {
-      "topic": "Reacciones y sorpresas en la nómina",
-      "series": [
-        {
-          "date": "2026-05-27",
-          "volume": 5800
-        },
-        {
-          "date": "2026-05-28",
-          "volume": 7200
-        },
-        {
-          "date": "2026-05-29",
-          "volume": 9500
-        }
-      ]
-    },
-    {
-      "topic": "Análisis de nómina y talentos jóvenes",
-      "series": [
-        {
-          "date": "2026-05-28",
-          "volume": 5100
-        },
-        {
-          "date": "2026-05-29",
-          "volume": 6950
-        }
-      ]
-    },
-    {
-      "topic": "Expectativas bicampeonato y hype Mundial",
+      "topic": "Expectativas bicampeonato Argentina",
       "series": [
         {
           "date": "2026-05-27",
@@ -83,6 +23,58 @@
         {
           "date": "2026-05-29",
           "volume": 7800
+        },
+        {
+          "date": "2026-06-01",
+          "volume": 7500
+        }
+      ]
+    },
+    {
+      "topic": "Reacciones fans y jugadores Scaloneta",
+      "series": [
+        {
+          "date": "2026-05-27",
+          "volume": 5800
+        },
+        {
+          "date": "2026-05-28",
+          "volume": 7200
+        },
+        {
+          "date": "2026-05-29",
+          "volume": 9500
+        },
+        {
+          "date": "2026-06-01",
+          "volume": 5300
+        }
+      ]
+    },
+    {
+      "topic": "Debut vs Argelia y preparación",
+      "series": [
+        {
+          "date": "2026-06-01",
+          "volume": 6100
+        }
+      ]
+    },
+    {
+      "topic": "Habitación y looks Messi Kansas",
+      "series": [
+        {
+          "date": "2026-06-01",
+          "volume": 7100
+        }
+      ]
+    },
+    {
+      "topic": "Análisis plantel y Plan B",
+      "series": [
+        {
+          "date": "2026-06-01",
+          "volume": 4600
         }
       ]
     }
