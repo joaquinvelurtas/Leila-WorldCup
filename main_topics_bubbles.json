@@ -1,74 +1,60 @@
 {
   "topics": [
     {
-      "tema": "Llegada de Messi a Kansas",
-      "engagement": 420000,
-      "views": 2800000,
-      "volumen": 9200,
+      "tema": "Messi el 10 oficial en el Mundial",
+      "engagement": 6501,
+      "views": 846834,
+      "volumen": 8500,
       "sentiment": "Positive"
     },
     {
-      "tema": "Concentración Scaloneta en Kansas City",
-      "engagement": 310000,
-      "views": 2100000,
+      "tema": "Prácticas y primer equipo Scaloni en Kansas",
+      "engagement": 3282,
+      "views": 983159,
       "volumen": 7800,
       "sentiment": "Positive"
     },
     {
-      "tema": "Habitación de Messi en la base",
-      "engagement": 380000,
-      "views": 2600000,
-      "volumen": 7100,
-      "sentiment": "Positive"
+      "tema": "Preocupación por lesiones (Nico Paz y alertas plantel)",
+      "engagement": 6515,
+      "views": 687679,
+      "volumen": 5200,
+      "sentiment": "Negative"
     },
     {
-      "tema": "Looks de Messi y De Paul",
-      "engagement": 180000,
-      "views": 1300000,
-      "volumen": 4900,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Plan B Scaloni y lesionados",
-      "engagement": 140000,
-      "views": 950000,
-      "volumen": 3800,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Debut vs Argelia y fixture",
-      "engagement": 220000,
-      "views": 1600000,
+      "tema": "Dorsales oficiales de la Scaloneta para 2026",
+      "engagement": 2200,
+      "views": 350000,
       "volumen": 6100,
       "sentiment": "Positive"
     },
     {
-      "tema": "Amistosos previos Honduras Islandia",
-      "engagement": 95000,
-      "views": 700000,
-      "volumen": 3100,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Expectativas bicampeonato",
-      "engagement": 280000,
-      "views": 1900000,
-      "volumen": 7500,
+      "tema": "Video del micro de la Scaloneta (vibes del equipo)",
+      "engagement": 6324,
+      "views": 151554,
+      "volumen": 4300,
       "sentiment": "Positive"
     },
     {
-      "tema": "Reacciones fans y jugadores",
-      "engagement": 195000,
-      "views": 1350000,
-      "volumen": 5300,
+      "tema": "Despedidas de jugadores antes de viajar a USA",
+      "engagement": 2751,
+      "views": 103497,
+      "volumen": 3200,
       "sentiment": "Positive"
     },
     {
-      "tema": "Análisis plantel Scaloneta",
-      "engagement": 165000,
-      "views": 1150000,
-      "volumen": 4600,
-      "sentiment": "Neutral"
+      "tema": "Entrenamientos y base en Kansas City",
+      "engagement": 1800,
+      "views": 150000,
+      "volumen": 3800,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Expectativas bicampeonato y preparación Scaloneta",
+      "engagement": 2800,
+      "views": 500000,
+      "volumen": 6500,
+      "sentiment": "Positive"
     }
   ]
 }
