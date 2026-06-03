@@ -1,19 +1,19 @@
 {
   "temas": [
     {
-      "marca": "Quilmes",
-      "titulo": "CoRazones para creer - Spot argentinidad",
-      "resumen": "Quilmes, sponsor oficial del Mundial 2026, lanzó spot emocional 'CoRazones para creer' enfocado en la argentinidad, Scaloneta y creer en el bicampeonato. Incluye ediciones limitadas y activaciones locales que generan emoción en redes argentinas."
-    },
-    {
       "marca": "Michelob ULTRA",
       "titulo": "The Superior Match con Messi",
-      "resumen": "Michelob ULTRA (sponsor oficial) promueve 'The Superior Match' con Messi, Pulisic y estrellas. Incluye trofeo MVP votado por fans, Pitchside Clubs en sedes y activaciones masivas previas al debut argentino."
+      "resumen": "Sponsor oficial continúa campaña global “The Superior Match” con Messi, Pulisic y estrellas. Incluye comerciales recientes con Messi, competencias por entradas al Mundial, Pitchside Clubs y activaciones 3vs3. Alta conversación global sobre espíritu competitivo y superioridad."
     },
     {
       "marca": "Budweiser",
-      "titulo": "Let It Pour - 40 años sponsor",
-      "resumen": "Budweiser continúa campaña global 'Let It Pour' con Haaland y Klopp, celebrando 40 años como sponsor oficial de la Copa del Mundo. Enfoque emocional en la emoción del fútbol y activaciones para el Mundial 2026."
+      "titulo": "Anniversary Pack – 40 años sponsor",
+      "resumen": "Lanza edición limitada Anniversary Pack (11 botellas/latas) que repasa historia de Mundiales desde México 1986 hasta 2026. Parte de “Let It Pour” celebrando 40 años como sponsor FIFA. Enfoque nostálgico y emocional para conectar generaciones."
+    },
+    {
+      "marca": "Michelob ULTRA",
+      "titulo": "QR y Pitchside Clubs Mundial 2026",
+      "resumen": "Códigos QR en tapas para ganar experiencias + Pitchside Clubs en sedes del Mundial. Refuerza presencia de marca oficial con activaciones masivas previas al debut argentino."
     }
   ]
 }
