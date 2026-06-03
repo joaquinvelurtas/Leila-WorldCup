@@ -1,19 +1,19 @@
 {
   "temas": [
     {
+      "marca": "McDonald’s",
+      "titulo": "McCombo Copa Mundial y combos de jugadores",
+      "resumen": "Lanza McCombo Copa Mundial + hamburguesas con sabores de países (incluye McArgentina con mayo chimichurri). Combos con nombres de jugadores argentinos (McÁlvarez, McFernández, MacAllister). Activaciones desde el 4 de junio + rivalidad humorística con Mostaza."
+    },
+    {
       "marca": "Coca-Cola",
       "titulo": "La Selección Coca-Cola con Scaloni",
-      "resumen": "Coca-Cola Argentina refuerza 'La Selección Coca-Cola' con campaña emocional protagonizada por Scaloni, figuritas Panini, promociones y activaciones de orgullo nacional. Conexión con hinchas argentinos de cara al bicampeonato."
+      "resumen": "Continúa campaña “La Selección Coca-Cola” protagonizada por Scaloni. Incluye promociones, figuritas, activaciones en puntos de venta y chance de viajar al Mundial. La frase viral “No vamos a ir a ganarla…” sigue generando alto engagement entre hinchas argentinos."
     },
     {
       "marca": "Mostaza",
-      "titulo": "Nunca te achiques - Cuarta estrella",
-      "resumen": "Mostaza lanzó campaña mundialista 'nunca te achiques' con foco en el hambre por la cuarta estrella. Incluye a Di María (cambio de bando), humor y rivalidad con McDonald's para conectar con fans argentinos."
-    },
-    {
-      "marca": "McDonald's",
-      "titulo": "Activaciones y humor Scaloneta",
-      "resumen": "McDonald's mantiene presencia con combos temáticos, eventos y humor irónico con personajes como 'Mostaza' Merlo, acompañando el hype de la Scaloneta y el Mundial 2026."
+      "titulo": "Nunca te achiques – Rivalidad McDonald’s",
+      "resumen": "Mantiene campaña humorística “Nunca te achiques” con foco en cuarta estrella, Di María y picardía vs McDonald’s. Conecta con fans argentinos a través de humor local y rivalidad de marcas."
     }
   ]
 }
