@@ -1,81 +1,50 @@
 {
   "topics": [
     {
-      "topic": "Llegada Messi y concentración Kansas",
+      "topic": "Concentración y prácticas Scaloneta en Kansas",
       "series": [
-        {
-          "date": "2026-06-01",
-          "volume": 9200
-        }
+        {"date": "2026-06-01", "volume": 9200},
+        {"date": "2026-06-03", "volume": 7800}
       ]
     },
     {
       "topic": "Expectativas bicampeonato Argentina",
       "series": [
-        {
-          "date": "2026-05-27",
-          "volume": 5800
-        },
-        {
-          "date": "2026-05-28",
-          "volume": 8200
-        },
-        {
-          "date": "2026-05-29",
-          "volume": 7800
-        },
-        {
-          "date": "2026-06-01",
-          "volume": 7500
-        }
+        {"date": "2026-05-27", "volume": 5800},
+        {"date": "2026-05-28", "volume": 8200},
+        {"date": "2026-05-29", "volume": 7800},
+        {"date": "2026-06-01", "volume": 7500},
+        {"date": "2026-06-03", "volume": 8100}
       ]
     },
     {
-      "topic": "Reacciones fans y jugadores Scaloneta",
+      "topic": "Vibes equipo y reacciones Scaloneta",
       "series": [
-        {
-          "date": "2026-05-27",
-          "volume": 5800
-        },
-        {
-          "date": "2026-05-28",
-          "volume": 7200
-        },
-        {
-          "date": "2026-05-29",
-          "volume": 9500
-        },
-        {
-          "date": "2026-06-01",
-          "volume": 5300
-        }
+        {"date": "2026-05-27", "volume": 5800},
+        {"date": "2026-05-28", "volume": 7200},
+        {"date": "2026-05-29", "volume": 9500},
+        {"date": "2026-06-01", "volume": 5300},
+        {"date": "2026-06-03", "volume": 6200}
       ]
     },
     {
       "topic": "Debut vs Argelia y preparación",
       "series": [
-        {
-          "date": "2026-06-01",
-          "volume": 6100
-        }
+        {"date": "2026-06-01", "volume": 6100},
+        {"date": "2026-06-03", "volume": 5900}
       ]
     },
     {
-      "topic": "Habitación y looks Messi Kansas",
+      "topic": "Messi dorsal 10 y dorsales Scaloneta",
       "series": [
-        {
-          "date": "2026-06-01",
-          "volume": 7100
-        }
+        {"date": "2026-06-03", "volume": 7200}
       ]
     },
     {
-      "topic": "Análisis plantel y Plan B",
+      "topic": "Lesiones plantel y posibles cambios",
       "series": [
-        {
-          "date": "2026-06-01",
-          "volume": 4600
-        }
+        {"date": "2026-06-01", "volume": 4600},
+        {"date": "2026-06-03", "volume": 6500}
       ]
     }
   ]
