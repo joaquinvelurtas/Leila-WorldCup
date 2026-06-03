@@ -1,72 +1,73 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales está enfocada en la previa mundialista de Argentina, combinando noticias sobre Messi, el estado del equipo, historias virales de hinchas y temas de organización del Mundial como entradas y transparencia. El tono mezcla expectativa deportiva, emoción popular y algunas alertas alrededor de la experiencia de los fanáticos."
+      "summary": "La conversación en portales está concentrada en la previa inmediata de la Selección Argentina: estado físico de jugadores, decisiones de Scaloni, recuperación de Dibu Martínez, lesión de Nico Paz, expectativas sobre Messi y armado final del plantel. En paralelo, aparece una segunda capa más emocional y cultural vinculada al furor por la Scaloneta, historias de argentinos en el exterior, piezas virales y el lugar global de Messi. El tono dominante combina expectativa deportiva, ansiedad por lesiones y épica nacional."
     },
     "reddit": {
-      "summary": "La conversación en Reddit se concentra más en la reacción espontánea de los usuarios: memes, teorías, supersticiones mundialistas, debates sobre Messi y comentarios sobre la Selección. El foco está menos puesto en la noticia formal y más en la interpretación colectiva, el humor y la conversación de comunidad."
+      "summary": "La conversación en Reddit aparece menos institucional y más experiencial. Los usuarios hablan del Mundial desde problemas concretos de consumo —calidad de transmisión, delay, opciones para verlo mejor— y desde una lectura emocional post Qatar 2022, donde parte de la comunidad siente que la conquista anterior dejó una vara difícil de igualar. El tono dominante mezcla ansiedad práctica, comparación nostálgica y humor autoconsciente."
     }
   },
   "pilares": {
     "Humor": [
       {
-        "titulo_corto": "Mini Dibu furor en redes",
-        "resumen": "Un nene de 3 años se volvió viral por imitar al Dibu Martínez y analizar fútbol con naturalidad. El contenido conecta ídolos de la Selección, ternura y conversación social en la previa mundialista.",
-        "medio": "TN"
+        "titulo_corto": "Canción viral del Chapu",
+        "resumen": "El Chapu Martínez lanzó una nueva canción mundialista con foco en Messi y la ilusión por conseguir la cuarta Copa. El contenido activa humor, ansiedad positiva y cultura de redes alrededor de la previa argentina.",
+        "medio": "Infobae"
       },
       {
-        "titulo_corto": "Vidente pronostica el Mundial",
-        "resumen": "Un supuesto “vidente de las copas”, conocido por haber acertado campeones anteriores, lanzó su pronóstico para el Mundial 2026. La nota instala expectativa, superstición y conversación lúdica alrededor de Argentina y Messi.",
-        "medio": "Infobae"
+        "titulo_corto": "Tim Payne fenómeno argentino",
+        "resumen": "Tim Payne volvió a quedar en el centro de la conversación argentina después de hacerse viral y hablar sobre Boca y River. La nota muestra cómo la comunidad local transforma figuras periféricas del Mundial en personajes humorísticos propios.",
+        "medio": "TN"
       }
     ],
     "Equipo": [
       {
-        "titulo_corto": "Messi preocupa a la Selección",
-        "resumen": "La recuperación de Lionel Messi aparece como un tema central para Scaloni y condiciona la planificación de Argentina antes del Mundial. La nota resume plazos, dudas y el impacto deportivo de su estado físico.",
+        "titulo_corto": "Nico Paz preocupa a Scaloni",
+        "resumen": "La lesión de Nico Paz aparece como una preocupación concreta para el cuerpo técnico, que evalúa su evolución y posibles reemplazos. El tema ordena parte de la conversación sobre el armado final del plantel argentino.",
         "medio": "TN"
       },
       {
-        "titulo_corto": "Primer rival con lesiones",
-        "resumen": "El primer rival de Argentina en el Mundial llega con un panorama complejo por lesiones antes de definir su lista. El contenido aporta contexto competitivo para leer el grupo de la Selección.",
+        "titulo_corto": "Dibu responde sobre el debut",
+        "resumen": "Dibu Martínez habló sobre su presencia en el debut mundialista de Argentina en medio de su recuperación. La noticia concentra la expectativa sobre una pieza clave del equipo y el nivel de incertidumbre física en la previa.",
         "medio": "TN"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Entradas FIFA bajo sospecha",
-        "resumen": "La FIFA asegura que hay entradas agotadas, pero todavía aparecen boletos disponibles en distintas sedes. La nota abre una discusión sobre acceso, comunicación y organización del Mundial para los hinchas.",
+        "titulo_corto": "Francia tensionada por premios",
+        "resumen": "La selección francesa atraviesa una disputa interna por el reparto de dinero y entradas antes del Mundial. El caso introduce una dimensión de conflicto económico y organizativo dentro de una potencia candidata.",
         "medio": "Infobae"
       },
       {
-        "titulo_corto": "Investigan venta de entradas",
-        "resumen": "Una investigación apunta a la venta de entradas y la asignación de asientos para el Mundial 2026. El tema suma tensión sobre la experiencia de los aficionados y la transparencia del sistema de tickets.",
-        "medio": "Infobae"
+        "titulo_corto": "Lugano reabre polémica Messi",
+        "resumen": "Diego Lugano volvió a instalar el debate sobre Messi, Cristiano Ronaldo y supuestos beneficios arbitrales en Mundiales recientes. La nota alimenta una controversia regional alrededor del legado argentino de Qatar.",
+        "medio": "TN"
       }
     ],
-    "Hinchada disruptiva": [
+    "Color en la tribuna": [
       {
-        "titulo_corto": "Gesto viral de Messi",
-        "resumen": "Lionel Messi protagonizó un momento inesperado con un fanático que le pidió un autógrafo y el video se volvió viral. El episodio refuerza el vínculo emocional entre el capitán argentino y la hinchada.",
-        "medio": "TN"
+        "titulo_corto": "Video emotivo de AFA",
+        "resumen": "La AFA publicó una pieza emocional de la Scaloneta a días del inicio del Mundial. El contenido refuerza épica, pertenencia nacional y vínculo afectivo entre la Selección y los hinchas.",
+        "medio": "Infobae"
       },
       {
-        "titulo_corto": "Camisetas argentinas en pareja",
-        "resumen": "La novia futbolista de Marcos Senesi se probó camisetas de Argentina y, junto a él, eligieron cuál era la más linda. El contenido activa símbolos de pertenencia, estética albiceleste y conversación de hinchada.",
+        "titulo_corto": "Argentinos en Kansas",
+        "resumen": "Una historia de argentinos con un restaurante en Kansas City cruza vida cotidiana, diáspora y cercanía con Messi y la Selección. La nota aporta color humano y comunitario a la previa mundialista.",
         "medio": "Infobae"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Retiran estatua de Messi",
-        "resumen": "Una estatua gigante de Lionel Messi en India será retirada, mostrando el alcance global del capitán argentino y cómo su figura genera conversación más allá del fútbol local.",
-        "medio": "TN"
+        "titulo_corto": "Messi gana el Princesa",
+        "resumen": "Lionel Messi fue reconocido con el Premio Princesa de Asturias de los Deportes 2026. La noticia posiciona al capitán argentino como figura global en plena antesala mundialista.",
+        "medio": "Página/12"
       },
       {
-        "titulo_corto": "Canción del Mundial con Messi",
-        "resumen": "Se lanzó el video oficial de la canción del Mundial 2026 con participación de Messi y una frase en inglés que generó repercusión. El contenido posiciona al capitán argentino como figura global del torneo.",
-        "medio": "TN"
+        "titulo_corto": "Messi domina redes globales",
+        "resumen": "Messi y Cristiano Ronaldo aparecen como los jugadores más influyentes del Mundial 2026 en cancha y redes. El contenido muestra cómo el capitán argentino sigue liderando la conversación internacional del torneo.",
+        "medio": "Infobae"
       }
-    ]
+    ],
+    "Alcohol": []
   }
 }
