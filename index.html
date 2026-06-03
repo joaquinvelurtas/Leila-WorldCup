@@ -30,7 +30,7 @@
     color: var(--text-primary);
   }
 
-  /* ── Slide system ─────────────────────────────────────────── aaaaaa*/ 
+  /* ── Slide system ─────────────────────────────────────────── */
   .slide {
     position: fixed;
     inset: 0;
@@ -891,7 +891,10 @@ async function initOverview() {
   } catch(e) {}
   try {
     const r = await fetch(TWITTER_OVERVIEW_JSON);
-    if (r.ok) { const j = await r.json(); twiS = ((j.overview||{}).twitter||{}).summary || twiS; }
+    if (r.ok) { const j = await r.json();
+      if (typeof j.overview === "string") twiS = j.overview;
+      else twiS = ((j.overview||{}).twitter||{}).summary || twiS;
+    }
   } catch(e) {}
   grid.appendChild(buildOverviewCol(ICON_NEWS,   "#1a3a6e", "Portales de Noticias", "Resumen de conversacion", porS));
   grid.appendChild(buildOverviewCol(ICON_REDDIT, "#ff4500", "Reddit",               "Resumen de conversacion", redS));
