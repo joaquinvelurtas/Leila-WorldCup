@@ -1,60 +1,60 @@
 {
   "topics": [
     {
-      "tema": "Preocupación por lesiones Nico Paz y alertas plantel",
-      "engagement": 8500,
-      "views": 1500000,
-      "volumen": 10500,
+      "tema": "Fallecimiento de José Sanfilippo",
+      "engagement": 2200,
+      "views": 140000,
+      "volumen": 5000,
       "sentiment": "Negative"
     },
     {
-      "tema": "Dibu Martínez titular vs Argelia",
-      "engagement": 2800,
-      "views": 350000,
-      "volumen": 4500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Prácticas y formaciones Scaloni en Kansas",
-      "engagement": 2500,
-      "views": 500000,
+      "tema": "Lesión mano Dibu Martínez y su preparación",
+      "engagement": 1500,
+      "views": 80000,
       "volumen": 7000,
+      "sentiment": "Negative"
+    },
+    {
+      "tema": "Prácticas y formaciones Scaloneta en Kansas",
+      "engagement": 2500,
+      "views": 300000,
+      "volumen": 8500,
       "sentiment": "Positive"
     },
     {
-      "tema": "Clima y fiesta mundialista de hinchas argentinos",
-      "engagement": 2400,
+      "tema": "Emoción por inicio del Mundial (Faltan 7 días)",
+      "engagement": 1200,
       "views": 150000,
+      "volumen": 5500,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "De Paul titularidad y rol en la Scaloneta",
+      "engagement": 600,
+      "views": 30000,
       "volumen": 4000,
       "sentiment": "Positive"
     },
     {
-      "tema": "Favoritos para ganar el Mundial 2026 (Argentina #1)",
-      "engagement": 450,
-      "views": 80000,
-      "volumen": 3500,
+      "tema": "Messi Premio Princesa de Asturias",
+      "engagement": 250,
+      "views": 15000,
+      "volumen": 2500,
       "sentiment": "Positive"
     },
     {
-      "tema": "Expectativas bicampeonato y preparación Scaloneta",
-      "engagement": 3200,
-      "views": 600000,
-      "volumen": 6800,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "De Paul rol y titularidad en la Scaloneta",
-      "engagement": 1500,
-      "views": 250000,
-      "volumen": 3200,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Posibles cambios en lista y esquema Scaloni",
-      "engagement": 3500,
-      "views": 400000,
-      "volumen": 5800,
+      "tema": "Esquemas y posible 11 Scaloni (vs Honduras/Argelia)",
+      "engagement": 800,
+      "views": 120000,
+      "volumen": 6000,
       "sentiment": "Neutral"
+    },
+    {
+      "tema": "Victoria Sub 16 Argentina vs Francia",
+      "engagement": 300,
+      "views": 15000,
+      "volumen": 2000,
+      "sentiment": "Positive"
     }
   ]
 }
