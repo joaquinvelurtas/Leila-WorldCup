@@ -5,7 +5,7 @@
       "series": [
         {"date": "2026-06-01", "volume": 9200},
         {"date": "2026-06-03", "volume": 7800},
-        {"date": "2026-06-04", "volume": 8500}
+        {"date": "2026-06-04", "volume": 8200}
       ]
     },
     {
@@ -16,31 +16,31 @@
         {"date": "2026-05-29", "volume": 7800},
         {"date": "2026-06-01", "volume": 7500},
         {"date": "2026-06-03", "volume": 8100},
-        {"date": "2026-06-04", "volume": 5500}
+        {"date": "2026-06-04", "volume": 6000}
       ]
     },
     {
       "topic": "Lesión mano Dibu Martínez y preparación",
       "series": [
-        {"date": "2026-06-04", "volume": 7000}
+        {"date": "2026-06-04", "volume": 6500}
       ]
     },
     {
-      "topic": "Fallecimiento de José Sanfilippo",
+      "topic": "Dudas por estado físico de jugadores clave",
       "series": [
-        {"date": "2026-06-04", "volume": 5000}
+        {"date": "2026-06-04", "volume": 5500}
       ]
     },
     {
       "topic": "De Paul titularidad y rol en Scaloneta",
       "series": [
-        {"date": "2026-06-04", "volume": 4000}
+        {"date": "2026-06-04", "volume": 4800}
       ]
     },
     {
-      "topic": "Esquemas y posible 11 Scaloni (vs Honduras/Argelia)",
+      "topic": "Esquemas y posible 11 de Scaloni",
       "series": [
-        {"date": "2026-06-04", "volume": 6000}
+        {"date": "2026-06-04", "volume": 5200}
       ]
     }
   ]
