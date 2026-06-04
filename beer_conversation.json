@@ -1,19 +1,19 @@
 {
   "temas": [
     {
-      "marca": "Budweiser",
-      "titulo": "Anniversary Pack + quizzes #Budstalgia WC26",
-      "resumen": "Edición limitada Anniversary Pack que recorre historia de los Mundiales. Quizzes interactivos en redes (#Budstalgia) y sorteos para fans del Mundial 2026, reforzando los 40 años como sponsor oficial FIFA."
-    },
-    {
       "marca": "Michelob ULTRA",
-      "titulo": "The Superior Match – Memo Ochoa y Pitchside",
-      "resumen": "Continuación campaña global con nuevo spot protagonizado por Memo Ochoa (junto a Messi y Pulisic). Enfoque en superioridad competitiva, sorteos de entradas al Mundial 2026 y activaciones exclusivas Pitchside Clubs en sedes."
+      "titulo": "Soccer Shootout – Tickets para Argentina vs Austria",
+      "resumen": "Activación en Las Colinas (Dallas) para ganar 2 entradas al partido de Argentina en el Mundial 2026. Continuación de campañas globales con foco en sedes del torneo y activaciones exclusivas."
     },
     {
-      "marca": "Peticolas Brewing Co.",
-      "titulo": "Malice in Dallas – Serie Mundial 2026",
-      "resumen": "Lanzamiento de cerveza 'Malice in Dallas' (Session Red 4.5%) como parte de la serie World Cup de la cervecería artesanal de Dallas (sede del Mundial). Incluye referencias a sedes anteriores y conexión local con el torneo."
+      "marca": "Budweiser",
+      "titulo": "Biergarten Pregame Activations y live music WC26",
+      "resumen": "Eventos pre-partido con música en vivo, street team y cervezas frías en el Biergarten para la FIFA World Cup 26™. Refuerza sponsor oficial FIFA con activaciones masivas."
+    },
+    {
+      "marca": "Budweiser",
+      "titulo": "Budstalgia Anniversary Pack + quizzes #Budstalgia",
+      "resumen": "Edición limitada Anniversary Pack que recorre historia de los Mundiales. Quizzes interactivos en redes y sorteos para fans del Mundial 2026, reforzando 40 años como sponsor oficial FIFA."
     }
   ]
 }
