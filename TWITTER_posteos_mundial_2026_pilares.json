@@ -1,123 +1,92 @@
-{
-  "Equipo": [
-    {
-      "tema": "Integraci\u00f3n de j\u00f3venes talentos en la Selecci\u00f3n Argentina durante los entrenamientos en Kansas (EE.UU.).",
-      "resumen": "La Selecci\u00f3n ya entrena en Kansas de cara a los amistosos previos al Mundial 2026. Scaloni lidera las pr\u00e1cticas y se destaca c\u00f3mo los referentes (Lautaro Mart\u00ednez, De Paul) \u201cadoptan\u201d a los m\u00e1s j\u00f3venes, como el caso de Tom\u00e1s Aranda que empieza su camino en el plantel mayor. Hay mucho contenido positivo sobre el grupo y el ambiente.",
-      "posteo_destacado": {
-        "link": "https://x.com/frentepxeneize/status/2062217245745397950",
-        "autor": "Frente Popular Xeneize (@frentepxeneize)",
-        "likes": 1062,
-        "reposts": 25,
-        "replies": 5
-      }
-    },
-    {
-      "tema": "Manejo de minutos y precauciones con Lionel Messi de cara a los amistosos previos al Mundial.",
-      "resumen": "Circula informaci\u00f3n de que Messi no jugar\u00eda el amistoso ante Honduras (6 de junio) por precauci\u00f3n y se guardar\u00eda para el \u00faltimo partido ante Islandia (9 de junio), antes del debut en el Mundial.",
-      "posteo_destacado": {
-        "link": "https://x.com/SC_ESPN/status/2062489722279080370",
-        "autor": "SportsCenter (@SC_ESPN)",
-        "likes": 188,
-        "reposts": 24,
-        "replies": 6
-      }
-    }
-  ],
-  "Humor": [
-    {
-      "tema": "La supuesta \u201coperaci\u00f3n medi\u00e1tica\u201d de TyC Sports para que Lautaro Mart\u00ednez sea titular indiscutido en el Mundial.",
-      "resumen": "Memes y chistes masivos acusando a los medios (especialmente TyC) de \u201coperar\u201d para posicionar a Lautaro como el 9 titular. Genera mucho banter River-Boca en los comentarios y comparaciones con casos anteriores (Higua\u00edn, etc.). Es uno de los temas m\u00e1s virales del d\u00eda.",
-      "posteo_destacado": {
-        "link": "https://x.com/frabigol/status/2062241124404617546",
-        "autor": "Fran (@frabigol)",
-        "likes": 3437,
-        "reposts": 86,
-        "replies": 64
-      }
-    },
-    {
-      "tema": "Las risas de Messi, Paredes y De Paul en el entrenamiento de la Selecci\u00f3n.",
-      "resumen": "Foto viral de los tres jugadores ri\u00e9ndose durante la pr\u00e1ctica en Kansas. Los posts piden \u201csolo respuestas incorrectas\u201d y genera cientos de comentarios especulando/haciendo chistes.",
-      "posteo_destacado": {
-        "link": "https://x.com/SC_ESPN/status/2062016270615072811",
-        "autor": "SportsCenter (@SC_ESPN)",
-        "likes": 653,
-        "reposts": 19,
-        "replies": 17
-      }
-    }
-  ],
-  "Controversia": [
-    {
-      "tema": "Enfrentamiento entre hinchas argentinos y brasile\u00f1os en Bangladesh (con heridos).",
-      "resumen": "Hinchas de Argentina se enfrentaron contra hinchas de Brasil en Habiganj tras un partido amistoso local (Argentina gan\u00f3 3-2 \u201cen la cancha\u201d). Hubo 25 heridos. Genera debate fuerte sobre la rivalidad exportada, violencia de barras y si \u201cson como nosotros\u201d o barbarie.",
-      "posteo_destacado": {
-        "link": "https://x.com/Barras_LATAM/status/2062263630196810180",
-        "autor": "\u00a1\u00a1 BARRAS DEL MUNDO \u26bd\ud83c\udf7a (@Barras_LATAM)",
-        "likes": 2785,
-        "reposts": 179,
-        "replies": 45
-      }
-    },
-    {
-      "tema": "Pol\u00e9mica por supuesta \u201coperaci\u00f3n medi\u00e1tica\u201d para definir el once titular de la Selecci\u00f3n (caso Lautaro).",
-      "resumen": "Acusaciones cruzadas de que ciertos medios \u201coperan\u201d para beneficiar a Lautaro (o a jugadores de River) y perjudicar a otros (Juli\u00e1n, Enzo, etc.). Genera divisi\u00f3n y mucho cruce entre hinchas.",
-      "posteo_destacado": {
-        "link": "https://x.com/frabigol/status/2062241124404617546",
-        "autor": "Fran (@frabigol)",
-        "likes": 3437,
-        "reposts": 86,
-        "replies": 64
-      }
-    }
-  ],
-  "Color en la tribuna": [
-    {
-      "tema": "Hinchas argentinos en el exterior destac\u00e1ndose como comunidad (caso Bangladesh).",
-      "resumen": "La comunidad de hinchas argentinos en Bangladesh protagoniz\u00f3 un enfrentamiento con los brasile\u00f1os tras un amistoso, con \u201cvictoria\u201d 3-2 y 25 heridos. Se discute si es \u201ccolor de tribuna\u201d exportado o exceso de violencia.",
-      "posteo_destacado": {
-        "link": "https://x.com/Barras_LATAM/status/2062263630196810180",
-        "autor": "\u00a1\u00a1 BARRAS DEL MUNDO \u26bd\ud83c\udf7a (@Barras_LATAM)",
-        "likes": 2785,
-        "reposts": 179,
-        "replies": 45
-      }
-    },
-    {
-      "tema": "Acciones ic\u00f3nicas de hinchadas argentinas en el mundo (recuerdo del Dend\u00e9 en R\u00edo).",
-      "resumen": "Se viraliza el recuerdo de cuando los jefes de la hinchada del Dend\u00e9 (Brasil) pintaron toda una favela con los colores de Argentina en un Mundial anterior. Se valora como acci\u00f3n destacada de comunidad hinch\u00edstica.",
-      "posteo_destacado": {
-        "link": "https://x.com/barrabrava_net/status/2062174492852437099",
-        "autor": "Barra Brava (@barrabrava_net)",
-        "likes": 540,
-        "reposts": 12,
-        "replies": 4
-      }
-    }
-  ],
-  "Argentina por el mundo": [
-    {
-      "tema": "Hinchas argentinos en Bangladesh generando noticias internacionales (enfrentamiento con hinchas brasile\u00f1os).",
-      "resumen": "La comunidad argentina en el extranjero (Bangladesh) vuelve a ser noticia por un choque con hinchas de Brasil. Se discute la rivalidad hist\u00f3rica que trasciende fronteras.",
-      "posteo_destacado": {
-        "link": "https://x.com/Barras_LATAM/status/2062263630196810180",
-        "autor": "\u00a1\u00a1 BARRAS DEL MUNDO \u26bd\ud83c\udf7a (@Barras_LATAM)",
-        "likes": 2785,
-        "reposts": 179,
-        "replies": 45
-      }
-    },
-    {
-      "tema": "Lionel Messi gana el Premio Princesa de Asturias 2026 (primer argentino en recibirlo).",
-      "resumen": "Messi es distinguido en Espa\u00f1a con uno de los premios m\u00e1s importantes del pa\u00eds por su trayectoria en el Barcelona, superaci\u00f3n personal y valores. Gran reconocimiento internacional para un argentino.",
-      "posteo_destacado": {
-        "link": "https://x.com/DSports/status/2062154453835497820",
-        "autor": "DSPORTS (@DSports)",
-        "likes": 230,
-        "reposts": 38,
-        "replies": 6
-      }
-    }
-  ],
-  "Cerveza": []
-}
+[
+  {
+    "texto": "Entonces con este argumento las champions de Messi con el @FCBarcelona_es tienen m\u00e1s valor y m\u00e9rito (cuando Leo lleg\u00f3 el Bar\u00e7a ten\u00eda 1 sola UCL y ahora tiene 5) que las que gan\u00f3 CR7 con el Real Madrid.",
+    "descripci\u00f3n": "Integraci\u00f3n de j\u00f3venes talentos en la Selecci\u00f3n Argentina durante los entrenamientos en Kansas. Scaloni lidera las pr\u00e1cticas y referentes como Lautaro y De Paul adoptan a los m\u00e1s j\u00f3venes (ej. Tom\u00e1s Aranda). Ambiente positivo en el plantel previo al Mundial 2026.",
+    "autor": "@frentepxeneize",
+    "pilar": "Equipo",
+    "likes": 1062,
+    "reposts": 25,
+    "replies": 5
+  },
+  {
+    "texto": "ATENCI\u00d3N: informa @MonroigDiego que, por precauci\u00f3n, Lionel Messi no jugar\u00eda el amistoso del s\u00e1bado 6 ante Honduras y apuntar\u00eda a estar presente ante Islandia el 9.",
+    "descripci\u00f3n": "Manejo de minutos de Messi: posible descanso en el amistoso vs Honduras por precauci\u00f3n, reserv\u00e1ndose para el \u00faltimo partido ante Islandia antes del debut en el Mundial 2026.",
+    "autor": "@SC_ESPN",
+    "pilar": "Equipo",
+    "likes": 188,
+    "reposts": 24,
+    "replies": 6
+  },
+  {
+    "texto": "JAJAJA Que verg\u00fcenza, en TyCSports est\u00e1n operando para que Lautaro Martinez sea TITULAR !!!! en el mundial, disimulen un poco",
+    "descripci\u00f3n": "La supuesta \u201coperaci\u00f3n medi\u00e1tica\u201d de TyC Sports para posicionar a Lautaro Mart\u00ednez como titular indiscutido genera memes masivos y fuerte banter entre hinchas de River y Boca.",
+    "autor": "@frabigol",
+    "pilar": "Humor",
+    "likes": 3437,
+    "reposts": 86,
+    "replies": 64
+  },
+  {
+    "texto": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 \u00bfDe qu\u00e9 se estar\u00eda riendo Leo Messi junto a Paredes y De Paul?",
+    "descripci\u00f3n": "Foto viral de Messi, Paredes y De Paul ri\u00e9ndose en el entrenamiento de Kansas. Los posts con \u201csolo respuestas incorrectas\u201d generan cientos de comentarios y memes.",
+    "autor": "@SC_ESPN",
+    "pilar": "Humor",
+    "likes": 653,
+    "reposts": 19,
+    "replies": 17
+  },
+  {
+    "texto": "\ud83c\udde7\ud83c\udde9\ud83c\udde6\ud83c\uddf7\ud83c\udde7\ud83c\uddf7 EMPEZ\u00d3 EL MUNDIAL! En Habiganj, Bangladesh, hinchas de la selecci\u00f3n Argentina se enfrentaron contra hinchas de la selecci\u00f3n de Brasil... Hay 25 heridos.",
+    "descripci\u00f3n": "Enfrentamiento entre hinchas argentinos y brasile\u00f1os en Bangladesh tras un amistoso (Argentina gan\u00f3 3-2). 25 heridos. Genera debate sobre rivalidad exportada y violencia de barras.",
+    "autor": "@Barras_LATAM",
+    "pilar": "Controversia",
+    "likes": 2785,
+    "reposts": 179,
+    "replies": 45
+  },
+  {
+    "texto": "JAJAJA Que verg\u00fcenza, en TyCSports est\u00e1n operando para que Lautaro Martinez sea TITULAR !!!! en el mundial, disimulen un poco",
+    "descripci\u00f3n": "Pol\u00e9mica por supuesta operaci\u00f3n medi\u00e1tica para definir el once titular (caso Lautaro). Acusaciones cruzadas y divisi\u00f3n entre hinchas.",
+    "autor": "@frabigol",
+    "pilar": "Controversia",
+    "likes": 3437,
+    "reposts": 86,
+    "replies": 64
+  },
+  {
+    "texto": "\ud83c\udde7\ud83c\udde9\ud83c\udde6\ud83c\uddf7\ud83c\udde7\ud83c\uddf7 EMPEZ\u00d3 EL MUNDIAL! En Habiganj, Bangladesh, hinchas de la selecci\u00f3n Argentina se enfrentaron contra hinchas de la selecci\u00f3n de Brasil... Hay 25 heridos.",
+    "descripci\u00f3n": "Hinchas argentinos en el exterior (Bangladesh) destac\u00e1ndose como comunidad con acciones intensas tras un amistoso. Debate sobre si es color de tribuna exportado.",
+    "autor": "@Barras_LATAM",
+    "pilar": "Color en la tribuna",
+    "likes": 2785,
+    "reposts": 179,
+    "replies": 45
+  },
+  {
+    "texto": "\u00bfSe acuerdan del otro Mundial, cuando los jefes del Dend\u00ea, en R\u00edo de Janeiro - Brasil, hicieron pintar toda la favela con los colores de la Argentina?",
+    "descripci\u00f3n": "Recordatorio de acci\u00f3n ic\u00f3nica de hinchadas argentinas en el mundo: jefes del Dend\u00ea pintaron una favela con colores de Argentina en un Mundial anterior.",
+    "autor": "@barrabrava_net",
+    "pilar": "Color en la tribuna",
+    "likes": 540,
+    "reposts": 12,
+    "replies": 4
+  },
+  {
+    "texto": "\ud83c\udde7\ud83c\udde9\ud83c\udde6\ud83c\uddf7\ud83c\udde7\ud83c\uddf7 EMPEZ\u00d3 EL MUNDIAL! En Habiganj, Bangladesh, hinchas de la selecci\u00f3n Argentina se enfrentaron contra hinchas de la selecci\u00f3n de Brasil... Hay 25 heridos.",
+    "descripci\u00f3n": "Hinchas argentinos en Bangladesh generan noticias internacionales por el choque con hinchas brasile\u00f1os. Rivalidad que trasciende fronteras.",
+    "autor": "@Barras_LATAM",
+    "pilar": "Argentina por el mundo",
+    "likes": 2785,
+    "reposts": 179,
+    "replies": 45
+  },
+  {
+    "texto": "\ud83c\udde6\ud83c\uddf7 OTRO PREMIO PARA MESSI \ud83c\udfc6\ud83d\udd1c A d\u00edas de disputar su sexto Mundial, el capit\u00e1n de la Selecci\u00f3n Argentina se qued\u00f3 con el premio Princesa de Asturias 2026 y se convirti\u00f3 en el PRIMER ARGENTINO en obtener el galard\u00f3n.",
+    "descripci\u00f3n": "Lionel Messi gana el Premio Princesa de Asturias 2026 en Espa\u00f1a, primer argentino en recibirlo por su trayectoria y valores. Gran reconocimiento internacional.",
+    "autor": "@DSports",
+    "pilar": "Argentina por el mundo",
+    "likes": 230,
+    "reposts": 38,
+    "replies": 6
+  }
+]
