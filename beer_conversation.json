@@ -1,19 +1,19 @@
 {
   "temas": [
     {
-      "marca": "Michelob ULTRA",
-      "titulo": "The Superior Match – Nuevo capítulo Memo Ochoa",
-      "resumen": "Michelob ULTRA lanza nuevo spot de su campaña global “THE SUPERIOR MATCH” con Memo Ochoa (sumado a Messi y Pulisic). Enfoque en superioridad y espíritu competitivo, con sorteos de entradas al Mundial 2026 y activaciones Pitchside."
-    },
-    {
       "marca": "Budweiser",
-      "titulo": "Anniversary Pack – 40 años sponsor oficial",
-      "resumen": "Edición limitada Anniversary Pack (11 botellas/latas) que recorre la historia de los Mundiales desde 1986 hasta 2026. Parte de la plataforma global “Let It Pour” por los 40 años de Budweiser como sponsor FIFA."
+      "titulo": "Anniversary Pack + quizzes #Budstalgia WC26",
+      "resumen": "Edición limitada Anniversary Pack que recorre historia de los Mundiales. Quizzes interactivos en redes (#Budstalgia) y sorteos para fans del Mundial 2026, reforzando los 40 años como sponsor oficial FIFA."
     },
     {
       "marca": "Michelob ULTRA",
-      "titulo": "QR codes y experiencias Pitchside",
-      "resumen": "Activaciones con códigos QR en empaques para ganar experiencias exclusivas + Pitchside Clubs en sedes del Mundial. Refuerza presencia de la marca oficial en el countdown al torneo."
+      "titulo": "The Superior Match – Memo Ochoa y Pitchside",
+      "resumen": "Continuación campaña global con nuevo spot protagonizado por Memo Ochoa (junto a Messi y Pulisic). Enfoque en superioridad competitiva, sorteos de entradas al Mundial 2026 y activaciones exclusivas Pitchside Clubs en sedes."
+    },
+    {
+      "marca": "Peticolas Brewing Co.",
+      "titulo": "Malice in Dallas – Serie Mundial 2026",
+      "resumen": "Lanzamiento de cerveza 'Malice in Dallas' (Session Red 4.5%) como parte de la serie World Cup de la cervecería artesanal de Dallas (sede del Mundial). Incluye referencias a sedes anteriores y conexión local con el torneo."
     }
   ]
 }
