@@ -1,6 +1,20 @@
 {
   "topics": [
     {
+      "tema": "Dibu entrena con una mano",
+      "engagement": 12000,
+      "views": 4500000,
+      "volumen": 14000,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Julián Álvarez tratamiento para su tobillo",
+      "engagement": 5500,
+      "views": 450000,
+      "volumen": 5800,
+      "sentiment": "Negative"
+    },
+    {
       "tema": "Preparación Scaloneta en Kansas City",
       "engagement": 2800,
       "views": 350000,
@@ -8,53 +22,46 @@
       "sentiment": "Positive"
     },
     {
-      "tema": "Lesión mano Dibu Martínez y entrenamiento",
-      "engagement": 1800,
-      "views": 150000,
-      "volumen": 6500,
-      "sentiment": "Neutral"
-    },
-    {
       "tema": "Emoción por inicio del Mundial (Faltan 7 días)",
-      "engagement": 1400,
-      "views": 180000,
-      "volumen": 6000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "De Paul titularidad y rol en Scaloneta",
-      "engagement": 900,
-      "views": 60000,
-      "volumen": 4800,
+      "engagement": 1800,
+      "views": 220000,
+      "volumen": 6500,
       "sentiment": "Positive"
     },
     {
       "tema": "Dudas por estado físico de jugadores clave",
-      "engagement": 1200,
-      "views": 80000,
+      "engagement": 4200,
+      "views": 280000,
       "volumen": 5500,
+      "sentiment": "Negative"
+    },
+    {
+      "tema": "Lucha por el arco de la Selección (Rulli vs Musso)",
+      "engagement": 1500,
+      "views": 130000,
+      "volumen": 4000,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Argelia preocupa al cuerpo técnico de Argentina",
+      "engagement": 1600,
+      "views": 110000,
+      "volumen": 3500,
       "sentiment": "Neutral"
     },
     {
       "tema": "Esquemas y posible 11 de Scaloni",
-      "engagement": 700,
-      "views": 100000,
-      "volumen": 5200,
+      "engagement": 1100,
+      "views": 105000,
+      "volumen": 4800,
       "sentiment": "Neutral"
     },
     {
-      "tema": "Apoyo internacional a Argentina (encuestas)",
-      "engagement": 600,
-      "views": 45000,
-      "volumen": 3500,
+      "tema": "De Paul titularidad y rol en Scaloneta",
+      "engagement": 1300,
+      "views": 85000,
+      "volumen": 4500,
       "sentiment": "Positive"
-    },
-    {
-      "tema": "Homenaje a José Sanfilippo",
-      "engagement": 400,
-      "views": 25000,
-      "volumen": 2500,
-      "sentiment": "Negative"
     }
   ]
 }
