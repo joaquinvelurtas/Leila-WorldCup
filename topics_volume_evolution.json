@@ -1,7 +1,7 @@
 {
   "topics": [
     {
-      "topic": "Concentración y prácticas Scaloneta en Kansas",
+      "topic": "Preparación Scaloneta en Kansas City",
       "series": [
         {"date": "2026-06-01", "volume": 9200},
         {"date": "2026-06-03", "volume": 7800},
@@ -16,31 +16,31 @@
         {"date": "2026-05-29", "volume": 7800},
         {"date": "2026-06-01", "volume": 7500},
         {"date": "2026-06-03", "volume": 8100},
-        {"date": "2026-06-04", "volume": 6000}
-      ]
-    },
-    {
-      "topic": "Lesión mano Dibu Martínez y preparación",
-      "series": [
         {"date": "2026-06-04", "volume": 6500}
       ]
     },
     {
-      "topic": "Dudas por estado físico de jugadores clave",
+      "topic": "Dibu entrena con una mano (lesión mano)",
       "series": [
-        {"date": "2026-06-04", "volume": 5500}
+        {"date": "2026-06-04", "volume": 14000}
+      ]
+    },
+    {
+      "topic": "Dudas por estado físico de jugadores clave (Julián Álvarez y otros)",
+      "series": [
+        {"date": "2026-06-04", "volume": 5800}
       ]
     },
     {
       "topic": "De Paul titularidad y rol en Scaloneta",
       "series": [
-        {"date": "2026-06-04", "volume": 4800}
+        {"date": "2026-06-04", "volume": 4500}
       ]
     },
     {
       "topic": "Esquemas y posible 11 de Scaloni",
       "series": [
-        {"date": "2026-06-04", "volume": 5200}
+        {"date": "2026-06-04", "volume": 4800}
       ]
     }
   ]
