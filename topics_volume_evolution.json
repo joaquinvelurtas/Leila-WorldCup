@@ -5,51 +5,42 @@
       "series": [
         {"date": "2026-06-01", "volume": 9200},
         {"date": "2026-06-03", "volume": 7800},
-        {"date": "2026-06-04", "volume": 7000}
+        {"date": "2026-06-04", "volume": 8500}
       ]
     },
     {
-      "topic": "Expectativas bicampeonato Argentina",
+      "topic": "Emoción por el inicio del Mundial y bicampeonato",
       "series": [
         {"date": "2026-05-27", "volume": 5800},
         {"date": "2026-05-28", "volume": 8200},
         {"date": "2026-05-29", "volume": 7800},
         {"date": "2026-06-01", "volume": 7500},
         {"date": "2026-06-03", "volume": 8100},
-        {"date": "2026-06-04", "volume": 6800}
+        {"date": "2026-06-04", "volume": 5500}
       ]
     },
     {
-      "topic": "Vibes equipo y reacciones Scaloneta",
+      "topic": "Lesión mano Dibu Martínez y preparación",
       "series": [
-        {"date": "2026-05-27", "volume": 5800},
-        {"date": "2026-05-28", "volume": 7200},
-        {"date": "2026-05-29", "volume": 9500},
-        {"date": "2026-06-01", "volume": 5300},
-        {"date": "2026-06-03", "volume": 6200},
+        {"date": "2026-06-04", "volume": 7000}
+      ]
+    },
+    {
+      "topic": "Fallecimiento de José Sanfilippo",
+      "series": [
+        {"date": "2026-06-04", "volume": 5000}
+      ]
+    },
+    {
+      "topic": "De Paul titularidad y rol en Scaloneta",
+      "series": [
         {"date": "2026-06-04", "volume": 4000}
       ]
     },
     {
-      "topic": "Debut vs Argelia y preparación",
+      "topic": "Esquemas y posible 11 Scaloni (vs Honduras/Argelia)",
       "series": [
-        {"date": "2026-06-01", "volume": 6100},
-        {"date": "2026-06-03", "volume": 5900},
-        {"date": "2026-06-04", "volume": 4500}
-      ]
-    },
-    {
-      "topic": "Preocupación por lesiones Nico Paz y alertas plantel",
-      "series": [
-        {"date": "2026-06-01", "volume": 4600},
-        {"date": "2026-06-03", "volume": 6500},
-        {"date": "2026-06-04", "volume": 10500}
-      ]
-    },
-    {
-      "topic": "Dibu Martínez titular vs Argelia debut",
-      "series": [
-        {"date": "2026-06-04", "volume": 4500}
+        {"date": "2026-06-04", "volume": 6000}
       ]
     }
   ]
