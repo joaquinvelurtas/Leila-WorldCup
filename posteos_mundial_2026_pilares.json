@@ -1,73 +1,72 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales está concentrada en la previa inmediata de la Selección Argentina: estado físico de jugadores, decisiones de Scaloni, recuperación de Dibu Martínez, lesión de Nico Paz, expectativas sobre Messi y armado final del plantel. En paralelo, aparece una segunda capa más emocional y cultural vinculada al furor por la Scaloneta, historias de argentinos en el exterior, piezas virales y el lugar global de Messi. El tono dominante combina expectativa deportiva, ansiedad por lesiones y épica nacional."
+      "summary": "La conversación en portales está concentrada en la previa inmediata del Mundial 2026 con Argentina como eje principal. Predominan el estado físico y deportivo de los jugadores de la Selección, especialmente Messi, Dibu, Julián Álvarez, Paredes y Nico Paz; la experiencia de los hinchas argentinos que viajan o siguen la preparación desde Kansas; y el lugar de Messi como figura global, reforzado por el Premio Princesa de Asturias. También aparecen focos de controversia vinculados a seguridad, entradas, restricciones de FIFA, migración y tensiones políticas internacionales alrededor del torneo."
     },
     "reddit": {
-      "summary": "La conversación en Reddit aparece menos institucional y más experiencial. Los usuarios hablan del Mundial desde problemas concretos de consumo —calidad de transmisión, delay, opciones para verlo mejor— y desde una lectura emocional post Qatar 2022, donde parte de la comunidad siente que la conquista anterior dejó una vara difícil de igualar. El tono dominante mezcla ansiedad práctica, comparación nostálgica y humor autoconsciente."
+      "summary": "La conversación relevante en Reddit está dominada por un tono crítico hacia FIFA y la organización del Mundial, especialmente por precios de entradas, reventa y acceso desigual para los hinchas. En paralelo aparece una línea emocional de expectativa por volver a ver a Argentina, junto con contenidos más livianos vinculados a estética mundialista, camisetas y humor. A diferencia de los portales, donde predomina la cobertura deportiva y la preparación del equipo, Reddit concentra más bronca, sospecha y conversación de comunidad alrededor de la experiencia del hincha."
     }
   },
   "pilares": {
     "Humor": [
       {
-        "titulo_corto": "Canción viral del Chapu",
-        "resumen": "El Chapu Martínez lanzó una nueva canción mundialista con foco en Messi y la ilusión por conseguir la cuarta Copa. El contenido activa humor, ansiedad positiva y cultura de redes alrededor de la previa argentina.",
-        "medio": "Infobae"
+        "titulo_corto": "Outfit del mundil",
+        "resumen": "Un posteo de Reddit muestra un contenido humorístico y visual sobre un outfit armado con figuritas del Mundial. El contenido conecta cultura mundialista, estética viral y conversación de meme alrededor del torneo.",
+        "medio": "Reddit"
       },
       {
-        "titulo_corto": "Tim Payne fenómeno argentino",
-        "resumen": "Tim Payne volvió a quedar en el centro de la conversación argentina después de hacerse viral y hablar sobre Boca y River. La nota muestra cómo la comunidad local transforma figuras periféricas del Mundial en personajes humorísticos propios.",
+        "titulo_corto": "Astrólogo analiza a Messi",
+        "resumen": "Una nota presenta la lectura de un astrólogo sobre la condición que debería cumplir Messi para que Argentina tenga éxito. El contenido activa superstición, juego y conversación liviana en la previa mundialista.",
         "medio": "TN"
       }
     ],
     "Equipo": [
       {
-        "titulo_corto": "Nico Paz preocupa a Scaloni",
-        "resumen": "La lesión de Nico Paz aparece como una preocupación concreta para el cuerpo técnico, que evalúa su evolución y posibles reemplazos. El tema ordena parte de la conversación sobre el armado final del plantel argentino.",
-        "medio": "TN"
+        "titulo_corto": "Siete días para Argentina",
+        "resumen": "Un posteo de Reddit expresa expectativa directa por la cercanía del partido de Argentina. Funciona como señal de ansiedad positiva y entusiasmo de comunidad en torno a la Selección.",
+        "medio": "Reddit"
       },
       {
-        "titulo_corto": "Dibu responde sobre el debut",
-        "resumen": "Dibu Martínez habló sobre su presencia en el debut mundialista de Argentina en medio de su recuperación. La noticia concentra la expectativa sobre una pieza clave del equipo y el nivel de incertidumbre física en la previa.",
-        "medio": "TN"
+        "titulo_corto": "Dibu figura en Kansas",
+        "resumen": "La cobertura destaca a Dibu Martínez como protagonista del entrenamiento abierto de la Selección en Kansas City. La nota muestra preparación deportiva, clima de hinchada y foco en jugadores clave antes del Mundial.",
+        "medio": "Infobae"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Francia tensionada por premios",
-        "resumen": "La selección francesa atraviesa una disputa interna por el reparto de dinero y entradas antes del Mundial. El caso introduce una dimensión de conflicto económico y organizativo dentro de una potencia candidata.",
-        "medio": "Infobae"
+        "titulo_corto": "Entradas bajo sospecha",
+        "resumen": "Un posteo de Reddit acusa a FIFA de liberar sectores enteros de entradas en canales de reventa a precios más bajos que los oficiales. El contenido instala malestar por acceso desigual, precios y trato al hincha común.",
+        "medio": "Reddit"
       },
       {
-        "titulo_corto": "Lugano reabre polémica Messi",
-        "resumen": "Diego Lugano volvió a instalar el debate sobre Messi, Cristiano Ronaldo y supuestos beneficios arbitrales en Mundiales recientes. La nota alimenta una controversia regional alrededor del legado argentino de Qatar.",
-        "medio": "TN"
+        "titulo_corto": "Mundial para millonarios",
+        "resumen": "Otro posteo de Reddit critica los valores de las entradas para ver a Argentina y plantea que el Mundial quedó fuera del alcance del hincha promedio. El foco está puesto en la codicia de FIFA y en la pérdida del carácter popular del torneo.",
+        "medio": "Reddit"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Video emotivo de AFA",
-        "resumen": "La AFA publicó una pieza emocional de la Scaloneta a días del inicio del Mundial. El contenido refuerza épica, pertenencia nacional y vínculo afectivo entre la Selección y los hinchas.",
+        "titulo_corto": "Hinchas rumbo a Kansas",
+        "resumen": "Una nota calcula cuánto cuesta viajar a Kansas para ver el primer partido de la Selección en el Mundial 2026. El contenido aterriza la experiencia mundialista en consumo, viaje y acceso real de los hinchas argentinos.",
         "medio": "Infobae"
       },
       {
-        "titulo_corto": "Argentinos en Kansas",
-        "resumen": "Una historia de argentinos con un restaurante en Kansas City cruza vida cotidiana, diáspora y cercanía con Messi y la Selección. La nota aporta color humano y comunitario a la previa mundialista.",
-        "medio": "Infobae"
+        "titulo_corto": "Ciclistas con Scaloni",
+        "resumen": "Un grupo de ciclistas argentinos se cruza con Scaloni en Kansas en plena previa mundialista. La historia refleja un tipo de hinchada que rompe la rutina de la cobertura deportiva y aporta color humano al seguimiento de la Selección.",
+        "medio": "Olé"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Messi gana el Princesa",
-        "resumen": "Lionel Messi fue reconocido con el Premio Princesa de Asturias de los Deportes 2026. La noticia posiciona al capitán argentino como figura global en plena antesala mundialista.",
-        "medio": "Página/12"
+        "titulo_corto": "Messi premiado en España",
+        "resumen": "Messi fue distinguido con el Premio Princesa de Asturias de los Deportes 2026. La noticia refuerza la proyección internacional del capitán argentino y convierte el reconocimiento global en orgullo nacional.",
+        "medio": "Infobae"
       },
       {
-        "titulo_corto": "Messi domina redes globales",
-        "resumen": "Messi y Cristiano Ronaldo aparecen como los jugadores más influyentes del Mundial 2026 en cancha y redes. El contenido muestra cómo el capitán argentino sigue liderando la conversación internacional del torneo.",
-        "medio": "Infobae"
+        "titulo_corto": "Barcelona saluda a Messi",
+        "resumen": "Barcelona le dedicó un mensaje a Lionel Messi en la previa del Mundial 2026. El gesto conecta el pasado europeo del capitán con su presente mundialista y sostiene su figura dentro de una conversación global.",
+        "medio": "TN"
       }
-    ],
-    "Alcohol": []
+    ]
   }
 }
