@@ -1,60 +1,60 @@
 {
   "topics": [
     {
-      "tema": "Messi el 10 oficial en el Mundial",
-      "engagement": 6501,
-      "views": 846834,
-      "volumen": 8500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Prácticas y primer equipo Scaloni en Kansas",
-      "engagement": 3282,
-      "views": 983159,
-      "volumen": 7800,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Preocupación por lesiones (Nico Paz y alertas plantel)",
-      "engagement": 6515,
-      "views": 687679,
-      "volumen": 5200,
+      "tema": "Preocupación por lesiones Nico Paz y alertas plantel",
+      "engagement": 8500,
+      "views": 1500000,
+      "volumen": 10500,
       "sentiment": "Negative"
     },
     {
-      "tema": "Dorsales oficiales de la Scaloneta para 2026",
-      "engagement": 2200,
+      "tema": "Dibu Martínez titular vs Argelia",
+      "engagement": 2800,
       "views": 350000,
-      "volumen": 6100,
+      "volumen": 4500,
       "sentiment": "Positive"
     },
     {
-      "tema": "Video del micro de la Scaloneta (vibes del equipo)",
-      "engagement": 6324,
-      "views": 151554,
-      "volumen": 4300,
+      "tema": "Prácticas y formaciones Scaloni en Kansas",
+      "engagement": 2500,
+      "views": 500000,
+      "volumen": 7000,
       "sentiment": "Positive"
     },
     {
-      "tema": "Despedidas de jugadores antes de viajar a USA",
-      "engagement": 2751,
-      "views": 103497,
-      "volumen": 3200,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Entrenamientos y base en Kansas City",
-      "engagement": 1800,
+      "tema": "Clima y fiesta mundialista de hinchas argentinos",
+      "engagement": 2400,
       "views": 150000,
-      "volumen": 3800,
+      "volumen": 4000,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Favoritos para ganar el Mundial 2026 (Argentina #1)",
+      "engagement": 450,
+      "views": 80000,
+      "volumen": 3500,
       "sentiment": "Positive"
     },
     {
       "tema": "Expectativas bicampeonato y preparación Scaloneta",
-      "engagement": 2800,
-      "views": 500000,
-      "volumen": 6500,
+      "engagement": 3200,
+      "views": 600000,
+      "volumen": 6800,
       "sentiment": "Positive"
+    },
+    {
+      "tema": "De Paul rol y titularidad en la Scaloneta",
+      "engagement": 1500,
+      "views": 250000,
+      "volumen": 3200,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Posibles cambios en lista y esquema Scaloni",
+      "engagement": 3500,
+      "views": 400000,
+      "volumen": 5800,
+      "sentiment": "Neutral"
     }
   ]
 }
