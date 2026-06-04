@@ -1,60 +1,60 @@
 {
   "topics": [
     {
-      "tema": "Fallecimiento de José Sanfilippo",
-      "engagement": 2200,
-      "views": 140000,
-      "volumen": 5000,
-      "sentiment": "Negative"
-    },
-    {
-      "tema": "Lesión mano Dibu Martínez y su preparación",
-      "engagement": 1500,
-      "views": 80000,
-      "volumen": 7000,
-      "sentiment": "Negative"
-    },
-    {
-      "tema": "Prácticas y formaciones Scaloneta en Kansas",
-      "engagement": 2500,
-      "views": 300000,
-      "volumen": 8500,
+      "tema": "Preparación Scaloneta en Kansas City",
+      "engagement": 2800,
+      "views": 350000,
+      "volumen": 8200,
       "sentiment": "Positive"
     },
     {
-      "tema": "Emoción por inicio del Mundial (Faltan 7 días)",
-      "engagement": 1200,
+      "tema": "Lesión mano Dibu Martínez y entrenamiento",
+      "engagement": 1800,
       "views": 150000,
-      "volumen": 5500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "De Paul titularidad y rol en la Scaloneta",
-      "engagement": 600,
-      "views": 30000,
-      "volumen": 4000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Messi Premio Princesa de Asturias",
-      "engagement": 250,
-      "views": 15000,
-      "volumen": 2500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Esquemas y posible 11 Scaloni (vs Honduras/Argelia)",
-      "engagement": 800,
-      "views": 120000,
-      "volumen": 6000,
+      "volumen": 6500,
       "sentiment": "Neutral"
     },
     {
-      "tema": "Victoria Sub 16 Argentina vs Francia",
-      "engagement": 300,
-      "views": 15000,
-      "volumen": 2000,
+      "tema": "Emoción por inicio del Mundial (Faltan 7 días)",
+      "engagement": 1400,
+      "views": 180000,
+      "volumen": 6000,
       "sentiment": "Positive"
+    },
+    {
+      "tema": "De Paul titularidad y rol en Scaloneta",
+      "engagement": 900,
+      "views": 60000,
+      "volumen": 4800,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Dudas por estado físico de jugadores clave",
+      "engagement": 1200,
+      "views": 80000,
+      "volumen": 5500,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Esquemas y posible 11 de Scaloni",
+      "engagement": 700,
+      "views": 100000,
+      "volumen": 5200,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Apoyo internacional a Argentina (encuestas)",
+      "engagement": 600,
+      "views": 45000,
+      "volumen": 3500,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Homenaje a José Sanfilippo",
+      "engagement": 400,
+      "views": 25000,
+      "volumen": 2500,
+      "sentiment": "Negative"
     }
   ]
 }
