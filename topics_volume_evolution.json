@@ -5,42 +5,48 @@
       "series": [
         {"date": "2026-06-01", "volume": 9200},
         {"date": "2026-06-03", "volume": 7800},
-        {"date": "2026-06-04", "volume": 8200}
+        {"date": "2026-06-04", "volume": 8200},
+        {"date": "2026-06-05", "volume": 5500}
       ]
     },
     {
-      "topic": "Emoción por el inicio del Mundial y bicampeonato",
+      "topic": "Ilusión por inicio del Mundial (cuenta regresiva)",
       "series": [
         {"date": "2026-05-27", "volume": 5800},
         {"date": "2026-05-28", "volume": 8200},
         {"date": "2026-05-29", "volume": 7800},
         {"date": "2026-06-01", "volume": 7500},
         {"date": "2026-06-03", "volume": 8100},
-        {"date": "2026-06-04", "volume": 6500}
+        {"date": "2026-06-04", "volume": 6500},
+        {"date": "2026-06-05", "volume": 4800}
       ]
     },
     {
       "topic": "Dibu entrena con una mano (lesión mano)",
       "series": [
-        {"date": "2026-06-04", "volume": 14000}
+        {"date": "2026-06-04", "volume": 14000},
+        {"date": "2026-06-05", "volume": 4200}
       ]
     },
     {
       "topic": "Dudas por estado físico de jugadores clave (Julián Álvarez y otros)",
       "series": [
-        {"date": "2026-06-04", "volume": 5800}
+        {"date": "2026-06-04", "volume": 5800},
+        {"date": "2026-06-05", "volume": 1800}
       ]
     },
     {
       "topic": "De Paul titularidad y rol en Scaloneta",
       "series": [
-        {"date": "2026-06-04", "volume": 4500}
+        {"date": "2026-06-04", "volume": 4500},
+        {"date": "2026-06-05", "volume": 2800}
       ]
     },
     {
       "topic": "Esquemas y posible 11 de Scaloni",
       "series": [
-        {"date": "2026-06-04", "volume": 4800}
+        {"date": "2026-06-04", "volume": 4800},
+        {"date": "2026-06-05", "volume": 3500}
       ]
     }
   ]

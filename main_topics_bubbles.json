@@ -1,67 +1,60 @@
 {
   "topics": [
     {
-      "tema": "Dibu entrena con una mano",
-      "engagement": 12000,
-      "views": 4500000,
-      "volumen": 14000,
-      "sentiment": "Neutral"
+      "tema": "Dibu entrena con una mano (lesión)",
+      "engagement": 2800,
+      "views": 350000,
+      "volumen": 4200,
+      "sentiment": "Positive"
     },
     {
-      "tema": "Julián Álvarez tratamiento para su tobillo",
-      "engagement": 5500,
-      "views": 450000,
-      "volumen": 5800,
-      "sentiment": "Negative"
+      "tema": "Factor humano en la Scaloneta (Scaloni)",
+      "engagement": 5200,
+      "views": 220000,
+      "volumen": 2800,
+      "sentiment": "Positive"
     },
     {
       "tema": "Preparación Scaloneta en Kansas City",
-      "engagement": 2800,
-      "views": 350000,
-      "volumen": 8200,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Emoción por inicio del Mundial (Faltan 7 días)",
-      "engagement": 1800,
-      "views": 220000,
-      "volumen": 6500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Dudas por estado físico de jugadores clave",
-      "engagement": 4200,
+      "engagement": 2200,
       "views": 280000,
       "volumen": 5500,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Ilusión por inicio del Mundial (cuenta regresiva)",
+      "engagement": 1800,
+      "views": 180000,
+      "volumen": 4800,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Julián Álvarez tratamiento tobillo",
+      "engagement": 900,
+      "views": 90000,
+      "volumen": 1800,
       "sentiment": "Negative"
     },
     {
-      "tema": "Lucha por el arco de la Selección (Rulli vs Musso)",
-      "engagement": 1500,
-      "views": 130000,
-      "volumen": 4000,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Argelia preocupa al cuerpo técnico de Argentina",
-      "engagement": 1600,
+      "tema": "Esquemas y posible 11 de Scaloni",
+      "engagement": 1300,
       "views": 110000,
       "volumen": 3500,
       "sentiment": "Neutral"
     },
     {
-      "tema": "Esquemas y posible 11 de Scaloni",
+      "tema": "De Paul rol y titularidad en Scaloneta",
       "engagement": 1100,
-      "views": 105000,
-      "volumen": 4800,
-      "sentiment": "Neutral"
+      "views": 85000,
+      "volumen": 2800,
+      "sentiment": "Positive"
     },
     {
-      "tema": "De Paul titularidad y rol en Scaloneta",
-      "engagement": 1300,
-      "views": 85000,
-      "volumen": 4500,
-      "sentiment": "Positive"
+      "tema": "Arquero titular: Musso vs Rulli (Dibu duda)",
+      "engagement": 500,
+      "views": 40000,
+      "volumen": 1200,
+      "sentiment": "Neutral"
     }
   ]
 }
