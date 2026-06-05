@@ -6,7 +6,7 @@
         {"date": "2026-06-01", "volume": 9200},
         {"date": "2026-06-03", "volume": 7800},
         {"date": "2026-06-04", "volume": 8200},
-        {"date": "2026-06-05", "volume": 5500}
+        {"date": "2026-06-05", "volume": 6200}
       ]
     },
     {
@@ -18,35 +18,35 @@
         {"date": "2026-06-01", "volume": 7500},
         {"date": "2026-06-03", "volume": 8100},
         {"date": "2026-06-04", "volume": 6500},
-        {"date": "2026-06-05", "volume": 4800}
+        {"date": "2026-06-05", "volume": 5100}
       ]
     },
     {
       "topic": "Dibu entrena con una mano (lesión mano)",
       "series": [
         {"date": "2026-06-04", "volume": 14000},
-        {"date": "2026-06-05", "volume": 4200}
+        {"date": "2026-06-05", "volume": 4800}
       ]
     },
     {
       "topic": "Dudas por estado físico de jugadores clave (Julián Álvarez y otros)",
       "series": [
         {"date": "2026-06-04", "volume": 5800},
-        {"date": "2026-06-05", "volume": 1800}
+        {"date": "2026-06-05", "volume": 2400}
       ]
     },
     {
       "topic": "De Paul titularidad y rol en Scaloneta",
       "series": [
         {"date": "2026-06-04", "volume": 4500},
-        {"date": "2026-06-05", "volume": 2800}
+        {"date": "2026-06-05", "volume": 3100}
       ]
     },
     {
       "topic": "Esquemas y posible 11 de Scaloni",
       "series": [
         {"date": "2026-06-04", "volume": 4800},
-        {"date": "2026-06-05", "volume": 3500}
+        {"date": "2026-06-05", "volume": 3800}
       ]
     }
   ]
