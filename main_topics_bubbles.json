@@ -1,59 +1,59 @@
 {
   "topics": [
     {
-      "tema": "Videollamada familiar Antonella y Ciro con Messi; Thiago figuritas Mundial",
-      "engagement": 12500,
-      "views": 650000,
-      "volumen": 14000,
-      "sentiment": "Positive"
-    },
-    {
       "tema": "Dibu Mart\u00ednez objetivo principal de Juventus",
       "engagement": 7500,
-      "views": 250000,
-      "volumen": 9500,
+      "views": 150000,
+      "volumen": 8500,
       "sentiment": "Neutral"
     },
     {
-      "tema": "Meme viral \"Bomb\u00f3n Asesino\" / himno en concentraci\u00f3n Scaloneta",
-      "engagement": 18000,
-      "views": 800000,
-      "volumen": 16000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Preparaci\u00f3n Scaloneta en Kansas City/Texas y entrenamientos (Nico Paz)",
-      "engagement": 5500,
-      "views": 200000,
-      "volumen": 7500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Baja de Balerdi por lesi\u00f3n y salida del Mundial",
-      "engagement": 2500,
-      "views": 900000,
+      "tema": "Estado f\u00edsico Scaloneta y reemplazo Balerdi",
+      "engagement": 4500,
+      "views": 350000,
       "volumen": 5500,
       "sentiment": "Negative"
     },
     {
-      "tema": "Expectativa por el 11 inicial y esquemas de Scaloni (dupla ataque)",
-      "engagement": 3000,
-      "views": 100000,
+      "tema": "Dupla Lautaro-Juli\u00e1n \u00c1lvarez en ataque (Scaloni)",
+      "engagement": 5000,
+      "views": 120000,
+      "volumen": 6000,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Declaraciones Argelia \"le ganaremos a Messi\"",
+      "engagement": 700,
+      "views": 95000,
+      "volumen": 2500,
+      "sentiment": "Negative"
+    },
+    {
+      "tema": "Hinchas argentinos en Miami (60 mil)",
+      "engagement": 5000,
+      "views": 90000,
       "volumen": 4500,
       "sentiment": "Positive"
     },
     {
-      "tema": "Cuenta regresiva e ilusi\u00f3n por inicio del Mundial 2026",
-      "engagement": 2000,
-      "views": 80000,
-      "volumen": 5000,
-      "sentiment": "Positive"
+      "tema": "Retenci\u00f3n Irak en aeropuerto Chicago (Mundial)",
+      "engagement": 10500,
+      "views": 500000,
+      "volumen": 11000,
+      "sentiment": "Negative"
     },
     {
-      "tema": "Declaraciones de Scaloni sobre idea de juego y debutantes",
-      "engagement": 2500,
-      "views": 120000,
-      "volumen": 4000,
+      "tema": "Lesión Abde Ezzalzouli - Marruecos sin él",
+      "engagement": 3200,
+      "views": 160000,
+      "volumen": 3800,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Posible titular Palacios en mediocampo Argentina",
+      "engagement": 2800,
+      "views": 240000,
+      "volumen": 3500,
       "sentiment": "Positive"
     }
   ]
