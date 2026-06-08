@@ -702,10 +702,12 @@ function renderBubbleChart(raw) {
   const sorted = [...nodes].sort((a,b)=>+a.isMessi-+b.isMessi);
   sorted.forEach(d => {
     const r=d.r, x=d.x, y=d.y;
+    const sentiment = String(d.sentiment || d.Sentiment || "Neutral").toLowerCase();
     const lg=ctx.createLinearGradient(x-r,y,x+r,y);
-    if(d.isMessi){lg.addColorStop(0,"rgba(215,178,70,0.88)");lg.addColorStop(1,"rgba(201,168,76,0.78)");}
-    else{lg.addColorStop(0,"rgba(56,78,155,0.85)");lg.addColorStop(1,"rgba(42,62,130,0.75)");}
-    ctx.fillStyle=lg; ctx.strokeStyle=d.isMessi?"rgba(201,168,76,0.5)":"rgba(60,85,160,0.4)";
+    if(sentiment === "positive"){lg.addColorStop(0,"rgba(63,184,122,0.88)");lg.addColorStop(1,"rgba(45,145,95,0.78)");}
+    else if(sentiment === "negative"){lg.addColorStop(0,"rgba(224,72,72,0.88)");lg.addColorStop(1,"rgba(170,52,52,0.78)");}
+    else{lg.addColorStop(0,"rgba(122,129,158,0.85)");lg.addColorStop(1,"rgba(74,81,112,0.75)");}
+    ctx.fillStyle=lg; ctx.strokeStyle=sentiment === "positive"?"rgba(63,184,122,0.5)":sentiment === "negative"?"rgba(224,72,72,0.5)":"rgba(122,129,158,0.4)";
     ctx.lineWidth=1; ctx.beginPath(); ctx.arc(x,y,r,0,Math.PI*2); ctx.fill(); ctx.stroke();
   });
   sorted.forEach(d => {
