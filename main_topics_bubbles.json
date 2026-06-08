@@ -1,60 +1,60 @@
 {
   "topics": [
     {
-      "tema": "Meme viral \"Bomb\u00f3n Asesino\" reacci\u00f3n Scaloneta (Messi, Enzo)",
-      "engagement": 24768,
-      "views": 1395213,
-      "volumen": 15000,
-      "sentiment": "Positive"
-    },
-    {
       "tema": "Videollamada familiar Antonella y Ciro con Messi; Thiago figuritas Mundial",
-      "engagement": 5100,
-      "views": 300000,
-      "volumen": 8000,
+      "engagement": 12500,
+      "views": 650000,
+      "volumen": 14000,
       "sentiment": "Positive"
     },
     {
       "tema": "Dibu Mart\u00ednez objetivo principal de Juventus",
+      "engagement": 7500,
+      "views": 250000,
+      "volumen": 9500,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Meme viral \"Bomb\u00f3n Asesino\" / himno en concentraci\u00f3n Scaloneta",
+      "engagement": 18000,
+      "views": 800000,
+      "volumen": 16000,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Preparaci\u00f3n Scaloneta en Kansas City/Texas y entrenamientos (Nico Paz)",
+      "engagement": 5500,
+      "views": 200000,
+      "volumen": 7500,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Baja de Balerdi por lesi\u00f3n y salida del Mundial",
+      "engagement": 2500,
+      "views": 900000,
+      "volumen": 5500,
+      "sentiment": "Negative"
+    },
+    {
+      "tema": "Expectativa por el 11 inicial y esquemas de Scaloni (dupla ataque)",
+      "engagement": 3000,
+      "views": 100000,
+      "volumen": 4500,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Cuenta regresiva e ilusi\u00f3n por inicio del Mundial 2026",
       "engagement": 2000,
-      "views": 50000,
+      "views": 80000,
       "volumen": 5000,
-      "sentiment": "Neutral"
+      "sentiment": "Positive"
     },
     {
-      "tema": "Preparaci\u00f3n Scaloneta en Kansas City y entrenamientos",
-      "engagement": 3000,
+      "tema": "Declaraciones de Scaloni sobre idea de juego y debutantes",
+      "engagement": 2500,
       "views": 120000,
-      "volumen": 6000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Scaloni eval\u00faa dupla Lautaro-Juli\u00e1n \u00c1lvarez",
-      "engagement": 3000,
-      "views": 70000,
       "volumen": 4000,
       "sentiment": "Positive"
-    },
-    {
-      "tema": "Victoria Argentina 2-0 vs Honduras (amistoso)",
-      "engagement": 500,
-      "views": 15000,
-      "volumen": 3000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Faltan 3 d\u00edas para el inicio del Mundial 2026",
-      "engagement": 500,
-      "views": 12000,
-      "volumen": 4000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Consideraci\u00f3n de Palacios y esquemas de Scaloni",
-      "engagement": 400,
-      "views": 12000,
-      "volumen": 2500,
-      "sentiment": "Neutral"
     }
   ]
 }
