@@ -495,13 +495,13 @@ function buildCard(item) {
 // ── Twitter card ──────────────────────────────────────────────
 function buildTwitterCard(item) {
   const gc      = item.gold ? " gold" : "";
-  const handle  = extractHandle(item.autor || item.Autor || "");
-  const texto   = (item.texto  || item.Texto  || "").replace(/\n/g, ' ');
-  const desc    = item.descripción || item.Descripción || "";
-  const likes   = item.likes   !== undefined ? item.likes   : (item.Likes   || 0);
-  const reposts = item.reposts !== undefined ? item.reposts : (item.Reposts || 0);
-  const replies = item.replies !== undefined ? item.replies : (item.Replies || 0);
-  const url     = item.url || item.link || "";
+  const handle  = extractHandle(item.autor || "");
+  const texto   = (item.posteo_destacado || "").replace(/\n/g, ' ');
+  const desc    = item.resumen || "";
+  const likes   = item.likes   || 0;
+  const reposts = item.reposts || 0;
+  const replies = item.replies || 0;
+  const url     = item.link || item.url || "";
   const open    = url ? "window.open('" + url + "','_blank')" : "";
   const onclick = url ? ' onclick="' + open + '"' : "";
   return '<div class="card' + gc + '"' + onclick + '>'
@@ -543,7 +543,7 @@ function prepPortales(data) {
   return data.map(item => ({ ...item, gold: GOLD_KEYS.some(k => item.titulo_corto.toLowerCase().includes(k)) }));
 }
 function prepTwitter(data) {
-  return data.map(item => ({ ...item, gold: (item.pilar || item.Pilar) === "Argentina por el mundo" || GOLD_KEYS.some(k => (item.texto || item.Texto || '').toLowerCase().includes(k)) }));
+  return data.map(item => ({ ...item, gold: (item.pilar || item.Pilar) === "Argentina por el mundo" || GOLD_KEYS.some(k => (item.posteo_destacado || '').toLowerCase().includes(k)) }));
 }
 
 // ── Fetch portales ────────────────────────────────────────────
