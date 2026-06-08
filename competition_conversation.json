@@ -1,19 +1,17 @@
-{
-  "temas": [
-    {
-      "marca": "McDonald's",
-      "titulo": "FIFA World Cup 26 Meal + coleccionables (lanzamiento 4 junio)",
-      "resumen": "Lanzamiento oficial de Happy Meal temático. Sponsor oficial. Conversación residual en Argentina por rivalidad con Mostaza."
-    },
-    {
-      "marca": "Coca-Cola",
-      "titulo": "WC 2026 campaigns y collabs ongoing",
-      "resumen": "Presencia como sponsor histórico con activaciones digitales. Baja conversación orgánica específica de Argentina estos días."
-    },
-    {
-      "marca": "Mostaza",
-      "titulo": "Rivalidad McDonald’s pre-Mundial Argentina",
-      "resumen": "Campañas locales que apuntan a McDonald’s en previa al Mundial. Repercusión orgánica moderada/baja."
-    }
-  ]
-}
+[
+  {
+    "marca": "McDonalds_Ar / Mostaza_Ok",
+    "titulo": "Rivalidad McDonald’s-Mostaza pre-Mundial",
+    "resumen": "Lanzamiento de coleccionables Happy Meal y rivalidad local por activaciones Mundial, conversación residual."
+  },
+  {
+    "marca": "Coca-Cola",
+    "titulo": "WC 2026 campaigns ongoing",
+    "resumen": "Presencia como sponsor histórico con campañas digitales, menciones genéricas en contexto fútbol."
+  },
+  {
+    "marca": "BetWarrior_arg",
+    "titulo": "Activaciones apuestas Mundial",
+    "resumen": "Menciones residuales en contexto ver partidos y promos pre-debut Argentina."
+  }
+]

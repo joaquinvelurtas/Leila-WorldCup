@@ -1,60 +1,67 @@
-{
-  "topics": [
-    {
-      "tema": "Factor humano en la Scaloneta (Scaloni)",
-      "engagement": 5800,
-      "views": 230000,
-      "volumen": 3200,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Dibu entrena con una mano (lesión)",
-      "engagement": 5200,
-      "views": 420000,
-      "volumen": 4800,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Preparación Scaloneta en Kansas City",
-      "engagement": 2800,
-      "views": 310000,
-      "volumen": 6200,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Ilusión por inicio del Mundial (cuenta regresiva)",
-      "engagement": 2200,
-      "views": 190000,
-      "volumen": 5100,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Julián Álvarez tratamiento tobillo",
-      "engagement": 1200,
-      "views": 110000,
-      "volumen": 2400,
-      "sentiment": "Negative"
-    },
-    {
-      "tema": "Esquemas y posible 11 de Scaloni",
-      "engagement": 1500,
-      "views": 125000,
-      "volumen": 3800,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "De Paul rol y titularidad en Scaloneta",
-      "engagement": 1300,
-      "views": 95000,
-      "volumen": 3100,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Arquero titular: Musso vs Rulli",
-      "engagement": 700,
-      "views": 55000,
-      "volumen": 1600,
-      "sentiment": "Neutral"
+[
+  {
+    "tema": "Meme viral \"Bombón Asesino\" reacción Scaloneta",
+    "engagement": 25000,
+    "views": 1390000,
+    "volumen": 15000,
+    "sentiment": "Positive",
+    "post_destacado": {
+      "id": "2063675161304256830",
+      "autor": "@AtaqueFutbolero",
+      "enlace": "https://x.com/AtaqueFutbolero/status/2063675161304256830",
+      "likes": 23491
     }
-  ]
-}
+  },
+  {
+    "tema": "Videollamada familiar Antonella/Ciro con Messi",
+    "engagement": 7000,
+    "views": 249000,
+    "volumen": 8000,
+    "sentiment": "Positive",
+    "post_destacado": {
+      "id": "2063973845652922655",
+      "autor": "@porqueTTarg",
+      "enlace": "https://x.com/porqueTTarg/status/2063973845652922655",
+      "likes": 4438
+    }
+  },
+  {
+    "tema": "Dibu Martínez objetivo Juventus",
+    "engagement": 2000,
+    "views": 38000,
+    "volumen": 5000,
+    "sentiment": "Neutral",
+    "post_destacado": {
+      "id": "2064020007336505858",
+      "autor": "@sudanalytics_",
+      "enlace": "https://x.com/sudanalytics_/status/2064020007336505858",
+      "likes": 1509
+    }
+  },
+  {
+    "tema": "Preparación Scaloneta en Kansas City",
+    "engagement": 3000,
+    "views": 100000,
+    "volumen": 6000,
+    "sentiment": "Positive",
+    "post_destacado": {
+      "id": "2063797171237814436",
+      "autor": "@Argentina",
+      "enlace": "https://x.com/Argentina/status/2063797171237814436",
+      "likes": 2424
+    }
+  },
+  {
+    "tema": "Dupla Lautaro-Julián Álvarez",
+    "engagement": 3000,
+    "views": 69000,
+    "volumen": 4000,
+    "sentiment": "Positive",
+    "post_destacado": {
+      "id": "2063991593531494504",
+      "autor": "@AtaqueFutbolero",
+      "enlace": "https://x.com/AtaqueFutbolero/status/2063991593531494504",
+      "likes": 2922
+    }
+  }
+]

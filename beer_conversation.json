@@ -1,19 +1,17 @@
-{
-  "temas": [
-    {
-      "marca": "Michelob ULTRA",
-      "titulo": "One week until WC26 – The ULTRAs are cold",
-      "resumen": "Post oficial de la marca (cerveza patrocinadora oficial) destacando la cuenta regresiva con su cerveza light."
-    },
-    {
-      "marca": "Budweiser",
-      "titulo": "40 años sponsor oficial – Anniversary activations",
-      "resumen": "Refuerzo de posición histórica con Anniversary Pack y activaciones pre-partido en sedes del Mundial."
-    },
-    {
-      "marca": "Michelob ULTRA",
-      "titulo": "THE SUPERIOR MATCH campaign (Messi + íconos)",
-      "resumen": "Campaña global ongoing con Messi y otras figuras. Menciones residuales en contexto de previa Argentina."
-    }
-  ]
-}
+[
+  {
+    "marca": "Michelob ULTRA",
+    "titulo": "One week until WC26 – The ULTRAs are cold",
+    "resumen": "Campaña de cuenta regresiva oficial con énfasis en cerveza fría para el Mundial, menciones residuales en contexto Scaloneta."
+  },
+  {
+    "marca": "Budweiser",
+    "titulo": "40 años sponsor oficial – Anniversary activations",
+    "resumen": "Refuerzo histórico como sponsor, activaciones pre-partido con menciones en X sobre ver partidos con cerveza."
+  },
+  {
+    "marca": "Michelob ULTRA",
+    "titulo": "THE SUPERIOR MATCH campaign",
+    "resumen": "Campaña global con Messi y íconos, ongoing con menciones en Argentina."
+  }
+]
