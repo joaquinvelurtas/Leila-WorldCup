@@ -12,60 +12,70 @@
       {
         "titulo_corto": "Outfit del mundil",
         "resumen": "Un posteo de Reddit muestra un contenido humorístico y visual sobre un outfit armado con figuritas del Mundial. El contenido conecta cultura mundialista, estética viral y conversación de meme alrededor del torneo.",
-        "medio": "Reddit"
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/worldcup/comments/ejemplo/outfit-del-mundil-1"
       },
       {
         "titulo_corto": "Astrólogo analiza a Messi",
         "resumen": "Una nota presenta la lectura de un astrólogo sobre la condición que debería cumplir Messi para que Argentina tenga éxito. El contenido activa superstición, juego y conversación liviana en la previa mundialista.",
-        "medio": "TN"
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial-2026/ejemplo/astrologo-analiza-a-messi-2"
       }
     ],
     "Equipo": [
       {
         "titulo_corto": "Siete días para Argentina",
         "resumen": "Un posteo de Reddit expresa expectativa directa por la cercanía del partido de Argentina. Funciona como señal de ansiedad positiva y entusiasmo de comunidad en torno a la Selección.",
-        "medio": "Reddit"
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/worldcup/comments/ejemplo/siete-dias-para-argentina-1"
       },
       {
         "titulo_corto": "Dibu figura en Kansas",
         "resumen": "La cobertura destaca a Dibu Martínez como protagonista del entrenamiento abierto de la Selección en Kansas City. La nota muestra preparación deportiva, clima de hinchada y foco en jugadores clave antes del Mundial.",
-        "medio": "Infobae"
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/mundial-2026/ejemplo/dibu-figura-en-kansas-2"
       }
     ],
     "Controversia": [
       {
         "titulo_corto": "Entradas bajo sospecha",
         "resumen": "Un posteo de Reddit acusa a FIFA de liberar sectores enteros de entradas en canales de reventa a precios más bajos que los oficiales. El contenido instala malestar por acceso desigual, precios y trato al hincha común.",
-        "medio": "Reddit"
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/worldcup/comments/ejemplo/entradas-bajo-sospecha-1"
       },
       {
         "titulo_corto": "Mundial para millonarios",
         "resumen": "Otro posteo de Reddit critica los valores de las entradas para ver a Argentina y plantea que el Mundial quedó fuera del alcance del hincha promedio. El foco está puesto en la codicia de FIFA y en la pérdida del carácter popular del torneo.",
-        "medio": "Reddit"
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/worldcup/comments/ejemplo/mundial-para-millonarios-2"
       }
     ],
     "Color en la tribuna": [
       {
         "titulo_corto": "Hinchas rumbo a Kansas",
         "resumen": "Una nota calcula cuánto cuesta viajar a Kansas para ver el primer partido de la Selección en el Mundial 2026. El contenido aterriza la experiencia mundialista en consumo, viaje y acceso real de los hinchas argentinos.",
-        "medio": "Infobae"
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/mundial-2026/ejemplo/hinchas-rumbo-a-kansas-1"
       },
       {
         "titulo_corto": "Ciclistas con Scaloni",
         "resumen": "Un grupo de ciclistas argentinos se cruza con Scaloni en Kansas en plena previa mundialista. La historia refleja un tipo de hinchada que rompe la rutina de la cobertura deportiva y aporta color humano al seguimiento de la Selección.",
-        "medio": "Olé"
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/seleccion/ejemplo/ciclistas-con-scaloni-2"
       }
     ],
     "Argentina por el mundo": [
       {
         "titulo_corto": "Messi premiado en España",
         "resumen": "Messi fue distinguido con el Premio Princesa de Asturias de los Deportes 2026. La noticia refuerza la proyección internacional del capitán argentino y convierte el reconocimiento global en orgullo nacional.",
-        "medio": "Infobae"
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/mundial-2026/ejemplo/messi-premiado-en-espana-1"
       },
       {
         "titulo_corto": "Barcelona saluda a Messi",
         "resumen": "Barcelona le dedicó un mensaje a Lionel Messi en la previa del Mundial 2026. El gesto conecta el pasado europeo del capitán con su presente mundialista y sostiene su figura dentro de una conversación global.",
-        "medio": "TN"
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial-2026/ejemplo/barcelona-saluda-a-messi-2"
       }
     ]
   }
