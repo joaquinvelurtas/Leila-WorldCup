@@ -55,6 +55,20 @@
       "views": 240000,
       "volumen": 3500,
       "sentiment": "Positive"
+    },
+    {
+      "tema": "Cuenta regresiva: Faltan 3 d\u00edas para el Mundial 2026",
+      "engagement": 600,
+      "views": 15000,
+      "volumen": 2000,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Tiroteo cerca concentraci\u00f3n Inglaterra en Kansas City",
+      "engagement": 2400,
+      "views": 180000,
+      "volumen": 3200,
+      "sentiment": "Negative"
     }
   ]
 }
