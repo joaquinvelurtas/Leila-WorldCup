@@ -1,81 +1,89 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales está dominada por la previa inmediata de la Selección argentina en el Mundial 2026. Los temas más repetidos son la preparación del equipo de Scaloni, el estado físico de jugadores clave, la lectura de rivales y el rol de Messi como figura central de la expectativa pública. También aparecen contenidos de color y entretenimiento alrededor de Messi, Antonela y Quico, junto con focos de controversia vinculados a AFA, seguridad en Kansas, restricciones de transmisión y condiciones organizativas del torneo."
+      "summary": "La conversación en portales está dominada por la previa deportiva inmediata de la Selección Argentina: estado físico de jugadores, decisiones de Scaloni, amistoso ante Islandia y debut frente a Argelia. En segundo plano aparecen contenidos de controversia vinculados a seguridad, restricciones de transmisión y declaraciones provocadoras de rivales. También hay una capa más liviana de conversación alrededor de Messi, supersticiones, viralidad y símbolos de hinchada."
     },
     "reddit": {
-      "summary": "La conversación relevante en Reddit es más chica y dispersa que la de portales, pero se concentra en la expectativa por ver a Argentina, el primer rival, predicciones mundialistas y la experiencia concreta del hincha para mirar los partidos. El tono predominante es liviano, anticipatorio y comunitario: menos análisis deportivo profundo y más ritual, humor, recomendaciones prácticas y conversación de hinchada."
+      "summary": "La conversación relevante en Reddit está dividida entre expectativa mundialista y experiencia de hincha. Por un lado aparecen posteos emocionales sobre volver a ver a la Selección, el debut ante Argelia y el peso simbólico de Messi fuera de Argentina, especialmente en Bangladesh. Por otro lado, la comunidad baja el Mundial a problemas prácticos y cotidianos, como ver los partidos sin delay. También aparece una línea de controversia política que usa el Mundial como contexto de oportunidad mediática, y una capa humorística típica de Reddit basada en memes, tier lists y chicanas futboleras."
     }
   },
   "pilares": {
+    "Equipo": [
+      {
+        "titulo_corto": "Scaloni define el equipo",
+        "resumen": "La cobertura sigue la preparación final de Argentina antes del amistoso con Islandia, con foco en la conferencia de Scaloni, las pruebas de formación y los ajustes previos al Mundial. Es una pieza central de la previa deportiva porque ordena la conversación alrededor del equipo, los nombres propios y el debut mundialista.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/08/la-seleccion-tendra-su-ultimo-entrenamiento-antes-del-amistoso-con-islandia-que-formacion-piensa-scaloni"
+      },
+      {
+        "titulo_corto": "El primer rival argentino",
+        "resumen": "Un posteo de Reddit parte de la previa del Mundial y del primer rival argentino para explicar la diferencia entre “Argelia” y “Algeria”. El contenido transforma un dato de fixture en conversación cultural, lingüística y de preparación ante el debut.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1u04blq/el_primer_rival_argelia_o_algeria/"
+      }
+    ],
     "Humor": [
       {
         "titulo_corto": "Bruja predice a Argentina",
-        "resumen": "Una nota de TN lleva la previa mundialista al terreno de la superstición y el entretenimiento con una predicción sobre el futuro de Argentina en el Mundial. El contenido funciona como pieza liviana y viralizable, activando conversación lúdica alrededor de la Selección y de la expectativa por el torneo.",
+        "resumen": "La nota trabaja el costado supersticioso y liviano de la previa mundialista. No aporta análisis deportivo duro, sino conversación de color, creencias, predicciones y expectativa emocional alrededor de Argentina.",
         "medio": "TN",
         "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/08/la-prediccion-de-una-tarotista-sobre-el-futuro-de-argentina-en-el-mundial-2026-eso-esta-en-el-corazon"
       },
       {
-        "titulo_corto": "Kun y Messi turbina",
-        "resumen": "Un posteo de Reddit recupera una imagen del Kun Agüero y Messi con tono de extrañeza y pedido de contexto. El contenido usa figuras históricas de la Selección para generar conversación informal, humorística y de archivo dentro de la comunidad.",
+        "titulo_corto": "Tier list mundialista",
+        "resumen": "Un posteo de Reddit usa el formato de tier list para anticipar discusiones futboleras del Mundial. El tono es humorístico y comunitario, basado en rankings, exageraciones y ganas de opinar con chicana.",
         "medio": "Reddit",
-        "url": "https://www.reddit.com/r/RepublicaArgentina/comments/1u08hvn/tengo_una_duda_alguien_me_cuenta_el_contexto_de/"
-      }
-    ],
-    "Equipo": [
-      {
-        "titulo_corto": "Scaloni recibe alivio",
-        "resumen": "Infobae destaca una buena noticia en la práctica de la Selección argentina a pocos días del inicio del Mundial. La nota concentra el interés deportivo en la preparación del plantel, la disponibilidad física de los jugadores y las decisiones de Scaloni para llegar al debut con mayor estabilidad.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/08/la-buena-noticia-que-recibio-scaloni-en-la-practica-de-la-seleccion-argentina-a-pocos-dias-del-inicio-del-mundial"
-      },
-      {
-        "titulo_corto": "Preocupan tres futbolistas",
-        "resumen": "TN informa sobre futbolistas que preocupan a Lionel Scaloni a una semana del debut de Argentina. El foco está puesto en molestias, lesiones y posibles decisiones de último momento, uno de los temas más repetidos en la cobertura previa del equipo.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/08/tres-futbolistas-preocupan-a-lionel-scaloni-a-una-semana-del-debut-de-la-seleccion-argentina-en-el-mundial"
+        "url": "https://www.reddit.com/r/argentina/comments/1tzcbn6/tier_list_ya_llega_el_mundial_y_con_el_las_ganas/"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "AFA bajo denuncia",
-        "resumen": "TN publica una denuncia por presunta corrupción, lavado de dinero y pedidos de declaración vinculados a Claudio Tapia y Pablo Toviggino. La noticia introduce ruido institucional en plena previa mundialista y desplaza parte de la conversación desde lo deportivo hacia la conducción del fútbol argentino.",
+        "titulo_corto": "Argelia desafía a Messi",
+        "resumen": "Una figura de Argelia desafía públicamente a la Selección Argentina antes del Mundial 2026. La nota activa tensión competitiva, orgullo nacional y expectativa alrededor del debut argentino.",
         "medio": "TN",
-        "url": "https://tn.com.ar/politica/2026/06/08/caso-afa-denuncian-por-lavado-de-dinero-a-tapia-y-toviggino-y-piden-citar-a-un-testigo-clave"
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/08/una-de-las-figuras-de-argelia-desafio-a-la-seleccion-argentina-antes-del-mundial-2026-le-ganaremos-a-messi"
       },
       {
-        "titulo_corto": "Tiroteo cerca de Argentina",
-        "resumen": "Olé informa sobre un tiroteo ocurrido cerca de la concentración argentina en Kansas. El contenido es relevante porque instala preocupación por la seguridad del entorno mundialista y conecta el seguimiento de la Selección con condiciones externas a lo estrictamente futbolístico.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/tiroteo-kansas-mundial-heridos_0_LBVtuZp1ty.html"
+        "titulo_corto": "DDJJ durante el Mundial",
+        "resumen": "Un posteo de Reddit vincula el Mundial con una maniobra de timing político: la presentación de una declaración jurada durante el torneo. El foco está puesto en sospecha pública, oportunidad mediática y uso del Mundial como pantalla de baja atención.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1u0g7b1/adorni_aprovechará_el_mundial_para_presentar_su/"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Ciclistas premiados",
-        "resumen": "Olé cuenta la historia de tres ciclistas que pedalearon desde Gualeguaychú hasta Estados Unidos y recibieron entradas para el debut de la Selección. La pieza condensa épica de hinchada, sacrificio personal y color humano alrededor de la presencia argentina en el Mundial.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/premio-entradas-mundial-ciclistas-gualeguaychu-estados-unidos_0_XnbOQ2shlF.html"
-      },
-      {
-        "titulo_corto": "Partidos sin delay",
-        "resumen": "Un posteo de Reddit recomienda usar antena TDA para ver los partidos de Argentina sin retraso y no escuchar los goles antes por los vecinos. El contenido refleja una preocupación muy concreta del hincha argentino y transforma la previa mundialista en una conversación doméstica, tecnológica y comunitaria.",
+        "titulo_corto": "Antena contra el delay",
+        "resumen": "Un posteo de Reddit recomienda ver los partidos de Argentina con antena TDA para evitar el delay de apps y decodificadores. El contenido muestra una preocupación muy concreta de hinchas: no enterarse de los goles por los gritos de los vecinos antes de verlos en pantalla.",
         "medio": "Reddit",
         "url": "https://www.reddit.com/r/argentina/comments/1tzu9d3/si_quieren_ver_los_partidos_de_argentina_sin/"
+      },
+      {
+        "titulo_corto": "Remera viral de Messi",
+        "resumen": "La nota se apoya en un elemento visual y viral asociado a Messi y su entorno familiar. Muestra cómo la previa mundialista también se conversa desde símbolos, indumentaria, gestos afectivos y cultura fan.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/07/la-remera-viral-de-antonela-roccuzzo-con-la-cara-de-lionel-messi-que-exploto-en-las-redes-antes-del-mundial"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "MLS busca capitalizar el Mundial",
-        "resumen": "La Nación aborda cómo la MLS aspira a convertir la atención generada por el Mundial en beneficios duraderos. La nota es relevante porque ubica a Estados Unidos como escenario de crecimiento futbolístico y conecta esa expansión con la presencia global de Messi y el interés internacional por el torneo.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/agencias/la-mls-aspira-a-convertir-la-atencion-generada-por-el-mundial-en-beneficios-duraderos-nid08062026"
+        "titulo_corto": "Bangladesh ama a Argentina",
+        "resumen": "Un usuario de Bangladesh explica el vínculo emocional de su país con la Selección Argentina, desde Maradona en 1986 hasta Messi en 2026. El posteo muestra una comunidad extranjera que vive el Mundial argentino como propio y que interpreta el torneo como una posible última Copa del Mundo para Messi.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1u0h4zm/bangladesh_has_more_argentina_fans_per_capita/"
       },
       {
-        "titulo_corto": "Quico visita a Messi",
-        "resumen": "Olé cubre la visita de Quico a Lionel Messi y el regalo sorpresa que le llevó. La noticia refuerza el lugar de Messi como figura argentina de alcance internacional, capaz de reunir cultura popular latinoamericana, nostalgia televisiva y conversación mundialista.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/messi/quico-visita-lionelmessi-regalo-sorpresa_0_0yX0nVVoVM.html"
+        "titulo_corto": "Messi inspira en China",
+        "resumen": "La nota cuenta la historia de una liga amateur de fútbol en China que sueña con que Lionel Messi la vea jugar. El contenido refuerza la proyección internacional de Messi como símbolo argentino y figura capaz de movilizar comunidades fuera del país.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/2026/06/08/la-historia-de-la-liga-amateur-de-futbol-que-hizo-crecer-un-pueblo-en-china-y-suena-con-que-messi-la-vea-jugar"
+      }
+    ],
+    "Alcohol": [
+      {
+        "titulo_corto": "Fernet Shock en Reddit",
+        "resumen": "Un posteo ficcional y humorístico gira alrededor de “Fernet Shock” y una fórmula secreta. Es relevante dentro del pilar Alcohol por la presencia explícita de una bebida alcohólica, aunque no aparecen menciones directas a Quilmes, CMQ o cerveza.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/ArgentinaBenderStyle/comments/1tzr9a8/oc_fernet_shock_en_un_poco_de_amor_francés_o_más/"
       }
     ]
   }
