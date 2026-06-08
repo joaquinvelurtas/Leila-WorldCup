@@ -476,8 +476,11 @@ function fmtVol(n) {
 
 // ── Portales card ─────────────────────────────────────────────
 function buildCard(item) {
-  const gc = item.gold ? " gold" : "";
-  return '<div class="card' + gc + '">'
+  const gc  = item.gold ? " gold" : "";
+  const url = item.url || item.link || "";
+  const open = url ? "window.open('" + url + "','_blank')" : "";
+  const onclick = url ? ' onclick="' + open + '"' : "";
+  return '<div class="card' + gc + '"' + onclick + '>'
     + '<div class="card-top"><div class="card-header">'
     + '<div class="card-title">' + item.titulo_corto + '</div>'
     + '<div class="arrow-wrap">' + arrowSVG + '</div>'
@@ -488,6 +491,7 @@ function buildCard(item) {
     + '<span class="medio-name">' + item.medio + '</span></div></div></div>';
 }
 
+
 // ── Twitter card ──────────────────────────────────────────────
 function buildTwitterCard(item) {
   const gc      = item.gold ? " gold" : "";
@@ -497,7 +501,10 @@ function buildTwitterCard(item) {
   const likes   = item.likes   !== undefined ? item.likes   : (item.Likes   || 0);
   const reposts = item.reposts !== undefined ? item.reposts : (item.Reposts || 0);
   const replies = item.replies !== undefined ? item.replies : (item.Replies || 0);
-  return '<div class="card' + gc + '">'
+  const url     = item.url || item.link || "";
+  const open    = url ? "window.open('" + url + "','_blank')" : "";
+  const onclick = url ? ' onclick="' + open + '"' : "";
+  return '<div class="card' + gc + '"' + onclick + '>'
     + '<div class="card-top" style="gap:6px;">'
     + '<div class="tweet-text">' + texto + '</div>'
     + '<p class="tweet-desc">' + desc + '</p>'
@@ -509,11 +516,12 @@ function buildTwitterCard(item) {
     + '<span class="metric">' + repIcon  + ' ' + fmtNum(replies) + '</span>'
     + '</div>'
     + '<div class="card-divider"></div>'
-    + '<div class="card-footer" style="margin-top:13px;">' 
+    + '<div class="card-footer" style="margin-top:13px;">'
     + '<div class="x-logo-wrap">' + X_ICON + '</div>'
     + '<span class="medio-name">' + handle + '</span>'
     + '</div></div></div>';
 }
+
 
 // ── Render dashboard (generic) ────────────────────────────────
 function renderDashboard(data, targetId, cardFn) {
