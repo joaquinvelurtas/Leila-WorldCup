@@ -7,7 +7,7 @@
         {"date": "2026-06-03", "volume": 7800},
         {"date": "2026-06-04", "volume": 8200},
         {"date": "2026-06-05", "volume": 6200},
-        {"date": "2026-06-08", "volume": 7500}
+        {"date": "2026-06-08", "volume": 6500}
       ]
     },
     {
@@ -20,7 +20,7 @@
         {"date": "2026-06-03", "volume": 8100},
         {"date": "2026-06-04", "volume": 6500},
         {"date": "2026-06-05", "volume": 5100},
-        {"date": "2026-06-08", "volume": 5000}
+        {"date": "2026-06-08", "volume": 2800}
       ]
     },
     {
@@ -28,7 +28,7 @@
       "series": [
         {"date": "2026-06-04", "volume": 14000},
         {"date": "2026-06-05", "volume": 4800},
-        {"date": "2026-06-08", "volume": 9500}
+        {"date": "2026-06-08", "volume": 8500}
       ]
     },
     {
@@ -36,7 +36,7 @@
       "series": [
         {"date": "2026-06-04", "volume": 5800},
         {"date": "2026-06-05", "volume": 2400},
-        {"date": "2026-06-08", "volume": 4500}
+        {"date": "2026-06-08", "volume": 5800}
       ]
     },
     {
@@ -44,13 +44,13 @@
       "series": [
         {"date": "2026-06-04", "volume": 4800},
         {"date": "2026-06-05", "volume": 3800},
-        {"date": "2026-06-08", "volume": 4500}
+        {"date": "2026-06-08", "volume": 5200}
       ]
     },
     {
-      "topic": "Meme viral y momentos humanos Scaloneta (Bomb\u00f3n Asesino + familia)",
+      "topic": "Retenci\u00f3n Irak en aeropuerto Chicago (Mundial)",
       "series": [
-        {"date": "2026-06-08", "volume": 30000}
+        {"date": "2026-06-08", "volume": 11000}
       ]
     }
   ]
