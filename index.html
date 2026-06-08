@@ -363,7 +363,7 @@ const BEER_JSON         = BASE + "beer_conversation.json";
 const COMPETITION_JSON  = BASE + "competition_conversation.json";
 const TOPICS_JSON       = BASE + "topics_volume_evolution.json";
 const GOLD_KEYS         = ["neymar", "hoteles", "nueva jersey", "messi"];
-const PILLARS           = ["Equipo", "Humor", "Controversia", "Color en la tribuna", "Argentina por el mundo", "Alcohol"];
+const PILLARS           = ["Equipo", "Humor", "Controversia", "Color en la tribuna", "Argentina por el mundo", "Alcohol", "Cerveza"];
 const SLIDE_INTERVAL_MS = 20000;
 
 const LOGOS          = { "La Nación": BASE+"lanacion.png", "Infobae": BASE+"infobae.png", "Página/12": BASE+"pagina12.png", "TN": BASE+"tn.png", "Reddit": BASE+"reddit.png", "Ole": BASE+"ole.png", "Olé": BASE+"ole.png", "TyC": BASE+"tyc.png", "TyC Sports": BASE+"tyc.png", "TyCSports": BASE+"tyc.png" };
@@ -525,7 +525,11 @@ function buildTwitterCard(item) {
 
 // ── Render dashboard (generic) ────────────────────────────────
 function renderDashboard(data, targetId, cardFn) {
-  const presentPillars = PILLARS.filter(p => data.some(d => (d.pilar || d.Pilar) === p));
+  // Pillars present in data, ordered by PILLARS list first, then any extras
+  const inData = [...new Set(data.map(d => d.pilar || d.Pilar).filter(Boolean))];
+  const ordered = PILLARS.filter(p => inData.includes(p));
+  const extras  = inData.filter(p => !PILLARS.includes(p));
+  const presentPillars = [...ordered, ...extras];
   const el = document.getElementById(targetId);
   if (!el) return;
   el.innerHTML = "";
@@ -575,11 +579,25 @@ async function initPortales() {
 }
 
 // ── Fetch twitter posts ───────────────────────────────────────
+function parseTwitterJSON(json) {
+  if (Array.isArray(json)) return json;
+  if (json.pilares) {
+    const MAP = { "Hinchada disruptiva": "Color en la tribuna" };
+    const data = [];
+    Object.entries(json.pilares).forEach(([pilar, items]) => {
+      const p = MAP[pilar] || pilar;
+      items.forEach(item => data.push({ ...item, pilar: p }));
+    });
+    return data;
+  }
+  return [];
+}
+
 async function initTwitterPosts() {
   try {
     const res = await fetch(TWITTER_JSON);
     if (!res.ok) throw new Error("HTTP " + res.status);
-    renderDashboard(prepTwitter(await res.json()), "dashboard-twitter", buildTwitterCard);
+    renderDashboard(prepTwitter(parseTwitterJSON(await res.json())), "dashboard-twitter", buildTwitterCard);
   } catch(e) {
     console.warn("Twitter posts JSON failed:", e.message);
     renderDashboard(prepTwitter(DUMMY_TWITTER_NEWS), "dashboard-twitter", buildTwitterCard);
