@@ -1,16 +1,17 @@
 {
   "topics": [
     {
-      "topic": "Preparación Scaloneta en Kansas City",
+      "topic": "Preparaci\u00f3n Scaloneta en Kansas City",
       "series": [
         {"date": "2026-06-01", "volume": 9200},
         {"date": "2026-06-03", "volume": 7800},
         {"date": "2026-06-04", "volume": 8200},
-        {"date": "2026-06-05", "volume": 6200}
+        {"date": "2026-06-05", "volume": 6200},
+        {"date": "2026-06-08", "volume": 5500}
       ]
     },
     {
-      "topic": "Ilusión por inicio del Mundial (cuenta regresiva)",
+      "topic": "Ilusi\u00f3n por inicio del Mundial (cuenta regresiva)",
       "series": [
         {"date": "2026-05-27", "volume": 5800},
         {"date": "2026-05-28", "volume": 8200},
@@ -18,35 +19,38 @@
         {"date": "2026-06-01", "volume": 7500},
         {"date": "2026-06-03", "volume": 8100},
         {"date": "2026-06-04", "volume": 6500},
-        {"date": "2026-06-05", "volume": 5100}
+        {"date": "2026-06-05", "volume": 5100},
+        {"date": "2026-06-08", "volume": 4200}
       ]
     },
     {
-      "topic": "Dibu entrena con una mano (lesión mano)",
+      "topic": "Dibu Mart\u00ednez y futuro en el arco (Juventus rumor)",
       "series": [
         {"date": "2026-06-04", "volume": 14000},
-        {"date": "2026-06-05", "volume": 4800}
+        {"date": "2026-06-05", "volume": 4800},
+        {"date": "2026-06-08", "volume": 4800}
       ]
     },
     {
-      "topic": "Dudas por estado físico de jugadores clave (Julián Álvarez y otros)",
+      "topic": "Estado f\u00edsico y formaci\u00f3n ataque (Juli\u00e1n \u00c1lvarez / dupla)",
       "series": [
         {"date": "2026-06-04", "volume": 5800},
-        {"date": "2026-06-05", "volume": 2400}
-      ]
-    },
-    {
-      "topic": "De Paul titularidad y rol en Scaloneta",
-      "series": [
-        {"date": "2026-06-04", "volume": 4500},
-        {"date": "2026-06-05", "volume": 3100}
+        {"date": "2026-06-05", "volume": 2400},
+        {"date": "2026-06-08", "volume": 3500}
       ]
     },
     {
       "topic": "Esquemas y posible 11 de Scaloni",
       "series": [
         {"date": "2026-06-04", "volume": 4800},
-        {"date": "2026-06-05", "volume": 3800}
+        {"date": "2026-06-05", "volume": 3800},
+        {"date": "2026-06-08", "volume": 3200}
+      ]
+    },
+    {
+      "topic": "Meme viral y momentos humanos Scaloneta (Bomb\u00f3n Asesino + familia)",
+      "series": [
+        {"date": "2026-06-08", "volume": 12000}
       ]
     }
   ]
