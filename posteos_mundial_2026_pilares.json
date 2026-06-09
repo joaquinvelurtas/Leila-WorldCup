@@ -1,89 +1,69 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales está dominada por la previa deportiva inmediata de la Selección Argentina: estado físico de jugadores, decisiones de Scaloni, amistoso ante Islandia y debut frente a Argelia. En segundo plano aparecen contenidos de controversia vinculados a seguridad, restricciones de transmisión y declaraciones provocadoras de rivales. También hay una capa más liviana de conversación alrededor de Messi, supersticiones, viralidad y símbolos de hinchada."
+      "summary": "La selección elegida en portales combina previa deportiva de Argentina, presencia arbitral argentina y alertas organizativas del Mundial. Predominan el último amistoso ante Islandia, el debut mundialista de Facundo Tello, la tensión por árbitros rechazados, nuevas reglas y contenidos livianos como predicciones virales y la historia de un hincha argentino que viaja al torneo."
     },
     "reddit": {
-      "summary": "La conversación relevante en Reddit está dividida entre expectativa mundialista y experiencia de hincha. Por un lado aparecen posteos emocionales sobre volver a ver a la Selección, el debut ante Argelia y el peso simbólico de Messi fuera de Argentina, especialmente en Bangladesh. Por otro lado, la comunidad baja el Mundial a problemas prácticos y cotidianos, como ver los partidos sin delay. También aparece una línea de controversia política que usa el Mundial como contexto de oportunidad mediática, y una capa humorística típica de Reddit basada en memes, tier lists y chicanas futboleras."
+      "summary": "La conversación seleccionada en Reddit está centrada en la experiencia argentina fuera del país. Aparecen dos ejes claros: argentinos que buscan cómo seguir el Mundial desde Europa y la comunidad de Bangladesh como hinchada internacional emocionalmente conectada con la Selección y con Messi."
     }
   },
   "pilares": {
-    "Equipo": [
-      {
-        "titulo_corto": "Scaloni define el equipo",
-        "resumen": "La cobertura sigue la preparación final de Argentina antes del amistoso con Islandia, con foco en la conferencia de Scaloni, las pruebas de formación y los ajustes previos al Mundial. Es una pieza central de la previa deportiva porque ordena la conversación alrededor del equipo, los nombres propios y el debut mundialista.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/08/la-seleccion-tendra-su-ultimo-entrenamiento-antes-del-amistoso-con-islandia-que-formacion-piensa-scaloni"
-      },
-      {
-        "titulo_corto": "El primer rival argentino",
-        "resumen": "Un posteo de Reddit parte de la previa del Mundial y del primer rival argentino para explicar la diferencia entre “Argelia” y “Algeria”. El contenido transforma un dato de fixture en conversación cultural, lingüística y de preparación ante el debut.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1u04blq/el_primer_rival_argelia_o_algeria/"
-      }
-    ],
     "Humor": [
       {
-        "titulo_corto": "Bruja predice a Argentina",
-        "resumen": "La nota trabaja el costado supersticioso y liviano de la previa mundialista. No aporta análisis deportivo duro, sino conversación de color, creencias, predicciones y expectativa emocional alrededor de Argentina.",
+        "titulo_corto": "Profecía mundialista",
+        "resumen": "Una nota recupera una predicción de Baba Vanga sobre el Mundial 2026. El tema instala superstición, viralidad y conversación liviana en la previa.",
         "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/08/la-prediccion-de-una-tarotista-sobre-el-futuro-de-argentina-en-el-mundial-2026-eso-esta-en-el-corazon"
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/08/la-inquietante-profecia-de-baba-vanga-sobre-el-mundial-que-volvio-a-viralizarse-a-dias-del-comienzo-del-torneo"
+      }
+    ],
+    "Equipo": [
+      {
+        "titulo_corto": "Argentina ante Islandia",
+        "resumen": "Argentina enfrenta a Islandia en su último amistoso antes del Mundial. La nota concentra horarios, TV y expectativa por el cierre de preparación.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/09/argentina-enfrenta-a-islandia-en-su-ultimo-amistoso-antes-del-mundial-a-que-hora-es-y-donde-verlo-por-tv"
       },
       {
-        "titulo_corto": "Tier list mundialista",
-        "resumen": "Un posteo de Reddit usa el formato de tier list para anticipar discusiones futboleras del Mundial. El tono es humorístico y comunitario, basado en rankings, exageraciones y ganas de opinar con chicana.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1tzcbn6/tier_list_ya_llega_el_mundial_y_con_el_las_ganas/"
+        "titulo_corto": "Tello debuta en el Mundial",
+        "resumen": "Facundo Tello será el primer árbitro argentino en dirigir en el Mundial 2026. Su designación suma presencia nacional más allá de la Selección.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/06/08/facundo-tello-sera-el-primer-arbitro-argentino-en-debutar-en-el-mundial-2026-en-que-partido-fue-designado"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Argelia desafía a Messi",
-        "resumen": "Una figura de Argelia desafía públicamente a la Selección Argentina antes del Mundial 2026. La nota activa tensión competitiva, orgullo nacional y expectativa alrededor del debut argentino.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/08/una-de-las-figuras-de-argelia-desafio-a-la-seleccion-argentina-antes-del-mundial-2026-le-ganaremos-a-messi"
+        "titulo_corto": "Árbitro y diplomacia",
+        "resumen": "El caso de un árbitro somalí rechazado por Estados Unidos expone cruces entre FIFA, visas y diplomacia en plena antesala del Mundial.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/arbitro-historico-fifa-somalia-mundial-2026-conflicto-diplomatico-estados-unidos_0_oRUkr34eDE.html"
       },
       {
-        "titulo_corto": "DDJJ durante el Mundial",
-        "resumen": "Un posteo de Reddit vincula el Mundial con una maniobra de timing político: la presentación de una declaración jurada durante el torneo. El foco está puesto en sospecha pública, oportunidad mediática y uso del Mundial como pantalla de baja atención.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1u0g7b1/adorni_aprovechará_el_mundial_para_presentar_su/"
+        "titulo_corto": "Reglas bajo la lupa",
+        "resumen": "Olé repasa nuevas reglas del Mundial 2026. El foco abre conversación sobre VAR, demoras, expulsiones y posibles polémicas arbitrales.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/nuevas-reglas-mundial-2026-var-expulsion-demora_0_wUKLGaq9vY.html"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Antena contra el delay",
-        "resumen": "Un posteo de Reddit recomienda ver los partidos de Argentina con antena TDA para evitar el delay de apps y decodificadores. El contenido muestra una preocupación muy concreta de hinchas: no enterarse de los goles por los gritos de los vecinos antes de verlos en pantalla.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1tzu9d3/si_quieren_ver_los_partidos_de_argentina_sin/"
-      },
-      {
-        "titulo_corto": "Remera viral de Messi",
-        "resumen": "La nota se apoya en un elemento visual y viral asociado a Messi y su entorno familiar. Muestra cómo la previa mundialista también se conversa desde símbolos, indumentaria, gestos afectivos y cultura fan.",
+        "titulo_corto": "DJ argentino mundialista",
+        "resumen": "La historia de un DJ argentino que viaja al Mundial suma épica personal, fiestas y experiencia de hincha fuera de lo habitual.",
         "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/07/la-remera-viral-de-antonela-roccuzzo-con-la-cara-de-lionel-messi-que-exploto-en-las-redes-antes-del-mundial"
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/09/casi-queda-preso-en-nueva-zelanda-y-creyo-que-moria-en-japon-el-dj-argentino-que-creo-las-fiestas-del-mundial"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Bangladesh ama a Argentina",
-        "resumen": "Un usuario de Bangladesh explica el vínculo emocional de su país con la Selección Argentina, desde Maradona en 1986 hasta Messi en 2026. El posteo muestra una comunidad extranjera que vive el Mundial argentino como propio y que interpreta el torneo como una posible última Copa del Mundo para Messi.",
+        "titulo_corto": "Mundial desde España",
+        "resumen": "Un argentino en España consulta cómo ver el Mundial online sin relato español. El post refleja la experiencia del hincha lejos del país.",
         "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1u0h4zm/bangladesh_has_more_argentina_fans_per_capita/"
+        "url": "https://www.reddit.com/r/argentina/comments/1u12pdj/mundial_desde_afuera/"
       },
       {
-        "titulo_corto": "Messi inspira en China",
-        "resumen": "La nota cuenta la historia de una liga amateur de fútbol en China que sueña con que Lionel Messi la vea jugar. El contenido refuerza la proyección internacional de Messi como símbolo argentino y figura capaz de movilizar comunidades fuera del país.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/2026/06/08/la-historia-de-la-liga-amateur-de-futbol-que-hizo-crecer-un-pueblo-en-china-y-suena-con-que-messi-la-vea-jugar"
-      }
-    ],
-    "Alcohol": [
-      {
-        "titulo_corto": "Fernet Shock en Reddit",
-        "resumen": "Un posteo ficcional y humorístico gira alrededor de “Fernet Shock” y una fórmula secreta. Es relevante dentro del pilar Alcohol por la presencia explícita de una bebida alcohólica, aunque no aparecen menciones directas a Quilmes, CMQ o cerveza.",
+        "titulo_corto": "Bangladesh con Argentina",
+        "resumen": "Un usuario de Bangladesh explica el vínculo histórico de su país con Argentina, Maradona y Messi, y vive 2026 como una despedida emocional.",
         "medio": "Reddit",
-        "url": "https://www.reddit.com/r/ArgentinaBenderStyle/comments/1tzr9a8/oc_fernet_shock_en_un_poco_de_amor_francés_o_más/"
+        "url": "https://www.reddit.com/r/argentina/comments/1u0h4zm/bangladesh_has_more_argentina_fans_per_capita/"
       }
     ]
   }
