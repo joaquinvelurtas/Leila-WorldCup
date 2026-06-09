@@ -1,17 +1,18 @@
 {
   "topics": [
     {
-      "topic": "Preparaci\u00f3n Scaloneta en Kansas City",
+      "topic": "Preparación Scaloneta previo amistoso y debut",
       "series": [
         {"date": "2026-06-01", "volume": 9200},
         {"date": "2026-06-03", "volume": 7800},
         {"date": "2026-06-04", "volume": 8200},
         {"date": "2026-06-05", "volume": 6200},
-        {"date": "2026-06-08", "volume": 6500}
+        {"date": "2026-06-08", "volume": 6500},
+        {"date": "2026-06-09", "volume": 5800}
       ]
     },
     {
-      "topic": "Ilusi\u00f3n por inicio del Mundial (cuenta regresiva)",
+      "topic": "Ilusión por inicio del Mundial (cuenta regresiva)",
       "series": [
         {"date": "2026-05-27", "volume": 5800},
         {"date": "2026-05-28", "volume": 8200},
@@ -20,37 +21,38 @@
         {"date": "2026-06-03", "volume": 8100},
         {"date": "2026-06-04", "volume": 6500},
         {"date": "2026-06-05", "volume": 5100},
-        {"date": "2026-06-08", "volume": 2800}
+        {"date": "2026-06-08", "volume": 2800},
+        {"date": "2026-06-09", "volume": 4200}
       ]
     },
     {
-      "topic": "Dibu Mart\u00ednez y futuro en el arco (Juventus rumor)",
-      "series": [
-        {"date": "2026-06-04", "volume": 14000},
-        {"date": "2026-06-05", "volume": 4800},
-        {"date": "2026-06-08", "volume": 8500}
-      ]
-    },
-    {
-      "topic": "Estado f\u00edsico y formaci\u00f3n ataque (Juli\u00e1n \u00c1lvarez / dupla)",
+      "topic": "Estado físico y formación ataque (Julián Álvarez / dupla + Messi minutos)",
       "series": [
         {"date": "2026-06-04", "volume": 5800},
         {"date": "2026-06-05", "volume": 2400},
-        {"date": "2026-06-08", "volume": 5800}
+        {"date": "2026-06-08", "volume": 5800},
+        {"date": "2026-06-09", "volume": 4500}
       ]
     },
     {
-      "topic": "Esquemas y posible 11 de Scaloni",
+      "topic": "Esquemas y posible 11 de Scaloni (conferencia previa Islandia)",
       "series": [
         {"date": "2026-06-04", "volume": 4800},
         {"date": "2026-06-05", "volume": 3800},
-        {"date": "2026-06-08", "volume": 5200}
+        {"date": "2026-06-08", "volume": 5200},
+        {"date": "2026-06-09", "volume": 5100}
       ]
     },
     {
-      "topic": "Retenci\u00f3n Irak en aeropuerto Chicago (Mundial)",
+      "topic": "Amistoso Argentina vs Islandia (último test)",
       "series": [
-        {"date": "2026-06-08", "volume": 11000}
+        {"date": "2026-06-09", "volume": 2800}
+      ]
+    },
+    {
+      "topic": "Hype hinchas y expectativa Scaloneta / Mundial",
+      "series": [
+        {"date": "2026-06-09", "volume": 1900}
       ]
     }
   ]
