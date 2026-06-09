@@ -1,74 +1,60 @@
 {
   "topics": [
     {
-      "tema": "Dibu Mart\u00ednez objetivo principal de Juventus",
-      "engagement": 7500,
-      "views": 150000,
-      "volumen": 8500,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Estado f\u00edsico Scaloneta y reemplazo Balerdi",
-      "engagement": 4500,
-      "views": 350000,
-      "volumen": 5500,
-      "sentiment": "Negative"
-    },
-    {
-      "tema": "Dupla Lautaro-Juli\u00e1n \u00c1lvarez en ataque (Scaloni)",
-      "engagement": 5000,
+      "tema": "Amistoso Argentina vs Islandia (último test previo al Mundial)",
+      "engagement": 1800,
       "views": 120000,
-      "volumen": 6000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Declaraciones Argelia \"le ganaremos a Messi\"",
-      "engagement": 700,
-      "views": 95000,
       "volumen": 2500,
-      "sentiment": "Negative"
-    },
-    {
-      "tema": "Hinchas argentinos en Miami (60 mil)",
-      "engagement": 5000,
-      "views": 90000,
-      "volumen": 4500,
       "sentiment": "Positive"
     },
     {
-      "tema": "Retenci\u00f3n Irak en aeropuerto Chicago (Mundial)",
-      "engagement": 10500,
-      "views": 500000,
-      "volumen": 11000,
-      "sentiment": "Negative"
-    },
-    {
-      "tema": "Lesión Abde Ezzalzouli - Marruecos sin él",
-      "engagement": 3200,
-      "views": 160000,
-      "volumen": 3800,
+      "tema": "Conferencia y declaraciones de Scaloni (plantel y Messi minutos)",
+      "engagement": 1400,
+      "views": 200000,
+      "volumen": 2100,
       "sentiment": "Neutral"
     },
     {
-      "tema": "Posible titular Palacios en mediocampo Argentina",
-      "engagement": 2800,
-      "views": 240000,
-      "volumen": 3500,
+      "tema": "Minutos de Messi ante Islandia y estado físico Scaloneta",
+      "engagement": 1100,
+      "views": 95000,
+      "volumen": 1600,
       "sentiment": "Positive"
     },
     {
-      "tema": "Cuenta regresiva: Faltan 3 d\u00edas para el Mundial 2026",
+      "tema": "Preparación final y cuenta regresiva para debut vs Argelia",
+      "engagement": 900,
+      "views": 110000,
+      "volumen": 1800,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Posible 11 y esquemas de Scaloni (dupla ataque, Palacios)",
+      "engagement": 800,
+      "views": 85000,
+      "volumen": 1400,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Hype y expectativa hinchas por la Scaloneta y Mundial 2026",
+      "engagement": 1200,
+      "views": 130000,
+      "volumen": 1900,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Colección cervezas de los 48 países del Mundial (viral)",
+      "engagement": 1200,
+      "views": 70000,
+      "volumen": 1500,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Activaciones sponsor Quilmes y Schneider en previa Mundial",
       "engagement": 600,
-      "views": 15000,
-      "volumen": 2000,
+      "views": 45000,
+      "volumen": 900,
       "sentiment": "Positive"
-    },
-    {
-      "tema": "Tiroteo cerca concentraci\u00f3n Inglaterra en Kansas City",
-      "engagement": 2400,
-      "views": 180000,
-      "volumen": 3200,
-      "sentiment": "Negative"
     }
   ]
 }
