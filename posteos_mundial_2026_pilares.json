@@ -1,69 +1,87 @@
 {
   "overview": {
     "portales": {
-      "summary": "La selección elegida en portales combina previa deportiva de Argentina, presencia arbitral argentina y alertas organizativas del Mundial. Predominan el último amistoso ante Islandia, el debut mundialista de Facundo Tello, la tensión por árbitros rechazados, nuevas reglas y contenidos livianos como predicciones virales y la historia de un hincha argentino que viaja al torneo."
+      "summary": "La conversación en portales queda concentrada en la previa inmediata de Argentina para el Mundial 2026. Predomina el foco en la Selección, Messi como líder emocional, la cobertura en vivo del equipo y el clima de ilusión tras la goleada ante Islandia. En paralelo aparecen contenidos de color vinculados a la fiesta inaugural y a argentinos en Kansas, además de controversias regionales e institucionales alrededor del torneo."
     },
     "reddit": {
-      "summary": "La conversación seleccionada en Reddit está centrada en la experiencia argentina fuera del país. Aparecen dos ejes claros: argentinos que buscan cómo seguir el Mundial desde Europa y la comunidad de Bangladesh como hinchada internacional emocionalmente conectada con la Selección y con Messi."
+      "summary": "La conversación relevante en Reddit combina entusiasmo por el rendimiento de la Selección, especialmente por Valentín Barco, con humor anticipatorio sobre el Mundial y organización de hinchas argentinos en Kansas. El tono es comunitario, ansioso y lúdico: se mezclan ilusión deportiva, memes, predicciones absurdas y búsqueda de puntos de encuentro para vivir el debut argentino."
     }
   },
   "pilares": {
-    "Humor": [
-      {
-        "titulo_corto": "Profecía mundialista",
-        "resumen": "Una nota recupera una predicción de Baba Vanga sobre el Mundial 2026. El tema instala superstición, viralidad y conversación liviana en la previa.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/08/la-inquietante-profecia-de-baba-vanga-sobre-el-mundial-que-volvio-a-viralizarse-a-dias-del-comienzo-del-torneo"
-      }
-    ],
     "Equipo": [
       {
-        "titulo_corto": "Argentina ante Islandia",
-        "resumen": "Argentina enfrenta a Islandia en su último amistoso antes del Mundial. La nota concentra horarios, TV y expectativa por el cierre de preparación.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/09/argentina-enfrenta-a-islandia-en-su-ultimo-amistoso-antes-del-mundial-a-que-hora-es-y-donde-verlo-por-tv"
-      },
-      {
-        "titulo_corto": "Tello debuta en el Mundial",
-        "resumen": "Facundo Tello será el primer árbitro argentino en dirigir en el Mundial 2026. Su designación suma presencia nacional más allá de la Selección.",
+        "titulo_corto": "Messi promete entrega",
+        "resumen": "Messi les prometió a los hinchas que Argentina dejará todo en el Mundial. La nota refuerza liderazgo, expectativa y vínculo emocional con la Selección.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/08/facundo-tello-sera-el-primer-arbitro-argentino-en-debutar-en-el-mundial-2026-en-que-partido-fue-designado"
-      }
-    ],
-    "Controversia": [
-      {
-        "titulo_corto": "Árbitro y diplomacia",
-        "resumen": "El caso de un árbitro somalí rechazado por Estados Unidos expone cruces entre FIFA, visas y diplomacia en plena antesala del Mundial.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/arbitro-historico-fifa-somalia-mundial-2026-conflicto-diplomatico-estados-unidos_0_oRUkr34eDE.html"
+        "url": "https://www.infobae.com/deportes/2026/06/10/el-mensaje-de-lionel-messi-para-los-hinchas-a-7-dias-del-debut-en-el-mundial-vamos-a-dejar-todo"
       },
       {
-        "titulo_corto": "Reglas bajo la lupa",
-        "resumen": "Olé repasa nuevas reglas del Mundial 2026. El foco abre conversación sobre VAR, demoras, expulsiones y posibles polémicas arbitrales.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/nuevas-reglas-mundial-2026-var-expulsion-demora_0_wUKLGaq9vY.html"
+        "titulo_corto": "Selección al día",
+        "resumen": "Cobertura actualizada de TN sobre la Selección argentina en la previa mundialista. Funciona como eje informativo para seguir al equipo día a día.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/10/tras-la-goleada-a-islandia-la-seleccion-llego-a-kansas-y-comienza-la-cuenta-regresiva-hacia-el-mundial"
+      },
+      {
+        "titulo_corto": "Barco ilusiona",
+        "resumen": "Posteo sobre la gran actuación de Valentín Barco ante Islandia. En Reddit aparece como señal de ilusión por el recambio y el presente del equipo.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1u1yuck/la_increíble_actuación_de_valentín_barco_contra/"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "DJ argentino mundialista",
-        "resumen": "La historia de un DJ argentino que viaja al Mundial suma épica personal, fiestas y experiencia de hincha fuera de lo habitual.",
+        "titulo_corto": "Fiesta inaugural",
+        "resumen": "La nota detalla la fiesta inaugural del Mundial 2026, con artistas, horarios y transmisión. Aporta color de espectáculo al inicio del torneo.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/06/10/todos-los-detalles-de-la-primera-fiesta-inaugural-del-mundial-2026-artistas-horario-y-como-verla-en-vivo"
+      },
+      {
+        "titulo_corto": "Fiesta argentina en Kansas",
+        "resumen": "Un usuario pregunta por fiestas argentinas en Kansas para el primer partido. Refleja organización de hinchas y búsqueda de comunidad en sede.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/SeleccionArgentina/comments/1u18lgz/where_is_the_argentinian_party_for_the_first_game/"
+      }
+    ],
+    "Humor": [
+      {
+        "titulo_corto": "Memes ante Islandia",
+        "resumen": "La nota reúne memes de la goleada argentina ante Islandia. El foco está en Messi, Barco y la ilusión por la Scaloneta en clave viral.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/06/10/los-memes-que-dejo-la-goleada-argentina-ante-islandia-antes-del-mundial-messi-barco-y-la-ilusion-por-la-scaloneta"
+      },
+      {
+        "titulo_corto": "Predicciones mundialistas",
+        "resumen": "Posteo de predicciones sobre eventos posibles durante el Mundial. Mezcla humor, ansiedad social, política y fantasías absurdas de comunidad.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1u1yytb/predigamos_eventos_que_ocurrirán_durante_el/"
+      }
+    ],
+    "Controversia": [
+      {
+        "titulo_corto": "La quinta estrella uruguaya",
+        "resumen": "Lugano pidió la quinta estrella para Uruguay y criticó a hinchas argentinos. La nota instala rivalidad regional y disputa simbólica mundialista.",
         "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/09/casi-queda-preso-en-nueva-zelanda-y-creyo-que-moria-en-japon-el-dj-argentino-que-creo-las-fiestas-del-mundial"
+        "url": "https://tn.com.ar/deportes/futbol-internacional/2026/06/09/un-exfutbolista-reclamo-por-la-quinta-estrella-en-el-escudo-de-uruguay-y-critico-a-los-hinchas-argentinos"
+      },
+      {
+        "titulo_corto": "Árbitro y diplomacia",
+        "resumen": "El caso de un árbitro derivó en conflicto diplomático alrededor del Mundial. La cobertura suma tensión institucional y política al torneo.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/arbitro-historico-fifa-somalia-mundial-2026-conflicto-diplomatico-estados-unidos_0_oRUkr34eDE.html"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Mundial desde España",
-        "resumen": "Un argentino en España consulta cómo ver el Mundial online sin relato español. El post refleja la experiencia del hincha lejos del país.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1u12pdj/mundial_desde_afuera/"
+        "titulo_corto": "Mate argentino en Kansas",
+        "resumen": "Historia de una argentina en Estados Unidos que creó cafés con mate en Kansas. Refuerza identidad nacional y presencia argentina en sede mundialista.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/10/su-papa-es-argentino-y-ella-creo-tres-cafes-que-sirven-mate-en-kansas-cuanto-sale-y-su-sueno-para-el-mundial"
       },
       {
-        "titulo_corto": "Bangladesh con Argentina",
-        "resumen": "Un usuario de Bangladesh explica el vínculo histórico de su país con Argentina, Maradona y Messi, y vive 2026 como una despedida emocional.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1u0h4zm/bangladesh_has_more_argentina_fans_per_capita/"
+        "titulo_corto": "Empanadas tucumanas en Kansas",
+        "resumen": "Una tucumana instalada en Kansas prepara miles de empanadas para el Mundial. La nota muestra cultura argentina, gastronomía y orgullo migrante.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/10/es-tucumana-conquisto-kansas-con-sus-empanadas-y-ahora-espera-vender-mas-de-100-mil-para-el-mundial-2026"
       }
     ]
   }
