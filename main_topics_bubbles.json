@@ -1,59 +1,59 @@
 {
   "topics": [
     {
-      "tema": "Amistoso Argentina vs Islandia (último test previo al Mundial)",
-      "engagement": 1800,
-      "views": 120000,
-      "volumen": 2500,
+      "tema": "Goleada Argentina 3-0 vs Islandia",
+      "engagement": 4019,
+      "views": 88247,
+      "volumen": 3200,
       "sentiment": "Positive"
     },
     {
-      "tema": "Conferencia y declaraciones de Scaloni (plantel y Messi minutos)",
-      "engagement": 1400,
-      "views": 200000,
-      "volumen": 2100,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Minutos de Messi ante Islandia y estado físico Scaloneta",
-      "engagement": 1100,
-      "views": 95000,
-      "volumen": 1600,
+      "tema": "Momento viral Messi con hijo de Gudjohnsen",
+      "engagement": 21087,
+      "views": 1146187,
+      "volumen": 4500,
       "sentiment": "Positive"
     },
     {
-      "tema": "Preparación final y cuenta regresiva para debut vs Argelia",
-      "engagement": 900,
-      "views": 110000,
+      "tema": "Messi récord 117 goles en la Selección",
+      "engagement": 4155,
+      "views": 35405,
       "volumen": 1800,
       "sentiment": "Positive"
     },
     {
-      "tema": "Posible 11 y esquemas de Scaloni (dupla ataque, Palacios)",
-      "engagement": 800,
-      "views": 85000,
-      "volumen": 1400,
-      "sentiment": "Positive"
+      "tema": "Provocaciones de Argelia y partido a puertas cerradas",
+      "engagement": 9522,
+      "views": 1534090,
+      "volumen": 3800,
+      "sentiment": "Neutral"
     },
     {
-      "tema": "Hype y expectativa hinchas por la Scaloneta y Mundial 2026",
-      "engagement": 1200,
-      "views": 130000,
-      "volumen": 1900,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Colección cervezas de los 48 países del Mundial (viral)",
-      "engagement": 1200,
-      "views": 70000,
-      "volumen": 1500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Activaciones sponsor Quilmes y Schneider en previa Mundial",
-      "engagement": 600,
-      "views": 45000,
+      "tema": "Mensaje de Scaloni a los hinchas argentinos",
+      "engagement": 2721,
+      "views": 67516,
       "volumen": 900,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Argentina #1 del ranking FIFA para el Mundial",
+      "engagement": 3001,
+      "views": 96771,
+      "volumen": 1300,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Expectativa por debut vs Argelia (16/6)",
+      "engagement": 1800,
+      "views": 65000,
+      "volumen": 2400,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Análisis post partido y rendimiento Scaloneta",
+      "engagement": 1200,
+      "views": 45000,
+      "volumen": 1100,
       "sentiment": "Positive"
     }
   ]
