@@ -1,21 +1,21 @@
 {
   "topics": [
     {
-      "topic": "Amistoso Argentina vs Islandia (último test)",
+      "topic": "Argentina vs Islandia",
       "series": [
         {"date": "2026-06-09", "volume": 2800},
         {"date": "2026-06-10", "volume": 4500}
       ]
     },
     {
-      "topic": "Hype hinchas y expectativa Scaloneta / Mundial",
+      "topic": "Hype hinchas y expectativa",
       "series": [
         {"date": "2026-06-09", "volume": 1900},
         {"date": "2026-06-10", "volume": 2800}
       ]
     },
     {
-      "topic": "Ilusión por inicio del Mundial (cuenta regresiva)",
+      "topic": "Ilusión por inicio del Mundial",
       "series": [
         {"date": "2026-05-27", "volume": 5800},
         {"date": "2026-05-28", "volume": 8200},
@@ -30,19 +30,19 @@
       ]
     },
     {
-      "topic": "Reacción viral Messi-Gudjohnsen + récord goles",
+      "topic": "Messi-Gudjohnsen + récord goles",
       "series": [
         {"date": "2026-06-10", "volume": 4500}
       ]
     },
     {
-      "topic": "Provocaciones y preparación Argelia para debut",
+      "topic": "Provocaciones y preparación Argelia",
       "series": [
         {"date": "2026-06-10", "volume": 3800}
       ]
     },
     {
-      "topic": "Mensajes y conferencias de Scaloni/Messi",
+      "topic": "Conferencias de Scaloni/Messi",
       "series": [
         {"date": "2026-06-09", "volume": 2100},
         {"date": "2026-06-10", "volume": 1500}
