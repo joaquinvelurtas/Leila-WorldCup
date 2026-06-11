@@ -1,79 +1,79 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación seleccionada en portales combina tres ejes: análisis deportivo de Argentina y sus rivales, estado físico de Dibu Martínez y predicciones sobre el rendimiento de la Selección. También aparecen historias de hinchas que viajan al Mundial, cruces internacionales alrededor de la figura argentina, restricciones para creadores de contenido, protestas en la apertura y una línea de alcohol vinculada a la ampliación de horarios de venta en Estados Unidos."
+      "summary": "La selección de portales combina previa deportiva de Argentina, servicios para hinchas, color mundialista y controversias sobre protestas, restricciones a influencers y logística. También aparece una línea de consumo de alcohol ligada al torneo."
     },
     "reddit": {
-      "summary": "La conversación seleccionada en Reddit se concentra en dos registros: humor/cábala futbolera alrededor del “anulo mufa” y una historia comunitaria vinculada a argentinos en el exterior. A diferencia de los portales, Reddit aparece menos informativo y más atravesado por códigos propios de comunidad, pedidos de ayuda y expresiones identitarias del hincha argentino."
+      "summary": "La selección de Reddit está centrada en humor futbolero y participación comunitaria. Predominan las cábalas, la expectativa de hinchas y una acción vinculada a argentinos en el exterior."
     }
   },
   "pilares": {
     "Equipo": [
       {
-        "titulo_corto": "Argelia golea antes del debut",
-        "resumen": "Argelia venció 4-0 a Bolivia y llega con envión al cruce con Argentina. La nota instala atención sobre el primer rival mundialista.",
+        "titulo_corto": "Argelia llega goleando",
+        "resumen": "Argelia, primer rival de Argentina, llega al debut con una goleada ante Bolivia que alimenta la lectura deportiva de la previa.",
         "medio": "La Nación",
         "url": "https://www.lanacion.com.ar/deportes/futbol/argelia-primer-rival-mundialista-de-la-argentina-supero-4-0-a-bolivia-nid11062026"
       },
       {
-        "titulo_corto": "Dibu espera estudios clave",
-        "resumen": "El estado físico de Dibu Martínez queda bajo seguimiento médico antes del debut. La nota concentra preocupación por una pieza central de Argentina.",
+        "titulo_corto": "Dibu espera estudios",
+        "resumen": "La titularidad de Dibu Martínez queda atada a un estudio médico clave antes del debut argentino en el Mundial.",
         "medio": "Infobae",
         "url": "https://www.infobae.com/deportes/2026/06/11/el-estudio-clave-que-definira-si-el-dibu-martinez-sera-titular-en-el-debut-de-argentina-en-el-mundial"
-      },
-      {
-        "titulo_corto": "Predictivo del Mundial",
-        "resumen": "La Nación proyecta escenarios del torneo y evalúa posibilidades mundialistas. El contenido ubica a Argentina dentro del mapa competitivo.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/predictivo-del-mundial-nid11062026"
-      }
-    ],
-    "Color en la tribuna": [
-      {
-        "titulo_corto": "En bici al Mundial",
-        "resumen": "Hinchas argentinos partieron hace 10 meses en bicicleta rumbo al Mundial. La historia aporta épica de viaje y color humano a la previa.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/lifestyle/desde-gualeguaychu-partieron-hace-10-meses-en-bici-para-llegar-al-mundial-messi-pone-a-calentar-el-nid10062026"
       }
     ],
     "Humor": [
       {
-        "titulo_corto": "Anulo mufa en Reddit",
-        "resumen": "Un posteo recupera la cábala del “anulo mufa” como reacción mundialista. Refleja humor argentino, superstición y ansiedad por la Selección.",
+        "titulo_corto": "Anulo mufa",
+        "resumen": "Un posteo de Reddit activa la cábala futbolera argentina con la frase 'anulo mufa' en pleno clima mundialista.",
         "medio": "Reddit",
         "url": "https://www.reddit.com/r/RepublicaArgentina/comments/1u27g76/igual_anulo_mufa/"
       },
       {
         "titulo_corto": "Tarot para Argentina",
-        "resumen": "Una tarotista anticipa hasta dónde llegaría la Selección. El contenido activa superstición, entretenimiento y conversación liviana.",
+        "resumen": "Una tarotista anticipa hasta dónde podría llegar la Selección, llevando la previa mundialista al terreno de la superstición y el color.",
         "medio": "TN",
         "url": "https://tn.com.ar/show/famosos/2026/06/11/la-tarotista-de-los-famosos-revelo-que-tan-lejos-llegara-la-seleccion-argentina-en-el-mundial-2026"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Influencers bajo riesgo",
-        "resumen": "TN advierte que subir videos del Mundial podría derivar en deportaciones. La nota instala tensión por reglas, redes y control de contenidos.",
+        "titulo_corto": "Influencers en riesgo",
+        "resumen": "La nota advierte que publicar videos del Mundial podría generar sanciones o deportación para influencers por restricciones del torneo.",
         "medio": "TN",
         "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/11/malas-noticias-para-los-influencers-subir-videos-a-sus-redes-en-el-mundial-podria-hacer-que-los-deporten"
       },
       {
-        "titulo_corto": "Protestas en la apertura",
-        "resumen": "Infobae reporta protestas que amenazan la ceremonia inaugural en México. El Mundial aparece cruzado por malestar social y tensión pública.",
+        "titulo_corto": "Protestas en México",
+        "resumen": "Las protestas en Ciudad de México amenazan con interferir en la ceremonia inaugural del Mundial y tensionan el inicio del evento.",
         "medio": "Infobae",
         "url": "https://www.infobae.com/america/the-new-york-times/2026/06/11/las-protestas-amenazan-con-interrumpir-la-ceremonia-del-mundial-en-ciudad-de-mexico"
+      }
+    ],
+    "Color en la tribuna": [
+      {
+        "titulo_corto": "Fan Fest en Buenos Aires",
+        "resumen": "La nota reúne pantallas gigantes y espacios gratuitos para ver los partidos de Argentina en Buenos Aires.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/sociedad/2026/06/10/fan-fest-en-buenos-aires-donde-estaran-las-pantallas-gigantes-para-ver-los-partidos-del-mundial-2026-gratis"
+      },
+      {
+        "titulo_corto": "En bici al Mundial",
+        "resumen": "Hinchas de Gualeguaychú viajaron durante diez meses en bicicleta para llegar al Mundial y seguir a la Selección.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/lifestyle/desde-gualeguaychu-partieron-hace-10-meses-en-bici-para-llegar-al-mundial-messi-pone-a-calentar-el-nid10062026"
       }
     ],
     "Argentina por el mundo": [
       {
         "titulo_corto": "Brasileños por Argentina",
-        "resumen": "La Nación cuenta la historia de brasileños que eligen alentar a la Selección Argentina. Refuerza el alcance regional del equipo.",
+        "resumen": "Hinchas brasileños eligen alentar a la Selección Argentina, reforzando la atracción internacional que genera el equipo.",
         "medio": "La Nación",
         "url": "https://www.lanacion.com.ar/deportes/futbol/no-traten-de-entenderlo-son-brasilenos-pero-lo-dejan-todo-por-la-seleccion-argentina-nid10062026"
       },
       {
-        "titulo_corto": "Repatriados en Grido",
-        "resumen": "Un pedido en Reddit busca apoyo para una final ligada a repatriados. El Mundial aparece como puente emocional entre argentinos en el exterior.",
+        "titulo_corto": "Repatriados por el Mundial",
+        "resumen": "Un posteo pide apoyo para una acción que busca traer familiares desde el exterior en el marco del clima mundialista.",
         "medio": "Reddit",
         "url": "https://www.reddit.com/r/RepublicaArgentina/comments/1u22r4d/llegamos_a_la_final_de_repatriados_en_grido_y/"
       }
@@ -81,7 +81,7 @@
     "Alcohol": [
       {
         "titulo_corto": "Alcohol por el Mundial",
-        "resumen": "Infobae informa que estados de EEUU ampliarán horarios de venta de alcohol durante el Mundial. El torneo impacta en consumo y regulación local.",
+        "resumen": "Algunos estados de EEUU amplían horarios de venta de alcohol durante el Mundial, conectando el torneo con consumo y bares.",
         "medio": "Infobae",
         "url": "https://www.infobae.com/estados-unidos/2026/06/10/estos-estados-de-eeuu-ampliaran-los-horarios-de-venta-de-alcohol-por-el-mundial-2026"
       }
