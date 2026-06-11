@@ -365,6 +365,7 @@ const TOPICS_JSON       = BASE + "topics_volume_evolution.json";
 const GOLD_KEYS         = ["neymar", "hoteles", "nueva jersey", "messi"];
 const PILLARS           = ["Equipo", "Humor", "Controversia", "Color en la tribuna", "Argentina por el mundo", "Alcohol", "Cerveza"];
 const SLIDE_INTERVAL_MS = 45000;
+const DATA_REFRESH_INTERVAL_MS = 60000;
 
 const LOGOS          = { "La Nación": BASE+"lanacion.png", "Infobae": BASE+"infobae.png", "Página/12": BASE+"pagina12.png", "TN": BASE+"tn.png", "Reddit": BASE+"reddit.png", "Ole": BASE+"ole.png", "Olé": BASE+"ole.png", "TyC": BASE+"tyc.png", "TyC Sports": BASE+"tyc.png", "TyCSports": BASE+"tyc.png" };
 const MEDIO_COLORS   = { "La Nación": "#1a3a6e", "Infobae": "#ff6a00", "Página/12": "#111", "TN": "#e8002d", "Reddit": "#ff4500", "Ole": "#009b3a", "Olé": "#009b3a", "TyC": "#003087", "TyC Sports": "#003087", "TyCSports": "#003087" };
@@ -444,6 +445,12 @@ const rtIcon   = '<svg width="11" height="11" viewBox="0 0 24 24" fill="currentC
 const repIcon  = '<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><path d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828a.5.5 0 0 0 .91.294l4.978-7.032a.5.5 0 0 0-.416-.782l-3.29.016c-.24 0-.448-.13-.562-.336a6.302 6.302 0 0 1 1.097-7.497l.003-.004a6.264 6.264 0 0 1 4.422-1.84.5.5 0 0 0 .499-.499v-1.2a.5.5 0 0 0-.499-.5z"/></svg>';
 
 // ── Helpers ───────────────────────────────────────────────────
+// Evita caché en archivos dinámicos para ver cambios sin F5
+function noCache(url) {
+  const sep = url.includes("?") ? "&" : "?";
+  return url + sep + "v=" + Date.now();
+}
+
 function buildLogoHTML(medio) {
   const src = LOGOS[medio] || "";
   const bg  = MEDIO_COLORS[medio]   || "#333";
@@ -567,7 +574,7 @@ function parsePortalesJSON(json) {
 
 async function initPortales() {
   try {
-    const res = await fetch(RAW_JSON);
+    const res = await fetch(noCache(RAW_JSON));
     if (!res.ok) throw new Error("HTTP " + res.status);
     const json = await res.json();
     renderDashboard(prepPortales(parsePortalesJSON(json)), "dashboard", buildCard);
@@ -595,7 +602,7 @@ function parseTwitterJSON(json) {
 
 async function initTwitterPosts() {
   try {
-    const res = await fetch(TWITTER_JSON);
+    const res = await fetch(noCache(TWITTER_JSON));
     if (!res.ok) throw new Error("HTTP " + res.status);
     renderDashboard(prepTwitter(parseTwitterJSON(await res.json())), "dashboard-twitter", buildTwitterCard);
   } catch(e) {
@@ -749,7 +756,7 @@ function rerenderBubbleIfVisible() {
 }
 async function initBubble() {
   try {
-    const res = await fetch(BUBBLE_JSON);
+    const res = await fetch(noCache(BUBBLE_JSON));
     if (!res.ok) throw new Error("HTTP " + res.status);
     const json = await res.json();
     bubbleDataCache = json.topics || json;
@@ -858,9 +865,9 @@ async function initRightPanel() {
 
   // Fetch all three in parallel
   const [beerData, compData, topicsData] = await Promise.all([
-    fetch(BEER_JSON).then(r => r.ok ? r.json() : Promise.reject()).catch(() => DUMMY_BEER),
-    fetch(COMPETITION_JSON).then(r => r.ok ? r.json() : Promise.reject()).catch(() => DUMMY_COMPETITION),
-    fetch(TOPICS_JSON).then(r => r.ok ? r.json() : Promise.reject()).catch(() => DUMMY_TOPICS)
+    fetch(noCache(BEER_JSON)).then(r => r.ok ? r.json() : Promise.reject()).catch(() => DUMMY_BEER),
+    fetch(noCache(COMPETITION_JSON)).then(r => r.ok ? r.json() : Promise.reject()).catch(() => DUMMY_COMPETITION),
+    fetch(noCache(TOPICS_JSON)).then(r => r.ok ? r.json() : Promise.reject()).catch(() => DUMMY_TOPICS)
   ]);
 
   // Top row: beer + competition
@@ -913,12 +920,12 @@ async function initOverview() {
       if (cached.portales) porS = cached.portales.summary || porS;
       if (cached.reddit)   redS = cached.reddit.summary   || redS;
     } else {
-      const r = await fetch(RAW_JSON);
+      const r = await fetch(noCache(RAW_JSON));
       if (r.ok) { const j = await r.json(); if (j.overview) { porS = (j.overview.portales||{}).summary||porS; redS = (j.overview.reddit||{}).summary||redS; } }
     }
   } catch(e) {}
   try {
-    const r = await fetch(TWITTER_OVERVIEW_JSON);
+    const r = await fetch(noCache(TWITTER_OVERVIEW_JSON));
     if (r.ok) { const j = await r.json();
       if (typeof j.overview === "string") twiS = j.overview;
       else twiS = ((j.overview||{}).twitter||{}).summary || twiS;
@@ -953,11 +960,19 @@ async function initOverview() {
   }, SLIDE_INTERVAL_MS);
 })();
 
-// ── Boot ──────────────────────────────────────────────────────
-initRightPanel();
-initPortales();
-initTwitterPosts();
-initOverview();
+// ── Boot + auto refresh ───────────────────────────────────────
+async function refreshDashboardData() {
+  await Promise.allSettled([
+    initRightPanel(),
+    initPortales(),
+    initTwitterPosts(),
+    initOverview(),
+    initBubble()
+  ]);
+}
+
+refreshDashboardData();
+setInterval(refreshDashboardData, DATA_REFRESH_INTERVAL_MS);
 </script>
 </body>
 </html>
