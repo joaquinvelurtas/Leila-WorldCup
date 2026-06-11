@@ -1,87 +1,89 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales queda concentrada en la previa inmediata de Argentina para el Mundial 2026. Predomina el foco en la Selección, Messi como líder emocional, la cobertura en vivo del equipo y el clima de ilusión tras la goleada ante Islandia. En paralelo aparecen contenidos de color vinculados a la fiesta inaugural y a argentinos en Kansas, además de controversias regionales e institucionales alrededor del torneo."
+      "summary": "La selección de portales combina análisis deportivo de Argentina, seguimiento del estado de Dibu y lectura del rival Argelia. También aparecen historias de hinchas, predicciones, controversias por reglas y protestas, adhesiones internacionales a la Scaloneta y una línea de consumo de alcohol durante el Mundial."
     },
     "reddit": {
-      "summary": "La conversación relevante en Reddit combina entusiasmo por el rendimiento de la Selección, especialmente por Valentín Barco, con humor anticipatorio sobre el Mundial y organización de hinchas argentinos en Kansas. El tono es comunitario, ansioso y lúdico: se mezclan ilusión deportiva, memes, predicciones absurdas y búsqueda de puntos de encuentro para vivir el debut argentino."
+      "summary": "La selección de Reddit se concentra en conversación de comunidad: humor cabulero con el “anulo mufa” y un pedido de apoyo ligado a argentinos en el exterior. El tono es más liviano y participativo que el de los portales, con foco en identidad, pertenencia y circulación social del Mundial."
     }
   },
   "pilares": {
     "Equipo": [
       {
-        "titulo_corto": "Messi promete entrega",
-        "resumen": "Messi les prometió a los hinchas que Argentina dejará todo en el Mundial. La nota refuerza liderazgo, expectativa y vínculo emocional con la Selección.",
+        "titulo_corto": "Argelia goleó antes del debut",
+        "resumen": "Argelia llega al cruce con Argentina tras ganarle 4-0 a Bolivia, instalando atención sobre el primer rival mundialista de la Selección.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/argelia-primer-rival-mundialista-de-la-argentina-supero-4-0-a-bolivia-nid11062026/"
+      },
+      {
+        "titulo_corto": "Dibu espera estudios",
+        "resumen": "La titularidad de Dibu Martínez queda atada a estudios médicos antes del debut de Argentina, con foco en una pieza clave del equipo.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/10/el-mensaje-de-lionel-messi-para-los-hinchas-a-7-dias-del-debut-en-el-mundial-vamos-a-dejar-todo"
+        "url": "https://www.infobae.com/deportes/2026/06/11/el-estudio-clave-que-definira-si-el-dibu-martinez-sera-titular-en-el-debut-de-argentina-en-el-mundial"
       },
       {
-        "titulo_corto": "Selección al día",
-        "resumen": "Cobertura actualizada de TN sobre la Selección argentina en la previa mundialista. Funciona como eje informativo para seguir al equipo día a día.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/10/tras-la-goleada-a-islandia-la-seleccion-llego-a-kansas-y-comienza-la-cuenta-regresiva-hacia-el-mundial"
-      },
-      {
-        "titulo_corto": "Barco ilusiona",
-        "resumen": "Posteo sobre la gran actuación de Valentín Barco ante Islandia. En Reddit aparece como señal de ilusión por el recambio y el presente del equipo.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1u1yuck/la_increíble_actuación_de_valentín_barco_contra/"
-      }
-    ],
-    "Color en la tribuna": [
-      {
-        "titulo_corto": "Fiesta inaugural",
-        "resumen": "La nota detalla la fiesta inaugural del Mundial 2026, con artistas, horarios y transmisión. Aporta color de espectáculo al inicio del torneo.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/10/todos-los-detalles-de-la-primera-fiesta-inaugural-del-mundial-2026-artistas-horario-y-como-verla-en-vivo"
-      },
-      {
-        "titulo_corto": "Fiesta argentina en Kansas",
-        "resumen": "Un usuario pregunta por fiestas argentinas en Kansas para el primer partido. Refleja organización de hinchas y búsqueda de comunidad en sede.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/SeleccionArgentina/comments/1u18lgz/where_is_the_argentinian_party_for_the_first_game/"
+        "titulo_corto": "Predictivo del Mundial",
+        "resumen": "Un modelo anticipa escenarios del Mundial y ubica la expectativa argentina dentro del mapa de candidatos y posibles cruces del torneo.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/predictivo-del-mundial-nid11062026"
       }
     ],
     "Humor": [
       {
-        "titulo_corto": "Memes ante Islandia",
-        "resumen": "La nota reúne memes de la goleada argentina ante Islandia. El foco está en Messi, Barco y la ilusión por la Scaloneta en clave viral.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/10/los-memes-que-dejo-la-goleada-argentina-ante-islandia-antes-del-mundial-messi-barco-y-la-ilusion-por-la-scaloneta"
+        "titulo_corto": "Anulo mufa mundialista",
+        "resumen": "Un posteo de Reddit recupera la cábala argentina de anular la mufa en pleno clima mundialista.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/RepublicaArgentina/comments/1u27g76/igual_anulo_mufa/"
       },
       {
-        "titulo_corto": "Predicciones mundialistas",
-        "resumen": "Posteo de predicciones sobre eventos posibles durante el Mundial. Mezcla humor, ansiedad social, política y fantasías absurdas de comunidad.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1u1yytb/predigamos_eventos_que_ocurrirán_durante_el/"
+        "titulo_corto": "Tarot mundialista",
+        "resumen": "Una tarotista anticipa hasta dónde llegaría Argentina en el Mundial y suma predicción esotérica al humor de la previa.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/show/famosos/2026/06/11/la-tarotista-de-los-famosos-revelo-que-tan-lejos-llegara-la-seleccion-argentina-en-el-mundial-2026"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "La quinta estrella uruguaya",
-        "resumen": "Lugano pidió la quinta estrella para Uruguay y criticó a hinchas argentinos. La nota instala rivalidad regional y disputa simbólica mundialista.",
+        "titulo_corto": "Influencers bajo riesgo",
+        "resumen": "Las reglas del Mundial podrían generar sanciones o deportaciones para influencers que suban videos no autorizados desde el torneo.",
         "medio": "TN",
-        "url": "https://tn.com.ar/deportes/futbol-internacional/2026/06/09/un-exfutbolista-reclamo-por-la-quinta-estrella-en-el-escudo-de-uruguay-y-critico-a-los-hinchas-argentinos"
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/11/malas-noticias-para-los-influencers-subir-videos-a-sus-redes-en-el-mundial-podria-hacer-que-los-deporten"
       },
       {
-        "titulo_corto": "Árbitro y diplomacia",
-        "resumen": "El caso de un árbitro derivó en conflicto diplomático alrededor del Mundial. La cobertura suma tensión institucional y política al torneo.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/arbitro-historico-fifa-somalia-mundial-2026-conflicto-diplomatico-estados-unidos_0_oRUkr34eDE.html"
+        "titulo_corto": "Protestas en la apertura",
+        "resumen": "Las protestas en Ciudad de México amenazan con afectar la ceremonia inaugural y suman tensión social al inicio del Mundial.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/america/the-new-york-times/2026/06/11/las-protestas-amenazan-con-interrumpir-la-ceremonia-del-mundial-en-ciudad-de-mexico"
+      }
+    ],
+    "Color en la tribuna": [
+      {
+        "titulo_corto": "En bici al Mundial",
+        "resumen": "Hinchas de Gualeguaychú viajaron durante diez meses en bicicleta para llegar al Mundial y vivir de cerca la campaña argentina.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/lifestyle/desde-gualeguaychu-partieron-hace-10-meses-en-bici-para-llegar-al-mundial-messi-pone-a-calentar-el-nid10062026"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Mate argentino en Kansas",
-        "resumen": "Historia de una argentina en Estados Unidos que creó cafés con mate en Kansas. Refuerza identidad nacional y presencia argentina en sede mundialista.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/10/su-papa-es-argentino-y-ella-creo-tres-cafes-que-sirven-mate-en-kansas-cuanto-sale-y-su-sueno-para-el-mundial"
+        "titulo_corto": "Brasileños por Argentina",
+        "resumen": "Hinchas brasileños eligen seguir a la Selección Argentina, mostrando cómo la Scaloneta despierta adhesión fuera del país.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/no-traten-de-entenderlo-son-brasilenos-pero-lo-dejan-todo-por-la-seleccion-argentina-nid10062026"
       },
       {
-        "titulo_corto": "Empanadas tucumanas en Kansas",
-        "resumen": "Una tucumana instalada en Kansas prepara miles de empanadas para el Mundial. La nota muestra cultura argentina, gastronomía y orgullo migrante.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/10/es-tucumana-conquisto-kansas-con-sus-empanadas-y-ahora-espera-vender-mas-de-100-mil-para-el-mundial-2026"
+        "titulo_corto": "Repatriados por Grido",
+        "resumen": "Un posteo pide apoyo en una final de Grido ligada a repatriar argentinos, conectando comunidad, exterior y clima mundialista.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/RepublicaArgentina/comments/1u22r4d/llegamos_a_la_final_de_repatriados_en_grido_y/"
+      }
+    ],
+    "Alcohol": [
+      {
+        "titulo_corto": "Alcohol extendido",
+        "resumen": "Algunos estados de Estados Unidos ampliarán horarios de venta de alcohol durante el Mundial, cruzando torneo y consumo.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/estados-unidos/2026/06/10/estos-estados-de-eeuu-ampliaran-los-horarios-de-venta-de-alcohol-por-el-mundial-2026"
       }
     ]
   }
