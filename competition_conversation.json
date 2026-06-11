@@ -1,19 +1,19 @@
 {
   "temas": [
     {
-      "marca": "McDonald's",
-      "titulo": "Happy Meal y coleccionables temáticos Mundial",
-      "resumen": "Novedades y lanzamientos con temática Mundial (Happy Meal coleccionable). Conversación orgánica baja-moderada en Argentina estos días, con menciones residuales de rivalidad vs Mostaza."
+      "marca": "Schneider",
+      "titulo": "Sponsor oficial y latas edición Mundial",
+      "resumen": "Activación con Enzo Fernández, latas edición limitada y promo viajar al Mundial. Presencia positiva orgánica en contexto de la Scaloneta e inicio del torneo."
     },
     {
-      "marca": "Schneider",
-      "titulo": "Sponsor oficial 'Para la sed argentina' + viajes al Mundial",
-      "resumen": "Activación como sponsor oficial con Enzo Fernández, latas edición limitada y promo para viajar al Mundial. Presencia fuerte y conversación orgánica positiva en contexto de la Scaloneta y amistoso vs Islandia."
+      "marca": "McDonald's",
+      "titulo": "Happy Meal coleccionables temáticos",
+      "resumen": "Lanzamientos y conversación residual sobre coleccionables del Mundial. Actividad orgánica baja-moderada en Argentina estos días."
     },
     {
       "marca": "Mostaza",
-      "titulo": "Rivalidad McDonald's pre-Mundial Argentina",
-      "resumen": "Campañas locales que juegan con la competencia de fast food en la previa al Mundial. Repercusión orgánica baja-moderada estos días."
+      "titulo": "Rivalidad fast-food pre-Mundial",
+      "resumen": "Campañas locales jugando con competencia McDonald's. Repercusión orgánica baja estos días."
     }
   ]
 }

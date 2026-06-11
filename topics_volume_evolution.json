@@ -1,17 +1,17 @@
 {
   "topics": [
     {
-      "topic": "Argentina vs Islandia",
+      "topic": "Arranca el Mundial 2026",
       "series": [
-        {"date": "2026-06-09", "volume": 2800},
-        {"date": "2026-06-10", "volume": 4500}
+        {"date": "2026-06-11", "volume": 12500}
       ]
     },
     {
-      "topic": "Hype hinchas y expectativa",
+      "topic": "Hype hinchas y expectativa WC",
       "series": [
         {"date": "2026-06-09", "volume": 1900},
-        {"date": "2026-06-10", "volume": 2800}
+        {"date": "2026-06-10", "volume": 2800},
+        {"date": "2026-06-11", "volume": 5800}
       ]
     },
     {
@@ -26,26 +26,30 @@
         {"date": "2026-06-05", "volume": 5100},
         {"date": "2026-06-08", "volume": 2800},
         {"date": "2026-06-09", "volume": 4200},
-        {"date": "2026-06-10", "volume": 2200}
+        {"date": "2026-06-10", "volume": 2200},
+        {"date": "2026-06-11", "volume": 7800}
       ]
     },
     {
-      "topic": "Messi-Gudjohnsen + récord goles",
+      "topic": "Messi en vs Islandia + momentos",
       "series": [
-        {"date": "2026-06-10", "volume": 4500}
+        {"date": "2026-06-10", "volume": 4500},
+        {"date": "2026-06-11", "volume": 3800}
       ]
     },
     {
-      "topic": "Provocaciones y preparación Argelia",
+      "topic": "Preparación debut vs Argelia",
       "series": [
-        {"date": "2026-06-10", "volume": 3800}
+        {"date": "2026-06-10", "volume": 3800},
+        {"date": "2026-06-11", "volume": 4500}
       ]
     },
     {
-      "topic": "Conferencias de Scaloni/Messi",
+      "topic": "Declaraciones Scaloni/Messi",
       "series": [
         {"date": "2026-06-09", "volume": 2100},
-        {"date": "2026-06-10", "volume": 1500}
+        {"date": "2026-06-10", "volume": 1500},
+        {"date": "2026-06-11", "volume": 2900}
       ]
     }
   ]
