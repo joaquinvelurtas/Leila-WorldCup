@@ -1,19 +1,19 @@
 {
   "temas": [
     {
+      "marca": "Quilmes",
+      "titulo": "Empezó el Mundial. VAMOS ARGENTINA",
+      "resumen": "Post oficial de Quilmes celebrando el arranque del Mundial 2026 con mensaje de aliento a la Scaloneta. Resonancia positiva moderada entre hinchas (47 likes en post principal)."
+    },
+    {
       "marca": "La Llama que Llama",
-      "titulo": "Spot \"Declaro la casa del country\"",
-      "resumen": "Spot emocional transmitido durante Argentina-Islandia con la llama prometiendo declarar la casa del country si Argentina campeón. Viral en X con reacciones de hinchas y menciones políticas. Alta resonancia positiva en contexto expectativa Mundial 2026."
+      "titulo": "Spot emocional previo al debut",
+      "resumen": "Continúa la conversación del spot transmitido en partidos previos (Argentina-Islandia). Hinchas recuerdan la promesa de la llama en contexto de expectativa por el debut vs Argelia."
     },
     {
       "marca": "Global (estadios)",
-      "titulo": "Precios cerveza en el Mundial 2026",
-      "resumen": "Hinchas comparten costos y experiencia de cerveza en sedes como Estadio Azteca para los partidos del Mundial. Conversación orgánica sobre consumo durante partidos y accesibilidad."
-    },
-    {
-      "marca": "Quilmes",
-      "titulo": "CoRazones + spots Mundial",
-      "resumen": "Continúa resonancia de campaña emocional (Ginóbili, Di María, etc.) y promos latas coleccionables/viajes. Menciones orgánicas positivas post-amistoso y arranque del Mundial."
+      "titulo": "Precios cerveza en sedes del WC 2026",
+      "resumen": "Hinchas comparten precios y experiencia de cerveza en estadios (ej. México ~$290). Conversación orgánica sobre accesibilidad y consumo durante partidos inaugurales."
     }
   ]
 }
