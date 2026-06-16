@@ -1,59 +1,66 @@
 {
   "topics": [
     {
-      "tema": "Senesi convocado al Mundial",
-      "engagement": 12500,
-      "views": 850000,
-      "volumen": 4200,
+      "tema": "Messi titular vs Argelia",
+      "engagement": 8500,
+      "views": 450000,
+      "volumen": 4500,
       "sentiment": "Positive"
     },
     {
-      "tema": "Preparación debut vs Argelia",
-      "engagement": 7800,
-      "views": 520000,
-      "volumen": 3100,
+      "tema": "Banderazo hinchas en Kansas (previa debut)",
+      "engagement": 2800,
+      "views": 250000,
+      "volumen": 3200,
       "sentiment": "Positive"
     },
     {
-      "tema": "Arranca el Mundial 2026",
-      "engagement": 28500,
-      "views": 2100000,
-      "volumen": 11500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Julián Álvarez listo para debut",
-      "engagement": 5200,
-      "views": 380000,
-      "volumen": 1950,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Hype hinchas y expectativa WC",
-      "engagement": 9500,
-      "views": 720000,
-      "volumen": 4800,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Último Mundial de Messi",
-      "engagement": 4800,
-      "views": 390000,
-      "volumen": 2300,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Hinchas argentinos en Miami",
-      "engagement": 4100,
-      "views": 310000,
-      "volumen": 1700,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Dibu Martínez entrena normal",
+      "tema": "Argentina debuta hoy vs Argelia",
       "engagement": 3500,
-      "views": 260000,
-      "volumen": 1400,
+      "views": 300000,
+      "volumen": 5000,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Vozinha héroe de 40 años Cabo Verde vs España",
+      "engagement": 45000,
+      "views": 3000000,
+      "volumen": 6000,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Sorpresas fase de grupos WC",
+      "engagement": 9000,
+      "views": 800000,
+      "volumen": 6000,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Video jugadores Selección antes del debut",
+      "engagement": 1800,
+      "views": 120000,
+      "volumen": 2200,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Senesi posa con camiseta #2",
+      "engagement": 1200,
+      "views": 80000,
+      "volumen": 1800,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "CONMEBOL sin victorias inicio Mundial",
+      "engagement": 4500,
+      "views": 400000,
+      "volumen": 3500,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Predicciones ARG vs Argelia",
+      "engagement": 2500,
+      "views": 200000,
+      "volumen": 4000,
       "sentiment": "Positive"
     }
   ]
