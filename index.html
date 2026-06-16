@@ -308,6 +308,53 @@
   }
   .dot { width: 7px; height: 7px; border-radius: 50%; background: #c9a84c; }
 
+
+  /* ── Slide controls ───────────────────────────────────────── */
+  .slide-controls {
+    position: absolute;
+    left: 235px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    z-index: 101;
+  }
+  .control-btn {
+    background: var(--col-bg);
+    border: 1px solid var(--border);
+    color: var(--text-secondary);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 18px;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: background 0.2s, border-color 0.2s, color 0.2s;
+  }
+  .control-btn:hover {
+    background: var(--card-hover);
+    border-color: var(--border-hover);
+    color: var(--text-primary);
+  }
+  .control-btn.wide {
+    min-width: 84px;
+  }
+
+  @media (max-width: 900px) {
+    .slide-controls {
+      left: 190px;
+      gap: 6px;
+    }
+    .control-btn {
+      padding: 5px 9px;
+      font-size: 11px;
+    }
+    .control-btn.wide {
+      min-width: 72px;
+    }
+  }
+
 </style>
 </head>
 <body>
@@ -335,6 +382,12 @@
     <img class="footer-mascot" src="barddur.png" alt="Barddur" onerror="this.style.display='none'"/>
     <span class="bottom-label" id="footer-left">Portales de Noticias</span>
   </div>
+  <div class="slide-controls">
+    <button id="prevSlide" class="control-btn" type="button" aria-label="Slide anterior">‹</button>
+    <button id="pauseSlide" class="control-btn wide" type="button" aria-label="Pausar rotación">Pausar</button>
+    <button id="nextSlide" class="control-btn" type="button" aria-label="Siguiente slide">›</button>
+  </div>
+
   <div class="bottom-pill"><span class="dot"></span>Newsroom WC 2026</div>
   <div style="display:flex;align-items:center;gap:10px;">
     <img src="https://raw.githubusercontent.com/joaquinvelurtas/Leila-WorldCup/main/wc_logo_png.png"
@@ -883,28 +936,113 @@ window.addEventListener("resize", () => {
 });
 
 
-// ── Slide rotation ────────────────────────────────────────────
+// ── Slide rotation + controls ─────────────────────────────────
 (function() {
   const slides = [
     document.getElementById("slide-1"),
     document.getElementById("slide-2"),
     document.getElementById("slide-3")
-  ];
-  let current        = 0;
+  ].filter(Boolean);
+
+  let current = 0;
   let bubbleRendered = false;
+  let isPaused = false;
+  let slideTimer = null;
+
   const footerLabels = ["Portales de Noticias", "X (Twitter)", "X (Twitter)"];
-  setInterval(() => {
-    slides[current].classList.remove("active");
-    current = (current + 1) % slides.length;
-    slides[current].classList.add("active");
+
+  function updateFooter() {
     const fl = document.getElementById("footer-left");
+    if (!fl) return;
+
     fl.style.opacity = "0";
-    setTimeout(() => { fl.textContent = footerLabels[current]; fl.style.opacity = "1"; }, 400);
-    if (current === 2 && !bubbleRendered) {
+    setTimeout(() => {
+      fl.textContent = footerLabels[current] || "";
+      fl.style.opacity = "1";
+    }, 400);
+  }
+
+  function renderBubbleWhenNeeded() {
+    if (current !== 2) return;
+
+    if (!bubbleRendered) {
       bubbleRendered = true;
       setTimeout(initBubble, 50);
+    } else {
+      setTimeout(rerenderBubbleIfVisible, 50);
     }
-  }, SLIDE_INTERVAL_MS);
+  }
+
+  function showSlide(index) {
+    if (!slides.length) return;
+
+    slides[current].classList.remove("active");
+    current = (index + slides.length) % slides.length;
+    slides[current].classList.add("active");
+
+    updateFooter();
+    renderBubbleWhenNeeded();
+  }
+
+  function nextSlide() {
+    showSlide(current + 1);
+  }
+
+  function prevSlide() {
+    showSlide(current - 1);
+  }
+
+  function stopAutoRotation() {
+    if (slideTimer) {
+      clearInterval(slideTimer);
+      slideTimer = null;
+    }
+  }
+
+  function startAutoRotation() {
+    stopAutoRotation();
+    slideTimer = setInterval(nextSlide, SLIDE_INTERVAL_MS);
+  }
+
+  function setPauseButtonText() {
+    const btn = document.getElementById("pauseSlide");
+    if (!btn) return;
+
+    btn.textContent = isPaused ? "Reanudar" : "Pausar";
+    btn.setAttribute("aria-label", isPaused ? "Reanudar rotación" : "Pausar rotación");
+  }
+
+  function togglePause() {
+    isPaused = !isPaused;
+
+    if (isPaused) {
+      stopAutoRotation();
+    } else {
+      startAutoRotation();
+    }
+
+    setPauseButtonText();
+  }
+
+  document.getElementById("pauseSlide")?.addEventListener("click", togglePause);
+
+  document.getElementById("nextSlide")?.addEventListener("click", () => {
+    nextSlide();
+
+    // Si no está pausado, reinicia el contador de 45 segundos.
+    // Así no cambia de slide inmediatamente después del click.
+    if (!isPaused) startAutoRotation();
+  });
+
+  document.getElementById("prevSlide")?.addEventListener("click", () => {
+    prevSlide();
+
+    // Si no está pausado, reinicia el contador de 45 segundos.
+    if (!isPaused) startAutoRotation();
+  });
+
+  setPauseButtonText();
+  startAutoRotation();
 })();
 
 // ── Boot + auto refresh ───────────────────────────────────────
