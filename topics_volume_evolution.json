@@ -1,52 +1,52 @@
 {
   "topics": [
     {
-      "topic": "Messi titular vs Argelia",
+      "topic": "Victoria Argentina vs Argelia",
       "series": [
-        {"date": "2026-06-16", "volume": 4500}
+        {"date": "2026-06-16", "volume": 4500},
+        {"date": "2026-06-17", "volume": 12000}
       ]
     },
     {
-      "topic": "Preparación debut vs Argelia",
+      "topic": "Emoción Scaloni cambio Messi",
       "series": [
-        {"date": "2026-06-10", "volume": 3800},
-        {"date": "2026-06-11", "volume": 4500},
-        {"date": "2026-06-12", "volume": 3100},
-        {"date": "2026-06-16", "volume": 8500}
+        {"date": "2026-06-17", "volume": 6000}
       ]
     },
     {
-      "topic": "Hype hinchas y expectativa WC",
+      "topic": "Messi récord Klose máx goleador",
+      "series": [
+        {"date": "2026-06-17", "volume": 8000}
+      ]
+    },
+    {
+      "topic": "Hype hinchas y banderazo Kansas",
       "series": [
         {"date": "2026-06-09", "volume": 1900},
         {"date": "2026-06-10", "volume": 2800},
         {"date": "2026-06-11", "volume": 5800},
         {"date": "2026-06-12", "volume": 4800},
-        {"date": "2026-06-16", "volume": 4200}
+        {"date": "2026-06-16", "volume": 4200},
+        {"date": "2026-06-17", "volume": 3500}
       ]
     },
     {
-      "topic": "Sorpresas fase de grupos WC",
-      "series": [
-        {"date": "2026-06-15", "volume": 5500},
-        {"date": "2026-06-16", "volume": 6000}
-      ]
-    },
-    {
-      "topic": "Senesi convocado al Mundial",
-      "series": [
-        {"date": "2026-06-12", "volume": 4200},
-        {"date": "2026-06-16", "volume": 1800}
-      ]
-    },
-    {
-      "topic": "Declaraciones Scaloni/Messi",
+      "topic": "Declaraciones Scaloni/Messi post debut",
       "series": [
         {"date": "2026-06-09", "volume": 2100},
         {"date": "2026-06-10", "volume": 1500},
         {"date": "2026-06-11", "volume": 2900},
         {"date": "2026-06-12", "volume": 1800},
-        {"date": "2026-06-16", "volume": 1200}
+        {"date": "2026-06-16", "volume": 1200},
+        {"date": "2026-06-17", "volume": 4500}
+      ]
+    },
+    {
+      "topic": "Sorpresas y otros resultados WC",
+      "series": [
+        {"date": "2026-06-15", "volume": 5500},
+        {"date": "2026-06-16", "volume": 6000},
+        {"date": "2026-06-17", "volume": 2500}
       ]
     }
   ]
