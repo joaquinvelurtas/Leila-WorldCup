@@ -1,83 +1,75 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales se concentra en el debut de Argentina ante Argelia y en la previa emocional de la Selección. El foco combina expectativa deportiva por Messi y Scaloni, color de hinchas en Kansas, humor por resultados inesperados del Mundial, controversias de organización y seguridad, y menciones de consumo argentino como el fernet."
+      "summary": "La conversación en portales se ordena alrededor del impacto deportivo y emocional del debut argentino: Messi como figura récord, escenarios de clasificación, hinchas en Kansas y repercusión internacional. También aparece una controversia puntual por una jugada del capitán, mientras que los errores de producción audiovisual activan una lectura más humorística que institucional."
     },
     "reddit": {
-      "summary": "La conversación relevante en Reddit aparece en clave de humor comunitario: el prode mundialista concentra frustración, cábala y chiste interno. A diferencia de portales, Reddit no ordena la previa desde la información deportiva sino desde la reacción espontánea de usuarios."
+      "summary": "La conversación relevante en Reddit suma color internacional desde Bangladesh: la comunidad de hinchas argentinos en ese país aparece como muestra de la expansión global de la Selección y de Messi. En esta selección no se incorporan posteos de alcohol por falta de menciones sólidas vinculadas al Mundial."
     }
   },
   "pilares": {
     "Humor": [
       {
-        "titulo_corto": "Memes por España-Cabo Verde",
-        "resumen": "El empate de España ante Cabo Verde dispara memes y conversación humorística por uno de los primeros golpes del Mundial.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/memes-mundial-espana-cabo-verde-goles_0_Zn2QlKgQJM.html"
+        "titulo_corto": "Memes por goles anulados",
+        "resumen": "Los memes reaccionan a los goles anulados y al triplete de Messi, transformando la tensión del debut en humor mundialista.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/memes-por-los-goles-anulados-y-el-triplete-de-lionel-messi-en-el-argentina-vs-argelia-del-mundial-nid17062026/"
       },
       {
-        "titulo_corto": "No pego una en el prode",
-        "resumen": "Meme de Reddit sobre malos resultados en el prode mundialista, con frustración futbolera tratada en clave de humor.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/ArgentinaBenderStyle/comments/1u7bv81/no_pego_una_en_el_prode/"
+        "titulo_corto": "Nombres mal escritos",
+        "resumen": "Un video oficial con errores en nombres argentinos abre una veta humorística sobre descuidos de producción en plena fiebre mundialista.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/06/17/los-errores-en-los-nombres-de-figuras-de-la-seleccion-en-un-video-oficial-del-mundial-2026-que-causaron-revuelo/"
       }
     ],
     "Equipo": [
       {
-        "titulo_corto": "Argentina debuta ante Argelia",
-        "resumen": "Cobertura del debut argentino ante Argelia: horario, TV, formaciones, Messi, Scaloni y la defensa del título.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/16/argentina-vs-argelia-en-vivo-por-el-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber"
+        "titulo_corto": "Messi iguala a Klose",
+        "resumen": "Messi firma un triplete ante Argelia e iguala a Klose como máximo goleador histórico de los Mundiales.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/834338-el-triplete-de-messi-record-que-igualo-a-klose-y-cuando-vue"
       },
       {
-        "titulo_corto": "Messi va por otra marca",
-        "resumen": "Messi llega a su sexto Mundial y queda en el centro de la expectativa argentina antes del estreno ante Argelia.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/messi/messi-sexto-mundial-seleccion_0_ePsbZSY2lQ.html"
+        "titulo_corto": "Cuentas para clasificar",
+        "resumen": "La nota explica qué necesita Argentina para avanzar tras el 3-0 ante Argelia y ordena el escenario del grupo.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/mundial/que-necesita-la-seleccion-argentina-para-clasificar-a-16avos-de-final-del-mundial-2026-id736366.html"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Disturbios en Times Square",
-        "resumen": "Incidentes entre hinchas argentinos y argelinos en Times Square tensan la previa del debut mundialista.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/16/disturbios-en-times-square-hinchas-de-argelia-y-argentina-se-enfrentaron-en-la-previa-del-partido"
-      },
-      {
-        "titulo_corto": "Polémica con árbitro FIFA",
-        "resumen": "FIFA decide no investigar a un árbitro señalado por un posible gesto supremacista y abre debate alrededor del torneo.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/mundial/fifa-investiga-arbitro-shaun-evans-mundial-gesto-supermacismo-blanco-id736316.html"
+        "titulo_corto": "Polémica por Messi",
+        "resumen": "La infracción de Messi sobre un jugador argelino abre debate arbitral y queja rival tras el debut argentino.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/la-infraccion-de-messi-que-desperto-la-polemica-y-la-queja-del-dt-de-argelia-nid17062026/"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Banderazo argentino en Kansas",
-        "resumen": "Hinchas argentinos copan Kansas City con un banderazo masivo que instala clima de previa, color y pertenencia antes del debut.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/imagenes-del-multitudinario-banderazo-argentino-en-kansas-city-id736437.html"
+        "titulo_corto": "Fila argentina en Kansas",
+        "resumen": "Miles de hinchas hacen una fila de cuatro kilómetros en Kansas para acompañar a la Selección en el debut mundialista.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/06/17/la-impresionante-fila-de-4-kilometros-de-los-hinchas-argentinos-en-kansas-city/"
       },
       {
-        "titulo_corto": "Choripán, fernet y camisetas",
-        "resumen": "Hinchas argentinos venden comida, fernet y camisetas en Kansas para sostener el viaje y convertir la previa en economía de tribuna.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/06/16/venta-de-choripanes-fernet-y-camisetas-los-hinchas-argentinos-aprovecharon-el-banderazo-para-achicar-gastos"
+        "titulo_corto": "Marea albiceleste",
+        "resumen": "Las postales de Kansas muestran una marea celeste y blanca que convierte el debut argentino en una fiesta de hinchada.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/834335-las-mejores-postales-de-la-marea-celeste-y-blanca-que-c"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Spider-Man saluda a Julián",
-        "resumen": "Tom Holland le manda un mensaje a Julián Álvarez y cruza cultura pop global con la previa de la Selección Argentina.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/mensaje-actor-spider-man-julian-alvarez-antes-debut-mundial-serias-gran-hombre-arana-id736425.html"
-      }
-    ],
-    "Alcohol": [
+        "titulo_corto": "Prensa mundial rendida",
+        "resumen": "Medios internacionales califican de histórico y eterno el show de Messi en el debut argentino ante Argelia.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/06/17/brutal-historico-y-eterno-la-reaccion-de-los-medios-del-mundo-tras-el-show-de-messi-en-el-triunfo-de-argentina-ante-argelia/"
+      },
       {
-        "titulo_corto": "Fernet en la previa argentina",
-        "resumen": "El fernet aparece como parte de la venta informal de hinchas argentinos en Kansas durante la previa del debut.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/06/16/venta-de-choripanes-fernet-y-camisetas-los-hinchas-argentinos-aprovecharon-el-banderazo-para-achicar-gastos"
+        "titulo_corto": "Bangladesh gigante",
+        "resumen": "Hinchas de Bangladesh construyen una camiseta argentina gigante y vuelven a mostrar el alcance global de la Selección.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1u7hqpu/bangladeshs_argentina_fans_are_building_what/"
       }
     ]
   }
