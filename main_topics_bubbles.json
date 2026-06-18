@@ -1,60 +1,60 @@
 {
   "topics": [
     {
-      "tema": "Triunfo Argentina 3-0 vs Argelia",
-      "engagement": 15000,
-      "views": 300000,
-      "volumen": 5000,
+      "tema": "Polémica falta Messi no roja / arbitraje VAR",
+      "engagement": 45000,
+      "views": 650000,
+      "volumen": 8500,
+      "sentiment": "Negative"
+    },
+    {
+      "tema": "Hat-trick Messi + récord Klose máx goleador",
+      "engagement": 35000,
+      "views": 550000,
+      "volumen": 6000,
       "sentiment": "Positive"
     },
     {
-      "tema": "Emoción Scaloni al sacar a Messi",
-      "engagement": 24768,
-      "views": 493116,
+      "tema": "Celebración hinchada + posteos oficiales post 3-0",
+      "engagement": 28000,
+      "views": 450000,
+      "volumen": 5500,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Declaraciones Messi y Scaloni post debut",
+      "engagement": 18000,
+      "views": 280000,
+      "volumen": 2800,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Fin de la primera fecha del Mundial 2026",
+      "engagement": 16000,
+      "views": 320000,
+      "volumen": 4000,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Ambiente hinchas Kansas + banderazos / activaciones",
+      "engagement": 12000,
+      "views": 220000,
       "volumen": 2500,
       "sentiment": "Positive"
     },
     {
-      "tema": "Messi iguala récord Klose",
-      "engagement": 20000,
-      "views": 985000,
+      "tema": "Expectativa Argentina vs Austria",
+      "engagement": 9000,
+      "views": 180000,
+      "volumen": 2000,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Otros resultados WC (Portugal, Colombia, Ghana)",
+      "engagement": 11000,
+      "views": 250000,
       "volumen": 3000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Banderazo hinchas en Kansas",
-      "engagement": 3500,
-      "views": 80000,
-      "volumen": 2000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Declaraciones Messi post partido",
-      "engagement": 8427,
-      "views": 112926,
-      "volumen": 1200,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Declaraciones Scaloni post debut",
-      "engagement": 3500,
-      "views": 60000,
-      "volumen": 800,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Memes post triplete Scaloneta",
-      "engagement": 5000,
-      "views": 150000,
-      "volumen": 2000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Expectativa vs Austria",
-      "engagement": 4000,
-      "views": 100000,
-      "volumen": 1500,
-      "sentiment": "Positive"
+      "sentiment": "Neutral"
     }
   ]
 }
