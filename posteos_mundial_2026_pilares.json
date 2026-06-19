@@ -1,7 +1,7 @@
 {
   "overview": {
     "portales": {
-      "summary": "La selección combina foco deportivo, historias de hinchas argentinos en EE.UU. y una controversia mediática por la fake news sobre Jorge Messi."
+      "summary": "La selección combina foco deportivo, historias de hinchas argentinos en EE.UU., proyección internacional de Argentina y una controversia mediática por la fake news sobre Jorge Messi."
     },
     "reddit": {
       "summary": "Reddit amplifica el Mundial desde el humor, el color de hinchas y la discusión crítica sobre apuestas, medios y Messi."
@@ -70,6 +70,19 @@
         "url": null
       }
     ],
-    "Argentina por el mundo": []
+    "Argentina por el mundo": [
+      {
+        "titulo_corto": "Furor argentino en Bangladesh",
+        "resumen": "La pasión por Argentina vuelve a verse en Bangladesh, donde hinchas siguen a la Selección como una causa propia.",
+        "medio": "TN",
+        "url": null
+      },
+      {
+        "titulo_corto": "La maldición Rocky",
+        "resumen": "Hinchas brasileños intentan trasladar a Argentina la supuesta maldición de la estatua de Rocky en clave mundialista.",
+        "medio": "Infobae",
+        "url": null
+      }
+    ]
   }
 }
