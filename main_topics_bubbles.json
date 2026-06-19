@@ -1,60 +1,67 @@
 {
   "topics": [
     {
-      "tema": "Polémica falta Messi no roja / arbitraje VAR",
-      "engagement": 45000,
-      "views": 650000,
-      "volumen": 8500,
+      "tema": "Cierre Fecha 1 Mundial 2026 / México clasifica",
+      "engagement": 28000,
+      "views": 480000,
+      "volumen": 6800,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Preparación Argentina vs Austria",
+      "engagement": 13500,
+      "views": 240000,
+      "volumen": 3500,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Rumores Enzo Fernández a Real Madrid",
+      "engagement": 16000,
+      "views": 380000,
+      "volumen": 4500,
+      "sentiment": "Neutral"
+    },
+    {
+      "tema": "Viral Final Argentina 1978 remasterizado",
+      "engagement": 19000,
+      "views": 320000,
+      "volumen": 3800,
+      "sentiment": "Positive"
+    },
+    {
+      "tema": "Fake news salud Jorge Messi / Florencia Peña",
+      "engagement": 42000,
+      "views": 920000,
+      "volumen": 6500,
       "sentiment": "Negative"
     },
     {
-      "tema": "Hat-trick Messi + récord Klose máx goleador",
-      "engagement": 35000,
-      "views": 550000,
-      "volumen": 6000,
+      "tema": "Entrenamiento Selección y Messi en Kansas",
+      "engagement": 9500,
+      "views": 170000,
+      "volumen": 2600,
       "sentiment": "Positive"
     },
     {
-      "tema": "Celebración hinchada + posteos oficiales post 3-0",
-      "engagement": 28000,
-      "views": 450000,
-      "volumen": 5500,
+      "tema": "Posible debut Paredes vs Austria",
+      "engagement": 7200,
+      "views": 135000,
+      "volumen": 2100,
       "sentiment": "Positive"
     },
     {
-      "tema": "Declaraciones Messi y Scaloni post debut",
-      "engagement": 18000,
-      "views": 280000,
-      "volumen": 2800,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Fin de la primera fecha del Mundial 2026",
-      "engagement": 16000,
-      "views": 320000,
-      "volumen": 4000,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Ambiente hinchas Kansas + banderazos / activaciones",
-      "engagement": 12000,
-      "views": 220000,
-      "volumen": 2500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Expectativa Argentina vs Austria",
-      "engagement": 9000,
-      "views": 180000,
-      "volumen": 2000,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Otros resultados WC (Portugal, Colombia, Ghana)",
+      "tema": "Otros resultados grupos Mundial",
       "engagement": 11000,
-      "views": 250000,
-      "volumen": 3000,
+      "views": 200000,
+      "volumen": 3100,
       "sentiment": "Neutral"
+    },
+    {
+      "tema": "Messi récord y legado post hat-trick",
+      "engagement": 8500,
+      "views": 155000,
+      "volumen": 2400,
+      "sentiment": "Positive"
     }
   ]
 }
