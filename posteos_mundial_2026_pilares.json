@@ -1,76 +1,75 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales se ordena alrededor del impacto deportivo y emocional del debut argentino: Messi como figura récord, escenarios de clasificación, hinchas en Kansas y repercusión internacional. También aparece una controversia puntual por una jugada del capitán, mientras que los errores de producción audiovisual activan una lectura más humorística que institucional."
+      "summary": "La selección combina foco deportivo, historias de hinchas argentinos en EE.UU. y una controversia mediática por la fake news sobre Jorge Messi."
     },
     "reddit": {
-      "summary": "La conversación relevante en Reddit suma color internacional desde Bangladesh: la comunidad de hinchas argentinos en ese país aparece como muestra de la expansión global de la Selección y de Messi. En esta selección no se incorporan posteos de alcohol por falta de menciones sólidas vinculadas al Mundial."
+      "summary": "Reddit amplifica el Mundial desde el humor, el color de hinchas y la discusión crítica sobre apuestas, medios y Messi."
     }
   },
   "pilares": {
-    "Humor": [
-      {
-        "titulo_corto": "Memes por goles anulados",
-        "resumen": "Los memes reaccionan a los goles anulados y al triplete de Messi, transformando la tensión del debut en humor mundialista.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/memes-por-los-goles-anulados-y-el-triplete-de-lionel-messi-en-el-argentina-vs-argelia-del-mundial-nid17062026/"
-      },
-      {
-        "titulo_corto": "Nombres mal escritos",
-        "resumen": "Un video oficial con errores en nombres argentinos abre una veta humorística sobre descuidos de producción en plena fiebre mundialista.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/17/los-errores-en-los-nombres-de-figuras-de-la-seleccion-en-un-video-oficial-del-mundial-2026-que-causaron-revuelo/"
-      }
-    ],
     "Equipo": [
       {
-        "titulo_corto": "Messi iguala a Klose",
-        "resumen": "Messi firma un triplete ante Argelia e iguala a Klose como máximo goleador histórico de los Mundiales.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/834338-el-triplete-de-messi-record-que-igualo-a-klose-y-cuando-vue"
+        "titulo_corto": "Tagliafico y la recuperación",
+        "resumen": "La recuperación de Tagliafico aparece como una señal clave para el armado defensivo de Scaloni en plena competencia.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/seleccion/tagliaficotocadodudaparaeldebut_0_fxCUau7r9h.html"
       },
       {
-        "titulo_corto": "Cuentas para clasificar",
-        "resumen": "La nota explica qué necesita Argentina para avanzar tras el 3-0 ante Argelia y ordena el escenario del grupo.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/mundial/que-necesita-la-seleccion-argentina-para-clasificar-a-16avos-de-final-del-mundial-2026-id736366.html"
+        "titulo_corto": "Paredes quiere debutar",
+        "resumen": "Paredes queda bajo la lupa por su estado físico y su deseo de sumar minutos con la Selección en el Mundial.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/scaloni-paredes-va-quedar_3_Zk12PhQ2Gh.html"
+      }
+    ],
+    "Humor": [
+      {
+        "titulo_corto": "Fanfiction de la Scaloneta",
+        "resumen": "Un usuario busca un viejo fanfiction bizarro de Scaloni y el plantel, mezclando nostalgia mundialista y humor absurdo.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/ArgentinaBenderStyle/comments/1ua0q2f/en_busqueda_de_un_fanfiction_sobre_la_seleccion/"
+      },
+      {
+        "titulo_corto": "Tagliafico de Mostaza",
+        "resumen": "Un error visual en una pieza de Mostaza sobre Tagliafico dispara bromas por las manos con seis dedos.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/ArgentinaBenderStyle/comments/1u9mwcu/el_tagliafico_de_mostaza_tiene_6_dedos_en_cada/"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Polémica por Messi",
-        "resumen": "La infracción de Messi sobre un jugador argelino abre debate arbitral y queja rival tras el debut argentino.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/la-infraccion-de-messi-que-desperto-la-polemica-y-la-queja-del-dt-de-argelia-nid17062026/"
+        "titulo_corto": "Fake news sobre Jorge Messi",
+        "resumen": "La falsa noticia sobre Jorge Messi instala críticas a Luzu, Flor Peña y la falta de chequeo en plena agenda mundialista.",
+        "medio": "Portales",
+        "url": "https://tn.com.ar/show/famosos/2026/06/18/florencia-pena-renuncio-a-luzu-y-nicolas-occhiato-echo-a-la-produccion-del-programa-que-difundio-la-fake-news/"
+      },
+      {
+        "titulo_corto": "Prode de Mercado Pago",
+        "resumen": "La denuncia contra el prode mundialista de Mercado Pago abre debate sobre apuestas, promociones y límites regulatorios.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1u9afrh/denuncian_a_mercado_pago_por_su_prode_del_mundial/"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Fila argentina en Kansas",
-        "resumen": "Miles de hinchas hacen una fila de cuatro kilómetros en Kansas para acompañar a la Selección en el debut mundialista.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/17/la-impresionante-fila-de-4-kilometros-de-los-hinchas-argentinos-en-kansas-city/"
+        "titulo_corto": "A dedo hasta Kansas",
+        "resumen": "La historia de hinchas que llegan a Kansas sin entradas muestra sacrificio, aventura y pasión por seguir a la Selección.",
+        "medio": "La Nación",
+        "url": null
       },
       {
-        "titulo_corto": "Marea albiceleste",
-        "resumen": "Las postales de Kansas muestran una marea celeste y blanca que convierte el debut argentino en una fiesta de hinchada.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/834335-las-mejores-postales-de-la-marea-celeste-y-blanca-que-c"
+        "titulo_corto": "Renunció para ir al Mundial",
+        "resumen": "Un docente de Chubut dejó su trabajo para viajar al Mundial, condensando el costado extremo de la pasión futbolera.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/RepublicaArgentina/comments/1u96hka/un_docente_de_chubut_renunció_a_su_trabajo_para/"
+      },
+      {
+        "titulo_corto": "Convivencia mundialista",
+        "resumen": "Doce desconocidos conviven durante el Mundial, reflejando una experiencia comunitaria nacida de la pasión por Argentina.",
+        "medio": "TN",
+        "url": null
       }
     ],
-    "Argentina por el mundo": [
-      {
-        "titulo_corto": "Prensa mundial rendida",
-        "resumen": "Medios internacionales califican de histórico y eterno el show de Messi en el debut argentino ante Argelia.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/17/brutal-historico-y-eterno-la-reaccion-de-los-medios-del-mundo-tras-el-show-de-messi-en-el-triunfo-de-argentina-ante-argelia/"
-      },
-      {
-        "titulo_corto": "Bangladesh gigante",
-        "resumen": "Hinchas de Bangladesh construyen una camiseta argentina gigante y vuelven a mostrar el alcance global de la Selección.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1u7hqpu/bangladeshs_argentina_fans_are_building_what/"
-      }
-    ]
+    "Argentina por el mundo": []
   }
 }
