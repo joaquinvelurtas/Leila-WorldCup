@@ -1,67 +1,12 @@
 {
   "topics": [
-    {
-      "tema": "Cierre Fecha 1 Mundial 2026 / México clasifica",
-      "engagement": 28000,
-      "views": 480000,
-      "volumen": 6800,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Preparación Argentina vs Austria",
-      "engagement": 13500,
-      "views": 240000,
-      "volumen": 3500,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Rumores Enzo Fernández a Real Madrid",
-      "engagement": 16000,
-      "views": 380000,
-      "volumen": 4500,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Viral Final Argentina 1978 remasterizado",
-      "engagement": 19000,
-      "views": 320000,
-      "volumen": 3800,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Fake news salud Jorge Messi / Florencia Peña",
-      "engagement": 42000,
-      "views": 920000,
-      "volumen": 6500,
-      "sentiment": "Negative"
-    },
-    {
-      "tema": "Entrenamiento Selección y Messi en Kansas",
-      "engagement": 9500,
-      "views": 170000,
-      "volumen": 2600,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Posible debut Paredes vs Austria",
-      "engagement": 7200,
-      "views": 135000,
-      "volumen": 2100,
-      "sentiment": "Positive"
-    },
-    {
-      "tema": "Otros resultados grupos Mundial",
-      "engagement": 11000,
-      "views": 200000,
-      "volumen": 3100,
-      "sentiment": "Neutral"
-    },
-    {
-      "tema": "Messi récord y legado post hat-trick",
-      "engagement": 8500,
-      "views": 155000,
-      "volumen": 2400,
-      "sentiment": "Positive"
-    }
+    {"tema": "Previa Argentina vs Austria", "engagement": 28000, "views": 450000, "volumen": 6000, "sentiment": "Positive"},
+    {"tema": "Fake news Jorge Messi y Scaloni", "engagement": 8500, "views": 520000, "volumen": 2800, "sentiment": "Negative"},
+    {"tema": "Banderazo Dallas + bandera Quilmes", "engagement": 5200, "views": 160000, "volumen": 2100, "sentiment": "Positive"},
+    {"tema": "Posible liderato grupo J", "engagement": 4800, "views": 110000, "volumen": 1600, "sentiment": "Positive"},
+    {"tema": "Día del Padre plantel Scaloneta", "engagement": 6200, "views": 85000, "volumen": 1400, "sentiment": "Positive"},
+    {"tema": "Otros resultados Mundial", "engagement": 12000, "views": 280000, "volumen": 3800, "sentiment": "Neutral"},
+    {"tema": "Alineaciones vs Austria", "engagement": 5500, "views": 130000, "volumen": 1900, "sentiment": "Positive"},
+    {"tema": "Macaya Márquez 18 Mundiales", "engagement": 2600, "views": 45000, "volumen": 900, "sentiment": "Positive"}
   ]
 }

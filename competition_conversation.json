@@ -2,18 +2,13 @@
   "temas": [
     {
       "marca": "Coca-Cola",
-      "titulo": "Viral ads en retransmisión pirata Corea del Norte",
-      "resumen": "Continúa viralidad de video con spots de Coca-Cola (y McDonald’s) en TV norcoreana durante partidos del Mundial. Miles de menciones orgánicas extra."
+      "titulo": "Vasos coleccionables Scaloneta",
+      "resumen": "Ofertas y posteos de sets de vasos Coca-Cola temáticos de la Selección Argentina para el Mundial. Buena interacción entre fans coleccionistas y hinchas."
     },
     {
-      "marca": "McDonalds_Ar",
-      "titulo": "Presencia sponsor digital Scaloneta",
-      "resumen": "McDonald’s mantiene videos y posteos de aliento a la Selección (‘Vivamos el mundial como solo nosotros’). Engagement moderado-bajo pero presencia constante."
-    },
-    {
-      "marca": "BetWarrior_arg",
-      "titulo": "Juego responsable post debut",
-      "resumen": "BetWarrior_arg posteó recordatorios de juego responsable y herramientas de autocontrol. Interacciones orgánicas leves en contexto de sponsor oficial de la Selección."
+      "marca": "McDonalds_Ar / Mostaza_Ok",
+      "titulo": "Publicidades sponsors Scaloneta",
+      "resumen": "Conversación ligera comparando publicidades de McDonald’s y Mostaza con jugadores de la Scaloneta. Presencia constante pero engagement moderado-bajo."
     }
   ]
 }
