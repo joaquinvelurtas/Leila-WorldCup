@@ -1,10 +1,10 @@
 {
   "topics": [
-    {"topic": "Preparación Argentina vs Austria", "series": [{"date": "2026-06-18", "volume": 2800}, {"date": "2026-06-19", "volume": 3500}, {"date": "2026-06-22", "volume": 4500}]},
-    {"topic": "Hype hinchas y banderazo Dallas", "series": [{"date": "2026-06-09", "volume": 1900}, {"date": "2026-06-10", "volume": 2800}, {"date": "2026-06-11", "volume": 5800}, {"date": "2026-06-12", "volume": 4800}, {"date": "2026-06-16", "volume": 4200}, {"date": "2026-06-17", "volume": 3500}, {"date": "2026-06-18", "volume": 1600}, {"date": "2026-06-19", "volume": 900}, {"date": "2026-06-22", "volume": 2100}]},
-    {"topic": "Fake news Jorge Messi", "series": [{"date": "2026-06-22", "volume": 2800}]},
-    {"topic": "Día del Padre Scaloneta", "series": [{"date": "2026-06-22", "volume": 1400}]},
-    {"topic": "Otros resultados y clasif. WC", "series": [{"date": "2026-06-15", "volume": 5500}, {"date": "2026-06-16", "volume": 6000}, {"date": "2026-06-17", "volume": 2500}, {"date": "2026-06-18", "volume": 3800}, {"date": "2026-06-19", "volume": 6200}, {"date": "2026-06-22", "volume": 3800}]},
-    {"topic": "Posible liderato grupo J", "series": [{"date": "2026-06-22", "volume": 1600}]}
+    {"topic": "Triunfo Argentina vs Austria", "series": [{"date": "2026-06-18", "volume": 2800}, {"date": "2026-06-19", "volume": 3500}, {"date": "2026-06-22", "volume": 4500}, {"date": "2026-06-23", "volume": 7200}]},
+    {"topic": "Hype hinchas y celebraciones Scaloneta", "series": [{"date": "2026-06-09", "volume": 1900}, {"date": "2026-06-10", "volume": 2800}, {"date": "2026-06-11", "volume": 5800}, {"date": "2026-06-12", "volume": 4800}, {"date": "2026-06-16", "volume": 4200}, {"date": "2026-06-17", "volume": 3500}, {"date": "2026-06-18", "volume": 1600}, {"date": "2026-06-19", "volume": 900}, {"date": "2026-06-22", "volume": 2100}, {"date": "2026-06-23", "volume": 4800}]},
+    {"topic": "Salud Jorge Messi / alta médica", "series": [{"date": "2026-06-22", "volume": 2800}, {"date": "2026-06-23", "volume": 1500}]},
+    {"topic": "Facundo Medina destaque Mundial", "series": [{"date": "2026-06-23", "volume": 4200}]},
+    {"topic": "Otros resultados y clasif. WC", "series": [{"date": "2026-06-15", "volume": 5500}, {"date": "2026-06-16", "volume": 6000}, {"date": "2026-06-17", "volume": 2500}, {"date": "2026-06-18", "volume": 3800}, {"date": "2026-06-19", "volume": 6200}, {"date": "2026-06-22", "volume": 3800}, {"date": "2026-06-23", "volume": 3200}]},
+    {"topic": "Celebración plantel Scaloneta", "series": [{"date": "2026-06-23", "volume": 4800}]}
   ]
 }
