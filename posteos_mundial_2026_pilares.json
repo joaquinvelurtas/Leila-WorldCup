@@ -1,57 +1,69 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación seleccionada en portales combina previa deportiva de la Selección, color de hinchas argentinos en Dallas, humor regional por otros partidos del Mundial y controversias alrededor del torneo. El foco dominante está puesto en Argentina-Austria, con derivaciones sobre salud mental por apuestas, operativos migratorios y la expansión internacional del fenómeno Messi."
+      "summary": "La agenda de portales gira alrededor de la clasificación argentina, el impacto de Messi, historias de hinchas y costos altos para seguir a la Selección."
     },
     "reddit": {
-      "summary": "No se seleccionaron posteos de Reddit para esta actualización. La lectura disponible del relevamiento mostraba conversación dispersa entre memoria futbolera, humor mundialista, críticas a la camiseta y debates sobre la Selección."
+      "summary": "Reddit procesa el triunfo con euforia, humor y orgullo identitario; Messi concentra la admiración y Argentina aparece como pertenencia global."
     }
   },
   "pilares": {
-    "Humor": [
-      {
-        "titulo_corto": "Memes por Uruguay",
-        "resumen": "TN reúne memes y reacciones tras el histórico gol de Cabo Verde ante Uruguay, con humor regional y lectura futbolera desde la conversación argentina.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/21/historico-cabo-verde-hizo-su-primer-gol-en-un-mundial-ante-uruguay-y-estallaron-los-memes-en-las-redes"
-      }
-    ],
     "Equipo": [
       {
-        "titulo_corto": "Argentina vs. Austria",
-        "resumen": "TyC cubre el cruce de Argentina ante Austria por la segunda fecha del grupo, con foco en el equipo de Scaloni, el contexto del partido y la búsqueda de clasificación.",
+        "titulo_corto": "Argentina, primera y en 16avos",
+        "resumen": "La Selección terminó primera en su grupo y ya mira el cruce de 16avos, con el recorrido mundialista como eje de análisis.",
         "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/mundial/fifa-mundial-mx-usa-can-2026-argentina-vs-austria-grupo-j-fecha-2-id737334.html"
-      }
-    ],
-    "Controversia": [
-      {
-        "titulo_corto": "Apuestas y salud mental",
-        "resumen": "Página/12 aborda la preocupación de especialistas por el impacto de las apuestas online durante el Mundial y su efecto sobre la salud mental.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/06/21/mundial-2026-y-la-salud-mental-aumenta-la-preocupacion-de-los-especialistas-por-las-apuestas-online"
+        "url": "https://www.tycsports.com/seleccion-argentina/contra-quien-juega-la-seleccion-argentina-en-16vos-de-final-del-mundial-2026-id737503.html"
       },
       {
-        "titulo_corto": "Operativos del ICE",
-        "resumen": "La Nación informa operativos del ICE en Texas vinculados al partido de Argentina en Dallas, sumando tensión migratoria al clima mundialista.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/estados-unidos/texas/noticias-del-ice-en-dallas-confirman-operativos-oficiales-en-texas-por-el-partido-de-argentina-en-el-nid21062026"
+        "titulo_corto": "Cuti Romero encendió alarmas",
+        "resumen": "El defensor contó qué hablaron con los médicos tras salir ante Austria, instalando atención sobre su estado físico en plena Copa.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/06/23/cuti-romero-revelo-la-charla-que-tuvo-con-los-medicos-de-la-seleccion-argentina-tras-salir-en-el-triunfo-ante-austria-en-el-mundial"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Banderazo en Dallas",
-        "resumen": "Olé retrata el banderazo argentino en Dallas como una muestra masiva de aliento, emoción y presencia de hinchas antes del partido contra Austria.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/seleccion/argentina-banderazo-dallas-mundial_0_trimbGof7a.html"
+        "titulo_corto": "Una familia entera en el Mundial",
+        "resumen": "Un hombre de 78 años llevó a 16 familiares al Mundial tras superar un ACV, convirtiendo el viaje en una historia de vida.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/23/tiene-78-anos-sobrevivio-a-un-acv-y-ahora-invito-a-hijos-nietos-y-sobrinos-al-mundial-somos-16-y-es-mucho-mas-que-un-viaje"
+      },
+      {
+        "titulo_corto": "Renunció para seguir a la Selección",
+        "resumen": "Un hincha dejó su trabajo, gastó sus ahorros y durmió en una camioneta para cumplir la promesa de estar en el Mundial.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/23/renuncio-a-su-trabajo-se-gasto-todos-sus-ahorros-y-hasta-durmio-en-una-camioneta-para-cumplir-la-promesa-de-estar-en-el-mundial"
+      }
+    ],
+    "Humor": [
+      {
+        "titulo_corto": "Speed celebró el penal errado",
+        "resumen": "La reacción de Speed al penal fallado por Messi se volvió contenido humorístico dentro de la conversación mundialista.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/gaming/speed-festejo-el-penal-fallado-por-messi-ante-austria-en-el-mundial-2026-id737658.html"
+      },
+      {
+        "titulo_corto": "Paredes y Cuti, cruce divertido",
+        "resumen": "Paredes y Cuti Romero protagonizaron un ida y vuelta gracioso tras el triunfo, sumando tono distendido al post partido.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/23/el-divertido-cruce-entre-paredes-y-cuti-romero-tras-el-triunfo-de-la-seleccion-argentina-es-muy-bruto"
+      }
+    ],
+    "Controversia": [
+      {
+        "titulo_corto": "Reventa por las nubes",
+        "resumen": "Las entradas para ver a Argentina alcanzaron precios superiores a USD 2.000, instalando tensión por el acceso de los hinchas.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/estados-unidos/2026/06/22/entradas-de-reventa-superan-los-usd-2000-para-ver-el-partido-de-argentina-contra-austria-en-dallas"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Fenómeno Messi en EE.UU.",
-        "resumen": "Infobae describe la locura de los fanáticos por Messi en Estados Unidos y muestra cómo la Selección argentina se vuelve un fenómeno global.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/estados-unidos/2026/06/22/argentina-y-el-fenomeno-messi-en-estados-unidos-la-locura-de-sus-fanaticos-en-el-mundial-2026"
+        "titulo_corto": "El argentino nace donde quiere",
+        "resumen": "El post refuerza la identidad argentina fuera del país y muestra cómo la Selección activa pertenencia global en plena Copa.",
+        "medio": "Reddit / r/argentina",
+        "url": "https://www.reddit.com/r/argentina/comments/1udguh4/el_argentino_nace_donde_quiere/"
       }
     ]
   }
