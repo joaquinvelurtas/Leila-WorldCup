@@ -1,14 +1,19 @@
 {
   "temas": [
     {
+      "marca": "BetWarrior_arg",
+      "titulo": "Promo especial Scaloneta vs Austria",
+      "resumen": "BetWarrior (sponsor oficial) publicó cuotas especiales y contenido pre-partido. Baja interacción orgánica comparada con activaciones de hinchas."
+    },
+    {
       "marca": "Coca-Cola",
-      "titulo": "Vasos coleccionables Scaloneta",
-      "resumen": "Ofertas y posteos de sets de vasos Coca-Cola temáticos de la Selección Argentina para el Mundial. Buena interacción entre fans coleccionistas y hinchas."
+      "titulo": "Apoyo y coleccionables Scaloneta",
+      "resumen": "Menciones orgánicas de sets de vasos Coca-Cola temáticos de la Selección. Presencia constante pero engagement moderado-bajo post-partido."
     },
     {
       "marca": "McDonalds_Ar / Mostaza_Ok",
       "titulo": "Publicidades sponsors Scaloneta",
-      "resumen": "Conversación ligera comparando publicidades de McDonald’s y Mostaza con jugadores de la Scaloneta. Presencia constante pero engagement moderado-bajo."
+      "resumen": "Conversación ligera comparando publicidades de McDonald’s y Mostaza con jugadores. Presencia sponsor pero sin alto volumen orgánico en el período."
     }
   ]
 }
