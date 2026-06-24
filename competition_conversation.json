@@ -1,19 +1,19 @@
 {
   "temas": [
     {
+      "marca": "Mostaza_Ok",
+      "titulo": "Muñequitos de Mostaza como cábala",
+      "resumen": "Se viralizó que los jugadores de la Scaloneta llevaron muñequitos de Mostaza al hotel como cábala. Genera memes, orgullo argentino y alta interacción positiva."
+    },
+    {
       "marca": "BetWarrior_arg",
-      "titulo": "Promo especial Scaloneta vs Austria",
-      "resumen": "BetWarrior (sponsor oficial) publicó cuotas especiales y contenido pre-partido. Baja interacción orgánica comparada con activaciones de hinchas."
+      "titulo": "Contenido post Austria y previa Francia",
+      "resumen": "BetWarrior (sponsor oficial) mantiene cuotas especiales y contenido digital relacionado a la Selección tras el 2-0 vs Austria. Engagement moderado."
     },
     {
       "marca": "Coca-Cola",
-      "titulo": "Apoyo y coleccionables Scaloneta",
-      "resumen": "Menciones orgánicas de sets de vasos Coca-Cola temáticos de la Selección. Presencia constante pero engagement moderado-bajo post-partido."
-    },
-    {
-      "marca": "McDonalds_Ar / Mostaza_Ok",
-      "titulo": "Publicidades sponsors Scaloneta",
-      "resumen": "Conversación ligera comparando publicidades de McDonald’s y Mostaza con jugadores. Presencia sponsor pero sin alto volumen orgánico en el período."
+      "titulo": "Apoyo y productos temáticos Scaloneta",
+      "resumen": "Menciones orgánicas a campañas y coleccionables de Coca-Cola con la Selección en contexto del Mundial y cumpleaños de Messi. Presencia sponsor constante."
     }
   ]
 }
