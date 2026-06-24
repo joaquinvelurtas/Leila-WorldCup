@@ -1,69 +1,77 @@
 {
   "overview": {
     "portales": {
-      "summary": "La agenda de portales gira alrededor de la clasificación argentina, el impacto de Messi, historias de hinchas y costos altos para seguir a la Selección."
+      "summary": "Selección, Messi y cultura hincha ordenan la agenda: fixture de 16avos, cumpleaños del capitán, memes, gestos argentinos en Dallas y debates FIFA."
     },
     "reddit": {
-      "summary": "Reddit procesa el triunfo con euforia, humor y orgullo identitario; Messi concentra la admiración y Argentina aparece como pertenencia global."
+      "summary": "No se seleccionaron posteos de Reddit para esta actualización."
     }
   },
   "pilares": {
     "Equipo": [
       {
-        "titulo_corto": "Argentina, primera y en 16avos",
-        "resumen": "La Selección terminó primera en su grupo y ya mira el cruce de 16avos, con el recorrido mundialista como eje de análisis.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/contra-quien-juega-la-seleccion-argentina-en-16vos-de-final-del-mundial-2026-id737503.html"
+        "titulo_corto": "Argentina ya tiene sede para 16avos",
+        "resumen": "Argentina ya conoce fecha, horario y estadio para su cruce de 16avos, un dato clave para ordenar agenda deportiva y expectativa de hinchas.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/06/23/argentina-ya-tiene-fecha-horario-y-estadio-confirmados-para-16avos"
       },
       {
-        "titulo_corto": "Cuti Romero encendió alarmas",
-        "resumen": "El defensor contó qué hablaron con los médicos tras salir ante Austria, instalando atención sobre su estado físico en plena Copa.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/06/23/cuti-romero-revelo-la-charla-que-tuvo-con-los-medicos-de-la-seleccion-argentina-tras-salir-en-el-triunfo-ante-austria-en-el-mundial"
+        "titulo_corto": "Messi cumple 39 en Kansas",
+        "resumen": "Messi celebra sus 39 años concentrado con la Selección en Kansas, con saludos masivos y clima emocional alrededor del capitán.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/06/24/el-cumpleanos-de-lionel-messi-festejo-en-kansas-y-saludos-en-redes"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Una familia entera en el Mundial",
-        "resumen": "Un hombre de 78 años llevó a 16 familiares al Mundial tras superar un ACV, convirtiendo el viaje en una historia de vida.",
+        "titulo_corto": "Hinchas argentinos juntan basura",
+        "resumen": "Hinchas argentinos limpiaron después del banderazo en Dallas, gesto que se volvió viral por imitar la tradición japonesa en los Mundiales.",
         "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/23/tiene-78-anos-sobrevivio-a-un-acv-y-ahora-invito-a-hijos-nietos-y-sobrinos-al-mundial-somos-16-y-es-mucho-mas-que-un-viaje"
+        "url": "https://tn.com.ar/videos/general/2026/06/23/como-japoneses-asi-juntaron-la-basura-los-hinchas-argentinos-despues-del-banderazo-en-dallas/"
       },
       {
-        "titulo_corto": "Renunció para seguir a la Selección",
-        "resumen": "Un hincha dejó su trabajo, gastó sus ahorros y durmió en una camioneta para cumplir la promesa de estar en el Mundial.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/23/renuncio-a-su-trabajo-se-gasto-todos-sus-ahorros-y-hasta-durmio-en-una-camioneta-para-cumplir-la-promesa-de-estar-en-el-mundial"
+        "titulo_corto": "Abuela de 100 años viral por Messi",
+        "resumen": "Una abuela de 100 años se volvió viral por su mensaje dedicado a Messi, sumando una historia emotiva al color argentino del Mundial.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/abuela-viral-100-anos-carteles-dedicatoria-lionel-messi-argentina-austria_0_5haycAY4oK.html"
       }
     ],
     "Humor": [
       {
-        "titulo_corto": "Speed celebró el penal errado",
-        "resumen": "La reacción de Speed al penal fallado por Messi se volvió contenido humorístico dentro de la conversación mundialista.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/gaming/speed-festejo-el-penal-fallado-por-messi-ante-austria-en-el-mundial-2026-id737658.html"
-      },
-      {
-        "titulo_corto": "Paredes y Cuti, cruce divertido",
-        "resumen": "Paredes y Cuti Romero protagonizaron un ida y vuelta gracioso tras el triunfo, sumando tono distendido al post partido.",
+        "titulo_corto": "Messi ya es meme del Mundial",
+        "resumen": "La reacción de Messi tras hacer historia fue tomada por los hinchas como nuevo meme del Mundial, mezclando épica deportiva y humor viral.",
         "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/23/el-divertido-cruce-entre-paredes-y-cuti-romero-tras-el-triunfo-de-la-seleccion-argentina-es-muy-bruto"
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/23/la-divertida-reaccion-de-messi-tras-hacer-historia-que-los-fanaticos-ya-eligieron-como-nuevo-meme-del-mundial"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Reventa por las nubes",
-        "resumen": "Las entradas para ver a Argentina alcanzaron precios superiores a USD 2.000, instalando tensión por el acceso de los hinchas.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/estados-unidos/2026/06/22/entradas-de-reventa-superan-los-usd-2000-para-ver-el-partido-de-argentina-contra-austria-en-dallas"
+        "titulo_corto": "Infantino defiende las pausas",
+        "resumen": "Infantino defendió las pausas de hidratación del Mundial frente a críticas por ritmo de juego, calor y decisiones organizativas de FIFA.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/fifa-gianni-infantino-mundial-defendio-pausa-hidratacion-descansos-obligatorios_0_4G2egyrh5w.html"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "El argentino nace donde quiere",
-        "resumen": "El post refuerza la identidad argentina fuera del país y muestra cómo la Selección activa pertenencia global en plena Copa.",
-        "medio": "Reddit / r/argentina",
-        "url": "https://www.reddit.com/r/argentina/comments/1udguh4/el_argentino_nace_donde_quiere/"
+        "titulo_corto": "Schweinsteiger prueba mate",
+        "resumen": "Schweinsteiger probó mate durante un partido del Mundial y saludó a Argentina, reforzando la circulación global de símbolos argentinos.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/bastian-schweinsteiger-probo-el-mate-durante-un-partido-del-mundial-salud-argentina-nid24062026"
+      },
+      {
+        "titulo_corto": "Google sorprende a Messi",
+        "resumen": "Google se suma a los saludos por Messi, mostrando cómo la figura del capitán argentino excede lo deportivo y activa marcas globales.",
+        "medio": "TN",
+        "url": null
+      }
+    ],
+    "Alcohol": [
+      {
+        "titulo_corto": "Ley seca en Ciudad de México",
+        "resumen": "Ciudad de México aplicó ley seca para prevenir incidentes durante el Mundial, instalando el vínculo entre fútbol, alcohol y control público.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/mexico-venta-alcohol-mundial-republica-checa-ley-seca_0_s7rKi3IqA4.html"
       }
     ]
   }
