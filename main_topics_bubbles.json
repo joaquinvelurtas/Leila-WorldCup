@@ -1,12 +1,12 @@
 {
   "topics": [
-    {"tema": "Cumpleaños de Messi (39 años)", "engagement": 95000, "views": 2800000, "volumen": 14500, "sentiment": "Positive"},
-    {"tema": "Goles y jugadas de Messi vs Austria", "engagement": 52000, "views": 1900000, "volumen": 8200, "sentiment": "Positive"},
-    {"tema": "Argentina primera en Grupo J", "engagement": 28000, "views": 1100000, "volumen": 5800, "sentiment": "Positive"},
-    {"tema": "Messi máximo goleador histórico WC", "engagement": 35000, "views": 950000, "volumen": 5200, "sentiment": "Positive"},
-    {"tema": "De Paul sorpresas cumpleaños Messi", "engagement": 18000, "views": 720000, "volumen": 3800, "sentiment": "Positive"},
-    {"tema": "Entrenamiento y plantel Scaloneta", "engagement": 22000, "views": 850000, "volumen": 4800, "sentiment": "Positive"},
-    {"tema": "Cábalas y sponsors Scaloneta", "engagement": 15000, "views": 550000, "volumen": 3200, "sentiment": "Positive"},
-    {"tema": "Otros resultados del Mundial", "engagement": 20000, "views": 780000, "volumen": 4100, "sentiment": "Neutral"}
+    {"tema": "Cumpleaños de Messi (39 años)", "engagement": 85000, "views": 2500000, "volumen": 12500, "sentiment": "Positive"},
+    {"tema": "Sorpresa plantel a Messi en concentración", "engagement": 14500, "views": 280000, "volumen": 2800, "sentiment": "Positive"},
+    {"tema": "Preview Argentina vs Jordania", "engagement": 11000, "views": 380000, "volumen": 3200, "sentiment": "Positive"},
+    {"tema": "Análisis rendimiento Scaloneta", "engagement": 7500, "views": 240000, "volumen": 2100, "sentiment": "Neutral"},
+    {"tema": "Resultados y clasificaciones WC 2026", "engagement": 16000, "views": 550000, "volumen": 4800, "sentiment": "Neutral"},
+    {"tema": "Emoción y edits hinchas Scaloneta", "engagement": 22000, "views": 750000, "volumen": 5500, "sentiment": "Positive"},
+    {"tema": "Cábala y momentos plantel", "engagement": 6500, "views": 190000, "volumen": 1700, "sentiment": "Positive"},
+    {"tema": "Videos y reacciones hinchas WC", "engagement": 9000, "views": 320000, "volumen": 2400, "sentiment": "Neutral"}
   ]
 }
