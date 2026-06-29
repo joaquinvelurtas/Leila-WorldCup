@@ -1,19 +1,19 @@
 {
   "temas": [
     {
-      "marca": "Mostaza_Ok",
-      "titulo": "Cábala muñequitos Scaloneta (continuidad)",
-      "resumen": "Menciones residuales y memes sobre los muñequitos de Mostaza como cábala del plantel. Volumen bajo pero positivo y orgánico en contexto Messi y previa Jordania."
-    },
-    {
-      "marca": "BetWarrior_arg",
-      "titulo": "Quiz cumpleaños Messi con hinchas",
-      "resumen": "BetWarrior (sponsor oficial) publicó quizzes interactivos sobre momentos de Messi por su cumpleaños. Engagement modesto de posts oficiales, interacción en comentarios."
+      "marca": "FernetBrancaARG",
+      "titulo": "Sorteos y planes fernet + asado + Mundial",
+      "resumen": "Hinchas organizan sorteos de fernet si Argentina gana y comparten planes de asado + partido. Menciones orgánicas positivas y recurrentes en contexto victoria vs Jordania."
     },
     {
       "marca": "Coca-Cola",
-      "titulo": "Figuritas y apoyo sponsor Scaloneta",
-      "resumen": "Menciones orgánicas a figuritas Coca-Cola del Mundial y presencia de marca en contexto de festejos y partidos. Volumen bajo pero constante."
+      "titulo": "Críticas a patrocinio por salud en WC",
+      "resumen": "Debate orgánico sobre contradicción de Coca-Cola como sponsor del Mundial por riesgos a la salud. Volumen bajo-media pero con engagement en hilos de análisis."
+    },
+    {
+      "marca": "McDonalds_Ar",
+      "titulo": "Celebración gol Lautaro vs Jordania",
+      "resumen": "Post oficial celebrando el gol del Toro con 'VAMOS TORO'. Interacción modesta de hinchas; presencia baja pero alineada con el partido."
     }
   ]
 }
