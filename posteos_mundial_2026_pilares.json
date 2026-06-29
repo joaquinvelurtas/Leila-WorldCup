@@ -1,77 +1,75 @@
 {
   "overview": {
     "portales": {
-      "summary": "Selección, Messi y cultura hincha ordenan la agenda: fixture de 16avos, cumpleaños del capitán, memes, gestos argentinos en Dallas y debates FIFA."
+      "summary": "La conversación en portales está dominada por la Selección Argentina como eje deportivo y cultural del Mundial. El foco principal está puesto en la preparación para el cruce con Cabo Verde, el estado de jugadores clave, la figura de Messi y la expectativa por el camino hacia instancias finales. En paralelo, aparece una línea fuerte de color vinculada a la presencia masiva de hinchas argentinos en Estados Unidos, con notas sobre viajes, tribunas, canciones, historias particulares y apropiación simbólica de las sedes. La conversación controversial se concentra en seguridad, conducta de hinchas o creadores de contenido, el caso judicial alrededor del capitán de Cabo Verde y críticas al formato del torneo."
     },
     "reddit": {
-      "summary": "No se seleccionaron posteos de Reddit para esta actualización."
+      "summary": "La conversación relevante en Reddit está dominada por humor mundialista, orgullo alrededor de Messi y expectativa por el cruce con Cabo Verde. A diferencia de los portales, donde predomina la cobertura informativa y táctica, Reddit concentra más memes, cábalas, bromas sobre rivales, referencias a la Scaloneta y publicaciones emocionales de comunidad. También aparece una línea crítica concreta sobre el precio de las entradas, que instala malestar por el acceso desigual al Mundial."
     }
   },
   "pilares": {
-    "Equipo": [
-      {
-        "titulo_corto": "Argentina ya tiene sede para 16avos",
-        "resumen": "Argentina ya conoce fecha, horario y estadio para su cruce de 16avos, un dato clave para ordenar agenda deportiva y expectativa de hinchas.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/06/23/argentina-ya-tiene-fecha-horario-y-estadio-confirmados-para-16avos"
-      },
-      {
-        "titulo_corto": "Messi cumple 39 en Kansas",
-        "resumen": "Messi celebra sus 39 años concentrado con la Selección en Kansas, con saludos masivos y clima emocional alrededor del capitán.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/06/24/el-cumpleanos-de-lionel-messi-festejo-en-kansas-y-saludos-en-redes"
-      }
-    ],
-    "Color en la tribuna": [
-      {
-        "titulo_corto": "Hinchas argentinos juntan basura",
-        "resumen": "Hinchas argentinos limpiaron después del banderazo en Dallas, gesto que se volvió viral por imitar la tradición japonesa en los Mundiales.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/videos/general/2026/06/23/como-japoneses-asi-juntaron-la-basura-los-hinchas-argentinos-despues-del-banderazo-en-dallas/"
-      },
-      {
-        "titulo_corto": "Abuela de 100 años viral por Messi",
-        "resumen": "Una abuela de 100 años se volvió viral por su mensaje dedicado a Messi, sumando una historia emotiva al color argentino del Mundial.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/abuela-viral-100-anos-carteles-dedicatoria-lionel-messi-argentina-austria_0_5haycAY4oK.html"
-      }
-    ],
     "Humor": [
       {
-        "titulo_corto": "Messi ya es meme del Mundial",
-        "resumen": "La reacción de Messi tras hacer historia fue tomada por los hinchas como nuevo meme del Mundial, mezclando épica deportiva y humor viral.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/23/la-divertida-reaccion-de-messi-tras-hacer-historia-que-los-fanaticos-ya-eligieron-como-nuevo-meme-del-mundial"
+        "titulo_corto": "Kun al aire",
+        "resumen": "El video del Kun Agüero circula como humor futbolero de alto impacto y suma conversación liviana alrededor de figuras cercanas a la Selección.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1ui2rax/kun_estamos_al_aire_si_ya_se/"
+      }
+    ],
+    "Equipo": [
+      {
+        "titulo_corto": "Cuti en duda",
+        "resumen": "La nota sigue la evolución de Cuti Romero y sus chances de jugar ante Cabo Verde, un foco clave para pensar la defensa argentina.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/seleccion-argentina/cuti-romero-recuperacion-optimismo-seleccion-argentina-mundial-id730201.html"
+      },
+      {
+        "titulo_corto": "Cabo Verde, rival",
+        "resumen": "La cobertura explica el cruce con Cabo Verde, rival que eliminó a Uruguay y aparece como próximo obstáculo de Argentina en 16avos.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/seleccion-argentina/cuando-juega-la-seleccion-argentina-por-los-16vos-de-final-del-mundial-2026-horario-tv-y-mas-id737740.html"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Infantino defiende las pausas",
-        "resumen": "Infantino defendió las pausas de hidratación del Mundial frente a críticas por ritmo de juego, calor y decisiones organizativas de FIFA.",
+        "titulo_corto": "Formato cuestionado",
+        "resumen": "La crítica al nuevo formato del Mundial instala dudas sobre la expansión del torneo y sus efectos deportivos y organizativos.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/mundial/jurgen-klopp-cuestiono-el-nuevo-formato-de-la-copa-del-mundo-id727313.html"
+      },
+      {
+        "titulo_corto": "Show estadounidense",
+        "resumen": "La nota plantea tensiones por el modelo de espectáculo de Estados Unidos, que divide a hinchas entre entretenimiento y tradición futbolera.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/"
+      }
+    ],
+    "Color en la tribuna": [
+      {
+        "titulo_corto": "Boom argentino",
+        "resumen": "La nota muestra a los argentinos entre los públicos que más tickets compran, señal de una presencia fuerte en las tribunas del Mundial.",
         "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/fifa-gianni-infantino-mundial-defendio-pausa-hidratacion-descansos-obligatorios_0_4G2egyrh5w.html"
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/entradas-mundial-argentina-fifa-abriata_0_c74Qq3lNHq.html"
+      },
+      {
+        "titulo_corto": "Billetera recuperada",
+        "resumen": "La historia del hincha que recuperó su billetera aporta color humano e ingenio argentino en medio del viaje mundialista.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Schweinsteiger prueba mate",
-        "resumen": "Schweinsteiger probó mate durante un partido del Mundial y saludó a Argentina, reforzando la circulación global de símbolos argentinos.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/bastian-schweinsteiger-probo-el-mate-durante-un-partido-del-mundial-salud-argentina-nid24062026"
+        "titulo_corto": "Primer Messi argentino",
+        "resumen": "El aniversario del debut de Messi con la camiseta argentina reactiva memoria, orgullo y la idea de un ícono nacional blindado para la Selección.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/messi/messi-aniversario-especial_0_w69vjjFaP5.html"
       },
       {
-        "titulo_corto": "Google sorprende a Messi",
-        "resumen": "Google se suma a los saludos por Messi, mostrando cómo la figura del capitán argentino excede lo deportivo y activa marcas globales.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/tecno/internet/2026/06/23/google-le-dedica-una-sorpresa-a-leo-messi-en-el-buscador-despues-de-la-victoria-contra-austria-como-activarla/"
-      }
-    ],
-    "Alcohol": [
-      {
-        "titulo_corto": "Ley seca en Ciudad de México",
-        "resumen": "Ciudad de México aplicó ley seca para prevenir incidentes durante el Mundial, instalando el vínculo entre fútbol, alcohol y control público.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/mexico-venta-alcohol-mundial-republica-checa-ley-seca_0_s7rKi3IqA4.html"
+        "titulo_corto": "México 86 y Scaloni",
+        "resumen": "La nota conecta la gloria de México 86 con el presente de Scaloni, reforzando la continuidad histórica del sueño argentino en Mundiales.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/"
       }
     ]
   }
