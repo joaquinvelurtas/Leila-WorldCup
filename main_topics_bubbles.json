@@ -1,12 +1,12 @@
 {
   "topics": [
-    {"tema": "Cumpleaños de Messi (39 años)", "engagement": 85000, "views": 2500000, "volumen": 12500, "sentiment": "Positive"},
-    {"tema": "Sorpresa plantel a Messi en concentración", "engagement": 14500, "views": 280000, "volumen": 2800, "sentiment": "Positive"},
-    {"tema": "Preview Argentina vs Jordania", "engagement": 11000, "views": 380000, "volumen": 3200, "sentiment": "Positive"},
-    {"tema": "Análisis rendimiento Scaloneta", "engagement": 7500, "views": 240000, "volumen": 2100, "sentiment": "Neutral"},
-    {"tema": "Resultados y clasificaciones WC 2026", "engagement": 16000, "views": 550000, "volumen": 4800, "sentiment": "Neutral"},
-    {"tema": "Emoción y edits hinchas Scaloneta", "engagement": 22000, "views": 750000, "volumen": 5500, "sentiment": "Positive"},
-    {"tema": "Cábala y momentos plantel", "engagement": 6500, "views": 190000, "volumen": 1700, "sentiment": "Positive"},
-    {"tema": "Videos y reacciones hinchas WC", "engagement": 9000, "views": 320000, "volumen": 2400, "sentiment": "Neutral"}
+    {"tema": "Victoria Argentina vs Jordania", "engagement": 42000, "views": 1500000, "volumen": 7800, "sentiment": "Positive"},
+    {"tema": "Momento viral hincha billetera", "engagement": 67643, "views": 4402170, "volumen": 5500, "sentiment": "Positive"},
+    {"tema": "Julián Álvarez y Simeone", "engagement": 13066, "views": 304864, "volumen": 2800, "sentiment": "Neutral"},
+    {"tema": "Récords de Messi en el Mundial", "engagement": 8797, "views": 282093, "volumen": 2100, "sentiment": "Positive"},
+    {"tema": "Posible camino Scaloneta WC", "engagement": 12500, "views": 650000, "volumen": 3400, "sentiment": "Positive"},
+    {"tema": "Ambiente e himno Dallas", "engagement": 9200, "views": 280000, "volumen": 1900, "sentiment": "Positive"},
+    {"tema": "Análisis post-partido Scaloneta", "engagement": 11000, "views": 420000, "volumen": 2600, "sentiment": "Positive"},
+    {"tema": "Clasificaciones otros WC 2026", "engagement": 8500, "views": 350000, "volumen": 2200, "sentiment": "Neutral"}
   ]
 }
