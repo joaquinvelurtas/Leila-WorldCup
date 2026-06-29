@@ -307,6 +307,21 @@
     display: flex; align-items: center; gap: 7px; white-space: nowrap;
   }
   .dot { width: 7px; height: 7px; border-radius: 50%; background: #c9a84c; }
+  .last-updated-label {
+    position: absolute;
+    right: 300px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+  @media (max-width: 900px) {
+    .last-updated-label { right: 220px; font-size: 12px; }
+  }
+
 
 
   /* ── Slide controls ───────────────────────────────────────── */
@@ -389,6 +404,9 @@
   </div>
 
   <div class="bottom-pill"><span class="dot"></span>Newsroom WC 2026</div>
+
+  <span id="last-updated" class="last-updated-label">Actualizado hace: —</span>
+
   <div style="display:flex;align-items:center;gap:10px;">
     <img src="https://raw.githubusercontent.com/joaquinvelurtas/Leila-WorldCup/main/wc_logo_png.png"
          alt="WC 2026"
@@ -410,6 +428,7 @@ const BUBBLE_JSON       = BASE + "main_topics_bubbles.json";
 const BEER_JSON         = BASE + "beer_conversation.json";
 const COMPETITION_JSON  = BASE + "competition_conversation.json";
 const TOPICS_JSON       = BASE + "topics_volume_evolution.json";
+const LAST_UPDATED_JSON = BASE + "last_updated.json";
 const GOLD_KEYS         = ["neymar", "hoteles", "nueva jersey", "messi"];
 const PILLARS           = ["Equipo", "Humor", "Controversia", "Color en la tribuna", "Argentina por el mundo", "Alcohol", "Cerveza"];
 const SLIDE_INTERVAL_MS = 45000;
@@ -497,6 +516,43 @@ const repIcon  = '<svg width="11" height="11" viewBox="0 0 24 24" fill="currentC
 function noCache(url) {
   const sep = url.includes("?") ? "&" : "?";
   return url + sep + "v=" + Date.now();
+}
+
+function formatRelativeTime(dateString) {
+  const updated = new Date(dateString);
+  const now = new Date();
+
+  if (isNaN(updated.getTime())) return "—";
+
+  const diffMs = now - updated;
+  const diffSeconds = Math.floor(diffMs / 1000);
+  const diffMinutes = Math.floor(diffSeconds / 60);
+  const diffHours = Math.floor(diffMinutes / 60);
+  const diffDays = Math.floor(diffHours / 24);
+
+  if (diffSeconds < 0) return "recién";
+  if (diffSeconds < 60) return "recién";
+  if (diffMinutes < 60) return diffMinutes + "min";
+  if (diffHours < 24) return diffHours + "h";
+  return diffDays + "d";
+}
+
+async function initLastUpdated() {
+  const el = document.getElementById("last-updated");
+  if (!el) return;
+
+  try {
+    const res = await fetch(noCache(LAST_UPDATED_JSON));
+    if (!res.ok) throw new Error("HTTP " + res.status);
+
+    const json = await res.json();
+    const relative = formatRelativeTime(json.updated_at);
+
+    el.textContent = "Actualizado hace: " + relative;
+  } catch(e) {
+    console.warn("Last updated JSON failed:", e.message);
+    el.textContent = "Actualizado hace: —";
+  }
 }
 
 function buildLogoHTML(medio) {
@@ -1051,7 +1107,8 @@ async function refreshDashboardData() {
     initRightPanel(),
     initPortales(),
     initTwitterPosts(),
-    initBubble()
+    initBubble(),
+    initLastUpdated()
   ]);
 }
 
