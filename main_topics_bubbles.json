@@ -1,12 +1,12 @@
 {
   "topics": [
-    {"tema": "Miedo a Cabo Verde / meme eliminaci\u00f3n", "engagement": 45000, "views": 550000, "volumen": 9500, "sentiment": "Neutral"},
-    {"tema": "Simeone y Juli\u00e1n \u00c1lvarez", "engagement": 30500, "views": 950000, "volumen": 3400, "sentiment": "Neutral"},
-    {"tema": "Paraguay elimin\u00f3 a Alemania", "engagement": 8500, "views": 400000, "volumen": 5200, "sentiment": "Positive"},
-    {"tema": "Celebraci\u00f3n hinchas avi\u00f3n Paraguay", "engagement": 2500, "views": 380000, "volumen": 1800, "sentiment": "Positive"},
-    {"tema": "Scaloni y once vs Cabo Verde", "engagement": 6000, "views": 280000, "volumen": 2900, "sentiment": "Positive"},
-    {"tema": "Upsets y resultados WC 2026", "engagement": 12000, "views": 450000, "volumen": 4100, "sentiment": "Neutral"},
-    {"tema": "R\u00e9cords y legado Messi WC", "engagement": 7500, "views": 320000, "volumen": 2100, "sentiment": "Positive"},
-    {"tema": "Renovaci\u00f3n Scaloni y an\u00e1lisis", "engagement": 5500, "views": 220000, "volumen": 2400, "sentiment": "Positive"}
+    {"tema": "Paraguay elimina a Alemania", "engagement": 45000, "views": 420000, "volumen": 5500, "sentiment": "Positive"},
+    {"tema": "Marruecos elimina a Países Bajos", "engagement": 2800, "views": 80000, "volumen": 2500, "sentiment": "Positive"},
+    {"tema": "México avanza a octavos", "engagement": 16500, "views": 1050000, "volumen": 8000, "sentiment": "Positive"},
+    {"tema": "Mbappé doblete Francia avanza", "engagement": 10000, "views": 200000, "volumen": 4000, "sentiment": "Positive"},
+    {"tema": "Argentina vs Cabo Verde preparación", "engagement": 4500, "views": 180000, "volumen": 3800, "sentiment": "Neutral"},
+    {"tema": "Upsets y resultados WC 2026", "engagement": 12000, "views": 550000, "volumen": 6000, "sentiment": "Neutral"},
+    {"tema": "Videos hinchas celebrando Paraguay", "engagement": 12000, "views": 300000, "volumen": 2500, "sentiment": "Positive"},
+    {"tema": "Scaloni y Scaloneta vs Cabo Verde", "engagement": 3000, "views": 120000, "volumen": 2200, "sentiment": "Positive"}
   ]
 }
