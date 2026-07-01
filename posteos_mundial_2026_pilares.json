@@ -1,89 +1,63 @@
 {
   "overview": {
     "portales": {
-      "summary": "La selección de portales combina previa táctica de Argentina, recuperación de jugadores, calor extremo, críticas a FIFA, memoria mundialista, figuras globales de Messi y una mención de alcohol ligada al festejo paraguayo."
+      "summary": "La conversación en portales se concentra en la Selección: previa ante Cabo Verde, gestión del plantel, demanda de entradas e historias de hinchas. Predomina una cobertura de expectativa deportiva con capas de color argentino y controversia logística."
     },
     "reddit": {
-      "summary": "La selección de Reddit concentra humor supersticioso y absurdo alrededor de Argentina, con una comunidad que transforma la previa mundialista en meme y defensa simbólica de la Selección."
+      "summary": "La conversación relevante en Reddit está dominada por humor mundialista y rivalidades futboleras. Los portales, en cambio, ordenan la agenda desde la previa deportiva, los hinchas y las tensiones de acceso al Mundial."
     }
   },
   "pilares": {
     "Equipo": [
       {
-        "titulo_corto": "Cuti vuelve al grupo",
-        "resumen": "Cuti volvió a entrenar con normalidad y despejó una alerta clave para Scaloni antes del cruce de Argentina en 16avos.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/seleccion-argentina-cuti-romero-estudios-llegaria-16vos-de-final-id746367.html"
+        "titulo_corto": "Batacazos y Scaloneta",
+        "resumen": "La nota lee el cuadro mundialista desde la épica de los batacazos y advierte que Argentina deberá competir ante rivales capaces de romper pronósticos.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/01/la-epica-del-batacazo-se-apodera-del-mundial-un-nuevo-obstaculo-para-la-selecion/"
       },
       {
-        "titulo_corto": "Dudas de Scaloni",
-        "resumen": "Scaloni define el once ante Cabo Verde con dudas en defensa y ataque. La previa se concentra en decisiones tácticas de la Selección.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/seleccion/argentina-seleccion-cabo-verde-dieciseisavos-scaloni-messi_0_zbyoPwk8kv.html"
+        "titulo_corto": "Scaloni recupera piezas",
+        "resumen": "La cobertura pone el foco en los jugadores que recupera Scaloni antes de Cabo Verde y en cómo la Selección ajusta su base para buscar el pase.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/tags/mundial-2026/"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Amigos mendocinos",
-        "resumen": "Cuatro amigos mendocinos reaparecen como historia de hinchas argentinos en el Mundial, con foco en viaje, amistad y color federal.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/"
+        "titulo_corto": "In Messi we trust",
+        "resumen": "La historia de un hincha checo muestra cómo Messi moviliza adhesiones fuera de Argentina y convierte la tribuna en una escena global de devoción.",
+        "medio": "LA NACION",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/"
       },
       {
-        "titulo_corto": "Homenaje a México 86",
-        "resumen": "El homenaje a México 86 en Miami conecta la previa mundialista con memoria campeona, Maradona y orgullo argentino en la tribuna.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/bilardo-azteca-maradona-pumpido_0_I9wbSXzuWF.html"
+        "titulo_corto": "Guitarra desde San Isidro",
+        "resumen": "Un hincha viaja con su guitarra para seguir a la Selección y transforma la previa mundialista en una postal de pasión, música y presencia argentina.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/"
       }
     ],
     "Humor": [
       {
-        "titulo_corto": "Memes por Alemania",
-        "resumen": "Los memes por la eliminación alemana dominan el humor argentino: revancha simbólica, Paraguay como héroe y alivio futbolero.",
-        "medio": "Olé / TyC Sports / Infobae",
-        "url": "https://www.tycsports.com/mundial/fifa-mundial-mx-usa-can-2026-alemania-vs-paraguay-llave-1-id746541.html"
-      },
-      {
-        "titulo_corto": "Vudú contra Argentina",
-        "resumen": "Reddit convierte una supuesta ayuda china contra una maldición vudú en humor mundialista, superstición y defensa absurda de Argentina.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1ujmw0d/en_china_vieron_la_maldición_voodoo_que_nos/"
+        "titulo_corto": "Memes Francia-Paraguay",
+        "resumen": "La previa del cruce entre Francia y Paraguay dispara memes sobre Alfaro, la fe y la idea de una nueva utopía imposible contra una potencia.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/01/los-mejores-memes-en-la-previa-de-francia-paraguay-por-los-octavos-del-mundial-de-la-nueva-utopia-a-la-revancha-del-98/"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Calor extremo",
-        "resumen": "El calor extremo en sedes del Mundial aparece como alerta organizativa y de experiencia para jugadores, hinchas y ciudades anfitrionas.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/estados-unidos/2026/06/30/alerta-por-calor-extremo-en-el-mundial-las-ciudades-sede-que-rozaran-los-50-c-el-fin-de-semana-del-4-de-julio"
-      },
-      {
-        "titulo_corto": "Fútbol gentrificado",
-        "resumen": "Página/12 critica el Mundial como fútbol gentrificado: entradas caras, pérdida de popularidad y transformación social del espectáculo.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/06/29/ingenieria-social-en-el-futbol-de-lo-popular-a-la-gentrificacion/"
+        "titulo_corto": "AFA pide más entradas",
+        "resumen": "La AFA reclama a FIFA por la enorme demanda argentina: miles de hinchas estarían en Miami sin ticket y la presión por remanentes crece.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/mundial/el-pedido-de-tapia-a-fifa-por-la-enorme-demanda-de-entradas-de-argentina-id675062.html"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Robbie y Messi",
-        "resumen": "Robbie Williams aparece como figura global conectada con Messi y el Mundial, reforzando la proyección internacional del capitán argentino.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/la-cancion-del-mundial-2026-desire-el-primer-tema-de-la-banda-sonora-de-la-copa-del-mundo-nid05122025/"
-      },
-      {
-        "titulo_corto": "In Messi We Trust",
-        "resumen": "El superhincha checo de Messi expresa fanatismo global por la Selección y convierte la devoción extranjera en orgullo argentino.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/"
-      }
-    ],
-    "Alcohol": [
-      {
-        "titulo_corto": "Pipino y el alcohol",
-        "resumen": "Pipino Cuevas bromea con volver al alcohol tras el triunfo paraguayo, instalando festejo, exceso y humor regional alrededor del Mundial.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/06/30/voy-a-volver-al-alcohol-pipino-cuevas-se-excedio-en-los-festejos-tras-la-historica-victoria-de-paraguay-en-el-mundial"
+        "titulo_corto": "Messi en Spider-Man",
+        "resumen": "La aparición de Messi junto a Tom Holland instala al capitán argentino en la cultura pop global y amplifica su figura más allá del fútbol.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/"
       }
     ]
   }
