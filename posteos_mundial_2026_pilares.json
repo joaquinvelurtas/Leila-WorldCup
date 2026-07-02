@@ -1,64 +1,64 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales se concentra en la Selección: previa ante Cabo Verde, gestión del plantel, demanda de entradas e historias de hinchas. Predomina una cobertura de expectativa deportiva con capas de color argentino y controversia logística."
+      "summary": "La selección elegida concentra la cobertura en la previa deportiva de Argentina-Cabo Verde, el ciclo Scaloni, el fervor de hinchas en Miami, historias emotivas alrededor de Messi, tensión por reventa y señales de admiración internacional hacia la Selección."
     },
     "reddit": {
-      "summary": "La conversación relevante en Reddit está dominada por humor mundialista y rivalidades futboleras. Los portales, en cambio, ordenan la agenda desde la previa deportiva, los hinchas y las tensiones de acceso al Mundial."
+      "summary": "No se seleccionaron posteos de Reddit para esta actualización; el foco final queda concentrado en portales argentinos y su lectura editorial del Mundial."
     }
   },
   "pilares": {
+    "Humor": [],
     "Equipo": [
       {
-        "titulo_corto": "Batacazos y Scaloneta",
-        "resumen": "La nota lee el cuadro mundialista desde la épica de los batacazos y advierte que Argentina deberá competir ante rivales capaces de romper pronósticos.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/01/la-epica-del-batacazo-se-apodera-del-mundial-un-nuevo-obstaculo-para-la-selecion/"
+        "titulo_corto": "Argentina vs Cabo Verde",
+        "resumen": "La previa marca horario, transmisión y posibles titulares de Argentina ante Cabo Verde, con foco en el armado competitivo para los 16avos.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/argentina-vs-cabo-verde-mundial-2026-hora-ver-probables-formaciones-tv-streaming_0_cuxASJnbED.html"
       },
       {
-        "titulo_corto": "Scaloni recupera piezas",
-        "resumen": "La cobertura pone el foco en los jugadores que recupera Scaloni antes de Cabo Verde y en cómo la Selección ajusta su base para buscar el pase.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/tags/mundial-2026/"
-      }
-    ],
-    "Color en la tribuna": [
-      {
-        "titulo_corto": "In Messi we trust",
-        "resumen": "La historia de un hincha checo muestra cómo Messi moviliza adhesiones fuera de Argentina y convierte la tribuna en una escena global de devoción.",
-        "medio": "LA NACION",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/"
-      },
-      {
-        "titulo_corto": "Guitarra desde San Isidro",
-        "resumen": "Un hincha viaja con su guitarra para seguir a la Selección y transforma la previa mundialista en una postal de pasión, música y presencia argentina.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/"
-      }
-    ],
-    "Humor": [
-      {
-        "titulo_corto": "Memes Francia-Paraguay",
-        "resumen": "La previa del cruce entre Francia y Paraguay dispara memes sobre Alfaro, la fe y la idea de una nueva utopía imposible contra una potencia.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/01/los-mejores-memes-en-la-previa-de-francia-paraguay-por-los-octavos-del-mundial-de-la-nueva-utopia-a-la-revancha-del-98/"
+        "titulo_corto": "Scaloni llega a 100 partidos",
+        "resumen": "La nota repasa los 100 partidos de Scaloni y su lugar como técnico que consolidó un ciclo ganador y una identidad reconocible en la Selección.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/los-100-partidos-de-lionel-scaloni-el-entrenador-que-consiguio-algo-mas-dificil-que-ganar-que-todos-nid01072026"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "AFA pide más entradas",
-        "resumen": "La AFA reclama a FIFA por la enorme demanda argentina: miles de hinchas estarían en Miami sin ticket y la presión por remanentes crece.",
+        "titulo_corto": "Reventa por las nubes",
+        "resumen": "La cobertura expone precios exorbitantes en la reventa para Argentina-Cabo Verde y convierte el acceso a entradas en eje de malestar.",
         "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/mundial/el-pedido-de-tapia-a-fifa-por-la-enorme-demanda-de-entradas-de-argentina-id675062.html"
+        "url": "https://www.tycsports.com/seleccion-argentina/la-exorbitante-cifra-que-se-pide-en-la-reventa-para-ver-argentina-vs-cabo-verde-id747298.html"
+      }
+    ],
+    "Color en la tribuna": [
+      {
+        "titulo_corto": "Hinchas argentinos en Miami",
+        "resumen": "La previa de los hinchas en Miami combina playa, bombos y asado, mostrando el color popular argentino antes del cruce con Cabo Verde.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/01/playa-bombos-y-asado-asi-sera-la-previa-de-los-hinchas-argentinos-en-miami-antes-del-partido-contra-cabo-verde"
+      },
+      {
+        "titulo_corto": "El sueño de Manu",
+        "resumen": "La historia de Manu, el nene que le escribió a Messi y viaja al Mundial, aporta una mirada emocional sobre el vínculo entre hinchas y Selección.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/manu-el-nene-que-le-escribio-una-carta-a-messi-y-se-volvio-viral-ahora-cumplira-su-sueno-y-viajara-nid01072026"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Messi en Spider-Man",
-        "resumen": "La aparición de Messi junto a Tom Holland instala al capitán argentino en la cultura pop global y amplifica su figura más allá del fútbol.",
+        "titulo_corto": "Cabo Verde prepara regalo a Messi",
+        "resumen": "El presidente de Cabo Verde anticipa un regalo para Messi y transforma el cruce con Argentina en una escena de reconocimiento internacional.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/"
+        "url": "https://www.infobae.com/deportes/2026/07/02/el-presidente-de-cabo-verde-conto-el-regalo-que-le-daran-a-lionel-messi-en-la-previa-del-duelo-ante-argentina-por-el-mundial"
+      },
+      {
+        "titulo_corto": "Suecia alienta por Argentina",
+        "resumen": "Un jugador sueco eliminado asegura que alentará por Argentina, reforzando el atractivo global de la Selección y de Messi durante el Mundial.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/seleccion-argentina/mundial-2026-suecia-eliminado-hinchara-seleccion-argentina-francia-id747262.html"
       }
-    ]
+    ],
+    "Alcohol": []
   }
 }
