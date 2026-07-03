@@ -1,64 +1,62 @@
 {
   "overview": {
     "portales": {
-      "summary": "La selección elegida concentra la cobertura en la previa deportiva de Argentina-Cabo Verde, el ciclo Scaloni, el fervor de hinchas en Miami, historias emotivas alrededor de Messi, tensión por reventa y señales de admiración internacional hacia la Selección."
+      "summary": "La conversación en portales se concentra en la Selección Argentina: ciclo Scaloni, figura de Messi, color de hinchas y contenidos virales de previa."
     },
     "reddit": {
-      "summary": "No se seleccionaron posteos de Reddit para esta actualización; el foco final queda concentrado en portales argentinos y su lectura editorial del Mundial."
+      "summary": "No se seleccionaron posteos de Reddit para esta actualización."
     }
   },
   "pilares": {
-    "Humor": [],
     "Equipo": [
       {
-        "titulo_corto": "Argentina vs Cabo Verde",
-        "resumen": "La previa marca horario, transmisión y posibles titulares de Argentina ante Cabo Verde, con foco en el armado competitivo para los 16avos.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/argentina-vs-cabo-verde-mundial-2026-hora-ver-probables-formaciones-tv-streaming_0_cuxASJnbED.html"
+        "titulo_corto": "Scaloni llega a 100 partidos",
+        "resumen": "Scaloni alcanza 100 partidos al frente de la Selección y refuerza la lectura de ciclo histórico en plena competencia mundialista.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/seleccion-argentina/scaloni-cumple-100-partidos-al-frente-de-la-seleccion-argentina-los-numeros-de-un-ciclo-historico-id747219.html"
       },
       {
-        "titulo_corto": "Scaloni llega a 100 partidos",
-        "resumen": "La nota repasa los 100 partidos de Scaloni y su lugar como técnico que consolidó un ciclo ganador y una identidad reconocible en la Selección.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/los-100-partidos-de-lionel-scaloni-el-entrenador-que-consiguio-algo-mas-dificil-que-ganar-que-todos-nid01072026"
-      }
-    ],
-    "Controversia": [
-      {
-        "titulo_corto": "Reventa por las nubes",
-        "resumen": "La cobertura expone precios exorbitantes en la reventa para Argentina-Cabo Verde y convierte el acceso a entradas en eje de malestar.",
+        "titulo_corto": "Los récords de Messi",
+        "resumen": "Messi vuelve a ocupar el centro narrativo del Mundial por los récords alcanzados y las marcas que aún puede superar.",
         "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/la-exorbitante-cifra-que-se-pide-en-la-reventa-para-ver-argentina-vs-cabo-verde-id747298.html"
+        "url": "https://www.tycsports.com/seleccion-argentina/todos-los-records-que-puede-romper-messi-en-el-mundial-2026-id734052.html"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Hinchas argentinos en Miami",
-        "resumen": "La previa de los hinchas en Miami combina playa, bombos y asado, mostrando el color popular argentino antes del cruce con Cabo Verde.",
+        "titulo_corto": "Hincha viaja al Mundial con ahorros",
+        "resumen": "La historia de un joven peluquero que ahorró para viajar al Mundial muestra esfuerzo personal y pasión popular por la Selección.",
         "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/01/playa-bombos-y-asado-asi-sera-la-previa-de-los-hinchas-argentinos-en-miami-antes-del-partido-contra-cabo-verde"
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/03/tiene-19-anos-aprendio-a-cortar-el-pelo-a-los-16-mirando-videos-de-youtube-y-logro-ahorrar-la-plata-para-viajar-al-mundial"
       },
       {
-        "titulo_corto": "El sueño de Manu",
-        "resumen": "La historia de Manu, el nene que le escribió a Messi y viaja al Mundial, aporta una mirada emocional sobre el vínculo entre hinchas y Selección.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/manu-el-nene-que-le-escribio-una-carta-a-messi-y-se-volvio-viral-ahora-cumplira-su-sueno-y-viajara-nid01072026"
-      }
-    ],
-    "Argentina por el mundo": [
-      {
-        "titulo_corto": "Cabo Verde prepara regalo a Messi",
-        "resumen": "El presidente de Cabo Verde anticipa un regalo para Messi y transforma el cruce con Argentina en una escena de reconocimiento internacional.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/02/el-presidente-de-cabo-verde-conto-el-regalo-que-le-daran-a-lionel-messi-en-la-previa-del-duelo-ante-argentina-por-el-mundial"
-      },
-      {
-        "titulo_corto": "Suecia alienta por Argentina",
-        "resumen": "Un jugador sueco eliminado asegura que alentará por Argentina, reforzando el atractivo global de la Selección y de Messi durante el Mundial.",
+        "titulo_corto": "Ciro en el banderazo argentino",
+        "resumen": "La aparición de Ciro en el banderazo suma épica popular, música y tensión por la intervención policial durante la previa argentina.",
         "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/mundial-2026-suecia-eliminado-hinchara-seleccion-argentina-francia-id747262.html"
+        "url": "https://www.tycsports.com/mundial/ciro-martinez-sorprendio-en-el-banderazo-argentino-y-se-fue-corriendo-tras-la-intervencion-policial-id747490.html"
       }
     ],
-    "Alcohol": []
+    "Humor": [
+      {
+        "titulo_corto": "Messi y el magiclick del Cuti",
+        "resumen": "La carcajada de Messi por el magiclick del Cuti Romero convierte una escena de aeropuerto en contenido viral de intimidad del plantel.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/seleccion/video-messi-magiclick-aeropuerto-mundial-2026_0_WIy3kMbjw9.html"
+      },
+      {
+        "titulo_corto": "Dobles de la Selección en el asado",
+        "resumen": "La parodia de dobles de jugadores argentinos en un asado previo instala humor mundialista desde códigos locales y caricatura popular.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/video-la-desopilante-parodia-de-los-dobles-de-la-seleccion-en-el-asado-previo-al-partido-del-mundial-nid02072026"
+      }
+    ],
+    "Controversia": [
+      {
+        "titulo_corto": "El chip que anuló el empate croata",
+        "resumen": "El gol anulado a Croacia por tecnología del balón abre debate sobre sensores, VAR y criterios arbitrales en instancias decisivas.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/chip-anulo-empate-croacia_0_ZVKeIKQ7aE.html"
+      }
+    ]
   }
 }
