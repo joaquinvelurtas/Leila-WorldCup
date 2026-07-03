@@ -1,12 +1,12 @@
 {
   "topics": [
-    {"tema": "Dybala no vuelve a Boca", "engagement": 18170, "views": 1050000, "volumen": 8000, "sentiment": "Negative"},
-    {"tema": "Talismán sin entradas Cabo Verde", "engagement": 16057, "views": 555127, "volumen": 6000, "sentiment": "Neutral"},
-    {"tema": "Messi Scaloneta en Miami", "engagement": 2060, "views": 23000, "volumen": 4500, "sentiment": "Positive"},
-    {"tema": "Historia caboverdiano vs ARG", "engagement": 4345, "views": 339394, "volumen": 3500, "sentiment": "Positive"},
-    {"tema": "Expectativa ARG vs Cabo Verde", "engagement": 3500, "views": 200000, "volumen": 7000, "sentiment": "Positive"},
-    {"tema": "Festejos México tragedias", "engagement": 1400, "views": 170000, "volumen": 5000, "sentiment": "Negative"},
-    {"tema": "Bélgica remonta Senegal", "engagement": 200, "views": 50000, "volumen": 2000, "sentiment": "Neutral"},
-    {"tema": "Upsets resultados WC 2026", "engagement": 12000, "views": 550000, "volumen": 5500, "sentiment": "Neutral"}
+    {"tema": "Argentina vs Cabo Verde preview", "engagement": 28500, "views": 1800000, "volumen": 9500, "sentiment": "Positive"},
+    {"tema": "Talismán sin entradas Cabo Verde", "engagement": 18500, "views": 950000, "volumen": 7200, "sentiment": "Neutral"},
+    {"tema": "Dybala futuro Boca", "engagement": 15600, "views": 780000, "volumen": 6500, "sentiment": "Negative"},
+    {"tema": "Expectativa Scaloneta octavos", "engagement": 11200, "views": 620000, "volumen": 5100, "sentiment": "Positive"},
+    {"tema": "Precios entradas reventa Miami", "engagement": 9800, "views": 550000, "volumen": 4200, "sentiment": "Negative"},
+    {"tema": "Messi en Miami entrenamiento", "engagement": 12400, "views": 680000, "volumen": 4800, "sentiment": "Positive"},
+    {"tema": "Scaloni 100 partidos Selección", "engagement": 8200, "views": 420000, "volumen": 3100, "sentiment": "Positive"},
+    {"tema": "Cabo Verde sorpresa Mundial", "engagement": 6500, "views": 380000, "volumen": 2800, "sentiment": "Neutral"}
   ]
 }
