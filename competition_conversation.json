@@ -1,19 +1,19 @@
 {
   "temas": [
     {
-      "marca": "Heineken",
-      "titulo": "Fan Volunteers + watch parties",
-      "resumen": "Iniciativa VTO para fans vean partidos WC + eventos en ciudades sede (Miami etc.). Aumento marketing soccer."
-    },
-    {
       "marca": "McDonalds_Ar",
       "titulo": "Asociación Scaloneta / Mundial",
-      "resumen": "Menciones orgánicas en contexto llegada Selección Miami y preparativos vs Cabo Verde. Presencia sponsor habitual."
+      "resumen": "Menciones orgánicas fuertes en contexto llegada Selección a Miami y previa vs Cabo Verde. Sponsor habitual con activaciones locales."
     },
     {
       "marca": "Coca-Cola",
-      "titulo": "Activaciones fútbol WC",
-      "resumen": "Presencia global en estadio y campañas, menciones en contexto partidos Argentina y otros upsets."
+      "titulo": "Activaciones fútbol WC 2026",
+      "resumen": "Presencia global en estadios y campañas digitales. Menciones en contexto Messi/Miami y expectativa octavos Argentina."
+    },
+    {
+      "marca": "Heineken",
+      "titulo": "Fan Volunteers + watch parties",
+      "resumen": "Eventos para fans en sedes + Miami durante Argentina vs Cabo Verde. Crecimiento en conversación orgánica de hinchas."
     }
   ]
 }
