@@ -1,12 +1,12 @@
 {
   "topics": [
-    {"tema": "Argentina vs Cabo Verde preview", "engagement": 28500, "views": 1800000, "volumen": 9500, "sentiment": "Positive"},
-    {"tema": "Talismán sin entradas Cabo Verde", "engagement": 18500, "views": 950000, "volumen": 7200, "sentiment": "Neutral"},
-    {"tema": "Dybala futuro Boca", "engagement": 15600, "views": 780000, "volumen": 6500, "sentiment": "Negative"},
-    {"tema": "Expectativa Scaloneta octavos", "engagement": 11200, "views": 620000, "volumen": 5100, "sentiment": "Positive"},
-    {"tema": "Precios entradas reventa Miami", "engagement": 9800, "views": 550000, "volumen": 4200, "sentiment": "Negative"},
-    {"tema": "Messi en Miami entrenamiento", "engagement": 12400, "views": 680000, "volumen": 4800, "sentiment": "Positive"},
-    {"tema": "Scaloni 100 partidos Selección", "engagement": 8200, "views": 420000, "volumen": 3100, "sentiment": "Positive"},
-    {"tema": "Cabo Verde sorpresa Mundial", "engagement": 6500, "views": 380000, "volumen": 2800, "sentiment": "Neutral"}
+    {"tema": "Argentina vs Egipto octavos", "engagement": 30000, "views": 1500000, "volumen": 9500, "sentiment": "Positive"},
+    {"tema": "Mufa perfecta Selección", "engagement": 52500, "views": 1990000, "volumen": 2500, "sentiment": "Negative"},
+    {"tema": "Nico González titular vs Egipto", "engagement": 8000, "views": 860000, "volumen": 1200, "sentiment": "Neutral"},
+    {"tema": "Scaloni Messi vs Egipto", "engagement": 9000, "views": 180000, "volumen": 1500, "sentiment": "Positive"},
+    {"tema": "Balogun vs Bélgica octavos", "engagement": 24000, "views": 1510000, "volumen": 1500, "sentiment": "Neutral"},
+    {"tema": "Polémica Kane México-Inglaterra", "engagement": 6000, "views": 300000, "volumen": 3000, "sentiment": "Neutral"},
+    {"tema": "México y Brasil afuera Mundial", "engagement": 8000, "views": 50000, "volumen": 1000, "sentiment": "Positive"},
+    {"tema": "Llegada Selección Atlanta", "engagement": 5000, "views": 200000, "volumen": 1000, "sentiment": "Positive"}
   ]
 }
