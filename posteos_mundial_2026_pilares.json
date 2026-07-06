@@ -1,7 +1,7 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales se concentra en la Selección Argentina: ciclo Scaloni, figura de Messi, color de hinchas y contenidos virales de previa."
+      "summary": "La selección priorizada en portales combina previa deportiva de Argentina-Egipto, confianza del rival, decisiones arbitrales y controversias institucionales. El foco dominante está en cómo llega la Selección al cruce, con Scaloni probando variantes, Egipto elevando el tono competitivo y la FIFA bajo observación por arbitrajes y sanciones. También aparece el costado emocional del hincha argentino y una lectura humorística regional tras la eliminación de Brasil."
     },
     "reddit": {
       "summary": "No se seleccionaron posteos de Reddit para esta actualización."
@@ -10,53 +10,49 @@
   "pilares": {
     "Equipo": [
       {
-        "titulo_corto": "Scaloni llega a 100 partidos",
-        "resumen": "Scaloni alcanza 100 partidos al frente de la Selección y refuerza la lectura de ciclo histórico en plena competencia mundialista.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/scaloni-cumple-100-partidos-al-frente-de-la-seleccion-argentina-los-numeros-de-un-ciclo-historico-id747219.html"
-      },
-      {
-        "titulo_corto": "Los récords de Messi",
-        "resumen": "Messi vuelve a ocupar el centro narrativo del Mundial por los récords alcanzados y las marcas que aún puede superar.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/todos-los-records-que-puede-romper-messi-en-el-mundial-2026-id734052.html"
-      }
-    ],
-    "Color en la tribuna": [
-      {
-        "titulo_corto": "Hincha viaja al Mundial con ahorros",
-        "resumen": "La historia de un joven peluquero que ahorró para viajar al Mundial muestra esfuerzo personal y pasión popular por la Selección.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/03/tiene-19-anos-aprendio-a-cortar-el-pelo-a-los-16-mirando-videos-de-youtube-y-logro-ahorrar-la-plata-para-viajar-al-mundial"
-      },
-      {
-        "titulo_corto": "Ciro en el banderazo argentino",
-        "resumen": "La aparición de Ciro en el banderazo suma épica popular, música y tensión por la intervención policial durante la previa argentina.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/mundial/ciro-martinez-sorprendio-en-el-banderazo-argentino-y-se-fue-corriendo-tras-la-intervencion-policial-id747490.html"
-      }
-    ],
-    "Humor": [
-      {
-        "titulo_corto": "Messi y el magiclick del Cuti",
-        "resumen": "La carcajada de Messi por el magiclick del Cuti Romero convierte una escena de aeropuerto en contenido viral de intimidad del plantel.",
+        "titulo_corto": "Scaloni prueba variantes",
+        "resumen": "Scaloni ensaya cambios para enfrentar a Egipto, con dudas por línea y búsqueda de equilibrio para recuperar funcionamiento en octavos.",
         "medio": "Olé",
-        "url": "https://www.ole.com.ar/seleccion/video-messi-magiclick-aeropuerto-mundial-2026_0_WIy3kMbjw9.html"
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/laprobableformacionargentinaegipto_0_82zYNm5jZK.html"
       },
       {
-        "titulo_corto": "Dobles de la Selección en el asado",
-        "resumen": "La parodia de dobles de jugadores argentinos en un asado previo instala humor mundialista desde códigos locales y caricatura popular.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/video-la-desopilante-parodia-de-los-dobles-de-la-seleccion-en-el-asado-previo-al-partido-del-mundial-nid02072026"
+        "titulo_corto": "Egipto desafía a Argentina",
+        "resumen": "El cuerpo técnico egipcio calienta la previa al afirmar que tiene a Salah y “26 Messis”, instalando confianza antes del cruce.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/05/tenemos-a-salah-y-a-26-messis-las-desafiantes-declaraciones-del-cuerpo-tecnico-de-egipto-antes-del-duelo-ante-argentina"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "El chip que anuló el empate croata",
-        "resumen": "El gol anulado a Croacia por tecnología del balón abre debate sobre sensores, VAR y criterios arbitrales en instancias decisivas.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/chip-anulo-empate-croacia_0_ZVKeIKQ7aE.html"
+        "titulo_corto": "UEFA cruza a FIFA",
+        "resumen": "La UEFA cuestiona con dureza a FIFA por habilitar a Balogun tras su expulsión, y denuncia un quiebre de reglas en pleno Mundial.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/06/cruzo-una-linea-roja-duro-comunicado-de-la-uefa-tras-la-habilitacion-al-goleador-de-estados-unidos-que-habia-sido-expulsado"
+      },
+      {
+        "titulo_corto": "Árbitros franceses para Argentina",
+        "resumen": "FIFA designa una terna francesa para Argentina-Egipto, decisión que suma ruido en la previa por el origen de los jueces.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/06/tres-arbitros-franceses-para-el-partido-entre-argentina-y-egipto"
       }
-    ]
+    ],
+    "Humor": [
+      {
+        "titulo_corto": "Maldición del gato",
+        "resumen": "La eliminación de Brasil revive la teoría viral de la “maldición del gato”, mezclando superstición, memes y rivalidad futbolera.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/05/la-maldicion-del-gato-la-teoria-que-resurgio-tras-la-eliminacion-de-brasil-en-el-mundial-a-manos-de-noruega"
+      }
+    ],
+    "Color en la tribuna": [
+      {
+        "titulo_corto": "Hincha renunció por el Mundial",
+        "resumen": "Un argentino dejó su trabajo, viajó a Miami y vivió el himno junto a la Selección, como historia de entrega mundialista.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/05/renuncio-a-su-trabajo-viajo-a-miami-para-el-mundial-y-canto-el-himno-con-los-jugadores-fue-magico"
+      }
+    ],
+    "Argentina por el mundo": [],
+    "Alcohol": []
   }
 }
