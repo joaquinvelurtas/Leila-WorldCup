@@ -1,10 +1,10 @@
 {
   "topics": [
-    {"topic": "Dybala no vuelve a Boca", "series": [{"date": "2026-07-02", "volume": 8000}, {"date": "2026-07-03", "volume": 6500}]},
-    {"topic": "Talismán sin entradas Cabo Verde", "series": [{"date": "2026-07-02", "volume": 6000}, {"date": "2026-07-03", "volume": 7200}]},
-    {"topic": "Argentina vs Cabo Verde preview", "series": [{"date": "2026-06-30", "volume": 8500}, {"date": "2026-07-01", "volume": 3800}, {"date": "2026-07-02", "volume": 5500}, {"date": "2026-07-03", "volume": 9500}]},
-    {"topic": "México avanza octavos", "series": [{"date": "2026-07-01", "volume": 8000}, {"date": "2026-07-02", "volume": 5000}]},
-    {"topic": "Upsets y resultados WC 2026", "series": [{"date": "2026-07-03", "volume": 4200}]},
-    {"topic": "Messi en Miami + Scaloni 100", "series": [{"date": "2026-07-03", "volume": 4800}]}
+    {"topic": "Dybala renovación Roma", "series": [{"date": "2026-07-02", "volume": 8000}, {"date": "2026-07-03", "volume": 6500}, {"date": "2026-07-06", "volume": 900}]},
+    {"topic": "Argentina vs Egipto octavos", "series": [{"date": "2026-07-05", "volume": 7200}, {"date": "2026-07-06", "volume": 9500}]},
+    {"topic": "Messi en Miami + Scaloni 100", "series": [{"date": "2026-07-03", "volume": 4800}, {"date": "2026-07-06", "volume": 1500}]},
+    {"topic": "Mufa perfecta Selección", "series": [{"date": "2026-07-05", "volume": 1800}, {"date": "2026-07-06", "volume": 2500}]},
+    {"topic": "Nico González titular vs Egipto", "series": [{"date": "2026-07-05", "volume": 900}, {"date": "2026-07-06", "volume": 1200}]},
+    {"topic": "Balogun vs Bélgica octavos", "series": [{"date": "2026-07-05", "volume": 1100}, {"date": "2026-07-06", "volume": 1500}]}
   ]
 }
