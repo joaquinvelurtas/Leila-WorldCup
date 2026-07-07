@@ -1,12 +1,12 @@
 {
   "topics": [
-    {"tema": "Argentina vs Egipto octavos", "engagement": 30000, "views": 1500000, "volumen": 9500, "sentiment": "Positive"},
-    {"tema": "Mufa perfecta Selección", "engagement": 52500, "views": 1990000, "volumen": 2500, "sentiment": "Negative"},
-    {"tema": "Nico González titular vs Egipto", "engagement": 8000, "views": 860000, "volumen": 1200, "sentiment": "Neutral"},
-    {"tema": "Scaloni Messi vs Egipto", "engagement": 9000, "views": 180000, "volumen": 1500, "sentiment": "Positive"},
-    {"tema": "Balogun vs Bélgica octavos", "engagement": 24000, "views": 1510000, "volumen": 1500, "sentiment": "Neutral"},
-    {"tema": "Polémica Kane México-Inglaterra", "engagement": 6000, "views": 300000, "volumen": 3000, "sentiment": "Neutral"},
-    {"tema": "México y Brasil afuera Mundial", "engagement": 8000, "views": 50000, "volumen": 1000, "sentiment": "Positive"},
-    {"tema": "Llegada Selección Atlanta", "engagement": 5000, "views": 200000, "volumen": 1000, "sentiment": "Positive"}
+    {"tema": "Polémica VAR francés Letexier Arg-Egipto", "engagement": 15000, "views": 450000, "volumen": 3800, "sentiment": "Negative"},
+    {"tema": "Reacción Scaloni VAR francés", "engagement": 35000, "views": 950000, "volumen": 5800, "sentiment": "Positive"},
+    {"tema": "Mufa Argentina + Speed", "engagement": 26000, "views": 1450000, "volumen": 4800, "sentiment": "Neutral"},
+    {"tema": "Trump + Balogun intervención FIFA", "engagement": 22000, "views": 750000, "volumen": 4200, "sentiment": "Negative"},
+    {"tema": "Argentina vs Egipto octavos previa", "engagement": 29000, "views": 1300000, "volumen": 8500, "sentiment": "Positive"},
+    {"tema": "Nico González titular vs Egipto", "engagement": 6500, "views": 280000, "volumen": 1900, "sentiment": "Neutral"},
+    {"tema": "Messi entrenamiento vs Egipto", "engagement": 9000, "views": 420000, "volumen": 2400, "sentiment": "Positive"},
+    {"tema": "Llegada Selección Atlanta", "engagement": 5000, "views": 220000, "volumen": 1400, "sentiment": "Positive"}
   ]
 }

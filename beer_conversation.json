@@ -1,19 +1,19 @@
 {
   "temas": [
     {
-      "marca": "Heineken",
-      "titulo": "Heinz x Heineken ketchup pack WC",
-      "resumen": "Edición limitada six-pack con ketchup para watch parties del Mundial. Viral por pairing cerveza + burgers en contexto octavos y celebraciones."
-    },
-    {
-      "marca": "Michelob ULTRA",
-      "titulo": "WC beers + 4th of July",
-      "resumen": "Campaña une cerveza light con atmósfera del Mundial 2026 y el 4 de julio en USA. Alta presencia en posts de ambiente de partidos."
+      "marca": "Heineken / AB InBev",
+      "titulo": "Impacto ventas LatAm por eliminaciones octavos",
+      "resumen": "Morgan Stanley advierte shortfall Q3 en ventas de cerveza en LatAm tras salidas tempranas de Brasil y México. Heineken y AB InBev más expuestas."
     },
     {
       "marca": "Budweiser",
       "titulo": "Let It Pour predictions WC",
-      "resumen": "Concursos de predicciones + campañas emocionales para octavos (incluyendo Brasil-Noruega). Sigue fuerte como legacy sponsor con engagement orgánico."
+      "resumen": "Campaña activa de predicciones + premios (scan bottle) para octavos como Portugal-España. Sigue generando engagement en contexto partidos."
+    },
+    {
+      "marca": "Heineken UK",
+      "titulo": "Pubs sales boost con victorias WC",
+      "resumen": "Ventas de lager +67% y comida +81% en pubs Heineken UK durante partidos de octavos (ej. victorias dramáticas)."
     }
   ]
 }
