@@ -1,7 +1,7 @@
 {
   "overview": {
     "portales": {
-      "summary": "La selección priorizada en portales combina previa deportiva de Argentina-Egipto, confianza del rival, decisiones arbitrales y controversias institucionales. El foco dominante está en cómo llega la Selección al cruce, con Scaloni probando variantes, Egipto elevando el tono competitivo y la FIFA bajo observación por arbitrajes y sanciones. También aparece el costado emocional del hincha argentino y una lectura humorística regional tras la eliminación de Brasil."
+      "summary": "La selección prioriza la previa de Argentina-Egipto: formación, frases de Scaloni, hinchas, seguridad, cábalas y proyección global de Messi."
     },
     "reddit": {
       "summary": "No se seleccionaron posteos de Reddit para esta actualización."
@@ -10,49 +10,68 @@
   "pilares": {
     "Equipo": [
       {
-        "titulo_corto": "Scaloni prueba variantes",
-        "resumen": "Scaloni ensaya cambios para enfrentar a Egipto, con dudas por línea y búsqueda de equilibrio para recuperar funcionamiento en octavos.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/laprobableformacionargentinaegipto_0_82zYNm5jZK.html"
+        "titulo_corto": "Probable equipo vs. Egipto",
+        "resumen": "La previa pone el foco en los tres cambios que evalúa Scaloni para enfrentar a Egipto por octavos.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/07/con-tres-cambios-el-probable-equipo-de-la-seleccion-argentina-para-enfrentar-a-egipto-por-los-octavos-de-final-del-mundial-2026"
       },
       {
-        "titulo_corto": "Egipto desafía a Argentina",
-        "resumen": "El cuerpo técnico egipcio calienta la previa al afirmar que tiene a Salah y “26 Messis”, instalando confianza antes del cruce.",
+        "titulo_corto": "Frases de Scaloni",
+        "resumen": "Scaloni analiza el duelo ante Egipto y deja señales sobre el momento futbolístico de la Selección.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/05/tenemos-a-salah-y-a-26-messis-las-desafiantes-declaraciones-del-cuerpo-tecnico-de-egipto-antes-del-duelo-ante-argentina"
-      }
-    ],
-    "Controversia": [
-      {
-        "titulo_corto": "UEFA cruza a FIFA",
-        "resumen": "La UEFA cuestiona con dureza a FIFA por habilitar a Balogun tras su expulsión, y denuncia un quiebre de reglas en pleno Mundial.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/06/cruzo-una-linea-roja-duro-comunicado-de-la-uefa-tras-la-habilitacion-al-goleador-de-estados-unidos-que-habia-sido-expulsado"
-      },
-      {
-        "titulo_corto": "Árbitros franceses para Argentina",
-        "resumen": "FIFA designa una terna francesa para Argentina-Egipto, decisión que suma ruido en la previa por el origen de los jueces.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/06/tres-arbitros-franceses-para-el-partido-entre-argentina-y-egipto"
-      }
-    ],
-    "Humor": [
-      {
-        "titulo_corto": "Maldición del gato",
-        "resumen": "La eliminación de Brasil revive la teoría viral de la “maldición del gato”, mezclando superstición, memes y rivalidad futbolera.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/05/la-maldicion-del-gato-la-teoria-que-resurgio-tras-la-eliminacion-de-brasil-en-el-mundial-a-manos-de-noruega"
+        "url": "https://www.infobae.com/deportes/2026/07/06/lionel-scaloni-habla-en-conferencia-de-prensa-en-vivo-el-analisis-antes-del-duelo-entre-argentina-y-egipto-por-el-mundial-2026"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Hincha renunció por el Mundial",
-        "resumen": "Un argentino dejó su trabajo, viajó a Miami y vivió el himno junto a la Selección, como historia de entrega mundialista.",
+        "titulo_corto": "Hincha al borde de la deportación",
+        "resumen": "Un docente dejó su trabajo para seguir a la Selección en Estados Unidos y terminó cerca de ser deportado.",
         "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/05/renuncio-a-su-trabajo-viajo-a-miami-para-el-mundial-y-canto-el-himno-con-los-jugadores-fue-magico"
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/07/renuncio-a-la-docencia-para-seguir-a-la-seleccion-en-ee-uu-y-termino-al-borde-de-la-deportacion-no-me-arrepiento"
+      },
+      {
+        "titulo_corto": "Atlanta albiceleste",
+        "resumen": "La previa de Argentina-Egipto se vive con otro banderazo masivo de hinchas argentinos en Atlanta.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/07/atlanta-se-tino-de-albiceleste-en-otro-multitudinario-banderazo-los-videos-de-la-fiesta-previa-del-duelo-entre-argentina-y-egipto"
       }
     ],
-    "Argentina por el mundo": [],
+    "Controversia": [
+      {
+        "titulo_corto": "ICE y el partido de Argentina",
+        "resumen": "La seguridad en Atlanta suma tensión por operativos oficiales vinculados al partido de la Selección ante Egipto.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/estados-unidos/georgia/noticias-de-atlanta-hoy-avanzan-operativos-oficiales-con-el-ice-por-el-partido-de-argentina-en-el-nid06072026"
+      }
+    ],
+    "Humor": [
+      {
+        "titulo_corto": "Astrólogo y Argentina-Egipto",
+        "resumen": "Un astrólogo anticipa minutos clave del partido y lleva la previa al terreno de las cábalas y predicciones.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/07/un-astrologo-publico-un-cronograma-astral-y-anticipo-los-minutos-clave-del-partido-de-la-seleccion-argentina-con-egipto"
+      },
+      {
+        "titulo_corto": "19+7=26",
+        "resumen": "Una cuenta matemática sobre Messi y la cuarta Copa del Mundo alimenta la ilusión mundialista argentina.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/19726-el-insolito-calculo-matematico-sobre-messi-y-la-cuarta-copa-del-mundo-que-ilusiona-a-toda-la-nid06072026"
+      }
+    ],
+    "Argentina por el mundo": [
+      {
+        "titulo_corto": "Matt Damon admira a Messi",
+        "resumen": "Matt Damon elogia a Lionel Messi y lo define como el más grande de la historia.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/show/hollywood/2026/07/07/matt-damon-hablo-de-su-admiracion-por-lionel-messi-es-el-mas-grande-el-mejor-de-la-historia"
+      },
+      {
+        "titulo_corto": "Messi en el nombre del plantel",
+        "resumen": "El plantel argentino lleva el nombre de Messi como homenaje encubierto durante el Mundial.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/06/homenaje-encubierto-por-que-el-plantel-de-argentina-lleva-el-nombre-de-messi-a-todas-partes-durante-el-mundial"
+      }
+    ],
     "Alcohol": []
   }
 }
