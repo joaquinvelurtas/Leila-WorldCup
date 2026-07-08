@@ -1,19 +1,19 @@
 {
   "temas": [
     {
+      "marca": "Quilmes_Cerveza",
+      "titulo": "Apoyo a la Scaloneta",
+      "resumen": "Publicaciones de aliento con mensajes emotivos tras la victoria ante Egipto. Celebraciones compartidas por hinchas. Engagement moderado en contexto fiesta nacional."
+    },
+    {
       "marca": "Heineken / AB InBev",
-      "titulo": "Impacto ventas LatAm por eliminaciones octavos",
-      "resumen": "Morgan Stanley advierte shortfall Q3 en ventas de cerveza en LatAm tras salidas tempranas de Brasil y México. Heineken y AB InBev más expuestas."
+      "titulo": "Impacto ventas LatAm eliminaciones",
+      "resumen": "Morgan Stanley advierte shortfall Q3 en ventas de cerveza en LatAm tras eliminaciones tempranas de México y Brasil. Acciones de AB InBev y Heineken afectadas."
     },
     {
       "marca": "Budweiser",
-      "titulo": "Let It Pour predictions WC",
-      "resumen": "Campaña activa de predicciones + premios (scan bottle) para octavos como Portugal-España. Sigue generando engagement en contexto partidos."
-    },
-    {
-      "marca": "Heineken UK",
-      "titulo": "Pubs sales boost con victorias WC",
-      "resumen": "Ventas de lager +67% y comida +81% en pubs Heineken UK durante partidos de octavos (ej. victorias dramáticas)."
+      "titulo": "Predicciones y activaciones WC",
+      "resumen": "Campañas de predicciones con scan bottle activas durante octavos. Menciones en contexto de partidos y festejos globales."
     }
   ]
 }
