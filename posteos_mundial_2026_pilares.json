@@ -1,77 +1,64 @@
 {
   "overview": {
     "portales": {
-      "summary": "La selección prioriza la previa de Argentina-Egipto: formación, frases de Scaloni, hinchas, seguridad, cábalas y proyección global de Messi."
+      "summary": "La conversación en portales se concentra en la remontada de Argentina ante Egipto, la clasificación a cuartos y el próximo cruce con Suiza. Predominan la épica deportiva, Messi, Enzo Fernández y Scaloni, junto con una capa de controversia por los reclamos egipcios al arbitraje. También aparece una dimensión de color e impacto global por festejos en Bangladesh y la cobertura internacional del triunfo argentino."
     },
     "reddit": {
-      "summary": "No se seleccionaron posteos de Reddit para esta actualización."
+      "summary": "La conversación en Reddit está dominada por la remontada de Argentina 3-2 ante Egipto, con tono emocional, humorístico y de épica futbolera. Los ejes principales son Messi como figura total, el gol agónico de Enzo, la tensión por el arbitraje, las acusaciones externas de ayuda FIFA y los festejos argentinos e internacionales."
     }
   },
   "pilares": {
-    "Equipo": [
+    "Humor": [
       {
-        "titulo_corto": "Probable equipo vs. Egipto",
-        "resumen": "La previa pone el foco en los tres cambios que evalúa Scaloni para enfrentar a Egipto por octavos.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/07/con-tres-cambios-el-probable-equipo-de-la-seleccion-argentina-para-enfrentar-a-egipto-por-los-octavos-de-final-del-mundial-2026"
-      },
-      {
-        "titulo_corto": "Frases de Scaloni",
-        "resumen": "Scaloni analiza el duelo ante Egipto y deja señales sobre el momento futbolístico de la Selección.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/06/lionel-scaloni-habla-en-conferencia-de-prensa-en-vivo-el-analisis-antes-del-duelo-entre-argentina-y-egipto-por-el-mundial-2026"
+        "titulo_corto": "Cadena contra Shobeir",
+        "resumen": "TN cubre una cadena viral de WhatsApp contra el arquero egipcio tras la remontada argentina, con tono insólito y humorístico.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/2026/07/08/la-insolita-cadena-de-whatsapp-contra-el-arquero-de-egipto-que-se-volvio-viral-tras-la-remontada-de-argentina"
       }
     ],
-    "Color en la tribuna": [
+    "Equipo": [
       {
-        "titulo_corto": "Hincha al borde de la deportación",
-        "resumen": "Un docente dejó su trabajo para seguir a la Selección en Estados Unidos y terminó cerca de ser deportado.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/07/renuncio-a-la-docencia-para-seguir-a-la-seleccion-en-ee-uu-y-termino-al-borde-de-la-deportacion-no-me-arrepiento"
+        "titulo_corto": "Remontada ante Egipto",
+        "resumen": "Página/12 reconstruye el 3-2 de Argentina ante Egipto como una remontada épica, con goles de Cuti Romero, Messi y Enzo Fernández.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/07/argentina-lo-dio-vuelta-goles-de-messi-y-enzo-fernandez-para-poner-el-3-a-2-ante-egipto"
       },
       {
-        "titulo_corto": "Atlanta albiceleste",
-        "resumen": "La previa de Argentina-Egipto se vive con otro banderazo masivo de hinchas argentinos en Atlanta.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/07/atlanta-se-tino-de-albiceleste-en-otro-multitudinario-banderazo-los-videos-de-la-fiesta-previa-del-duelo-entre-argentina-y-egipto"
+        "titulo_corto": "Gol 3000 de los Mundiales",
+        "resumen": "TyC Sports destaca que el gol agónico de Enzo Fernández ante Egipto se convirtió en el tanto 3000 de la historia de los Mundiales.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/seleccion-argentina/mundial-2026-seleccion-argentina-enzo-fernandez-gol-egipto-3000-mundiales-id748451.html"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "ICE y el partido de Argentina",
-        "resumen": "La seguridad en Atlanta suma tensión por operativos oficiales vinculados al partido de la Selección ante Egipto.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/estados-unidos/georgia/noticias-de-atlanta-hoy-avanzan-operativos-oficiales-con-el-ice-por-el-partido-de-argentina-en-el-nid06072026"
+        "titulo_corto": "Queja de Egipto ante FIFA",
+        "resumen": "TN informa que Egipto presentó una queja formal ante FIFA por el arbitraje del partido contra Argentina, eje central de la polémica.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/2026/07/07/egipto-presento-una-queja-formal-ante-la-fifa-por-el-arbitraje-en-el-partido-contra-la-seleccion-argentina"
       }
     ],
-    "Humor": [
+    "Color en la tribuna": [
       {
-        "titulo_corto": "Astrólogo y Argentina-Egipto",
-        "resumen": "Un astrólogo anticipa minutos clave del partido y lleva la previa al terreno de las cábalas y predicciones.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/07/un-astrologo-publico-un-cronograma-astral-y-anticipo-los-minutos-clave-del-partido-de-la-seleccion-argentina-con-egipto"
+        "titulo_corto": "Bangladesh festejó a Argentina",
+        "resumen": "Página/12 muestra cómo Bangladesh celebró la victoria argentina, reforzando el fenómeno global de la hinchada albiceleste.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/07/bangladesh-tambien-celebro-la-victoria-argentina"
       },
       {
-        "titulo_corto": "19+7=26",
-        "resumen": "Una cuenta matemática sobre Messi y la cuarta Copa del Mundo alimenta la ilusión mundialista argentina.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/19726-el-insolito-calculo-matematico-sobre-messi-y-la-cuarta-copa-del-mundo-que-ilusiona-a-toda-la-nid06072026"
+        "titulo_corto": "Policías en el banderazo",
+        "resumen": "TN registra a policías saltando con hinchas argentinos en Atlanta, una escena de color que rompe la rutina de la cobertura mundialista.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/videos/general/2026/07/07/un-grupo-de-policias-termino-saltando-con-los-hinchas-argentinos-en-medio-del-banderazo-en-atlanta"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Matt Damon admira a Messi",
-        "resumen": "Matt Damon elogia a Lionel Messi y lo define como el más grande de la historia.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/show/hollywood/2026/07/07/matt-damon-hablo-de-su-admiracion-por-lionel-messi-es-el-mas-grande-el-mejor-de-la-historia"
-      },
-      {
-        "titulo_corto": "Messi en el nombre del plantel",
-        "resumen": "El plantel argentino lleva el nombre de Messi como homenaje encubierto durante el Mundial.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/06/homenaje-encubierto-por-que-el-plantel-de-argentina-lleva-el-nombre-de-messi-a-todas-partes-durante-el-mundial"
+        "titulo_corto": "El mundo habló de Argentina",
+        "resumen": "Página/12 recopila cómo medios internacionales narraron la remontada argentina, con énfasis en épica y espíritu de campeón.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/07/remontada-faraonica-epica-y-espiritu-de-campeon-asi-reflejo-el-mundo-el-triunfo-argentino"
       }
-    ],
-    "Alcohol": []
+    ]
   }
 }
