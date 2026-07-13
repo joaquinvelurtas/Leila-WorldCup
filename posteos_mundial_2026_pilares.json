@@ -1,63 +1,61 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales se concentra en la remontada de Argentina ante Egipto, la clasificación a cuartos y el próximo cruce con Suiza. Predominan la épica deportiva, Messi, Enzo Fernández y Scaloni, junto con una capa de controversia por los reclamos egipcios al arbitraje. También aparece una dimensión de color e impacto global por festejos en Bangladesh y la cobertura internacional del triunfo argentino."
+      "summary": "La cobertura se concentra en la preparación de Argentina para enfrentar a Inglaterra, con foco en decisiones tácticas, figuras clave y el clima popular que acompaña la campaña mundialista."
     },
     "reddit": {
-      "summary": "La conversación en Reddit está dominada por la remontada de Argentina 3-2 ante Egipto, con tono emocional, humorístico y de épica futbolera. Los ejes principales son Messi como figura total, el gol agónico de Enzo, la tensión por el arbitraje, las acusaciones externas de ayuda FIFA y los festejos argentinos e internacionales."
+      "summary": "En Reddit predominan la tensión emocional de los partidos, la discusión sobre la imagen internacional de Argentina y la carga política y simbólica del cruce ante Inglaterra."
     }
   },
   "pilares": {
-    "Humor": [
-      {
-        "titulo_corto": "Cadena contra Shobeir",
-        "resumen": "TN cubre una cadena viral de WhatsApp contra el arquero egipcio tras la remontada argentina, con tono insólito y humorístico.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/2026/07/08/la-insolita-cadena-de-whatsapp-contra-el-arquero-de-egipto-que-se-volvio-viral-tras-la-remontada-de-argentina"
-      }
-    ],
     "Equipo": [
       {
-        "titulo_corto": "Remontada ante Egipto",
-        "resumen": "Página/12 reconstruye el 3-2 de Argentina ante Egipto como una remontada épica, con goles de Cuti Romero, Messi y Enzo Fernández.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/07/argentina-lo-dio-vuelta-goles-de-messi-y-enzo-fernandez-para-poner-el-3-a-2-ante-egipto"
+        "titulo_corto": "Cambios ante Inglaterra",
+        "resumen": "Scaloni evalúa variantes en el mediocampo y los laterales para recuperar control y movilidad en la semifinal ante Inglaterra.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/seleccion-argentina/seleccion-argentina-lionel-scaloni-cambios-inglaterra-id749376.html"
       },
       {
-        "titulo_corto": "Gol 3000 de los Mundiales",
-        "resumen": "TyC Sports destaca que el gol agónico de Enzo Fernández ante Egipto se convirtió en el tanto 3000 de la historia de los Mundiales.",
+        "titulo_corto": "Récord para Dibu",
+        "resumen": "Dibu Martínez puede alcanzar una nueva marca histórica con la Selección durante la semifinal del Mundial ante Inglaterra.",
         "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/mundial-2026-seleccion-argentina-enzo-fernandez-gol-egipto-3000-mundiales-id748451.html"
+        "url": "https://www.tycsports.com/seleccion-argentina/dibu-martinez-record-historico-inglaterra-mundial-seleccion-argentina-semifinales-id749373.html"
+      }
+    ],
+    "Humor": [
+      {
+        "titulo_corto": "Ritmo cardíaco mundialista",
+        "resumen": "Un usuario muestra cómo se dispararon sus pulsaciones durante el partido y transforma la tensión deportiva en humor colectivo.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1uv1gc4/mi_ritmo_cardiaco_durante_el_partido/"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Queja de Egipto ante FIFA",
-        "resumen": "TN informa que Egipto presentó una queja formal ante FIFA por el arbitraje del partido contra Argentina, eje central de la polémica.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/2026/07/07/egipto-presento-una-queja-formal-ante-la-fifa-por-el-arbitraje-en-el-partido-contra-la-seleccion-argentina"
+        "titulo_corto": "Argentina y la acusación de racismo",
+        "resumen": "El post cuestiona la generalización internacional sobre Argentina a partir de cantos y conductas individuales de algunos hinchas.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1uv9zv6/esta_es_la_narrativa_que_se_esta_propagando_de/"
+      },
+      {
+        "titulo_corto": "Malvinas en la previa",
+        "resumen": "La publicación recupera declaraciones políticas sobre la guerra y las conecta con la carga simbólica de enfrentar a Inglaterra.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/RepublicaArgentina/comments/1uumk1l/hubo_una_guerra_y_la_perdimos_los_ingleses/"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Bangladesh festejó a Argentina",
-        "resumen": "Página/12 muestra cómo Bangladesh celebró la victoria argentina, reforzando el fenómeno global de la hinchada albiceleste.",
+        "titulo_corto": "La Cuarta Estrella",
+        "resumen": "Una canción se instala como banda sonora del sueño argentino y articula ilusión, identidad y memoria mundialista.",
         "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/07/bangladesh-tambien-celebro-la-victoria-argentina"
+        "url": "https://www.pagina12.com.ar/2026/07/12/la-cuarta-estrella-la-letra-de-la-cancion-que-acompana-el-sueno-de-argentina-en-el-mundial-2026"
       },
       {
-        "titulo_corto": "Policías en el banderazo",
-        "resumen": "TN registra a policías saltando con hinchas argentinos en Atlanta, una escena de color que rompe la rutina de la cobertura mundialista.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/videos/general/2026/07/07/un-grupo-de-policias-termino-saltando-con-los-hinchas-argentinos-en-medio-del-banderazo-en-atlanta"
-      }
-    ],
-    "Argentina por el mundo": [
-      {
-        "titulo_corto": "El mundo habló de Argentina",
-        "resumen": "Página/12 recopila cómo medios internacionales narraron la remontada argentina, con énfasis en épica y espíritu de campeón.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/07/remontada-faraonica-epica-y-espiritu-de-campeon-asi-reflejo-el-mundo-el-triunfo-argentino"
+        "titulo_corto": "Récord de público",
+        "resumen": "El Mundial 2026 supera en asistencia conjunta a Rusia 2018 y Qatar 2022, impulsado por estadios de mayor capacidad.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/mundial/el-mundial-2026-rompe-otro-record-ya-llevo-mas-publico-que-rusia-2018-y-qatar-2022-juntos-id749362.html"
       }
     ]
   }
