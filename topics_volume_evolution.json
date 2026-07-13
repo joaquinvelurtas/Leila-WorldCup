@@ -1,10 +1,10 @@
 {
   "topics": [
-    {"topic": "Argentina vs Egipto octavos", "series": [{"date": "2026-07-05", "volume": 7200}, {"date": "2026-07-06", "volume": 9500}, {"date": "2026-07-07", "volume": 12000}, {"date": "2026-07-08", "volume": 9800}]},
-    {"topic": "Mufa perfecta Selección", "series": [{"date": "2026-07-05", "volume": 1800}, {"date": "2026-07-06", "volume": 2500}, {"date": "2026-07-07", "volume": 4500}, {"date": "2026-07-08", "volume": 2100}]},
-    {"topic": "Nico González titular vs Egipto", "series": [{"date": "2026-07-05", "volume": 900}, {"date": "2026-07-06", "volume": 1200}, {"date": "2026-07-07", "volume": 1900}, {"date": "2026-07-08", "volume": 800}]},
-    {"topic": "Polémica Letexier árbitro", "series": [{"date": "2026-07-08", "volume": 9200}]},
-    {"topic": "Argentina vs Suiza cuartos", "series": [{"date": "2026-07-08", "volume": 2800}]},
-    {"topic": "Felipe Melo Messi", "series": [{"date": "2026-07-08", "volume": 3500}]}
+    {"topic": "Argentina vs Suiza cuartos", "series": [{"date": "2026-07-08", "volume": 2800}, {"date": "2026-07-13", "volume": 18500}]},
+    {"topic": "Argentina vs Inglaterra semifinal", "series": [{"date": "2026-07-13", "volume": 28500}]},
+    {"topic": "Cánticos hinchas vs Inglaterra", "series": [{"date": "2026-07-13", "volume": 9500}]},
+    {"topic": "Incidentes hinchas vs Inglaterra", "series": [{"date": "2026-07-13", "volume": 6200}]},
+    {"topic": "Gary Neville centrales Argentina", "series": [{"date": "2026-07-13", "volume": 3500}]},
+    {"topic": "Chiqui Tapia clasificación", "series": [{"date": "2026-07-13", "volume": 2500}]}
   ]
 }
