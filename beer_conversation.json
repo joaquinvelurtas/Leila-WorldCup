@@ -2,13 +2,18 @@
   "temas": [
     {
       "marca": "Quilmes_Cerveza",
-      "titulo": "Hinchas y celebraciones post-clasificación",
-      "resumen": "Menciones orgánicas de hinchas asociando Quilmes a festejos y previa vs Inglaterra. Tono humorístico y de apoyo, sin campaña oficial destacada en el período."
+      "titulo": "Posts de apoyo Scaloneta y corazón argentino",
+      "resumen": "Publicaciones orgánicas de @Quilmes_Cerveza con mensajes de aliento (“El corazón siempre va para adelante”, “Siempre con el corazón”) en contexto de previa vs Inglaterra. Volumen bajo-moderado, tono positivo y de marca nacional."
+    },
+    {
+      "marca": "SchneiderARG",
+      "titulo": "Trolling a comentarios ingleses",
+      "resumen": "@SchneiderARG respondió con memes y “BOQUEARON” a predicciones inglesas (Joe Cole) sobre vencer a Argentina. Activación orgánica humorística en la previa del cruce."
     },
     {
       "marca": "Heineken",
-      "titulo": "Watch parties y activaciones globales WC",
-      "resumen": "Continuidad de activaciones Heineken en partidos del Mundial con menciones en Argentina por la semifinal. Volumen moderado."
+      "titulo": "Continuidad watch parties WC",
+      "resumen": "Menciones residuales de activaciones Heineken en partidos del Mundial, con bajo volumen en conversación argentina del período."
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "topics": [
-    {"topic": "Argentina vs Suiza cuartos", "series": [{"date": "2026-07-08", "volume": 2800}, {"date": "2026-07-13", "volume": 18500}]},
-    {"topic": "Argentina vs Inglaterra semifinal", "series": [{"date": "2026-07-13", "volume": 28500}]},
-    {"topic": "Cánticos hinchas vs Inglaterra", "series": [{"date": "2026-07-13", "volume": 9500}]},
-    {"topic": "Incidentes hinchas vs Inglaterra", "series": [{"date": "2026-07-13", "volume": 6200}]},
-    {"topic": "Gary Neville centrales Argentina", "series": [{"date": "2026-07-13", "volume": 3500}]},
-    {"topic": "Chiqui Tapia clasificación", "series": [{"date": "2026-07-13", "volume": 2500}]}
+    {"topic": "Argentina vs Inglaterra semifinal", "series": [{"date": "2026-07-13", "volume": 28500}, {"date": "2026-07-14", "volume": 29500}]},
+    {"topic": "Cánticos hinchas vs Inglaterra", "series": [{"date": "2026-07-13", "volume": 9500}, {"date": "2026-07-14", "volume": 3100}]},
+    {"topic": "Operativo seguridad Atlanta", "series": [{"date": "2026-07-13", "volume": 6200}, {"date": "2026-07-14", "volume": 8500}]},
+    {"topic": "Versión Wonderwall Levinton", "series": [{"date": "2026-07-14", "volume": 4200}]},
+    {"topic": "Quemaron bandera británica", "series": [{"date": "2026-07-14", "volume": 3800}]},
+    {"topic": "Cambios Scaloni vs Inglaterra", "series": [{"date": "2026-07-14", "volume": 4800}]}
   ]
 }

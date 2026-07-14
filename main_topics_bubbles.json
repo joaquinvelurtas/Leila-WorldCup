@@ -1,12 +1,14 @@
 {
   "topics": [
-    {"tema": "Argentina clasificó a semifinales", "engagement": 145000, "views": 8500000, "volumen": 32000, "sentiment": "Positive"},
-    {"tema": "Semifinal Argentina vs Inglaterra", "engagement": 95000, "views": 4200000, "volumen": 28500, "sentiment": "Positive"},
-    {"tema": "Cánticos hinchas vs Inglaterra", "engagement": 25000, "views": 1200000, "volumen": 9500, "sentiment": "Positive"},
-    {"tema": "Incidentes hinchas Argentina-Inglaterra", "engagement": 72000, "views": 1800000, "volumen": 6200, "sentiment": "Negative"},
-    {"tema": "Golazo Julián Álvarez vs Suiza", "engagement": 18000, "views": 2800000, "volumen": 5500, "sentiment": "Positive"},
-    {"tema": "Gary Neville sobre centrales", "engagement": 12000, "views": 600000, "volumen": 3500, "sentiment": "Neutral"},
-    {"tema": "Previa Selección vs Inglaterra", "engagement": 8000, "views": 450000, "volumen": 2800, "sentiment": "Positive"},
-    {"tema": "Reacciones Chiqui Tapia", "engagement": 5000, "views": 300000, "volumen": 2500, "sentiment": "Positive"}
+    {"tema": "Previa Argentina-Inglaterra", "engagement": 185000, "views": 6200000, "volumen": 29500, "sentiment": "Positive"},
+    {"tema": "Operativo seguridad Atlanta", "engagement": 52000, "views": 1800000, "volumen": 8500, "sentiment": "Neutral"},
+    {"tema": "Versión Wonderwall Levinton", "engagement": 18500, "views": 380000, "volumen": 4200, "sentiment": "Positive"},
+    {"tema": "Quemaron bandera británica", "engagement": 9200, "views": 520000, "volumen": 3800, "sentiment": "Neutral"},
+    {"tema": "Cánticos Malvinas excombatientes", "engagement": 6800, "views": 95000, "volumen": 3100, "sentiment": "Positive"},
+    {"tema": "Cambios Scaloni vs Inglaterra", "engagement": 22000, "views": 950000, "volumen": 4800, "sentiment": "Neutral"},
+    {"tema": "Spot TyC Sports semifinal", "engagement": 10500, "views": 220000, "volumen": 2100, "sentiment": "Positive"},
+    {"tema": "Acusaciones VARgentina NYT", "engagement": 1800, "views": 45000, "volumen": 1200, "sentiment": "Negative"},
+    {"tema": "Residual golazo Julián Dibu", "engagement": 25000, "views": 650000, "volumen": 3500, "sentiment": "Positive"},
+    {"tema": "Francia vs España semifinal", "engagement": 1200, "views": 80000, "volumen": 900, "sentiment": "Neutral"}
   ]
 }

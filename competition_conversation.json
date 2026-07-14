@@ -2,18 +2,18 @@
   "temas": [
     {
       "marca": "BetWarrior_arg",
-      "titulo": "Polémica IA Maradona en TyC Sports",
-      "resumen": "Publicidad con voz de Maradona generada por IA (lamentando eliminación vs Inglaterra) emitida por error tras la victoria. Alta polémica y memes en X."
-    },
-    {
-      "marca": "Mostaza_Ok",
-      "titulo": "Promo 50% OFF post victoria Argentina",
-      "resumen": "Descuento con tarjeta Mercado Pago para celebrar el triunfo vs Suiza. Buena respuesta orgánica en contexto de festejos."
+      "titulo": "Promos y predicciones vs Inglaterra",
+      "resumen": "Posts de @BetWarrior_Arg invitando a apuestas y predicciones del cruce (incluye “sin contar al Diego… qué campeón del 86 pondrías”). Activación en contexto semifinal."
     },
     {
       "marca": "McDonalds_Ar",
-      "titulo": "Presencia sponsor y menciones indirectas",
-      "resumen": "Menciones continuas como sponsor oficial en contexto de hinchada y partidos del Mundial. Sin activación nueva destacada en el período."
+      "titulo": "Contenido sponsor + Macaya",
+      "resumen": "Posts de @McDonalds_Ar como sponsor digital de la Scaloneta, incluyendo challenge de hamburguesa para Macaya. Presencia continua sin gran activación nueva."
+    },
+    {
+      "marca": "Mostaza_Ok",
+      "titulo": "Contenido general post-clasificación",
+      "resumen": "Posts orgánicos de @Mostaza_ok con tono de anticipación (“Recién es lunes…”) en clima de euforia por la semi. Volumen bajo."
     }
   ]
 }
