@@ -1,61 +1,69 @@
 {
   "overview": {
     "portales": {
-      "summary": "La cobertura se concentra en la preparación de Argentina para enfrentar a Inglaterra, con foco en decisiones tácticas, figuras clave y el clima popular que acompaña la campaña mundialista."
+      "summary": "La selección se concentra en la semifinal ante Inglaterra, con Scaloni definiendo el equipo y Messi como eje emocional. También aparecen acusaciones arbitrales, humor predictivo, gestos de hinchas y apoyo internacional."
     },
     "reddit": {
-      "summary": "En Reddit predominan la tensión emocional de los partidos, la discusión sobre la imagen internacional de Argentina y la carga política y simbólica del cruce ante Inglaterra."
+      "summary": "La conversación en Reddit combina expectativa táctica por Argentina-Inglaterra, respaldo a Messi, humor y cábalas, junto con discusiones sobre arbitraje, Malvinas, racismo y rechazo internacional hacia Argentina."
     }
   },
   "pilares": {
-    "Equipo": [
-      {
-        "titulo_corto": "Cambios ante Inglaterra",
-        "resumen": "Scaloni evalúa variantes en el mediocampo y los laterales para recuperar control y movilidad en la semifinal ante Inglaterra.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/seleccion-argentina-lionel-scaloni-cambios-inglaterra-id749376.html"
-      },
-      {
-        "titulo_corto": "Récord para Dibu",
-        "resumen": "Dibu Martínez puede alcanzar una nueva marca histórica con la Selección durante la semifinal del Mundial ante Inglaterra.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/dibu-martinez-record-historico-inglaterra-mundial-seleccion-argentina-semifinales-id749373.html"
-      }
-    ],
     "Humor": [
       {
-        "titulo_corto": "Ritmo cardíaco mundialista",
-        "resumen": "Un usuario muestra cómo se dispararon sus pulsaciones durante el partido y transforma la tensión deportiva en humor colectivo.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1uv1gc4/mi_ritmo_cardiaco_durante_el_partido/"
+        "titulo_corto": "El hipopótamo pronostica",
+        "resumen": "Un hipopótamo viral fue usado como oráculo para anticipar el resultado de Argentina-Inglaterra. El contenido combina superstición, humor y ansiedad mundialista.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/14/el-hipopotamo-que-se-hizo-viral-por-sus-predicciones-en-el-mundial-pronostico-quien-ganara-entre-argentina-e-inglaterra"
+      }
+    ],
+    "Equipo": [
+      {
+        "titulo_corto": "Argentina ajusta el equipo",
+        "resumen": "Argentina ajusta su preparación para la semifinal ante Inglaterra. Scaloni evalúa variantes defensivas y cambios en el mediocampo antes de definir el once.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/seleccion-argentina/asi-continua-el-cronograma-de-la-seleccion-argentina-antes-de-inglaterra-id749389.html"
+      },
+      {
+        "titulo_corto": "Messi transmite confianza",
+        "resumen": "Messi agradeció el apoyo de los hinchas y transmitió confianza en la previa del duelo con Inglaterra. Su mensaje reforzó la expectativa alrededor del capitán.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/14/el-esperanzador-mensaje-de-messi-a-horas-del-argentina-inglaterra-por-las-semifinales-del-mundial-la-reaccion-de-antonela-roccuzzo"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Argentina y la acusación de racismo",
-        "resumen": "El post cuestiona la generalización internacional sobre Argentina a partir de cantos y conductas individuales de algunos hinchas.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1uv9zv6/esta_es_la_narrativa_que_se_esta_propagando_de/"
-      },
-      {
-        "titulo_corto": "Malvinas en la previa",
-        "resumen": "La publicación recupera declaraciones políticas sobre la guerra y las conecta con la carga simbólica de enfrentar a Inglaterra.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/RepublicaArgentina/comments/1uumk1l/hubo_una_guerra_y_la_perdimos_los_ingleses/"
+        "titulo_corto": "Acusaciones de VARgentina",
+        "resumen": "Medios y figuras extranjeras instalaron la idea de que Argentina recibe favores arbitrales. La acusación \"VARgentina\" alimenta sospechas sobre el torneo.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/mundial2026-acusacion-argentina-newyork_0_tXGs8so28f.html"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "La Cuarta Estrella",
-        "resumen": "Una canción se instala como banda sonora del sueño argentino y articula ilusión, identidad y memoria mundialista.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/12/la-cuarta-estrella-la-letra-de-la-cancion-que-acompana-el-sueno-de-argentina-en-el-mundial-2026"
+        "titulo_corto": "El quite quedó tatuado",
+        "resumen": "Un hincha se tatuó el quite de Paredes ante Egipto y dejó espacio para sumar su firma. El gesto transforma una jugada puntual en recuerdo permanente del Mundial.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/tatuaje-quite-paredes-seleccion-egipto-mundial_0_L0nBH8jOpp.html"
       },
       {
-        "titulo_corto": "Récord de público",
-        "resumen": "El Mundial 2026 supera en asistencia conjunta a Rusia 2018 y Qatar 2022, impulsado por estadios de mayor capacidad.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/mundial/el-mundial-2026-rompe-otro-record-ya-llevo-mas-publico-que-rusia-2018-y-qatar-2022-juntos-id749362.html"
+        "titulo_corto": "El alcalde en el banderazo",
+        "resumen": "El alcalde de Kansas City participó del banderazo argentino y generó imágenes virales. Su presencia aportó un gesto inesperado al clima festivo de la hinchada.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/13/las-imagenes-del-alcalde-de-kansas-city-en-el-banderazo-argentino-que-causaron-furor-en-las-redes-sociales"
+      }
+    ],
+    "Argentina por el mundo": [
+      {
+        "titulo_corto": "Bangladesh alienta a Argentina",
+        "resumen": "La pasión de Bangladesh por Argentina vuelve a tomar fuerza antes del cruce con Inglaterra. Maradona y Messi siguen siendo el vínculo central con la Albiceleste.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/seleccion/argentina-inglaterra-bangladesh-mundial-scaloni-messi-maradona-mexico86_0_xicQXXaU5H.html"
+      },
+      {
+        "titulo_corto": "Anya Taylor-Joy toma partido",
+        "resumen": "Anya Taylor-Joy contó a qué selección apoyará en Argentina-Inglaterra. Su historia entre Estados Unidos, Argentina y Reino Unido volvió personal la semifinal.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/show/hollywood/2026/07/14/anya-taylor-joy-conto-quien-quiere-que-gane-entre-argentina-e-inglaterra-en-lo-mas-profundo-de-mi-corazon"
       }
     ]
   }
