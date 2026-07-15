@@ -1,10 +1,49 @@
 {
   "topics": [
-    {"topic": "Argentina vs Inglaterra semifinal", "series": [{"date": "2026-07-13", "volume": 28500}, {"date": "2026-07-14", "volume": 29500}]},
-    {"topic": "Cánticos hinchas vs Inglaterra", "series": [{"date": "2026-07-13", "volume": 9500}, {"date": "2026-07-14", "volume": 3100}]},
-    {"topic": "Operativo seguridad Atlanta", "series": [{"date": "2026-07-13", "volume": 6200}, {"date": "2026-07-14", "volume": 8500}]},
-    {"topic": "Versión Wonderwall Levinton", "series": [{"date": "2026-07-14", "volume": 4200}]},
-    {"topic": "Quemaron bandera británica", "series": [{"date": "2026-07-14", "volume": 3800}]},
-    {"topic": "Cambios Scaloni vs Inglaterra", "series": [{"date": "2026-07-14", "volume": 4800}]}
+    {
+      "topic": "Argentina vs Inglaterra semifinal",
+      "series": [
+        {"date": "2026-07-13", "volume": 28500},
+        {"date": "2026-07-14", "volume": 29500},
+        {"date": "2026-07-15", "volume": 35000}
+      ]
+    },
+    {
+      "topic": "Banderazo hinchas en Atlanta",
+      "series": [
+        {"date": "2026-07-14", "volume": 8500},
+        {"date": "2026-07-15", "volume": 22000}
+      ]
+    },
+    {
+      "topic": "Versión Wonderwall Levinton",
+      "series": [
+        {"date": "2026-07-14", "volume": 4200},
+        {"date": "2026-07-15", "volume": 16500}
+      ]
+    },
+    {
+      "topic": "Cánticos Malvinas vs Inglaterra",
+      "series": [
+        {"date": "2026-07-13", "volume": 9500},
+        {"date": "2026-07-14", "volume": 3100},
+        {"date": "2026-07-15", "volume": 13500}
+      ]
+    },
+    {
+      "topic": "Operativo seguridad Atlanta",
+      "series": [
+        {"date": "2026-07-13", "volume": 6200},
+        {"date": "2026-07-14", "volume": 8500},
+        {"date": "2026-07-15", "volume": 15000}
+      ]
+    },
+    {
+      "topic": "España final Mundial 2026",
+      "series": [
+        {"date": "2026-07-14", "volume": 5200},
+        {"date": "2026-07-15", "volume": 8500}
+      ]
+    }
   ]
 }
