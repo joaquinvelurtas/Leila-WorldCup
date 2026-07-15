@@ -1,69 +1,81 @@
 {
   "overview": {
     "portales": {
-      "summary": "La selección se concentra en la semifinal ante Inglaterra, con Scaloni definiendo el equipo y Messi como eje emocional. También aparecen acusaciones arbitrales, humor predictivo, gestos de hinchas y apoyo internacional."
+      "summary": "La conversación seleccionada en portales se concentra en la previa de Argentina-Inglaterra y combina decisiones tácticas de Scaloni, el peso histórico del cruce y la movilización de los hinchas. También aparecen contenidos virales sobre los jugadores, memes por la eliminación de Francia y apoyos internacionales a la Selección desde Bangladesh y Escocia."
     },
     "reddit": {
-      "summary": "La conversación en Reddit combina expectativa táctica por Argentina-Inglaterra, respaldo a Messi, humor y cábalas, junto con discusiones sobre arbitraje, Malvinas, racismo y rechazo internacional hacia Argentina."
+      "summary": "La conversación relevante en Reddit está dominada por la expectativa ante la semifinal, las dudas sobre la formación y el rendimiento de algunos jugadores, junto con una fuerte cultura de cábalas, humor y anulación de mufa. También sobresalen las discusiones por Malvinas, el arbitraje, el discurso antiargentino y los mensajes de apoyo enviados desde distintos países."
     }
   },
   "pilares": {
-    "Humor": [
-      {
-        "titulo_corto": "El hipopótamo pronostica",
-        "resumen": "Un hipopótamo viral fue usado como oráculo para anticipar el resultado de Argentina-Inglaterra. El contenido combina superstición, humor y ansiedad mundialista.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/mundial/2026/2026/07/14/el-hipopotamo-que-se-hizo-viral-por-sus-predicciones-en-el-mundial-pronostico-quien-ganara-entre-argentina-e-inglaterra"
-      }
-    ],
     "Equipo": [
       {
-        "titulo_corto": "Argentina ajusta el equipo",
-        "resumen": "Argentina ajusta su preparación para la semifinal ante Inglaterra. Scaloni evalúa variantes defensivas y cambios en el mediocampo antes de definir el once.",
+        "titulo_corto": "Dudas en la formación",
+        "resumen": "Scaloni evalúa variantes en defensa y mediocampo antes de la semifinal ante Inglaterra, con dudas sobre De Paul, Paredes, Palacios y los laterales.",
         "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/asi-continua-el-cronograma-de-la-seleccion-argentina-antes-de-inglaterra-id749389.html"
+        "url": "https://www.tycsports.com/seleccion-argentina/la-formacion-de-argentina-vs-inglaterra-por-la-semifinal-del-mundial-id749615.html"
       },
       {
-        "titulo_corto": "Messi transmite confianza",
-        "resumen": "Messi agradeció el apoyo de los hinchas y transmitió confianza en la previa del duelo con Inglaterra. Su mensaje reforzó la expectativa alrededor del capitán.",
+        "titulo_corto": "Scaloni supera marcas",
+        "resumen": "El recorrido de Argentina en el Mundial ubica a Scaloni entre los grandes entrenadores de la Selección y le permite superar marcas de Menotti y Bilardo.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/14/el-esperanzador-mensaje-de-messi-a-horas-del-argentina-inglaterra-por-las-semifinales-del-mundial-la-reaccion-de-antonela-roccuzzo"
-      }
-    ],
-    "Controversia": [
-      {
-        "titulo_corto": "Acusaciones de VARgentina",
-        "resumen": "Medios y figuras extranjeras instalaron la idea de que Argentina recibe favores arbitrales. La acusación \"VARgentina\" alimenta sospechas sobre el torneo.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/mundial2026-acusacion-argentina-newyork_0_tXGs8so28f.html"
+        "url": "https://www.infobae.com/deportes/2026/07/15/la-marca-de-menotti-que-scaloni-supero-en-el-mundial-y-el-record-que-le-arrebatara-a-bilardo"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "El quite quedó tatuado",
-        "resumen": "Un hincha se tatuó el quite de Paredes ante Egipto y dejó espacio para sumar su firma. El gesto transforma una jugada puntual en recuerdo permanente del Mundial.",
+        "titulo_corto": "Banderazo en Atlanta",
+        "resumen": "Miles de hinchas argentinos coparon Atlanta con canciones dedicadas a Messi, Maradona e Inglaterra antes de la semifinal del Mundial.",
         "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/tatuaje-quite-paredes-seleccion-egipto-mundial_0_L0nBH8jOpp.html"
+        "url": "https://www.ole.com.ar/seleccion/banderazo-previa-argentina-inglaterra_0_fyA3OYCfYD.html"
       },
       {
-        "titulo_corto": "El alcalde en el banderazo",
-        "resumen": "El alcalde de Kansas City participó del banderazo argentino y generó imágenes virales. Su presencia aportó un gesto inesperado al clima festivo de la hinchada.",
+        "titulo_corto": "El docente de la Puna",
+        "resumen": "Un docente recorre 70 kilómetros por la Puna para dar clases y comparte los partidos de Argentina con sus alumnos desde un celular.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/moto-docente-puna-viral-celular-alumnos-partido-argentina-mundial-celso-lamas_0_F4t8byiH3N.html"
+      }
+    ],
+    "Humor": [
+      {
+        "titulo_corto": "Looks virales",
+        "resumen": "Los nuevos cortes de pelo de varios jugadores argentinos generaron bromas, reacciones y contenido viral antes de la semifinal.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/13/las-imagenes-del-alcalde-de-kansas-city-en-el-banderazo-argentino-que-causaron-furor-en-las-redes-sociales"
+        "url": "https://www.infobae.com/deportes/2026/07/15/los-cambios-de-look-de-los-jugadores-de-la-seleccion-en-la-previa-de-la-semifinal-del-mundial-ante-inglaterra-exceso-de-oaaaaaa"
+      },
+      {
+        "titulo_corto": "Memes contra Francia",
+        "resumen": "La eliminación de Francia provocó memes sobre Mbappé, viejas derrotas y bromas que celebraron la clasificación de España.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/14/los-mejores-memes-del-triunfo-de-espana-sobre-francia-en-la-semifinal-del-mundial-de-las-burlas-a-mbappe-a-la-venganza-de-paraguay"
+      }
+    ],
+    "Controversia": [
+      {
+        "titulo_corto": "Banderas de Malvinas",
+        "resumen": "La prohibición de ingresar con banderas o mensajes alusivos a Malvinas reavivó la tensión política en la previa de Argentina-Inglaterra.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/14/argentina-vs-inglaterra-prohiben-el-ingreso-al-estadio-con-banderas-alusivas-a-malvinas"
+      },
+      {
+        "titulo_corto": "Teorías en la previa",
+        "resumen": "La rivalidad histórica, el arbitraje y la dimensión política del cruce alimentaron teorías de conspiración antes de la semifinal.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-inglaterra-un-clasico-que-es-mucho-mas-que-un-partido-las-teorias-de-la-conspiracion-nid14072026"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Bangladesh alienta a Argentina",
-        "resumen": "La pasión de Bangladesh por Argentina vuelve a tomar fuerza antes del cruce con Inglaterra. Maradona y Messi siguen siendo el vínculo central con la Albiceleste.",
+        "titulo_corto": "Bangladesh con Argentina",
+        "resumen": "El apoyo de Bangladesh a Argentina revive por la admiración hacia Maradona y Messi y por un vínculo histórico que excede al fútbol.",
         "medio": "Olé",
-        "url": "https://www.ole.com.ar/seleccion/argentina-inglaterra-bangladesh-mundial-scaloni-messi-maradona-mexico86_0_xicQXXaU5H.html"
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/bangladesh-malvinas-futbol-argentina-messi-maradona-qatar-mundial-contenido-sajidur-seleccion-pasion-sociedad-bengali-cricket_0_ZpVem0iJ01.html"
       },
       {
-        "titulo_corto": "Anya Taylor-Joy toma partido",
-        "resumen": "Anya Taylor-Joy contó a qué selección apoyará en Argentina-Inglaterra. Su historia entre Estados Unidos, Argentina y Reino Unido volvió personal la semifinal.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/show/hollywood/2026/07/14/anya-taylor-joy-conto-quien-quiere-que-gane-entre-argentina-e-inglaterra-en-lo-mas-profundo-de-mi-corazon"
+        "titulo_corto": "Escocia alienta",
+        "resumen": "Escocia alienta a Argentina frente a Inglaterra por su rivalidad británica y por la identificación de sus hinchas con figuras argentinas.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/seleccion-argentina/escocia-hincha-seleccion-argentina-inglaterra-mundial-por-que-id749606.html"
       }
     ]
   }
