@@ -1,36 +1,62 @@
 {
   "topics": [
     {
+      "tema": "Gol de Lautaro vs Inglaterra",
+      "engagement": 285000,
+      "views": 9500000,
+      "volumen": 38000,
+      "sentiment": "Positive",
+      "posteo_destacado": {
+        "id": "2077501863709036610",
+        "autor": "@AtaqueFutbolero",
+        "enlace": "https://x.com/AtaqueFutbolero/status/2077501863709036610",
+        "likes_aprox": 29432
+      }
+    },
+    {
+      "tema": "Argentina en la final Mundial 2026",
+      "engagement": 320000,
+      "views": 11200000,
+      "volumen": 52000,
+      "sentiment": "Positive",
+      "posteo_destacado": {
+        "id": "2077499165290946813",
+        "autor": "@SC_ESPN",
+        "enlace": "https://x.com/SC_ESPN/status/2077499165290946813",
+        "likes_aprox": 1899
+      }
+    },
+    {
+      "tema": "Festejos en el Obelisco",
+      "engagement": 165000,
+      "views": 6200000,
+      "volumen": 24500,
+      "sentiment": "Positive",
+      "posteo_destacado": {
+        "id": "2077538936415523118",
+        "autor": "@AlertaNews24",
+        "enlace": "https://x.com/AlertaNews24/status/2077538936415523118",
+        "likes_aprox": 1772
+      }
+    },
+    {
+      "tema": "Final Argentina vs España",
+      "engagement": 145000,
+      "views": 4800000,
+      "volumen": 19500,
+      "sentiment": "Positive",
+      "posteo_destacado": {
+        "id": "2077508271477305818",
+        "autor": "@DiarioOle",
+        "enlace": "https://x.com/DiarioOle/status/2077508271477305818",
+        "likes_aprox": 5902
+      }
+    },
+    {
       "tema": "Banderazo hinchas Atlanta",
-      "engagement": 175000,
-      "views": 5800000,
-      "volumen": 26500,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2077201596925047241",
-        "autor": "@AlbicelesteTalk",
-        "enlace": "https://x.com/AlbicelesteTalk/status/2077201596925047241",
-        "likes_aprox": 23900
-      }
-    },
-    {
-      "tema": "Wonderwall Levinton versión",
-      "engagement": 125000,
-      "views": 2800000,
-      "volumen": 16500,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2076870930131829117",
-        "autor": "@eycteann",
-        "enlace": "https://x.com/eycteann/status/2076870930131829117",
-        "likes_aprox": 21800
-      }
-    },
-    {
-      "tema": "Cánticos Malvinas vs Inglaterra",
-      "engagement": 92000,
-      "views": 2100000,
-      "volumen": 13500,
+      "engagement": 95000,
+      "views": 3100000,
+      "volumen": 14500,
       "sentiment": "Positive",
       "posteo_destacado": {
         "id": "2077226654968021328",
@@ -40,68 +66,42 @@
       }
     },
     {
-      "tema": "España clasifica a final",
-      "engagement": 48000,
-      "views": 1350000,
-      "volumen": 8500,
-      "sentiment": "Neutral",
-      "posteo_destacado": {
-        "id": "2077127382956134660",
-        "autor": "@terrenoviral",
-        "enlace": "https://x.com/terrenoviral/status/2077127382956134660",
-        "likes_aprox": 14160
-      }
-    },
-    {
-      "tema": "Hinchas queman bandera británica",
-      "engagement": 98000,
-      "views": 6800000,
-      "volumen": 5200,
-      "sentiment": "Neutral",
-      "posteo_destacado": {
-        "id": "2076834007111573663",
-        "autor": "@liberta___depre",
-        "enlace": "https://x.com/liberta___depre/status/2076834007111573663",
-        "likes_aprox": 17290
-      }
-    },
-    {
-      "tema": "Último entrenamiento Scaloni/Messi",
-      "engagement": 65000,
-      "views": 1700000,
-      "volumen": 7800,
+      "tema": "Videos festejo hinchada estadio",
+      "engagement": 110000,
+      "views": 4200000,
+      "volumen": 16800,
       "sentiment": "Positive",
       "posteo_destacado": {
-        "id": "2077064092041240711",
-        "autor": "@chacofunesjr",
-        "enlace": "https://x.com/chacofunesjr/status/2077064092041240711",
-        "likes_aprox": 9370
+        "id": "2077742895172391027",
+        "autor": "@AtaqueFutbolero",
+        "enlace": "https://x.com/AtaqueFutbolero/status/2077742895172391027",
+        "likes_aprox": 745
       }
     },
     {
-      "tema": "Rivalidad hinchas Atlanta (SL-Huracán)",
-      "engagement": 32000,
-      "views": 920000,
-      "volumen": 4500,
+      "tema": "Cánticos Malvinas / Diego / Leo",
+      "engagement": 72000,
+      "views": 2400000,
+      "volumen": 10500,
+      "sentiment": "Positive",
+      "posteo_destacado": {
+        "id": "2077274197420548246",
+        "autor": "@AtaqueFutbolero",
+        "enlace": "https://x.com/AtaqueFutbolero/status/2077274197420548246",
+        "likes_aprox": 3022
+      }
+    },
+    {
+      "tema": "Teorías conspirativas vs Argentina",
+      "engagement": 45000,
+      "views": 1800000,
+      "volumen": 7800,
       "sentiment": "Negative",
       "posteo_destacado": {
-        "id": "2077237018392711388",
-        "autor": "@AtaqueFutbolero",
-        "enlace": "https://x.com/AtaqueFutbolero/status/2077237018392711388",
-        "likes_aprox": 1800
-      }
-    },
-    {
-      "tema": "Hype y predicciones semi Arg-Inglaterra",
-      "engagement": 78000,
-      "views": 2400000,
-      "volumen": 11500,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2077042723903648064",
-        "autor": "@Trumperizar",
-        "enlace": "https://x.com/Trumperizar/status/2077042723903648064",
-        "likes_aprox": 14090
+        "id": "2077411405125362173",
+        "autor": "@AlertaNews24",
+        "enlace": "https://x.com/AlertaNews24/status/2077411405125362173",
+        "likes_aprox": 3822
       }
     }
   ]
