@@ -1,81 +1,75 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación seleccionada en portales se concentra en la previa de Argentina-Inglaterra y combina decisiones tácticas de Scaloni, el peso histórico del cruce y la movilización de los hinchas. También aparecen contenidos virales sobre los jugadores, memes por la eliminación de Francia y apoyos internacionales a la Selección desde Bangladesh y Escocia."
+      "summary": "La selección prioriza la preparación de Argentina para la final, los hitos de Messi, los festejos populares y la controversia por Malvinas."
     },
     "reddit": {
-      "summary": "La conversación relevante en Reddit está dominada por la expectativa ante la semifinal, las dudas sobre la formación y el rendimiento de algunos jugadores, junto con una fuerte cultura de cábalas, humor y anulación de mufa. También sobresalen las discusiones por Malvinas, el arbitraje, el discurso antiargentino y los mensajes de apoyo enviados desde distintos países."
+      "summary": "Reddit combina cábalas humorísticas antes de la final con admiración internacional por Messi y la Selección argentina."
     }
   },
   "pilares": {
     "Equipo": [
       {
-        "titulo_corto": "Dudas en la formación",
-        "resumen": "Scaloni evalúa variantes en defensa y mediocampo antes de la semifinal ante Inglaterra, con dudas sobre De Paul, Paredes, Palacios y los laterales.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/la-formacion-de-argentina-vs-inglaterra-por-la-semifinal-del-mundial-id749615.html"
+        "titulo_corto": "Argentina prepara la final",
+        "resumen": "La Selección retomó los entrenamientos tras vencer a Inglaterra y Scaloni evalúa el equipo para enfrentar a España.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/futbol/2026/07/16/luego-del-triunfo-historico-ante-inglaterra-la-seleccion-ya-piensa-en-la-final-del-domingo-contra-espana"
       },
       {
-        "titulo_corto": "Scaloni supera marcas",
-        "resumen": "El recorrido de Argentina en el Mundial ubica a Scaloni entre los grandes entrenadores de la Selección y le permite superar marcas de Menotti y Bilardo.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/15/la-marca-de-menotti-que-scaloni-supero-en-el-mundial-y-el-record-que-le-arrebatara-a-bilardo"
+        "titulo_corto": "Messi igualó una marca histórica",
+        "resumen": "Messi alcanzó a Pelé, Ronaldo y Cafú entre los futbolistas con más finales mundialistas disputadas.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/futbol/2026/07/15/messi-igualo-una-marca-historica-de-pele-ronaldo-y-cafu-tras-la-victoria-ante-inglaterra"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Banderazo en Atlanta",
-        "resumen": "Miles de hinchas argentinos coparon Atlanta con canciones dedicadas a Messi, Maradona e Inglaterra antes de la semifinal del Mundial.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/seleccion/banderazo-previa-argentina-inglaterra_0_fyA3OYCfYD.html"
+        "titulo_corto": "Fiesta total en el Obelisco",
+        "resumen": "Una multitud celebró en Buenos Aires el pase de Argentina a la final con banderas, canciones y caravanas.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/16/impresionante-banderazo-en-el-obelisco-una-multitud-celebra-el-pase-de-argentina-a-la-final-del-mundial"
       },
       {
-        "titulo_corto": "El docente de la Puna",
-        "resumen": "Un docente recorre 70 kilómetros por la Puna para dar clases y comparte los partidos de Argentina con sus alumnos desde un celular.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/moto-docente-puna-viral-celular-alumnos-partido-argentina-mundial-celso-lamas_0_F4t8byiH3N.html"
+        "titulo_corto": "Festejo a 20 grados bajo cero",
+        "resumen": "Un docente celebró en la Antártida la victoria argentina sin abrigo y convirtió la escena en una postal mundialista.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/sociedad/2026/07/15/sin-abrigo-y-a-20-grados-bajo-cero-el-emocionante-festejo-de-un-docente-en-la-antartida-tras-el-triunfo-de-la-seleccion"
       }
     ],
     "Humor": [
       {
-        "titulo_corto": "Looks virales",
-        "resumen": "Los nuevos cortes de pelo de varios jugadores argentinos generaron bromas, reacciones y contenido viral antes de la semifinal.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/15/los-cambios-de-look-de-los-jugadores-de-la-seleccion-en-la-previa-de-la-semifinal-del-mundial-ante-inglaterra-exceso-de-oaaaaaa"
+        "titulo_corto": "El machete de Pickford",
+        "resumen": "Los jugadores hallaron la botella donde el arquero inglés había anotado datos para una tanda de penales que nunca llegó.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/deportes/futbol/2026/07/15/video-la-seleccion-argentina-encontro-la-botella-donde-el-arquero-de-inglaterra-tenia-anotados-los-penales"
       },
       {
-        "titulo_corto": "Memes contra Francia",
-        "resumen": "La eliminación de Francia provocó memes sobre Mbappé, viejas derrotas y bromas que celebraron la clasificación de España.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/14/los-mejores-memes-del-triunfo-de-espana-sobre-francia-en-la-semifinal-del-mundial-de-las-burlas-a-mbappe-a-la-venganza-de-paraguay"
+        "titulo_corto": "Promesas para la cuarta",
+        "resumen": "Usuarios proponen sacrificios y desafíos personales como cábala si Argentina gana la final del Mundial 2026.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1uy2pwe/si_ganamos_el_mundial_2026_prometo_ingrese/"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Banderas de Malvinas",
-        "resumen": "La prohibición de ingresar con banderas o mensajes alusivos a Malvinas reavivó la tensión política en la previa de Argentina-Inglaterra.",
+        "titulo_corto": "Reclamo británico por Malvinas",
+        "resumen": "El gobierno británico pidió a FIFA investigar y sancionar a Argentina por la bandera de Malvinas mostrada tras la semifinal.",
         "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/14/argentina-vs-inglaterra-prohiben-el-ingreso-al-estadio-con-banderas-alusivas-a-malvinas"
-      },
-      {
-        "titulo_corto": "Teorías en la previa",
-        "resumen": "La rivalidad histórica, el arbitraje y la dimensión política del cruce alimentaron teorías de conspiración antes de la semifinal.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-inglaterra-un-clasico-que-es-mucho-mas-que-un-partido-las-teorias-de-la-conspiracion-nid14072026"
+        "url": "https://www.pagina12.com.ar/2026/07/16/el-gobierno-britanico-pide-a-la-fifa-que-sancione-a-argentina-por-la-bandera-por-malvinas"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Bangladesh con Argentina",
-        "resumen": "El apoyo de Bangladesh a Argentina revive por la admiración hacia Maradona y Messi y por un vínculo histórico que excede al fútbol.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/bangladesh-malvinas-futbol-argentina-messi-maradona-qatar-mundial-contenido-sajidur-seleccion-pasion-sociedad-bengali-cricket_0_ZpVem0iJ01.html"
+        "titulo_corto": "Empire State albiceleste",
+        "resumen": "El Empire State se iluminó de celeste y blanco para homenajear a Argentina antes de la final del Mundial 2026.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/15/el-empire-state-se-ilumino-de-celeste-y-blanco"
       },
       {
-        "titulo_corto": "Escocia alienta",
-        "resumen": "Escocia alienta a Argentina frente a Inglaterra por su rivalidad británica y por la identificación de sus hinchas con figuras argentinas.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/seleccion-argentina/escocia-hincha-seleccion-argentina-inglaterra-mundial-por-que-id749606.html"
+        "titulo_corto": "Devoción por Messi desde Nepal",
+        "resumen": "Un hincha nepalí repasa su vínculo emocional con Messi desde 2014 y celebra verlo disputar otra final con Argentina.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/argentina/comments/1uxzb30/messi_tu_eres_increible/"
       }
     ]
   }
