@@ -6,45 +6,45 @@
         {"date": "2026-07-13", "volume": 28500},
         {"date": "2026-07-14", "volume": 29500},
         {"date": "2026-07-15", "volume": 52000},
-        {"date": "2026-07-16", "volume": 28500}
+        {"date": "2026-07-16", "volume": 28500},
+        {"date": "2026-07-17", "volume": 28500}
       ]
     },
     {
-      "topic": "Banderazo hinchas en Atlanta",
+      "topic": "Camiseta titular short blanco",
       "series": [
-        {"date": "2026-07-14", "volume": 8500},
-        {"date": "2026-07-15", "volume": 22000},
-        {"date": "2026-07-16", "volume": 9500}
+        {"date": "2026-07-17", "volume": 12500}
       ]
     },
     {
       "topic": "Gol Lautaro Martínez vs Inglaterra",
       "series": [
         {"date": "2026-07-15", "volume": 38000},
-        {"date": "2026-07-16", "volume": 18500}
+        {"date": "2026-07-16", "volume": 18500},
+        {"date": "2026-07-17", "volume": 19200}
       ]
     },
     {
       "topic": "Festejos Obelisco Argentina",
       "series": [
         {"date": "2026-07-15", "volume": 24500},
-        {"date": "2026-07-16", "volume": 13200}
+        {"date": "2026-07-16", "volume": 13200},
+        {"date": "2026-07-17", "volume": 9200}
       ]
     },
     {
-      "topic": "Cánticos Malvinas vs Inglaterra",
+      "topic": "Himno Roma Dybala Soulé",
       "series": [
-        {"date": "2026-07-13", "volume": 9500},
-        {"date": "2026-07-14", "volume": 3100},
-        {"date": "2026-07-15", "volume": 13500},
-        {"date": "2026-07-16", "volume": 6200}
+        {"date": "2026-07-16", "volume": 9800},
+        {"date": "2026-07-17", "volume": 4500}
       ]
     },
     {
       "topic": "Final Argentina vs España 2026",
       "series": [
         {"date": "2026-07-15", "volume": 19500},
-        {"date": "2026-07-16", "volume": 14200}
+        {"date": "2026-07-16", "volume": 14200},
+        {"date": "2026-07-17", "volume": 16000}
       ]
     }
   ]

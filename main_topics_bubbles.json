@@ -1,107 +1,133 @@
 {
   "topics": [
     {
-      "tema": "Gol de Lautaro vs Inglaterra",
-      "engagement": 285000,
-      "views": 9500000,
-      "volumen": 38000,
+      "tema": "Previa final Argentina-España",
+      "engagement": 185000,
+      "views": 7800000,
+      "volumen": 28500,
       "sentiment": "Positive",
       "posteo_destacado": {
-        "id": "2077501863709036610",
-        "autor": "@AtaqueFutbolero",
-        "enlace": "https://x.com/AtaqueFutbolero/status/2077501863709036610",
-        "likes_aprox": 29432
+        "id": "2078134169087930810",
+        "autor": "@sudanalytics_",
+        "enlace": "https://x.com/sudanalytics_/status/2078134169087930810",
+        "likes_aprox": 7200
       }
     },
     {
-      "tema": "Argentina en la final Mundial 2026",
-      "engagement": 320000,
-      "views": 11200000,
-      "volumen": 52000,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2077499165290946813",
-        "autor": "@SC_ESPN",
-        "enlace": "https://x.com/SC_ESPN/status/2077499165290946813",
-        "likes_aprox": 1899
-      }
-    },
-    {
-      "tema": "Festejos en el Obelisco",
-      "engagement": 165000,
-      "views": 6200000,
-      "volumen": 24500,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2077538936415523118",
-        "autor": "@AlertaNews24",
-        "enlace": "https://x.com/AlertaNews24/status/2077538936415523118",
-        "likes_aprox": 1772
-      }
-    },
-    {
-      "tema": "Final Argentina vs España",
+      "tema": "Videos gol Lautaro / remontada",
       "engagement": 145000,
-      "views": 4800000,
-      "volumen": 19500,
+      "views": 6200000,
+      "volumen": 19200,
       "sentiment": "Positive",
       "posteo_destacado": {
-        "id": "2077508271477305818",
-        "autor": "@DiarioOle",
-        "enlace": "https://x.com/DiarioOle/status/2077508271477305818",
-        "likes_aprox": 5902
+        "id": "2077809119868641734",
+        "autor": "@TyCSports",
+        "enlace": "https://x.com/TyCSports/status/2077809119868641734",
+        "likes_aprox": 9870
       }
     },
     {
-      "tema": "Banderazo hinchas Atlanta",
+      "tema": "Camiseta titular + short blanco",
       "engagement": 95000,
       "views": 3100000,
-      "volumen": 14500,
+      "volumen": 12500,
       "sentiment": "Positive",
       "posteo_destacado": {
-        "id": "2077226654968021328",
+        "id": "2078137685693153587",
         "autor": "@AtaqueFutbolero",
-        "enlace": "https://x.com/AtaqueFutbolero/status/2077226654968021328",
-        "likes_aprox": 2900
+        "enlace": "https://x.com/AtaqueFutbolero/status/2078137685693153587",
+        "likes_aprox": 1470
       }
     },
     {
-      "tema": "Videos festejo hinchada estadio",
-      "engagement": 110000,
-      "views": 4200000,
-      "volumen": 16800,
+      "tema": "Himno argentino en Roma Dybala",
+      "engagement": 92000,
+      "views": 2800000,
+      "volumen": 9800,
       "sentiment": "Positive",
       "posteo_destacado": {
-        "id": "2077742895172391027",
+        "id": "2077848429695291682",
         "autor": "@AtaqueFutbolero",
-        "enlace": "https://x.com/AtaqueFutbolero/status/2077742895172391027",
-        "likes_aprox": 745
+        "enlace": "https://x.com/AtaqueFutbolero/status/2077848429695291682",
+        "likes_aprox": 22200
       }
     },
     {
-      "tema": "Cánticos Malvinas / Diego / Leo",
+      "tema": "Emoción árbitro Vinčić final",
+      "engagement": 68000,
+      "views": 2100000,
+      "volumen": 8500,
+      "sentiment": "Neutral",
+      "posteo_destacado": {
+        "id": "2078082086435729417",
+        "autor": "@TyCSports",
+        "enlace": "https://x.com/TyCSports/status/2078082086435729417",
+        "likes_aprox": 62
+      }
+    },
+    {
+      "tema": "Festejos residuales Obelisco",
       "engagement": 72000,
-      "views": 2400000,
-      "volumen": 10500,
+      "views": 2500000,
+      "volumen": 9200,
       "sentiment": "Positive",
       "posteo_destacado": {
-        "id": "2077274197420548246",
+        "id": "2077824332697366830",
         "autor": "@AtaqueFutbolero",
-        "enlace": "https://x.com/AtaqueFutbolero/status/2077274197420548246",
-        "likes_aprox": 3022
+        "enlace": "https://x.com/AtaqueFutbolero/status/2077824332697366830",
+        "likes_aprox": 2670
       }
     },
     {
-      "tema": "Teorías conspirativas vs Argentina",
-      "engagement": 45000,
-      "views": 1800000,
+      "tema": "Mostaza trolling anti-rojo",
+      "engagement": 65000,
+      "views": 1900000,
       "volumen": 7800,
+      "sentiment": "Positive",
+      "posteo_destacado": {
+        "id": "2077922367431458946",
+        "autor": "@Mostaza_ok",
+        "enlace": "https://x.com/Mostaza_ok/status/2077922367431458946",
+        "likes_aprox": 24600
+      }
+    },
+    {
+      "tema": "Reacciones Bellingham Inglaterra",
+      "engagement": 48000,
+      "views": 1600000,
+      "volumen": 6200,
       "sentiment": "Negative",
       "posteo_destacado": {
-        "id": "2077411405125362173",
-        "autor": "@AlertaNews24",
-        "enlace": "https://x.com/AlertaNews24/status/2077411405125362173",
-        "likes_aprox": 3822
+        "id": "2077888948991361369",
+        "autor": "@TyCSports",
+        "enlace": "https://x.com/TyCSports/status/2077888948991361369",
+        "likes_aprox": 1390
+      }
+    },
+    {
+      "tema": "Schweinsteiger con hinchas",
+      "engagement": 42000,
+      "views": 1400000,
+      "volumen": 5500,
+      "sentiment": "Positive",
+      "posteo_destacado": {
+        "id": "2077737705476092364",
+        "autor": "@AtaqueFutbolero",
+        "enlace": "https://x.com/AtaqueFutbolero/status/2077737705476092364",
+        "likes_aprox": 15200
+      }
+    },
+    {
+      "tema": "Copa Argentina en paralelo",
+      "engagement": 28000,
+      "views": 900000,
+      "volumen": 4100,
+      "sentiment": "Neutral",
+      "posteo_destacado": {
+        "id": "2077947741158674507",
+        "autor": "@TyCSports",
+        "enlace": "https://x.com/TyCSports/status/2077947741158674507",
+        "likes_aprox": 22
       }
     }
   ]
