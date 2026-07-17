@@ -1,75 +1,95 @@
 {
   "overview": {
     "portales": {
-      "summary": "La selección prioriza la preparación de Argentina para la final, los hitos de Messi, los festejos populares y la controversia por Malvinas."
+      "summary": "La conversación en portales combina la preparación deportiva de Argentina para la final con la figura de Messi, el acceso de los hinchas, las cábalas, la viralidad cultural, las controversias y las activaciones de marcas."
     },
     "reddit": {
-      "summary": "Reddit combina cábalas humorísticas antes de la final con admiración internacional por Messi y la Selección argentina."
+      "summary": "La conversación seleccionada en Reddit se concentra en el apoyo extraordinario de Bangladesh a la Selección, con un tono celebratorio, afectivo e internacional que conecta generaciones a través de Maradona, Batistuta y Messi."
     }
   },
   "pilares": {
     "Equipo": [
       {
-        "titulo_corto": "Argentina prepara la final",
-        "resumen": "La Selección retomó los entrenamientos tras vencer a Inglaterra y Scaloni evalúa el equipo para enfrentar a España.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/futbol/2026/07/16/luego-del-triunfo-historico-ante-inglaterra-la-seleccion-ya-piensa-en-la-final-del-domingo-contra-espana"
+        "titulo_corto": "Cuenta regresiva para la final",
+        "resumen": "Argentina ajusta el equipo, evalúa variantes y monitorea el humo en Nueva York antes de enfrentar a España.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/17/la-cuenta-regresiva-de-la-seleccion-entrenamiento-definiciones-y-el-dilema-del-humo-en-nueva-york"
       },
       {
-        "titulo_corto": "Messi igualó una marca histórica",
-        "resumen": "Messi alcanzó a Pelé, Ronaldo y Cafú entre los futbolistas con más finales mundialistas disputadas.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/futbol/2026/07/15/messi-igualo-una-marca-historica-de-pele-ronaldo-y-cafu-tras-la-victoria-ante-inglaterra"
+        "titulo_corto": "Messi conoce al rival",
+        "resumen": "Messi ya enfrentó a la mitad del plantel español y suma 62 goles en 81 cruces individuales ante esos jugadores.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/seleccion/messi-seleccion-espana-finalista-enfrentamientos-argentina_0_9XayFYYQzc.html"
       }
     ],
     "Color en la tribuna": [
       {
-        "titulo_corto": "Fiesta total en el Obelisco",
-        "resumen": "Una multitud celebró en Buenos Aires el pase de Argentina a la final con banderas, canciones y caravanas.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/16/impresionante-banderazo-en-el-obelisco-una-multitud-celebra-el-pase-de-argentina-a-la-final-del-mundial"
+        "titulo_corto": "La final une los extremos",
+        "resumen": "La transmisión llegará desde la Base Esperanza hasta la Puna jujeña, conectando comunidades remotas con la final.",
+        "medio": "TyC Sports",
+        "url": "https://www.tycsports.com/jugando-es-mejor/conectando-los-confines-de-la-argentina-la-final-del-mundial-se-vivira-desde-la-antartida-hasta-la-puna-jujena-id750160.html"
       },
       {
-        "titulo_corto": "Festejo a 20 grados bajo cero",
-        "resumen": "Un docente celebró en la Antártida la victoria argentina sin abrigo y convirtió la escena en una postal mundialista.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/sociedad/2026/07/15/sin-abrigo-y-a-20-grados-bajo-cero-el-emocionante-festejo-de-un-docente-en-la-antartida-tras-el-triunfo-de-la-seleccion"
+        "titulo_corto": "Caravana argentina en Dhaka",
+        "resumen": "Hinchas de Bangladesh comenzaron caravanas en Dhaka para alentar a Argentina antes de la final del Mundial.",
+        "medio": "Reddit",
+        "url": "https://www.reddit.com/r/SeleccionArgentina/comments/1uz2y98/roadshows_for_argentina_have_already_begun_in/"
       }
     ],
     "Humor": [
       {
-        "titulo_corto": "El machete de Pickford",
-        "resumen": "Los jugadores hallaron la botella donde el arquero inglés había anotado datos para una tanda de penales que nunca llegó.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/deportes/futbol/2026/07/15/video-la-seleccion-argentina-encontro-la-botella-donde-el-arquero-de-inglaterra-tenia-anotados-los-penales"
+        "titulo_corto": "La teoría del 19 y el 7",
+        "resumen": "Una coincidencia entre goles convertidos y recibidos alimenta las cábalas y el “elijo creer” antes de la final.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/07/16/elijo-creer-la-teoria-numerica-que-favoreceria-a-la-seleccion-en-la-final-del-mundial"
       },
       {
-        "titulo_corto": "Promesas para la cuarta",
-        "resumen": "Usuarios proponen sacrificios y desafíos personales como cábala si Argentina gana la final del Mundial 2026.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1uy2pwe/si_ganamos_el_mundial_2026_prometo_ingrese/"
+        "titulo_corto": "Madonna baila con la Scaloneta",
+        "resumen": "Madonna compartió un montaje de jugadores argentinos bailando su nuevo tema y amplificó el festejo en redes.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/07/16/madonna-sorprendio-al-rendirse-ante-la-scaloneta-viralizo-un-video-de-argentina-bailando-su-nuevo-hit-tras-el-pase-a-la-final-del-mundial"
       }
     ],
     "Controversia": [
       {
-        "titulo_corto": "Reclamo británico por Malvinas",
-        "resumen": "El gobierno británico pidió a FIFA investigar y sancionar a Argentina por la bandera de Malvinas mostrada tras la semifinal.",
+        "titulo_corto": "Entradas a precios récord",
+        "resumen": "La reventa para Argentina-España ofrece entradas de 7.000 a 42.000 dólares y convierte la final en un evento inaccesible.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/mundial/mundial-2026/mundial-entradas-precios-final-argentina-espana-reventa_0_mKi6sTF52S.html"
+      },
+      {
+        "titulo_corto": "Odio contra Argentina",
+        "resumen": "La nota analiza una campaña digital de acusaciones y hostilidad contra la Selección y el país durante el Mundial.",
         "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/16/el-gobierno-britanico-pide-a-la-fifa-que-sancione-a-argentina-por-la-bandera-por-malvinas"
+        "url": "https://www.pagina12.com.ar/2026/07/17/lo-que-hay-detras-de-la-campana-masiva-de-odio-contra-argentina"
       }
     ],
     "Argentina por el mundo": [
       {
-        "titulo_corto": "Empire State albiceleste",
-        "resumen": "El Empire State se iluminó de celeste y blanco para homenajear a Argentina antes de la final del Mundial 2026.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/15/el-empire-state-se-ilumino-de-celeste-y-blanco"
+        "titulo_corto": "Una alemana alienta a Argentina",
+        "resumen": "Una influencer alemana que vive en España cuenta cómo adoptó costumbres argentinas y por qué apoya a la Selección.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/la-falsa-argentina-que-alienta-a-la-seleccion-es-alemana-vive-en-espana-y-revelo-la-costumbre-que-nid16072026"
       },
       {
-        "titulo_corto": "Devoción por Messi desde Nepal",
-        "resumen": "Un hincha nepalí repasa su vínculo emocional con Messi desde 2014 y celebra verlo disputar otra final con Argentina.",
+        "titulo_corto": "Bangladesh, pasión albiceleste",
+        "resumen": "El apoyo a Argentina en Bangladesh pasa de generación en generación, desde Maradona y Batistuta hasta Messi.",
         "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1uxzb30/messi_tu_eres_increible/"
+        "url": "https://www.reddit.com/r/argentina/comments/1uyh061/bangladesh_has_the_largest_supporter_base_for/"
+      }
+    ],
+    "Alcohol": [
+      {
+        "titulo_corto": "Quilmes reacciona al machete",
+        "resumen": "Quilmes y otras marcas reutilizaron la botella de Pickford para crear campañas rápidas, humorísticas y mundialistas.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/negocios/mundial-2026-la-botella-de-pickford-inspiro-una-nueva-ola-de-campanas-de-las-marcas-argentinas-nid17072026"
+      },
+      {
+        "titulo_corto": "Cerveza para ahogar la derrota",
+        "resumen": "El rey Carlos III tomó cerveza y bromeó con “ahogar las penas” tras la eliminación inglesa ante Argentina.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/internacional/2026/07/16/lindo-dia-para-ahogar-penas-el-rey-carlos-iii-tomo-cerveza-y-bromeo-sobre-la-derrota-de-inglaterra-contra-argentina"
       }
     ]
   }
