@@ -1,96 +1,66 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales combina la preparación deportiva de Argentina para la final con la figura de Messi, el acceso de los hinchas, las cábalas, la viralidad cultural, las controversias y las activaciones de marcas."
+      "summary": "La conversación en portales combina restricciones económicas sobre el consumo, moderación frente al alcohol, salidas nocturnas, cultura cervecera y actualidad de la Selección Argentina tras el Mundial 2026."
     },
     "reddit": {
-      "summary": "La conversación seleccionada en Reddit se concentra en el apoyo extraordinario de Bangladesh a la Selección, con un tono celebratorio, afectivo e internacional que conecta generaciones a través de Maradona, Batistuta y Messi."
+      "summary": ""
     }
   },
   "pilares": {
-    "Equipo": [
+    "WELLNESS": [
       {
-        "titulo_corto": "Cuenta regresiva para la final",
-        "resumen": "Argentina ajusta el equipo, evalúa variantes y monitorea el humo en Nueva York antes de enfrentar a España.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/17/la-cuenta-regresiva-de-la-seleccion-entrenamiento-definiciones-y-el-dilema-del-humo-en-nueva-york"
-      },
-      {
-        "titulo_corto": "Messi conoce al rival",
-        "resumen": "Messi ya enfrentó a la mitad del plantel español y suma 62 goles en 81 cruces individuales ante esos jugadores.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/seleccion/messi-seleccion-espana-finalista-enfrentamientos-argentina_0_9XayFYYQzc.html"
-      }
-    ],
-    "Color en la tribuna": [
-      {
-        "titulo_corto": "La final une los extremos",
-        "resumen": "La transmisión llegará desde la Base Esperanza hasta la Puna jujeña, conectando comunidades remotas con la final.",
-        "medio": "TyC Sports",
-        "url": "https://www.tycsports.com/jugando-es-mejor/conectando-los-confines-de-la-argentina-la-final-del-mundial-se-vivira-desde-la-antartida-hasta-la-puna-jujena-id750160.html"
-      },
-      {
-        "titulo_corto": "Caravana argentina en Dhaka",
-        "resumen": "Hinchas de Bangladesh comenzaron caravanas en Dhaka para alentar a Argentina antes de la final del Mundial.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/SeleccionArgentina/comments/1uz2y98/roadshows_for_argentina_have_already_begun_in/"
-      }
-    ],
-    "Humor": [
-      {
-        "titulo_corto": "La teoría del 19 y el 7",
-        "resumen": "Una coincidencia entre goles convertidos y recibidos alimenta las cábalas y el “elijo creer” antes de la final.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/16/elijo-creer-la-teoria-numerica-que-favoreceria-a-la-seleccion-en-la-final-del-mundial"
-      },
-      {
-        "titulo_corto": "Madonna baila con la Scaloneta",
-        "resumen": "Madonna compartió un montaje de jugadores argentinos bailando su nuevo tema y amplificó el festejo en redes.",
+        "titulo_corto": "Brad Pitt y el alcohol",
+        "resumen": "Brad Pitt cuenta que volvió a beber tras años de sobriedad y explica por qué intenta mantener un consumo controlado y responsable.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/16/madonna-sorprendio-al-rendirse-ante-la-scaloneta-viralizo-un-video-de-argentina-bailando-su-nuevo-hit-tras-el-pase-a-la-final-del-mundial"
+        "url": "https://www.infobae.com/entretenimiento/2026/08/10/brad-pitt-confeso-haber-recaido-en-el-alcohol-tras-siete-anos-de-sobriedad-no-es-bueno-para-mi/"
       }
     ],
-    "Controversia": [
+    "SOCIALIZING": [
       {
-        "titulo_corto": "Entradas a precios récord",
-        "resumen": "La reventa para Argentina-España ofrece entradas de 7.000 a 42.000 dólares y convierte la final en un evento inaccesible.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/mundial/mundial-2026/mundial-entradas-precios-final-argentina-espana-reventa_0_mKi6sTF52S.html"
-      },
-      {
-        "titulo_corto": "Odio contra Argentina",
-        "resumen": "La nota analiza una campaña digital de acusaciones y hostilidad contra la Selección y el país durante el Mundial.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/07/17/lo-que-hay-detras-de-la-campana-masiva-de-odio-contra-argentina"
+        "titulo_corto": "Noche de boliche en Costanera",
+        "resumen": "La salida de la China Suárez y Mauro Icardi a un boliche porteño muestra al nightlife como espacio de ocio, encuentro y exposición social.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/teleshow/2026/08/10/asi-fue-la-noche-de-la-china-suarez-y-mauro-icardi-en-un-boliche-porteno-entre-flashes-total-black-y-rumores-de-celos/"
       }
     ],
-    "Argentina por el mundo": [
+    "AFFORDABILITY": [
       {
-        "titulo_corto": "Una alemana alienta a Argentina",
-        "resumen": "Una influencer alemana que vive en España cuenta cómo adoptó costumbres argentinas y por qué apoya a la Selección.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/la-falsa-argentina-que-alienta-a-la-seleccion-es-alemana-vive-en-espana-y-revelo-la-costumbre-que-nid16072026"
+        "titulo_corto": "Debate por el consumo",
+        "resumen": "Analistas revisan la evolución del consumo argentino tras el cruce entre CAME y Marcos Galperín, con foco en ventas minoristas y poder de compra.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/08/10/el-debate-por-la-evolucion-del-consumo-que-dicen-los-analistas-despues-del-cruce-entre-came-y-marcos-galperin/"
       },
       {
-        "titulo_corto": "Bangladesh, pasión albiceleste",
-        "resumen": "El apoyo a Argentina en Bangladesh pasa de generación en generación, desde Maradona y Batistuta hasta Messi.",
-        "medio": "Reddit",
-        "url": "https://www.reddit.com/r/argentina/comments/1uyh061/bangladesh_has_the_largest_supporter_base_for/"
+        "titulo_corto": "Preocupación por la economía",
+        "resumen": "Un informe de la UBA muestra una percepción económica mayormente negativa y ubica al desempleo entre las principales preocupaciones.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/08/10/el-59-de-los-argentinos-considera-negativa-la-situacion-economica-y-el-desempleo-encabeza-las-preocupaciones-segun-un-informe/"
       }
     ],
-    "Alcohol": [
+    "IMAGE": [],
+    "TASTE": [
       {
-        "titulo_corto": "Quilmes reacciona al machete",
-        "resumen": "Quilmes y otras marcas reutilizaron la botella de Pickford para crear campañas rápidas, humorísticas y mundialistas.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/economia/negocios/mundial-2026-la-botella-de-pickford-inspiro-una-nueva-ola-de-campanas-de-las-marcas-argentinas-nid17072026"
-      },
-      {
-        "titulo_corto": "Cerveza para ahogar la derrota",
-        "resumen": "El rey Carlos III tomó cerveza y bromeó con “ahogar las penas” tras la eliminación inglesa ante Argentina.",
+        "titulo_corto": "Cerveza artesanal en Córdoba",
+        "resumen": "Villa General Belgrano aparece como destino ligado a la tradición alemana, la gastronomía y la cerveza artesanal dentro de la oferta turística local.",
         "medio": "TN",
-        "url": "https://tn.com.ar/internacional/2026/07/16/lindo-dia-para-ahogar-penas-el-rey-carlos-iii-tomo-cerveza-y-bromeo-sobre-la-derrota-de-inglaterra-contra-argentina"
+        "url": "https://tn.com.ar/turismo/2026/08/06/parece-un-pueblo-de-alemania-pero-esta-en-la-argentina-el-destino-con-arquitectura-alpina-cerveza-artesanal-y-calles-de-cuento/"
       }
-    ]
+    ],
+    "SPORTS": [
+      {
+        "titulo_corto": "Tagliafico repasa el Mundial",
+        "resumen": "Tagliafico cuenta cómo Argentina llegó agotada física y mentalmente a la final del Mundial 2026 y repasa el recorrido de la Selección.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/seleccion/tagliafico-stream-mundial-2026-seleccion-argentina-final-espana-dijo-nicolas_0_syWB9Hukl2.html"
+      },
+      {
+        "titulo_corto": "Tapia respalda a Scaloni",
+        "resumen": "Claudio Tapia ratifica que la prioridad de la AFA es la continuidad de Lionel Scaloni y descarta alternativas para reemplazar al entrenador.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/seleccion/tapia-scaloni-renovacion-contrato-afa_0_Wvr1dKhMmK.html"
+      }
+    ],
+    "EVENTS": []
   }
 }
