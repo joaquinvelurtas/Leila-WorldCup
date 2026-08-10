@@ -640,12 +640,32 @@ function prepTwitter(data) {
 }
 
 // ── Fetch portales ────────────────────────────────────────────
+function normalizePillarName(pilar) {
+  const key = String(pilar || "").trim().toLowerCase();
+  const map = {
+    wellness: "Wellness",
+    socializing: "Socializing",
+    affordability: "Affordability",
+    image: "Image",
+    taste: "Taste",
+    sports: "Sports",
+    events: "Events"
+  };
+  return map[key] || pilar;
+}
+
 function parsePortalesJSON(json) {
-  if (Array.isArray(json)) return json;
+  if (Array.isArray(json)) {
+    return json.map(item => ({
+      ...item,
+      pilar: normalizePillarName(item.pilar || item.Pilar)
+    }));
+  }
   if (json.pilares) {
     const data = [];
     Object.entries(json.pilares).forEach(([pilar, items]) => {
-      items.forEach(item => data.push({ ...item, pilar }));
+      const normalizedPillar = normalizePillarName(pilar);
+      items.forEach(item => data.push({ ...item, pilar: normalizedPillar }));
     });
     return data;
   }
@@ -667,11 +687,17 @@ async function initPortales() {
 
 // ── Fetch twitter posts ───────────────────────────────────────
 function parseTwitterJSON(json) {
-  if (Array.isArray(json)) return json;
+  if (Array.isArray(json)) {
+    return json.map(item => ({
+      ...item,
+      pilar: normalizePillarName(item.pilar || item.Pilar)
+    }));
+  }
   if (json.pilares) {
     const data = [];
     Object.entries(json.pilares).forEach(([pilar, items]) => {
-      items.forEach(item => data.push({ ...item, pilar }));
+      const normalizedPillar = normalizePillarName(pilar);
+      items.forEach(item => data.push({ ...item, pilar: normalizedPillar }));
     });
     return data;
   }
