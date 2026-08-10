@@ -58,7 +58,7 @@
   /* ── Dashboard grid (slides 1 & 2) ───────────────────────── */
   .dashboard {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(7, 1fr);
     gap: 12px;
     max-width: 1400px;
     width: 100%;
@@ -299,14 +299,6 @@
     align-self: center;
   }
   #footer-left { transition: opacity 0.4s ease; }
-  .bottom-pill {
-    position: absolute; left: 50%; transform: translateX(-50%);
-    background: var(--col-bg); border: 1px solid var(--border);
-    border-radius: 20px; padding: 6px 16px;
-    font-size: 12.5px; font-weight: 600; color: var(--text-secondary);
-    display: flex; align-items: center; gap: 7px; white-space: nowrap;
-  }
-  .dot { width: 7px; height: 7px; border-radius: 50%; background: #c9a84c; }
   .last-updated-label {
     position: absolute;
     right: 300px;
@@ -403,15 +395,9 @@
     <button id="nextSlide" class="control-btn" type="button" aria-label="Siguiente slide">›</button>
   </div>
 
-  <div class="bottom-pill"><span class="dot"></span>Newsroom WC 2026</div>
-
   <span id="last-updated" class="last-updated-label">Actualizado hace: —</span>
 
   <div style="display:flex;align-items:center;gap:10px;">
-    <img src="https://raw.githubusercontent.com/joaquinvelurtas/Leila-WorldCup/main/wc_logo_png.png"
-         alt="WC 2026"
-         style="height:34px;width:auto;object-fit:contain;opacity:0.92;"
-         onerror="this.style.display='none'"/>
     <img src="https://raw.githubusercontent.com/joaquinvelurtas/Leila-WorldCup/main/draftline_logo.png"
          alt="draftLine"
          style="height:100px;width:auto;object-fit:contain;opacity:0.92;"
@@ -429,8 +415,8 @@ const BEER_JSON         = BASE + "beer_conversation.json";
 const COMPETITION_JSON  = BASE + "competition_conversation.json";
 const TOPICS_JSON       = BASE + "topics_volume_evolution.json";
 const LAST_UPDATED_JSON = BASE + "last_updated.json";
-const GOLD_KEYS         = ["neymar", "hoteles", "nueva jersey", "messi"];
-const PILLARS           = ["Equipo", "Humor", "Controversia", "Color en la tribuna", "Argentina por el mundo", "Alcohol", "Cerveza"];
+const GOLD_KEYS         = ["quilmes", "brahma", "corona", "andes origen", "stella artois", "michelob ultra"];
+const PILLARS           = ["Wellness", "Socializing", "Affordability", "Image", "Taste", "Sports", "Events"];
 const SLIDE_INTERVAL_MS = 45000;
 const DATA_REFRESH_INTERVAL_MS = 60000;
 
@@ -440,30 +426,24 @@ const MEDIO_INITIALS = { "La Nación": "LN", "Infobae": "IB", "Página/12": "P12
 
 // ── Fallback: portales ────────────────────────────────────────
 const DUMMY_NEWS = [
-  { titulo_corto: "Mini Dibu furor en redes",        resumen: "Un nene de 3 años se volvió viral por imitar al Dibu Martínez y analizar fútbol con naturalidad.", medio: "TN",       pilar: "Humor" },
-  { titulo_corto: "Vidente pronostica el Mundial",   resumen: "Un supuesto vidente de las copas lanzó su pronóstico para el Mundial 2026, instalando expectativa y conversación lúdica.", medio: "Infobae", pilar: "Humor" },
-  { titulo_corto: "Messi preocupa a la Selección",   resumen: "La recuperación de Messi aparece como tema central para Scaloni y condiciona la planificación previa al Mundial.", medio: "TN",       pilar: "Equipo" },
-  { titulo_corto: "Primer rival con lesiones",       resumen: "El primer rival de Argentina llega con un panorama complejo de lesiones antes de definir su lista.", medio: "TN",       pilar: "Equipo" },
-  { titulo_corto: "Entradas FIFA bajo sospecha",     resumen: "La FIFA asegura entradas agotadas, pero todavía aparecen boletos disponibles en distintas sedes.", medio: "Infobae", pilar: "Controversia" },
-  { titulo_corto: "Investigan venta de entradas",    resumen: "Una investigación apunta a la venta de entradas para el Mundial 2026, sumando tensión sobre la transparencia del sistema.", medio: "Infobae", pilar: "Controversia" },
-  { titulo_corto: "Gesto viral de Messi",            resumen: "Messi protagonizó un momento inesperado con un fanático y el video se volvió viral, reforzando el vínculo con la hinchada.", medio: "TN",       pilar: "Color en la tribuna" },
-  { titulo_corto: "Camisetas argentinas en pareja",  resumen: "La novia de Senesi se probó camisetas de Argentina y eligieron juntos la más linda, activando conversación de hinchada.", medio: "Infobae", pilar: "Color en la tribuna" },
-  { titulo_corto: "Retiran estatua de Messi",        resumen: "Una estatua gigante de Messi en India será retirada, mostrando el alcance global del capitán argentino.", medio: "TN",       pilar: "Argentina por el mundo" },
-  { titulo_corto: "Canción del Mundial con Messi",   resumen: "Se lanzó el video oficial de la canción del Mundial 2026 con participación de Messi, posicionándolo como figura global.", medio: "TN",       pilar: "Argentina por el mundo" }
+  { titulo_corto: "Opciones con menos alcohol ganan terreno", resumen: "Crece el interés por alternativas asociadas a moderación, menor graduación alcohólica y hábitos de bienestar.", medio: "Infobae", pilar: "Wellness" },
+  { titulo_corto: "Cambian las formas de juntarse", resumen: "Nuevos hábitos de salida y consumo en casa modifican las ocasiones tradicionales de socialización alrededor de las bebidas.", medio: "TN", pilar: "Socializing" },
+  { titulo_corto: "El precio pesa en la elección", resumen: "El contexto de consumo y poder adquisitivo refuerza la sensibilidad al precio al momento de elegir bebidas.", medio: "La Nación", pilar: "Affordability" },
+  { titulo_corto: "La cerveza busca ampliar su imagen", resumen: "Marcas y categorías trabajan sobre códigos de sofisticación, inclusión y nuevas audiencias para ampliar su atractivo.", medio: "Infobae", pilar: "Image" },
+  { titulo_corto: "Sabor y amargor definen preferencias", resumen: "Las preferencias por perfiles más suaves, refrescantes o menos amargos aparecen como claves en la elección de cerveza.", medio: "TN", pilar: "Taste" },
+  { titulo_corto: "La cerveza se activa alrededor del deporte", resumen: "Eventos deportivos generan nuevas ocasiones de consumo y visibilidad para marcas de cerveza.", medio: "Olé", pilar: "Sports" },
+  { titulo_corto: "Festivales y experiencias impulsan presencia de marca", resumen: "Eventos culturales y de entretenimiento funcionan como espacios de activación, prueba y conexión con consumidores.", medio: "Página/12", pilar: "Events" }
 ];
 
 // ── Fallback: twitter posts ───────────────────────────────────
 const DUMMY_TWITTER_NEWS = [
-  { texto: "⚠️🇦🇷 LIONEL SCALONI ANUNCIARÁ MAÑANA LA LISTA DE CONVOCADOS DE ARGENTINA PARA EL MUNDIAL.", descripción: "La conversación gira en torno a la impaciencia por conocer la lista definitiva. Los usuarios bromean con el estilo 'misterioso' de Scaloni.", autor: "@AtaqueFutbolero", pilar: "Equipo",                  likes: 7651, reposts: 159, replies: 68  },
-  { texto: "🤯🇦🇷 Argentina va a llevar MÁS DE 30 JUGADORES a la GIRA PREVIA DEL MUNDIAL para los amistosos ante Islandia y Honduras.", descripción: "Críticas hacia Scaloni acusándolo de favorecer jugadores de Boca y River. Tono de desconfianza y enojo.", autor: "@sudanalytics_",   pilar: "Equipo",                  likes: 3624, reposts: 66,  replies: 160 },
-  { texto: "🇦🇷🇩🇿 SEÑORAS Y SEÑORES HAY GOL DE ARGELIA: En Blender hicieron un ritual para que Argentina se quede afuera en fase de grupos.", descripción: "Tono burlón hacia los hinchas argelinos. Predomina el humor irónico más que la ofensa.", autor: "@derechazoar",     pilar: "Humor",                   likes: 2326, reposts: 103, replies: 46  },
-  { texto: "Comienza el mundial y es un buen momento para recordar que cuando Argentina salió campeón en 2022, el litro de nafta salía 180 pesos.", descripción: "Tono nostálgico y comparativo. La conversación mezcla humor con desencanto por cómo cambió el país.", autor: "@etupito",          pilar: "Humor",                   likes: 522,  reposts: 121, replies: 37  },
-  { texto: "Hoy presenté una denuncia penal contra Claudio Tapia por la presunta venta de entradas protocolares del Mundial 2026.", descripción: "Fuerte rechazo hacia la AFA. Los comentarios apoyan la denuncia y expresan descontento contra Tapia.", autor: "@FacundoDelGaiso", pilar: "Controversia",           likes: 673,  reposts: 348, replies: 17  },
-  { texto: "Todos se rien pero después del mundial la selección Argentina va a despedir al Chiqui Tapia con la 10 en cancha...", descripción: "Comentarios irónicos. Consenso de rechazo hacia la figura de Tapia.", autor: "@GastonB777",       pilar: "Controversia",           likes: 88,   reposts: 0,   replies: 1   },
-  { texto: "No convoca a Barco y a Buendía para llevar a Masqueuncono y Low Celsius y el sábado cometo una locura", descripción: "Faceta más enfadada de la hinchada. Frustración por las decisiones de Scaloni.", autor: "@pomberobaitata",   pilar: "Color en la tribuna",    likes: 315,  reposts: 5,   replies: 6   },
-  { texto: "La gente se ríe pero después del mundial la selección va a despedir al Chiqui Tapia con la 10 en cancha...", descripción: "Humor negro para canalizar el rechazo hacia la AFA. La hinchada da por terminado el ciclo de Tapia.", autor: "@GastonB777",       pilar: "Color en la tribuna",    likes: 88,   reposts: 0,   replies: 1   },
-  { texto: "Vinicius eligió a la Selección Argentina entre las favoritas para el Mundial: 'Fueron los últimos campeones, tienen una gran confianza. Y tienen a Messi.'", descripción: "Orgullo y satisfacción por el reconocimiento internacional.", autor: "@ModoScaloneta",    pilar: "Argentina por el mundo", likes: 241,  reposts: 12,  replies: 3   },
-  { texto: "Lionel Messi se une a la selección argentina para el Mundial, pero aún no está en plena forma.", descripción: "Preocupación moderada por el estado físico de Messi, pero confianza en que llegará bien al torneo.", autor: "@Goal_en_espanol",  pilar: "Argentina por el mundo", likes: 23,   reposts: 2,   replies: 1   }
+  { posteo_destacado: "Cada vez más gente busca opciones más livianas o con menos alcohol para seguir disfrutando sin resignar bienestar.", resumen: "Conversación centrada en moderación, calorías, graduación alcohólica y balance.", autor: "@usuario", pilar: "Wellness", likes: 1240, reposts: 118, replies: 42 },
+  { posteo_destacado: "¿Salir a un bar o juntarse en casa? Cambiaron mucho los planes y la forma de socializar.", resumen: "El post refleja cambios en hábitos de salida, encuentros y ocasiones sociales.", autor: "@usuario", pilar: "Socializing", likes: 980, reposts: 87, replies: 61 },
+  { posteo_destacado: "Entre precio, promociones y presupuesto, elegir qué tomar también se volvió una decisión económica.", resumen: "La conversación expresa sensibilidad al precio y restricciones de gasto.", autor: "@usuario", pilar: "Affordability", likes: 760, reposts: 65, replies: 53 },
+  { posteo_destacado: "Stella Artois y Corona compiten cada vez más desde códigos de estilo, experiencia y sofisticación.", resumen: "Percepción de marca e imagen aparecen como factores relevantes en la elección.", autor: "@usuario", pilar: "Image", likes: 1540, reposts: 132, replies: 39 },
+  { posteo_destacado: "No todas las cervezas son iguales: para muchos el amargor sigue siendo la principal barrera.", resumen: "La conversación se concentra en sabor, aroma, amargor y preferencias de perfil.", autor: "@usuario", pilar: "Taste", likes: 1120, reposts: 94, replies: 47 },
+  { posteo_destacado: "Quilmes volvió a aparecer fuerte alrededor de una jornada deportiva con activaciones para los fans.", resumen: "Presencia de cerveza y marcas asociada a deportes, hinchas y ocasiones de consumo.", autor: "@usuario", pilar: "Sports", likes: 2100, reposts: 205, replies: 74 },
+  { posteo_destacado: "Festivales, recitales y experiencias de marca siguen siendo una gran vidriera para cerveza.", resumen: "Eventos generales con presencia de marcas o de la categoría cerveza.", autor: "@usuario", pilar: "Events", likes: 1870, reposts: 176, replies: 58 }
 ];
 
 // ── Fallback: bubble chart ────────────────────────────────────
@@ -636,11 +616,9 @@ function buildTwitterCard(item) {
 
 // ── Render dashboard (generic) ────────────────────────────────
 function renderDashboard(data, targetId, cardFn) {
-  // Pillars present in data, ordered by PILLARS list first, then any extras
+  // Only the seven current pillars, preserving the desired order.
   const inData = [...new Set(data.map(d => d.pilar || d.Pilar).filter(Boolean))];
-  const ordered = PILLARS.filter(p => inData.includes(p));
-  const extras  = inData.filter(p => !PILLARS.includes(p));
-  const presentPillars = [...ordered, ...extras];
+  const presentPillars = PILLARS.filter(p => inData.includes(p));
   const el = document.getElementById(targetId);
   if (!el) return;
   el.innerHTML = "";
@@ -658,18 +636,16 @@ function prepPortales(data) {
   return data.map(item => ({ ...item, gold: GOLD_KEYS.some(k => item.titulo_corto.toLowerCase().includes(k)) }));
 }
 function prepTwitter(data) {
-  return data.map(item => ({ ...item, gold: (item.pilar || item.Pilar) === "Argentina por el mundo" || GOLD_KEYS.some(k => (item.posteo_destacado || '').toLowerCase().includes(k)) }));
+  return data.map(item => ({ ...item, gold: GOLD_KEYS.some(k => (item.posteo_destacado || '').toLowerCase().includes(k)) }));
 }
 
 // ── Fetch portales ────────────────────────────────────────────
 function parsePortalesJSON(json) {
   if (Array.isArray(json)) return json;
   if (json.pilares) {
-    const MAP = { "Hinchada disruptiva": "Color en la tribuna" };
     const data = [];
     Object.entries(json.pilares).forEach(([pilar, items]) => {
-      const p = MAP[pilar] || pilar;
-      items.forEach(item => data.push({ ...item, pilar: p }));
+      items.forEach(item => data.push({ ...item, pilar }));
     });
     return data;
   }
@@ -693,11 +669,9 @@ async function initPortales() {
 function parseTwitterJSON(json) {
   if (Array.isArray(json)) return json;
   if (json.pilares) {
-    const MAP = { "Hinchada disruptiva": "Color en la tribuna" };
     const data = [];
     Object.entries(json.pilares).forEach(([pilar, items]) => {
-      const p = MAP[pilar] || pilar;
-      items.forEach(item => data.push({ ...item, pilar: p }));
+      items.forEach(item => data.push({ ...item, pilar }));
     });
     return data;
   }
