@@ -1,66 +1,19 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales combina restricciones económicas sobre el consumo, moderación frente al alcohol, salidas nocturnas, cultura cervecera y actualidad de la Selección Argentina tras el Mundial 2026."
+      "summary": ""
     },
     "reddit": {
       "summary": ""
     }
   },
   "pilares": {
-    "WELLNESS": [
-      {
-        "titulo_corto": "Brad Pitt y el alcohol",
-        "resumen": "Brad Pitt cuenta que volvió a beber tras años de sobriedad y explica por qué intenta mantener un consumo controlado y responsable.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/entretenimiento/2026/08/10/brad-pitt-confeso-haber-recaido-en-el-alcohol-tras-siete-anos-de-sobriedad-no-es-bueno-para-mi/"
-      }
-    ],
-    "SOCIALIZING": [
-      {
-        "titulo_corto": "Noche de boliche en Costanera",
-        "resumen": "La salida de la China Suárez y Mauro Icardi a un boliche porteño muestra al nightlife como espacio de ocio, encuentro y exposición social.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/teleshow/2026/08/10/asi-fue-la-noche-de-la-china-suarez-y-mauro-icardi-en-un-boliche-porteno-entre-flashes-total-black-y-rumores-de-celos/"
-      }
-    ],
-    "AFFORDABILITY": [
-      {
-        "titulo_corto": "Debate por el consumo",
-        "resumen": "Analistas revisan la evolución del consumo argentino tras el cruce entre CAME y Marcos Galperín, con foco en ventas minoristas y poder de compra.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/08/10/el-debate-por-la-evolucion-del-consumo-que-dicen-los-analistas-despues-del-cruce-entre-came-y-marcos-galperin/"
-      },
-      {
-        "titulo_corto": "Preocupación por la economía",
-        "resumen": "Un informe de la UBA muestra una percepción económica mayormente negativa y ubica al desempleo entre las principales preocupaciones.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/08/10/el-59-de-los-argentinos-considera-negativa-la-situacion-economica-y-el-desempleo-encabeza-las-preocupaciones-segun-un-informe/"
-      }
-    ],
+    "WELLNESS": [],
+    "SOCIALIZING": [],
+    "AFFORDABILITY": [],
     "IMAGE": [],
-    "TASTE": [
-      {
-        "titulo_corto": "Cerveza artesanal en Córdoba",
-        "resumen": "Villa General Belgrano aparece como destino ligado a la tradición alemana, la gastronomía y la cerveza artesanal dentro de la oferta turística local.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/turismo/2026/08/06/parece-un-pueblo-de-alemania-pero-esta-en-la-argentina-el-destino-con-arquitectura-alpina-cerveza-artesanal-y-calles-de-cuento/"
-      }
-    ],
-    "SPORTS": [
-      {
-        "titulo_corto": "Tagliafico repasa el Mundial",
-        "resumen": "Tagliafico cuenta cómo Argentina llegó agotada física y mentalmente a la final del Mundial 2026 y repasa el recorrido de la Selección.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/seleccion/tagliafico-stream-mundial-2026-seleccion-argentina-final-espana-dijo-nicolas_0_syWB9Hukl2.html"
-      },
-      {
-        "titulo_corto": "Tapia respalda a Scaloni",
-        "resumen": "Claudio Tapia ratifica que la prioridad de la AFA es la continuidad de Lionel Scaloni y descarta alternativas para reemplazar al entrenador.",
-        "medio": "Olé",
-        "url": "https://www.ole.com.ar/seleccion/tapia-scaloni-renovacion-contrato-afa_0_Wvr1dKhMmK.html"
-      }
-    ],
+    "TASTE": [],
+    "SPORTS": [],
     "EVENTS": []
   }
 }
