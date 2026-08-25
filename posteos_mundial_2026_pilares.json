@@ -1,19 +1,72 @@
 {
   "overview": {
     "portales": {
-      "summary": ""
+      "summary": "Los portales muestran señales directas de cerveza en activaciones de Corona y Michelob Ultra, junto con presión sobre el gasto, salidas gastronómicas y nuevas ocasiones de consumo social."
     },
     "reddit": {
       "summary": ""
     }
   },
   "pilares": {
-    "WELLNESS": [],
-    "SOCIALIZING": [],
-    "AFFORDABILITY": [],
-    "IMAGE": [],
-    "TASTE": [],
-    "SPORTS": [],
-    "EVENTS": []
+    "CERVEZA": [
+      {
+        "titulo_corto": "Cervecera uruguaya cierra planta",
+        "resumen": "El cierre de una planta cervecera uruguaya aporta una señal regional sobre la industria, su estructura productiva y el contexto económico.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/america/america-latina/2026/08/19/fabrica-de-cerveza-uruguaya-cerro-planta-por-segunda-vez-en-dos-anos-quiere-concentrar-su-produccion-en-montevideo"
+      }
+    ],
+    "SPORTS": [
+      {
+        "titulo_corto": "Michelob Ultra en los 21K",
+        "resumen": "Michelob Ultra se asocia al After Run de los 21K porteños, conectando cerveza, running y socialización en una ocasión concreta de consumo.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/lifestyle/mas-alla-del-deporte-el-after-run-y-la-consagracion-del-running-social-en-los-21k-de-buenos-aires-nid25082026"
+      }
+    ],
+    "EVENTS": [
+      {
+        "titulo_corto": "Corona activa en la nieve",
+        "resumen": "Corona se integra a la temporada de esquí con afters y activaciones, vinculando la marca con experiencias sociales, deportivas y de consumo.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/inhouse/2026/08/24/temporada-de-esqui-en-la-argentina-mas-alla-de-las-pistas-pausas-afters-y-un-ranking-de-descensos-imperdibles"
+      }
+    ],
+    "AFFORDABILITY": [
+      {
+        "titulo_corto": "Descuentos en bodegones porteños",
+        "resumen": "Las promociones en bodegones muestran el peso del precio y los descuentos para sostener salidas y consumo gastronómico en Buenos Aires.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/que-sale/semana-de-los-bodegones-portenos-2026-cuando-es-y-como-acceder-a-descuentos-y-promociones-en-mas-de-nid21082026"
+      },
+      {
+        "titulo_corto": "La industria vuelve a caer",
+        "resumen": "La caída industrial y la menor demanda aportan contexto sobre presión económica y posibles restricciones al gasto discrecional de los hogares.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/08/24/la-industria-no-repunta-la-produccion-volvio-a-caer-en-julio-y-acumula-una-caida-de-2-en-el-ano-segun-la-uia"
+      }
+    ],
+    "SOCIALIZING": [
+      {
+        "titulo_corto": "Costanera Norte como punto de encuentro",
+        "resumen": "Costanera Norte se consolida como espacio de gastronomía y encuentro, señalando una ocasión relevante de salida y consumo social.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/general/2026/08/20/costanera-norte-el-polo-gastronomico-que-es-sinonimo-de-tendencia-sabores-fusion-y-encuentro"
+      },
+      {
+        "titulo_corto": "Tévez, comida y vino",
+        "resumen": "El encuentro de Tévez alrededor de comida y vino refleja la asociación entre bebidas, gastronomía y sociabilidad, con valor competitivo frente a cerveza.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/sabado/que-comio-y-bebio-tevez-en-su-encuentro-con-el-messi-del-vino-nid24082026"
+      }
+    ],
+    "TASTE": [
+      {
+        "titulo_corto": "El valor cultural de lo amargo",
+        "resumen": "La nota explora lo amargo como atributo sensorial y cultural, una señal útil sobre sabores que también forman parte del territorio gustativo cervecero.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/cultura/2026/08/24/trago-amargo-la-quina-la-yerba-mate-y-una-historia-de-extraccion-que-marca-identidad-artistica"
+      }
+    ]
   }
 }
