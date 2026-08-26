@@ -1,133 +1,133 @@
 {
   "topics": [
     {
-      "tema": "Previa final Argentina-España",
-      "engagement": 185000,
-      "views": 7800000,
-      "volumen": 28500,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2078134169087930810",
-        "autor": "@sudanalytics_",
-        "enlace": "https://x.com/sudanalytics_/status/2078134169087930810",
-        "likes_aprox": 7200
-      }
-    },
-    {
-      "tema": "Videos gol Lautaro / remontada",
-      "engagement": 145000,
+      "tema": "Sanciones FIFA a Paredes y AFA",
+      "engagement": 168000,
       "views": 6200000,
-      "volumen": 19200,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2077809119868641734",
-        "autor": "@TyCSports",
-        "enlace": "https://x.com/TyCSports/status/2077809119868641734",
-        "likes_aprox": 9870
-      }
-    },
-    {
-      "tema": "Camiseta titular + short blanco",
-      "engagement": 95000,
-      "views": 3100000,
-      "volumen": 12500,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2078137685693153587",
-        "autor": "@AtaqueFutbolero",
-        "enlace": "https://x.com/AtaqueFutbolero/status/2078137685693153587",
-        "likes_aprox": 1470
-      }
-    },
-    {
-      "tema": "Himno argentino en Roma Dybala",
-      "engagement": 92000,
-      "views": 2800000,
-      "volumen": 9800,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2077848429695291682",
-        "autor": "@AtaqueFutbolero",
-        "enlace": "https://x.com/AtaqueFutbolero/status/2077848429695291682",
-        "likes_aprox": 22200
-      }
-    },
-    {
-      "tema": "Emoción árbitro Vinčić final",
-      "engagement": 68000,
-      "views": 2100000,
-      "volumen": 8500,
-      "sentiment": "Neutral",
-      "posteo_destacado": {
-        "id": "2078082086435729417",
-        "autor": "@TyCSports",
-        "enlace": "https://x.com/TyCSports/status/2078082086435729417",
-        "likes_aprox": 62
-      }
-    },
-    {
-      "tema": "Festejos residuales Obelisco",
-      "engagement": 72000,
-      "views": 2500000,
-      "volumen": 9200,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2077824332697366830",
-        "autor": "@AtaqueFutbolero",
-        "enlace": "https://x.com/AtaqueFutbolero/status/2077824332697366830",
-        "likes_aprox": 2670
-      }
-    },
-    {
-      "tema": "Mostaza trolling anti-rojo",
-      "engagement": 65000,
-      "views": 1900000,
-      "volumen": 7800,
-      "sentiment": "Positive",
-      "posteo_destacado": {
-        "id": "2077922367431458946",
-        "autor": "@Mostaza_ok",
-        "enlace": "https://x.com/Mostaza_ok/status/2077922367431458946",
-        "likes_aprox": 24600
-      }
-    },
-    {
-      "tema": "Reacciones Bellingham Inglaterra",
-      "engagement": 48000,
-      "views": 1600000,
-      "volumen": 6200,
+      "volumen": 21400,
       "sentiment": "Negative",
       "posteo_destacado": {
-        "id": "2077888948991361369",
-        "autor": "@TyCSports",
-        "enlace": "https://x.com/TyCSports/status/2077888948991361369",
-        "likes_aprox": 1390
+        "id": "2090855776575226243",
+        "autor": "@siempreconargok",
+        "enlace": "https://x.com/siempreconargok/status/2090855776575226243",
+        "likes_aprox": 23300
       }
     },
     {
-      "tema": "Schweinsteiger con hinchas",
-      "engagement": 42000,
-      "views": 1400000,
-      "volumen": 5500,
-      "sentiment": "Positive",
+      "tema": "De la Fuente vs Argentina",
+      "engagement": 112000,
+      "views": 4800000,
+      "volumen": 15200,
+      "sentiment": "Negative",
       "posteo_destacado": {
-        "id": "2077737705476092364",
-        "autor": "@AtaqueFutbolero",
-        "enlace": "https://x.com/AtaqueFutbolero/status/2077737705476092364",
-        "likes_aprox": 15200
+        "id": "2092335132090741026",
+        "autor": "@porqueTTarg",
+        "enlace": "https://x.com/porqueTTarg/status/2092335132090741026",
+        "likes_aprox": 1840
       }
     },
     {
-      "tema": "Copa Argentina en paralelo",
-      "engagement": 28000,
-      "views": 900000,
-      "volumen": 4100,
+      "tema": "Debate morosidad de familias",
+      "engagement": 98000,
+      "views": 4100000,
+      "volumen": 13600,
+      "sentiment": "Negative",
+      "posteo_destacado": {
+        "id": "2091974966484865264",
+        "autor": "@matifer",
+        "enlace": "https://x.com/matifer/status/2091974966484865264",
+        "likes_aprox": 10500
+      }
+    },
+    {
+      "tema": "Cerimedo y granja de bots",
+      "engagement": 86000,
+      "views": 2800000,
+      "volumen": 10200,
+      "sentiment": "Negative",
+      "posteo_destacado": {
+        "id": "2091350440977846398",
+        "autor": "@ArrepentidosLLA",
+        "enlace": "https://x.com/ArrepentidosLLA/status/2091350440977846398",
+        "likes_aprox": 18700
+      }
+    },
+    {
+      "tema": "Pezzella rescinde en River",
+      "engagement": 38000,
+      "views": 1300000,
+      "volumen": 6100,
       "sentiment": "Neutral",
       "posteo_destacado": {
-        "id": "2077947741158674507",
-        "autor": "@TyCSports",
-        "enlace": "https://x.com/TyCSports/status/2077947741158674507",
-        "likes_aprox": 22
+        "id": "2092409278980051361",
+        "autor": "@RiverPlate",
+        "enlace": "https://x.com/RiverPlate/status/2092409278980051361",
+        "likes_aprox": 11900
+      }
+    },
+    {
+      "tema": "Milei insulta a Bonelli",
+      "engagement": 41000,
+      "views": 1500000,
+      "volumen": 7400,
+      "sentiment": "Negative",
+      "posteo_destacado": {
+        "id": "2091151652237529135",
+        "autor": "@eldestapeweb",
+        "enlace": "https://x.com/eldestapeweb/status/2091151652237529135",
+        "likes_aprox": 910
+      }
+    },
+    {
+      "tema": "Estrellas ARG en baja post Mundial",
+      "engagement": 36000,
+      "views": 1600000,
+      "volumen": 5600,
+      "sentiment": "Negative",
+      "posteo_destacado": {
+        "id": "2092434274297283069",
+        "autor": "@MotivacionesF",
+        "enlace": "https://x.com/MotivacionesF/status/2092434274297283069",
+        "likes_aprox": 5620
+      }
+    },
+    {
+      "tema": "Caputo plan hipotecario ANSES",
+      "engagement": 24000,
+      "views": 950000,
+      "volumen": 6800,
+      "sentiment": "Neutral",
+      "posteo_destacado": {
+        "id": "2092401201727877628",
+        "autor": "@bonelliok",
+        "enlace": "https://x.com/bonelliok/status/2092401201727877628",
+        "likes_aprox": 520
+      }
+    },
+    {
+      "tema": "Dólar y riesgo país en alza",
+      "engagement": 16000,
+      "views": 720000,
+      "volumen": 3900,
+      "sentiment": "Negative",
+      "posteo_destacado": {
+        "id": "2091994204587331647",
+        "autor": "@fabdoman",
+        "enlace": "https://x.com/fabdoman/status/2091994204587331647",
+        "likes_aprox": 66
+      }
+    },
+    {
+      "tema": "Kicillof y cruce con Milei",
+      "engagement": 14000,
+      "views": 580000,
+      "volumen": 3100,
+      "sentiment": "Neutral",
+      "posteo_destacado": {
+        "id": "2091232512412422240",
+        "autor": "@eldestapeweb",
+        "enlace": "https://x.com/eldestapeweb/status/2091232512412422240",
+        "likes_aprox": 2040
       }
     }
   ]

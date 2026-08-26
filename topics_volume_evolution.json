@@ -1,50 +1,42 @@
 {
   "topics": [
     {
-      "topic": "Argentina en la final Mundial 2026",
+      "topic": "Sanciones FIFA a AFA y Paredes",
       "series": [
-        {"date": "2026-07-13", "volume": 28500},
-        {"date": "2026-07-14", "volume": 29500},
-        {"date": "2026-07-15", "volume": 52000},
-        {"date": "2026-07-16", "volume": 28500},
-        {"date": "2026-07-17", "volume": 28500}
+        {"date": "2026-08-26", "volume": 21400}
       ]
     },
     {
-      "topic": "Camiseta titular short blanco",
-      "series": [
-        {"date": "2026-07-17", "volume": 12500}
-      ]
-    },
-    {
-      "topic": "Gol Lautaro Martínez vs Inglaterra",
-      "series": [
-        {"date": "2026-07-15", "volume": 38000},
-        {"date": "2026-07-16", "volume": 18500},
-        {"date": "2026-07-17", "volume": 19200}
-      ]
-    },
-    {
-      "topic": "Festejos Obelisco Argentina",
-      "series": [
-        {"date": "2026-07-15", "volume": 24500},
-        {"date": "2026-07-16", "volume": 13200},
-        {"date": "2026-07-17", "volume": 9200}
-      ]
-    },
-    {
-      "topic": "Himno Roma Dybala Soulé",
-      "series": [
-        {"date": "2026-07-16", "volume": 9800},
-        {"date": "2026-07-17", "volume": 4500}
-      ]
-    },
-    {
-      "topic": "Final Argentina vs España 2026",
+      "topic": "Eco final Argentina-España",
       "series": [
         {"date": "2026-07-15", "volume": 19500},
         {"date": "2026-07-16", "volume": 14200},
-        {"date": "2026-07-17", "volume": 16000}
+        {"date": "2026-07-17", "volume": 16000},
+        {"date": "2026-08-26", "volume": 15200}
+      ]
+    },
+    {
+      "topic": "Debate morosidad de familias",
+      "series": [
+        {"date": "2026-08-26", "volume": 13600}
+      ]
+    },
+    {
+      "topic": "Cerimedo y granja de bots",
+      "series": [
+        {"date": "2026-08-26", "volume": 10200}
+      ]
+    },
+    {
+      "topic": "Caputo plan hipotecario ANSES",
+      "series": [
+        {"date": "2026-08-26", "volume": 6800}
+      ]
+    },
+    {
+      "topic": "Pezzella rescinde en River",
+      "series": [
+        {"date": "2026-08-26", "volume": 6100}
       ]
     }
   ]
