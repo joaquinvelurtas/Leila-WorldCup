@@ -1,71 +1,92 @@
 {
   "overview": {
     "portales": {
-      "summary": "Los portales muestran señales directas de cerveza en activaciones de Corona y Michelob Ultra, junto con presión sobre el gasto, salidas gastronómicas y nuevas ocasiones de consumo social."
-    },
-    "reddit": {
-      "summary": ""
+      "summary": "La conversación en portales combina cerveza como ritual social argentino, cultura de servicio y maridaje, activaciones en deporte y afters, moderación y presión económica sobre las ocasiones de consumo."
     }
   },
   "pilares": {
-    "CERVEZA": [
+    "Cerveza": [
       {
-        "titulo_corto": "Cervecera uruguaya cierra planta",
-        "resumen": "El cierre de una planta cervecera uruguaya aporta una señal regional sobre la industria, su estructura productiva y el contexto económico.",
+        "titulo_corto": "La cerveza como ritual argentino",
+        "resumen": "El Día de la Cerveza refuerza a la categoría como bebida asociada a encuentros, asados, fútbol, recitales y reuniones, incluyendo opciones sin alcohol.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/cocina/tendencias/2026/08/07/dia-de-la-cerveza-por-que-sigue-siendo-la-bebida-de-los-encuentros-argentinos"
+      },
+      {
+        "titulo_corto": "Cerveza artesanal y turismo",
+        "resumen": "Un destino argentino de estética alpina suma a la cerveza artesanal como parte central de su propuesta turística, cultural y gastronómica.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/turismo/2026/08/06/parece-un-pueblo-de-alemania-pero-esta-en-la-argentina-el-destino-con-arquitectura-alpina-cerveza-artesanal-y-calles-de-cuento"
+      }
+    ],
+    "Taste": [
+      {
+        "titulo_corto": "El servicio cambia la cerveza",
+        "resumen": "Especialistas explican cómo vaso, espuma y temperatura modifican aromas, textura y percepción de una cerveza, reforzando el valor de una experiencia bien servida.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/cocina/tendencias/2026/08/07/el-vaso-la-espuma-y-la-temperatura-por-que-pueden-cambiar-una-cerveza"
+      },
+      {
+        "titulo_corto": "IPA y maridaje",
+        "resumen": "El Día de la IPA pone foco en amargor, lúpulo y maridaje con comida, ampliando la conversación de cerveza hacia gastronomía y exploración de sabores.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/cocina/tendencias/2026/08/06/dia-de-la-ipa-la-cerveza-que-popularizo-el-amargor-ahora-tambien-conquista-la-mesa"
+      }
+    ],
+    "Wellness": [
+      {
+        "titulo_corto": "Qué cambia al dejar el alcohol",
+        "resumen": "Una nota revisa beneficios físicos y mentales de reducir o dejar el alcohol, con foco en sueño, bienestar, salud y recuperación.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/america/america-latina/2026/08/19/fabrica-de-cerveza-uruguaya-cerro-planta-por-segunda-vez-en-dos-anos-quiere-concentrar-su-produccion-en-montevideo"
-      }
-    ],
-    "SPORTS": [
+        "url": "https://www.infobae.com/wapo/2026/08/05/esto-le-sucede-al-cerebro-cuando-dejamos-de-beber-alcohol"
+      },
       {
-        "titulo_corto": "Michelob Ultra en los 21K",
-        "resumen": "Michelob Ultra se asocia al After Run de los 21K porteños, conectando cerveza, running y socialización en una ocasión concreta de consumo.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/lifestyle/mas-alla-del-deporte-el-after-run-y-la-consagracion-del-running-social-en-los-21k-de-buenos-aires-nid25082026"
-      }
-    ],
-    "EVENTS": [
-      {
-        "titulo_corto": "Corona activa en la nieve",
-        "resumen": "Corona se integra a la temporada de esquí con afters y activaciones, vinculando la marca con experiencias sociales, deportivas y de consumo.",
+        "titulo_corto": "Hábitos de fin de semana",
+        "resumen": "Especialistas advierten que ciertos hábitos del fin de semana, entre ellos el consumo de cerveza, pueden impactar en triglicéridos y salud metabólica.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/inhouse/2026/08/24/temporada-de-esqui-en-la-argentina-mas-alla-de-las-pistas-pausas-afters-y-un-ranking-de-descensos-imperdibles"
+        "url": "https://www.infobae.com/salud/ciencia/2026/08/25/trigliceridos-altos-los-3-habitos-del-fin-de-semana-que-pueden-dispararlos-sin-que-lo-notes-segun-los-expertos"
       }
     ],
-    "AFFORDABILITY": [
+    "Socializing": [
       {
-        "titulo_corto": "Descuentos en bodegones porteños",
-        "resumen": "Las promociones en bodegones muestran el peso del precio y los descuentos para sostener salidas y consumo gastronómico en Buenos Aires.",
+        "titulo_corto": "Debate por horarios de alcohol",
+        "resumen": "Una iniciativa busca eliminar restricciones horarias para comprar alcohol en CABA, señal relevante sobre acceso, disponibilidad y ocasiones nocturnas de consumo.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/sociedad/2026/08/11/la-libertar-avanza-quiere-que-se-terminen-las-restricciones-horarias-para-comprar-bebidas-alcoholicas-en-caba"
+      },
+      {
+        "titulo_corto": "Costanera como punto de encuentro",
+        "resumen": "Costanera Norte se consolida como polo gastronómico de sabores fusión y encuentro, reforzando la salida social como ocasión relevante de consumo.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/general/2026/08/20/costanera-norte-el-polo-gastronomico-que-es-sinonimo-de-tendencia-sabores-fusion-y-encuentro"
+      }
+    ],
+    "Affordability": [
+      {
+        "titulo_corto": "Promociones en bodegones",
+        "resumen": "La Semana de los Bodegones Porteños activa descuentos y promociones en más de 100 restaurantes, mostrando el peso del precio en las salidas gastronómicas.",
         "medio": "La Nación",
         "url": "https://www.lanacion.com.ar/que-sale/semana-de-los-bodegones-portenos-2026-cuando-es-y-como-acceder-a-descuentos-y-promociones-en-mas-de-nid21082026"
       },
       {
-        "titulo_corto": "La industria vuelve a caer",
-        "resumen": "La caída industrial y la menor demanda aportan contexto sobre presión económica y posibles restricciones al gasto discrecional de los hogares.",
+        "titulo_corto": "Morosidad y consumo masivo",
+        "resumen": "El debate sobre la mora en Mercado Pago aparece ligado a caída del consumo masivo, ingresos y presión económica sobre el gasto cotidiano.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/08/24/la-industria-no-repunta-la-produccion-volvio-a-caer-en-julio-y-acumula-una-caida-de-2-en-el-ano-segun-la-uia"
+        "url": "https://www.infobae.com/economia/2026/08/25/que-dijo-marcos-galperin-sobre-la-mora-en-mercado-pago"
       }
     ],
-    "SOCIALIZING": [
+    "Events": [
       {
-        "titulo_corto": "Costanera Norte como punto de encuentro",
-        "resumen": "Costanera Norte se consolida como espacio de gastronomía y encuentro, señalando una ocasión relevante de salida y consumo social.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/general/2026/08/20/costanera-norte-el-polo-gastronomico-que-es-sinonimo-de-tendencia-sabores-fusion-y-encuentro"
+        "titulo_corto": "Corona en los afters de nieve",
+        "resumen": "La temporada de esquí argentina suma afters y activaciones de Corona, con cerveza y opciones sin alcohol integradas a la experiencia de montaña.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/inhouse/2026/08/24/temporada-de-esqui-en-la-argentina-mas-alla-de-las-pistas-pausas-afters-y-un-ranking-de-descensos-imperdibles"
       },
       {
-        "titulo_corto": "Tévez, comida y vino",
-        "resumen": "El encuentro de Tévez alrededor de comida y vino refleja la asociación entre bebidas, gastronomía y sociabilidad, con valor competitivo frente a cerveza.",
+        "titulo_corto": "Michelob Ultra en el After Run",
+        "resumen": "El After Run de los 21K de Buenos Aires instala una ocasión social post carrera y vincula a Michelob Ultra con running, celebración y comunidad.",
         "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/sabado/que-comio-y-bebio-tevez-en-su-encuentro-con-el-messi-del-vino-nid24082026"
-      }
-    ],
-    "TASTE": [
-      {
-        "titulo_corto": "El valor cultural de lo amargo",
-        "resumen": "La nota explora lo amargo como atributo sensorial y cultural, una señal útil sobre sabores que también forman parte del territorio gustativo cervecero.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/cultura/2026/08/24/trago-amargo-la-quina-la-yerba-mate-y-una-historia-de-extraccion-que-marca-identidad-artistica"
+        "url": "https://www.lanacion.com.ar/lifestyle/mas-alla-del-deporte-el-after-run-y-la-consagracion-del-running-social-en-los-21k-de-buenos-aires-nid25082026"
       }
     ]
   }
