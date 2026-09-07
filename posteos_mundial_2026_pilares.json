@@ -33,20 +33,6 @@
         "url": "https://www.infobae.com/cultura/agenda-cultura/2026/09/04/guia-de-arte-y-cultura-semana-del-4-al-11-de-septiembre-de-2026"
       }
     ],
-    "FLAVOR": [
-      {
-        "medio": "La Nación",
-        "resumen": "El sommelier Martín Boan explica que servir la cerveza en vaso libera carbonatación y reduce la sensación de pesadez, vinculando técnica de servicio y calidad percibida.",
-        "titulo_corto": "Servir en vaso mejora la experiencia",
-        "url": "https://www.lanacion.com.ar/lifestyle/martin-boan-sommelier-de-cerveza-siempre-ha-que-servirla-en-un-vaso-porque-permite-liberar-parte-de-nid04092026"
-      },
-      {
-        "medio": "Infobae",
-        "resumen": "Un experto muestra una técnica para servir cerveza de botella como si fuera de barril, con foco en tirada, espuma y carbonatación.",
-        "titulo_corto": "Cómo tirar cerveza de botella",
-        "url": "https://www.infobae.com/espana/2026/09/07/carlos-cervantes-experto-en-cerveza-ensena-a-como-tirar-una-de-botella-como-si-fuera-de-barril-solo-puede-tocar-la-boca-de-la-botella"
-      }
-    ],
     "IMAGE": [
       {
         "medio": "Infobae",
@@ -61,7 +47,7 @@
         "url": "https://www.lanacion.com.ar/economia/campo/produce-miles-de-botellas-compro-una-chacra-en-la-estepa-de-la-patagonia-con-sus-ahorros-y-hace-nid06092026"
       }
     ],
-    "SOCIALIZATION": [
+    "SOCIALIZING": [
       {
         "medio": "TN",
         "resumen": "Una cerveza especial conecta las mesas argentinas con la primera celebración del Día de la Mujer Cervecera, reforzando comunidad y encuentro alrededor de la categoría.",
@@ -87,6 +73,20 @@
         "resumen": "La temporada de esquí argentina integra pausas y afters; la presencia detectada de Corona conecta cerveza, montaña, descanso y experiencia deportiva.",
         "titulo_corto": "Afters en la temporada de esquí",
         "url": "https://www.infobae.com/inhouse/2026/08/24/temporada-de-esqui-en-la-argentina-mas-alla-de-las-pistas-pausas-afters-y-un-ranking-de-descensos-imperdibles"
+      }
+    ],
+    "TASTE": [
+      {
+        "medio": "La Nación",
+        "resumen": "El sommelier Martín Boan explica que servir la cerveza en vaso libera carbonatación y reduce la sensación de pesadez, vinculando técnica de servicio y calidad percibida.",
+        "titulo_corto": "Servir en vaso mejora la experiencia",
+        "url": "https://www.lanacion.com.ar/lifestyle/martin-boan-sommelier-de-cerveza-siempre-ha-que-servirla-en-un-vaso-porque-permite-liberar-parte-de-nid04092026"
+      },
+      {
+        "medio": "Infobae",
+        "resumen": "Un experto muestra una técnica para servir cerveza de botella como si fuera de barril, con foco en tirada, espuma y carbonatación.",
+        "titulo_corto": "Cómo tirar cerveza de botella",
+        "url": "https://www.infobae.com/espana/2026/09/07/carlos-cervantes-experto-en-cerveza-ensena-a-como-tirar-una-de-botella-como-si-fuera-de-barril-solo-puede-tocar-la-boca-de-la-botella"
       }
     ],
     "WELLNESS": [
