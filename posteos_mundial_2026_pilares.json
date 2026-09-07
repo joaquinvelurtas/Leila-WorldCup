@@ -1,106 +1,106 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales combina cerveza, ocasiones sociales, sabor, bienestar, precio, imagen, deporte y eventos, con fuerte presencia de experiencias fuera del hogar."
+      "summary": "En los portales relevados, la cerveza aparece asociada con celebración, servicio y experiencia de sabor, mientras el contexto económico argentino presiona el consumo. También emergen vínculos con deporte, turismo, cultura y moderación del alcohol."
     }
   },
   "pilares": {
-    "SOCIALIZATION": [
-      {
-        "titulo_corto": "Cerveza y encuentros argentinos",
-        "resumen": "La cerveza se reafirma como bebida de amigos, asados, fútbol y recitales, consolidando su rol central en los encuentros sociales argentinos.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/cocina/tendencias/2026/08/07/dia-de-la-cerveza-por-que-sigue-siendo-la-bebida-de-los-encuentros-argentinos"
-      },
-      {
-        "titulo_corto": "Costanera Norte, polo de encuentro",
-        "resumen": "El auge de polos gastronómicos sostiene las salidas y el encuentro fuera del hogar como ocasiones relevantes para el consumo de bebidas.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/general/2026/08/20/costanera-norte-el-polo-gastronomico-que-es-sinonimo-de-tendencia-sabores-fusion-y-encuentro"
-      }
-    ],
-    "FLAVOR": [
-      {
-        "titulo_corto": "El servicio cambia la cerveza",
-        "resumen": "Vaso, espuma y temperatura modifican aromas y sabores, mostrando oportunidades para elevar la experiencia sensorial de la cerveza.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/cocina/tendencias/2026/08/07/el-vaso-la-espuma-y-la-temperatura-por-que-pueden-cambiar-una-cerveza"
-      },
-      {
-        "titulo_corto": "IPA y gastronomía",
-        "resumen": "La IPA gana lugar por su amargor, lúpulo y maridaje con comidas, reforzando el interés por perfiles de sabor más definidos.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/cocina/tendencias/2026/08/06/dia-de-la-ipa-la-cerveza-que-popularizo-el-amargor-ahora-tambien-conquista-la-mesa"
-      }
-    ],
-    "WELLNESS": [
-      {
-        "titulo_corto": "Cerveza y triglicéridos",
-        "resumen": "La cerveza aparece asociada a hábitos de fin de semana que pueden afectar la salud, reforzando una barrera de bienestar para la categoría.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/salud/ciencia/2026/08/25/trigliceridos-altos-los-3-habitos-del-fin-de-semana-que-pueden-dispararlos-sin-que-lo-notes-segun-los-expertos"
-      },
-      {
-        "titulo_corto": "Sobriedad y moderación",
-        "resumen": "La conversación sobre sobriedad y relación con el alcohol refuerza tendencias de moderación y abre espacio para opciones sin alcohol.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/estilo/2026/08/14/brad-pitt-dijo-que-volvio-a-beber-alcohol-no-es-peligroso-pero-no-es-para-todos"
-      }
-    ],
     "AFFORDABILITY": [
       {
-        "titulo_corto": "El sueldo dura menos",
-        "resumen": "La presión sobre el ingreso reduce el margen para consumos discrecionales y aumenta la sensibilidad a precios, promociones y formatos accesibles.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/economia/2026/08/27/por-que-se-endeudan-los-argentinos-que-dicen-los-consultores-sobre-el-debate-en-el-que-se-metio-de-lleno-milei"
+        "medio": "Página 12",
+        "resumen": "La caída sostenida de ventas en las pymes refleja un consumo argentino debilitado y mayor presión sobre las compras discrecionales.",
+        "titulo_corto": "El consumo no repunta",
+        "url": "https://www.pagina12.com.ar/2026/09/07/el-consumo-no-repunta-y-las-ventas-siguen-en-picada-en-las-pymes"
       },
       {
-        "titulo_corto": "Bodegones con promociones",
-        "resumen": "Descuentos y promociones buscan sostener las salidas gastronómicas en un contexto sensible al precio, relevante para el consumo fuera del hogar.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/lifestyle/bodegones-portenos-hasta-el-viernes-28-celebran-la-cocina-casera-con-buenos-precios-y-promociones-en-nid26082026"
-      }
-    ],
-    "IMAGE": [
-      {
-        "titulo_corto": "Cerveza artesanal y turismo",
-        "resumen": "La cerveza artesanal se integra a una experiencia turística asociada con tradición, autenticidad e identidad cultural diferencial.",
-        "medio": "TN",
-        "url": "https://tn.com.ar/turismo/2026/08/06/parece-un-pueblo-de-alemania-pero-esta-en-la-argentina-el-destino-con-arquitectura-alpina-cerveza-artesanal-y-calles-de-cuento"
-      },
-      {
-        "titulo_corto": "Vino y sofisticación",
-        "resumen": "El vino refuerza atributos de prestigio, origen y sofisticación que funcionan como referencia competitiva para la imagen de la cerveza.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/tendencias/2026/08/27/la-nueva-era-del-cabernet-sauvignon-15-vinos-argentinos-para-explorar-su-potencial"
-      }
-    ],
-    "SPORTS": [
-      {
-        "titulo_corto": "After Run y cerveza",
-        "resumen": "Michelob Ultra se integra a una ocasión donde deporte, celebración y socialización convergen, vinculando cerveza con un estilo de vida activo.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/lifestyle/mas-alla-del-deporte-el-after-run-y-la-consagracion-del-running-social-en-los-21k-de-buenos-aires-nid25082026"
-      },
-      {
-        "titulo_corto": "Fútbol y ocasiones sociales",
-        "resumen": "La cobertura mundialista conecta fútbol, hinchada, previas y consumo de pintas, reforzando al deporte como generador de ocasiones para cerveza.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/videos/sofi-martinez-el-detras-de-escena-del-mundial-la-exposicion-y-su-rol-en-el-periodismo-deportivo-nid26082026"
+        "resumen": "Casi cinco de cada diez hogares con estrés económico recurrieron a préstamos para gastos corrientes, señal de fuerte sensibilidad al precio y al presupuesto.",
+        "titulo_corto": "Hogares bajo estrés económico",
+        "url": "https://www.infobae.com/economia/2026/09/07/la-vulnerabilidad-previa-a-la-mora-casi-5-de-cada-10-hogares-con-estres-economico-pidieron-dinero-prestado-para-gastos-corrientes"
       }
     ],
     "EVENTS": [
       {
-        "titulo_corto": "Afters de nieve y marcas",
-        "resumen": "Corona y Quilmes activan en la temporada de nieve con afters y propuestas sin alcohol, convirtiendo el evento en una experiencia concreta de marca.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/inhouse/2026/08/24/temporada-de-esqui-en-la-argentina-mas-alla-de-las-pistas-pausas-afters-y-un-ranking-de-descensos-imperdibles"
+        "medio": "La Nación",
+        "resumen": "El circuito de arte y street art propone una salida cultural en Palermo y Villa Crespo, con cerveza detectada como parte de la ocasión.",
+        "titulo_corto": "Gallery en Palermo y Villa Crespo",
+        "url": "https://www.lanacion.com.ar/cultura/arte-arquitectura-y-street-art-sabado-de-gallery-en-palermo-y-villa-crespo-nid02092026"
       },
       {
-        "titulo_corto": "Semana de los Bodegones",
-        "resumen": "Más de 100 restaurantes participan con promociones, generando una ocasión gastronómica de escala para el consumo de cerveza fuera del hogar.",
+        "medio": "Infobae",
+        "resumen": "La guía de arte y cultura reúne actividades del 4 al 11 de septiembre, ampliando las ocasiones urbanas de salida y socialización fuera del hogar.",
+        "titulo_corto": "Agenda cultural de septiembre",
+        "url": "https://www.infobae.com/cultura/agenda-cultura/2026/09/04/guia-de-arte-y-cultura-semana-del-4-al-11-de-septiembre-de-2026"
+      }
+    ],
+    "FLAVOR": [
+      {
         "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/que-sale/semana-de-los-bodegones-portenos-2026-cuando-es-y-como-acceder-a-descuentos-y-promociones-en-mas-de-nid21082026"
+        "resumen": "El sommelier Martín Boan explica que servir la cerveza en vaso libera carbonatación y reduce la sensación de pesadez, vinculando técnica de servicio y calidad percibida.",
+        "titulo_corto": "Servir en vaso mejora la experiencia",
+        "url": "https://www.lanacion.com.ar/lifestyle/martin-boan-sommelier-de-cerveza-siempre-ha-que-servirla-en-un-vaso-porque-permite-liberar-parte-de-nid04092026"
+      },
+      {
+        "medio": "Infobae",
+        "resumen": "Un experto muestra una técnica para servir cerveza de botella como si fuera de barril, con foco en tirada, espuma y carbonatación.",
+        "titulo_corto": "Cómo tirar cerveza de botella",
+        "url": "https://www.infobae.com/espana/2026/09/07/carlos-cervantes-experto-en-cerveza-ensena-a-como-tirar-una-de-botella-como-si-fuera-de-barril-solo-puede-tocar-la-boca-de-la-botella"
+      }
+    ],
+    "IMAGE": [
+      {
+        "medio": "Infobae",
+        "resumen": "España se posiciona como segunda potencia cervecera de Europa, reforzando atributos de escala, tradición y relevancia cultural de la categoría.",
+        "titulo_corto": "España, potencia cervecera",
+        "url": "https://www.infobae.com/espana/2026/08/31/espana-en-convierte-en-la-segunda-potencia-cervecera-de-europa-produce-5300-millones-de-litros-al-ano-y-solo-la-supera-alemania"
+      },
+      {
+        "medio": "La Nación",
+        "resumen": "Un productor de la estepa patagónica lleva sus vinos a Estados Unidos, mostrando cómo origen, territorio y relato elevan la imagen de una categoría competidora.",
+        "titulo_corto": "Vino patagónico con proyección",
+        "url": "https://www.lanacion.com.ar/economia/campo/produce-miles-de-botellas-compro-una-chacra-en-la-estepa-de-la-patagonia-con-sus-ahorros-y-hace-nid06092026"
+      }
+    ],
+    "SOCIALIZATION": [
+      {
+        "medio": "TN",
+        "resumen": "Una cerveza especial conecta las mesas argentinas con la primera celebración del Día de la Mujer Cervecera, reforzando comunidad y encuentro alrededor de la categoría.",
+        "titulo_corto": "Mujeres Cerveceras celebran",
+        "url": "https://tn.com.ar/cocina/gastronomia/2026/09/05/se-celebra-por-primera-vez-el-dia-de-la-mujer-cervecera-como-es-la-cerveza-especial-que-crearon-para-la-fecha"
+      },
+      {
+        "medio": "La Nación",
+        "resumen": "Una terraza con parrilla instala el hogar como escenario de reunión y consumo compartido, una ocasión culturalmente cercana a cerveza y asado.",
+        "titulo_corto": "Parrilla y terraza para reunirse",
+        "url": "https://www.lanacion.com.ar/revista-living/con-color-y-caracter-articulo-un-triplex-que-culmina-en-una-fabulosa-terraza-con-parrilla-nid06092026"
+      }
+    ],
+    "SPORTS": [
+      {
+        "medio": "Infobae",
+        "resumen": "Los 21K de Buenos Aires combinan deporte y celebración; la presencia detectada de Michelob Ultra vincula cerveza con running, encuentro y estilo de vida activo.",
+        "titulo_corto": "Running, cerveza y celebración",
+        "url": "https://www.infobae.com/inhouse/2026/08/28/21k-de-buenos-aires-el-recorrido-que-llevo-el-running-del-esfuerzo-a-la-celebracion"
+      },
+      {
+        "medio": "Infobae",
+        "resumen": "La temporada de esquí argentina integra pausas y afters; la presencia detectada de Corona conecta cerveza, montaña, descanso y experiencia deportiva.",
+        "titulo_corto": "Afters en la temporada de esquí",
+        "url": "https://www.infobae.com/inhouse/2026/08/24/temporada-de-esqui-en-la-argentina-mas-alla-de-las-pistas-pausas-afters-y-un-ranking-de-descensos-imperdibles"
+      }
+    ],
+    "WELLNESS": [
+      {
+        "medio": "Infobae",
+        "resumen": "El consumo de alcohol en Estados Unidos se mantiene en su nivel más bajo por segundo año, una referencia internacional para la tendencia de moderación.",
+        "titulo_corto": "El consumo de alcohol sigue bajo",
+        "url": "https://www.infobae.com/estados-unidos/2026/08/29/el-consumo-de-alcohol-en-estados-unidos-sigue-en-su-nivel-mas-bajo-por-segundo-ano-consecutivo"
+      },
+      {
+        "medio": "Infobae",
+        "resumen": "Un conductor registró 2,19 gramos de alcohol en sangre en Neuquén, reforzando la conversación local sobre consumo responsable y seguridad vial.",
+        "titulo_corto": "Alcoholemia extrema en Neuquén",
+        "url": "https://www.infobae.com/sociedad/2026/09/07/un-hombre-conducia-con-219-gramos-de-alcohol-en-sangre-y-rompio-el-record-del-fin-de-semana-en-neuquen"
       }
     ]
   }
