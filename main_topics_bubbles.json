@@ -1,133 +1,81 @@
 {
   "topics": [
     {
-      "tema": "Sanciones FIFA a Paredes y AFA",
-      "engagement": 168000,
-      "views": 6200000,
-      "volumen": 21400,
-      "sentiment": "Negative",
+      "tema": "Retiro de Messi de la Selección",
+      "engagement": 157981,
+      "views": 4461217,
+      "volumen": 687,
+      "sentiment": "Positive",
       "posteo_destacado": {
-        "id": "2090855776575226243",
-        "autor": "@siempreconargok",
-        "enlace": "https://x.com/siempreconargok/status/2090855776575226243",
-        "likes_aprox": 23300
+        "id": "2094843712652100080",
+        "autor": "@Argentina",
+        "enlace": "https://x.com/Argentina/status/2094843712652100080",
+        "likes_aprox": 57103
       }
     },
     {
-      "tema": "De la Fuente vs Argentina",
-      "engagement": 112000,
-      "views": 4800000,
-      "volumen": 15200,
+      "tema": "Eco final Argentina-España",
+      "engagement": 51584,
+      "views": 2460973,
+      "volumen": 1442,
       "sentiment": "Negative",
       "posteo_destacado": {
-        "id": "2092335132090741026",
-        "autor": "@porqueTTarg",
-        "enlace": "https://x.com/porqueTTarg/status/2092335132090741026",
-        "likes_aprox": 1840
+        "id": "2092348508330168673",
+        "autor": "@lorenzootorres",
+        "enlace": "https://x.com/lorenzootorres/status/2092348508330168673",
+        "likes_aprox": 45408
       }
     },
     {
-      "tema": "Debate morosidad de familias",
-      "engagement": 98000,
-      "views": 4100000,
-      "volumen": 13600,
+      "tema": "Malvinas y Magallanes",
+      "engagement": 19334,
+      "views": 1756014,
+      "volumen": 2131,
       "sentiment": "Negative",
       "posteo_destacado": {
-        "id": "2091974966484865264",
-        "autor": "@matifer",
-        "enlace": "https://x.com/matifer/status/2091974966484865264",
-        "likes_aprox": 10500
+        "id": "2095741000916320612",
+        "autor": "@Marcelampagano",
+        "enlace": "https://x.com/Marcelampagano/status/2095741000916320612",
+        "likes_aprox": 5108
       }
     },
     {
-      "tema": "Cerimedo y granja de bots",
-      "engagement": 86000,
-      "views": 2800000,
-      "volumen": 10200,
+      "tema": "Salario mínimo de Milei",
+      "engagement": 11247,
+      "views": 821495,
+      "volumen": 689,
       "sentiment": "Negative",
       "posteo_destacado": {
-        "id": "2091350440977846398",
-        "autor": "@ArrepentidosLLA",
-        "enlace": "https://x.com/ArrepentidosLLA/status/2091350440977846398",
-        "likes_aprox": 18700
+        "id": "2095471188499718485",
+        "autor": "@Apu_elrojo",
+        "enlace": "https://x.com/Apu_elrojo/status/2095471188499718485",
+        "likes_aprox": 5151
       }
     },
     {
-      "tema": "Pezzella rescinde en River",
-      "engagement": 38000,
-      "views": 1300000,
-      "volumen": 6100,
+      "tema": "Gran Hermano y Sol al 9009",
+      "engagement": 9333,
+      "views": 219183,
+      "volumen": 739,
       "sentiment": "Neutral",
       "posteo_destacado": {
-        "id": "2092409278980051361",
-        "autor": "@RiverPlate",
-        "enlace": "https://x.com/RiverPlate/status/2092409278980051361",
-        "likes_aprox": 11900
+        "id": "2095578087815594180",
+        "autor": "@mayhoemm",
+        "enlace": "https://x.com/mayhoemm/status/2095578087815594180",
+        "likes_aprox": 3085
       }
     },
     {
-      "tema": "Milei insulta a Bonelli",
-      "engagement": 41000,
-      "views": 1500000,
-      "volumen": 7400,
-      "sentiment": "Negative",
-      "posteo_destacado": {
-        "id": "2091151652237529135",
-        "autor": "@eldestapeweb",
-        "enlace": "https://x.com/eldestapeweb/status/2091151652237529135",
-        "likes_aprox": 910
-      }
-    },
-    {
-      "tema": "Estrellas ARG en baja post Mundial",
-      "engagement": 36000,
-      "views": 1600000,
-      "volumen": 5600,
-      "sentiment": "Negative",
-      "posteo_destacado": {
-        "id": "2092434274297283069",
-        "autor": "@MotivacionesF",
-        "enlace": "https://x.com/MotivacionesF/status/2092434274297283069",
-        "likes_aprox": 5620
-      }
-    },
-    {
-      "tema": "Caputo plan hipotecario ANSES",
-      "engagement": 24000,
-      "views": 950000,
-      "volumen": 6800,
+      "tema": "Milei carga contra Sánchez",
+      "engagement": 9351,
+      "views": 107412,
+      "volumen": 132,
       "sentiment": "Neutral",
       "posteo_destacado": {
-        "id": "2092401201727877628",
-        "autor": "@bonelliok",
-        "enlace": "https://x.com/bonelliok/status/2092401201727877628",
-        "likes_aprox": 520
-      }
-    },
-    {
-      "tema": "Dólar y riesgo país en alza",
-      "engagement": 16000,
-      "views": 720000,
-      "volumen": 3900,
-      "sentiment": "Negative",
-      "posteo_destacado": {
-        "id": "2091994204587331647",
-        "autor": "@fabdoman",
-        "enlace": "https://x.com/fabdoman/status/2091994204587331647",
-        "likes_aprox": 66
-      }
-    },
-    {
-      "tema": "Kicillof y cruce con Milei",
-      "engagement": 14000,
-      "views": 580000,
-      "volumen": 3100,
-      "sentiment": "Neutral",
-      "posteo_destacado": {
-        "id": "2091232512412422240",
-        "autor": "@eldestapeweb",
-        "enlace": "https://x.com/eldestapeweb/status/2091232512412422240",
-        "likes_aprox": 2040
+        "id": "2095525658696749233",
+        "autor": "@gaceta_es",
+        "enlace": "https://x.com/gaceta_es/status/2095525658696749233",
+        "likes_aprox": 7126
       }
     }
   ]
