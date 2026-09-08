@@ -1,106 +1,94 @@
 {
   "overview": {
     "portales": {
-      "summary": "En los portales relevados, la cerveza aparece asociada con celebración, servicio y experiencia de sabor, mientras el contexto económico argentino presiona el consumo. También emergen vínculos con deporte, turismo, cultura y moderación del alcohol."
+      "summary": "La conversación en portales combina innovación cervecera, bienestar, cultura e identidad, con presión económica y nuevas ocasiones de consumo en gastronomía, deporte y eventos."
     }
   },
   "pilares": {
     "AFFORDABILITY": [
       {
-        "medio": "Página 12",
-        "resumen": "La caída sostenida de ventas en las pymes refleja un consumo argentino debilitado y mayor presión sobre las compras discrecionales.",
-        "titulo_corto": "El consumo no repunta",
-        "url": "https://www.pagina12.com.ar/2026/09/07/el-consumo-no-repunta-y-las-ventas-siguen-en-picada-en-las-pymes"
+        "medio": "infobae",
+        "resumen": "La inflación de agosto fue de 1,7% en CABA; alimentos y bebidas no alcohólicas subieron 1,8%, mientras restaurantes y hoteles bajaron 0,1%, señales relevantes para el gasto fuera del hogar.",
+        "titulo_corto": "Inflación porteña y consumo",
+        "url": "https://www.infobae.com/economia/2026/09/08/la-inflacion-en-la-ciudad-de-buenos-aires-fue-de-17-en-agosto-y-acumulo-un-333-en-los-ultimos-doce-meses"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Casi cinco de cada diez hogares con estrés económico recurrieron a préstamos para gastos corrientes, señal de fuerte sensibilidad al precio y al presupuesto.",
-        "titulo_corto": "Hogares bajo estrés económico",
-        "url": "https://www.infobae.com/economia/2026/09/07/la-vulnerabilidad-previa-a-la-mora-casi-5-de-cada-10-hogares-con-estres-economico-pidieron-dinero-prestado-para-gastos-corrientes"
+        "medio": "tn",
+        "resumen": "Supermercados nacionales ofrecen a jubilados y pensionados descuentos de hasta 20% y reintegros con distintos topes, reforzando la búsqueda de promociones frente a presupuestos ajustados.",
+        "titulo_corto": "Descuentos para sostener las compras",
+        "url": "https://tn.com.ar/economia/jubilaciones/2026/09/07/descuentos-para-jubilados-y-pensionados-de-hasta-20-y-35000-de-reintegro-en-supermercados-en-septiembre-de-2026"
       }
     ],
     "EVENTS": [
       {
-        "medio": "La Nación",
-        "resumen": "El circuito de arte y street art propone una salida cultural en Palermo y Villa Crespo, con cerveza detectada como parte de la ocasión.",
-        "titulo_corto": "Gallery en Palermo y Villa Crespo",
-        "url": "https://www.lanacion.com.ar/cultura/arte-arquitectura-y-street-art-sabado-de-gallery-en-palermo-y-villa-crespo-nid02092026"
+        "medio": "lanacion",
+        "resumen": "La Fiesta del Asado Criollo reunirá competencia de asadores, shows y gastronomía en Moquehuá, con cantinas y un sector que ofrecerá cerveza tirada.",
+        "titulo_corto": "Fiesta del Asado con cerveza tirada",
+        "url": "https://www.lanacion.com.ar/que-sale/concurso-de-asadores-en-la-fiesta-del-asado-criollo-2026-en-moquehua-cuando-es-programacion-y-que-nid07092026"
       },
       {
-        "medio": "Infobae",
-        "resumen": "La guía de arte y cultura reúne actividades del 4 al 11 de septiembre, ampliando las ocasiones urbanas de salida y socialización fuera del hogar.",
-        "titulo_corto": "Agenda cultural de septiembre",
-        "url": "https://www.infobae.com/cultura/agenda-cultura/2026/09/04/guia-de-arte-y-cultura-semana-del-4-al-11-de-septiembre-de-2026"
+        "medio": "infobae",
+        "resumen": "El DJ sorprendió a miles de asistentes en el Movistar Arena al remixar un jingle argentino de los años 80 y 90, mostrando el peso de la nostalgia en eventos masivos.",
+        "titulo_corto": "Fatboy Slim conecta con la cultura local",
+        "url": "https://www.infobae.com/teleshow/2026/09/07/fatboy-slim-sorprendio-en-buenos-aires-al-remixar-el-clasico-jingle-de-el-condor-de-norbert-degoas-en-pleno-show"
+      }
+    ],
+    "FLAVOR": [
+      {
+        "medio": "infobae",
+        "resumen": "Una técnica de vertido gradual busca controlar la carbonatación y formar espuma, mostrando cómo el servicio puede mejorar la presentación y experiencia sensorial de la cerveza.",
+        "titulo_corto": "Cómo servir una botella como tirada",
+        "url": "https://www.infobae.com/espana/2026/09/07/carlos-cervantes-experto-en-cerveza-ensena-a-como-tirar-una-de-botella-como-si-fuera-de-barril-solo-puede-tocar-la-boca-de-la-botella"
       }
     ],
     "IMAGE": [
       {
-        "medio": "Infobae",
-        "resumen": "España se posiciona como segunda potencia cervecera de Europa, reforzando atributos de escala, tradición y relevancia cultural de la categoría.",
-        "titulo_corto": "España, potencia cervecera",
-        "url": "https://www.infobae.com/espana/2026/08/31/espana-en-convierte-en-la-segunda-potencia-cervecera-de-europa-produce-5300-millones-de-litros-al-ano-y-solo-la-supera-alemania"
-      },
-      {
-        "medio": "La Nación",
-        "resumen": "Un productor de la estepa patagónica lleva sus vinos a Estados Unidos, mostrando cómo origen, territorio y relato elevan la imagen de una categoría competidora.",
-        "titulo_corto": "Vino patagónico con proyección",
-        "url": "https://www.lanacion.com.ar/economia/campo/produce-miles-de-botellas-compro-una-chacra-en-la-estepa-de-la-patagonia-con-sus-ahorros-y-hace-nid06092026"
+        "medio": "tn",
+        "resumen": "El primer Día de la Mujer Cervecera en Argentina visibiliza su aporte histórico y actual, cuestiona códigos masculinos y promueve una industria más diversa.",
+        "titulo_corto": "Mujeres redefinen la cultura cervecera",
+        "url": "https://tn.com.ar/cocina/gastronomia/2026/09/05/se-celebra-por-primera-vez-el-dia-de-la-mujer-cervecera-como-es-la-cerveza-especial-que-crearon-para-la-fecha"
       }
     ],
-    "SOCIALIZING": [
+    "SOCIALIZATION": [
       {
-        "medio": "TN",
-        "resumen": "Una cerveza especial conecta las mesas argentinas con la primera celebración del Día de la Mujer Cervecera, reforzando comunidad y encuentro alrededor de la categoría.",
-        "titulo_corto": "Mujeres Cerveceras celebran",
-        "url": "https://tn.com.ar/cocina/gastronomia/2026/09/05/se-celebra-por-primera-vez-el-dia-de-la-mujer-cervecera-como-es-la-cerveza-especial-que-crearon-para-la-fecha"
+        "medio": "lanacion",
+        "resumen": "El crecimiento de cafeterías, street food, bodegones, parrillas y terrazas consolida a Villa Crespo como un polo de salidas, con cerveza artesanal y opciones accesibles.",
+        "titulo_corto": "Villa Crespo amplía la ocasión gastronómica",
+        "url": "https://www.lanacion.com.ar/sabado/el-barrio-de-facil-acceso-y-alta-concentracion-de-comercios-que-renueva-su-perfil-gourmet-nid08092026"
       },
       {
-        "medio": "La Nación",
-        "resumen": "Una terraza con parrilla instala el hogar como escenario de reunión y consumo compartido, una ocasión culturalmente cercana a cerveza y asado.",
-        "titulo_corto": "Parrilla y terraza para reunirse",
-        "url": "https://www.lanacion.com.ar/revista-living/con-color-y-caracter-articulo-un-triplex-que-culmina-en-una-fabulosa-terraza-con-parrilla-nid06092026"
+        "medio": "lanacion",
+        "resumen": "Cerro Castor integra esquí, actividades y ocho espacios gastronómicos con comida y bebida, ampliando las ocasiones de encuentro y consumo durante la temporada de nieve.",
+        "titulo_corto": "Montaña, gastronomía y encuentros",
+        "url": "https://www.lanacion.com.ar/lifestyle/cerro-castor-como-es-la-experiencia-de-invierno-en-el-fin-del-mundo-nid07092026"
       }
     ],
     "SPORTS": [
       {
-        "medio": "Infobae",
-        "resumen": "Los 21K de Buenos Aires combinan deporte y celebración; la presencia detectada de Michelob Ultra vincula cerveza con running, encuentro y estilo de vida activo.",
-        "titulo_corto": "Running, cerveza y celebración",
+        "medio": "infobae",
+        "resumen": "La marca acompañó los 21K de Buenos Aires y convirtió la llegada en una celebración con cerveza, música, amigos y latas personalizadas.",
+        "titulo_corto": "Michelob ULTRA activa el After Run",
         "url": "https://www.infobae.com/inhouse/2026/08/28/21k-de-buenos-aires-el-recorrido-que-llevo-el-running-del-esfuerzo-a-la-celebracion"
       },
       {
-        "medio": "Infobae",
-        "resumen": "La temporada de esquí argentina integra pausas y afters; la presencia detectada de Corona conecta cerveza, montaña, descanso y experiencia deportiva.",
-        "titulo_corto": "Afters en la temporada de esquí",
-        "url": "https://www.infobae.com/inhouse/2026/08/24/temporada-de-esqui-en-la-argentina-mas-alla-de-las-pistas-pausas-afters-y-un-ranking-de-descensos-imperdibles"
-      }
-    ],
-    "TASTE": [
-      {
-        "medio": "La Nación",
-        "resumen": "El sommelier Martín Boan explica que servir la cerveza en vaso libera carbonatación y reduce la sensación de pesadez, vinculando técnica de servicio y calidad percibida.",
-        "titulo_corto": "Servir en vaso mejora la experiencia",
-        "url": "https://www.lanacion.com.ar/lifestyle/martin-boan-sommelier-de-cerveza-siempre-ha-que-servirla-en-un-vaso-porque-permite-liberar-parte-de-nid04092026"
-      },
-      {
-        "medio": "Infobae",
-        "resumen": "Un experto muestra una técnica para servir cerveza de botella como si fuera de barril, con foco en tirada, espuma y carbonatación.",
-        "titulo_corto": "Cómo tirar cerveza de botella",
-        "url": "https://www.infobae.com/espana/2026/09/07/carlos-cervantes-experto-en-cerveza-ensena-a-como-tirar-una-de-botella-como-si-fuera-de-barril-solo-puede-tocar-la-boca-de-la-botella"
+        "medio": "infobae",
+        "resumen": "Argentina prepara dos o tres amistosos en Buenos Aires y Córdoba tras el Mundial, con una posible despedida de Messi que puede movilizar una gran ocasión colectiva.",
+        "titulo_corto": "La Selección vuelve a jugar en el país",
+        "url": "https://www.infobae.com/deportes/2026/09/08/los-posibles-rivales-de-argentina-en-los-primeros-amistosos-tras-el-mundial-la-postura-de-la-afa-con-el-caso-messi"
       }
     ],
     "WELLNESS": [
       {
-        "medio": "Infobae",
-        "resumen": "El consumo de alcohol en Estados Unidos se mantiene en su nivel más bajo por segundo año, una referencia internacional para la tendencia de moderación.",
-        "titulo_corto": "El consumo de alcohol sigue bajo",
-        "url": "https://www.infobae.com/estados-unidos/2026/08/29/el-consumo-de-alcohol-en-estados-unidos-sigue-en-su-nivel-mas-bajo-por-segundo-ano-consecutivo"
+        "medio": "lanacion",
+        "resumen": "Stella Artois amplió su portafolio argentino con una cerveza de 34 calorías cada 100 ml, libre de gluten y 100% pura malta, orientada a hábitos más equilibrados.",
+        "titulo_corto": "Stella Artois lanza Pure Gold",
+        "url": "https://www.lanacion.com.ar/lifestyle/stella-artois-presento-pure-gold-su-nueva-cerveza-con-menos-calorias-nid08092026"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Un conductor registró 2,19 gramos de alcohol en sangre en Neuquén, reforzando la conversación local sobre consumo responsable y seguridad vial.",
-        "titulo_corto": "Alcoholemia extrema en Neuquén",
-        "url": "https://www.infobae.com/sociedad/2026/09/07/un-hombre-conducia-con-219-gramos-de-alcohol-en-sangre-y-rompio-el-record-del-fin-de-semana-en-neuquen"
+        "medio": "infobae",
+        "resumen": "Especialistas advierten que el alivio inicial del alcohol es transitorio y que su consumo puede interrumpir el descanso y empeorar la respuesta cotidiana al estrés.",
+        "titulo_corto": "Alcohol, sueño y estrés",
+        "url": "https://www.infobae.com/salud/ciencia/2026/09/07/los-11-alimentos-y-bebidas-que-pueden-aumentar-el-estres-segun-expertos"
       }
     ]
   }
