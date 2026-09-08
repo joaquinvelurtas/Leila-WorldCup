@@ -1,3 +1,19 @@
 {
-  "temas": []
+  "temas": [
+    {
+      "marca": "SchneiderARG",
+      "titulo": "Vuelve la Champions, soy él",
+      "resumen": "La cuenta local ancla el arranque de Champions y copas. Engagement chico y tono de barra. El Mundial ya no tracciona; el gancho ahora es el mata-mata europeo."
+    },
+    {
+      "marca": "Heineken",
+      "titulo": "NeighBars por Champions",
+      "resumen": "Heineken convierte patios de edificios en CDMX en sedes UCL. Activación fútbol post-Mundial visible en Latam, casi nula en el timeline argentino."
+    },
+    {
+      "marca": "Coca-Cola",
+      "titulo": "Rumores de cierre en Argentina",
+      "resumen": "Circularon tuits de que Coca cierra plantas y solo importa. Community Notes lo desmentió. El otro ángulo es precio: 2L a $5.900 en CABA."
+    }
+  ]
 }

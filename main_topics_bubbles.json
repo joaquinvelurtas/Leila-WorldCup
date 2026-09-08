@@ -1,7 +1,7 @@
 {
   "topics": [
     {
-      "tema": "Retiro de Messi de la Selección",
+      "tema": "Retiro de Messi",
       "engagement": 157981,
       "views": 4461217,
       "volumen": 687,
@@ -10,40 +10,66 @@
         "id": "2094843712652100080",
         "autor": "@Argentina",
         "enlace": "https://x.com/Argentina/status/2094843712652100080",
-        "likes_aprox": 57103
+        "likes_aprox": 57105
       }
     },
     {
-      "tema": "Eco final Argentina-España",
-      "engagement": 51584,
-      "views": 2460973,
-      "volumen": 1442,
-      "sentiment": "Negative",
+      "tema": "Video GOAT de Messi",
+      "engagement": 59953,
+      "views": 4570938,
+      "volumen": 1249,
+      "sentiment": "Positive",
       "posteo_destacado": {
-        "id": "2092348508330168673",
-        "autor": "@lorenzootorres",
-        "enlace": "https://x.com/lorenzootorres/status/2092348508330168673",
-        "likes_aprox": 45408
+        "id": "2095204676304093390",
+        "autor": "@AlbicelesteTalk",
+        "enlace": "https://x.com/AlbicelesteTalk/status/2095204676304093390",
+        "likes_aprox": 51769
       }
     },
     {
-      "tema": "Malvinas y Magallanes",
-      "engagement": 19334,
-      "views": 1756014,
-      "volumen": 2131,
+      "tema": "Malvinas y Milei",
+      "engagement": 48227,
+      "views": 1051226,
+      "volumen": 2180,
       "sentiment": "Negative",
       "posteo_destacado": {
-        "id": "2095741000916320612",
-        "autor": "@Marcelampagano",
-        "enlace": "https://x.com/Marcelampagano/status/2095741000916320612",
-        "likes_aprox": 5108
+        "id": "2095835409980838032",
+        "autor": "@canedico",
+        "enlace": "https://x.com/canedico/status/2095835409980838032",
+        "likes_aprox": 35391
+      }
+    },
+    {
+      "tema": "Miss Mundo vestido Messi",
+      "engagement": 18621,
+      "views": 2352136,
+      "volumen": 1481,
+      "sentiment": "Neutral",
+      "posteo_destacado": {
+        "id": "2096379442037678231",
+        "autor": "@laudelinterior_",
+        "enlace": "https://x.com/laudelinterior_/status/2096379442037678231",
+        "likes_aprox": 17015
+      }
+    },
+    {
+      "tema": "Balón de Oro 2026",
+      "engagement": 12491,
+      "views": 1466312,
+      "volumen": 2214,
+      "sentiment": "Neutral",
+      "posteo_destacado": {
+        "id": "2097335431553503259",
+        "autor": "@gastonedul",
+        "enlace": "https://x.com/gastonedul/status/2097335431553503259",
+        "likes_aprox": 5127
       }
     },
     {
       "tema": "Salario mínimo de Milei",
-      "engagement": 11247,
-      "views": 821495,
-      "volumen": 689,
+      "engagement": 28999,
+      "views": 247083,
+      "volumen": 671,
       "sentiment": "Negative",
       "posteo_destacado": {
         "id": "2095471188499718485",
@@ -53,29 +79,55 @@
       }
     },
     {
-      "tema": "Gran Hermano y Sol al 9009",
-      "engagement": 9333,
-      "views": 219183,
-      "volumen": 739,
+      "tema": "Gran Hermano y Sol 9009",
+      "engagement": 1675,
+      "views": 15697,
+      "volumen": 820,
       "sentiment": "Neutral",
       "posteo_destacado": {
-        "id": "2095578087815594180",
-        "autor": "@mayhoemm",
-        "enlace": "https://x.com/mayhoemm/status/2095578087815594180",
-        "likes_aprox": 3085
+        "id": "2096950314641367342",
+        "autor": "@edwardSttiht",
+        "enlace": "https://x.com/edwardSttiht/status/2096950314641367342",
+        "likes_aprox": 618
       }
     },
     {
-      "tema": "Milei carga contra Sánchez",
-      "engagement": 9351,
-      "views": 107412,
-      "volumen": 132,
+      "tema": "Régimen Penal Juvenil",
+      "engagement": 2334,
+      "views": 262259,
+      "volumen": 456,
+      "sentiment": "Negative",
+      "posteo_destacado": {
+        "id": "2097033387126984835",
+        "autor": "@vulgarcite",
+        "enlace": "https://x.com/vulgarcite/status/2097033387126984835",
+        "likes_aprox": 1443
+      }
+    },
+    {
+      "tema": "Fecha 8 del Clausura",
+      "engagement": 3536,
+      "views": 488619,
+      "volumen": 512,
       "sentiment": "Neutral",
       "posteo_destacado": {
-        "id": "2095525658696749233",
-        "autor": "@gaceta_es",
-        "enlace": "https://x.com/gaceta_es/status/2095525658696749233",
-        "likes_aprox": 7126
+        "id": "2096975670333133234",
+        "autor": "@MatiBecker",
+        "enlace": "https://x.com/MatiBecker/status/2096975670333133234",
+        "likes_aprox": 2084
+      }
+    },
+    {
+      "tema": "Dibu al Yashin",
+      "engagement": 6834,
+      "views": 71266,
+      "volumen": 199,
+      "sentiment": "Positive",
+      "posteo_destacado": {
+        "id": "2097300027714469990",
+        "autor": "@gastonedul",
+        "enlace": "https://x.com/gastonedul/status/2097300027714469990",
+        "likes_aprox": 6651
       }
     }
   ]

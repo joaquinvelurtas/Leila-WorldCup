@@ -10,36 +10,20 @@
       ]
     },
     {
-      "topic": "Eco final Argentina-España",
+      "topic": "Balón de Oro 2026",
       "series": [
         {
-          "date": "2026-07-15",
-          "volume": 19500
-        },
-        {
-          "date": "2026-07-16",
-          "volume": 14200
-        },
-        {
-          "date": "2026-07-17",
-          "volume": 16000
-        },
-        {
-          "date": "2026-08-26",
-          "volume": 15200
-        },
-        {
           "date": "2026-09-08",
-          "volume": 1442
+          "volume": 2214
         }
       ]
     },
     {
-      "topic": "Malvinas y Magallanes",
+      "topic": "Malvinas cadena Milei",
       "series": [
         {
           "date": "2026-09-08",
-          "volume": 2131
+          "volume": 2180
         }
       ]
     },
@@ -48,25 +32,25 @@
       "series": [
         {
           "date": "2026-09-08",
-          "volume": 689
+          "volume": 671
         }
       ]
     },
     {
-      "topic": "Gran Hermano Sol",
+      "topic": "Gran Hermano Sol 9009",
       "series": [
         {
           "date": "2026-09-08",
-          "volume": 739
+          "volume": 820
         }
       ]
     },
     {
-      "topic": "Milei carga contra Sánchez",
+      "topic": "Régimen Penal Juvenil",
       "series": [
         {
           "date": "2026-09-08",
-          "volume": 132
+          "volume": 456
         }
       ]
     }

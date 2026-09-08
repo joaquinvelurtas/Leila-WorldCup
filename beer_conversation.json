@@ -1,3 +1,19 @@
 {
-  "temas": []
+  "temas": [
+    {
+      "marca": "Michelob Ultra",
+      "titulo": "Brindis de despedida a Messi",
+      "resumen": "La marca FIFA saludó el retiro de Leo y recirculó el spot de stats. El post oficial suma 5.867 likes; el corte del video supera 4,5M views en cuentas fan."
+    },
+    {
+      "marca": "Budweiser",
+      "titulo": "GOAT debate settled",
+      "resumen": "El edit mundialista de Budweiser volvió a circular como si fuera un mensaje de Messi. En X se discute la autoría de la marca, no una activación local nueva."
+    },
+    {
+      "marca": "Quilmes",
+      "titulo": "Quilmes en el festejo de Colapinto",
+      "resumen": "TT Festejos por la foto del manager de Colapinto en Monza, con vino y Quilmes. Aparición orgánica de producto. En paralelo, el club Quilmes tapa a la cerveza."
+    }
+  ]
 }
