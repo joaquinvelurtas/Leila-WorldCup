@@ -1084,7 +1084,7 @@ function renderThirdSlide(data){
 
   const r=data.market_radar||{};
   const row=(label,icon,arr)=>`<div class="radar-row"><div class="radar-label"><img class="radar-icon" src="${icon}" alt="" onerror="this.style.display='none'"><span class="radar-label-text">${label}</span></div>${(arr||[]).slice(0,2).map(x=>`<div class="radar-item"><strong>${esc(x.entity)} – ${esc(x.headline)}</strong><p>${esc(x.summary)}</p></div>`).join("")}</div>`;
-  document.getElementById("market-panel").innerHTML=`<div class="insight-title">2. Territorios y posicionamientos</div><div class="market-body">${row("MARCA","radar_marca.svg",r.brand)}${row("CATEGORÍA","radar_categoria.svg",r.category)}${row("COMPETENCIA","radar_competencia.svg",r.competition)}${r.takeaway?`<div class="takeaway">${esc(r.takeaway)}</div>`:""}</div>`;
+  document.getElementById("market-panel").innerHTML=`<div class="insight-title">2. Territorios y posicionamientos</div><div class="market-body">${row("MARCA","radar_marca.png",r.brand)}${row("CATEGORÍA","radar_categoria.png",r.category)}${row("COMPETENCIA","radar_competencia.png",r.competition)}${r.takeaway?`<div class="takeaway">${esc(r.takeaway)}</div>`:""}</div>`;
 
   document.getElementById("cultural-panel").innerHTML=`<div class="insight-title">3. Radar Cultural</div><div class="cultural-grid">${(data.cultural_radar||[]).map(x=>`<div class="culture-card"><strong>${esc(x.title)}</strong><p>${esc(x.summary)}</p><div class="strength"><span class="strength-label">Fuerza</span><span class="strength-dots">${"●".repeat(x.strength)}${"○".repeat(5-x.strength)}</span></div></div>`).join("")}</div>`;
 
