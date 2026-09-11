@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "methodology_version": "sauron_insights_v2",
+  "topics": {
+    "innovacion_wellness_cerveza": {
+      "label": "Innovación wellness en cerveza",
+      "aliases": [
+        "cerveza baja en calorias",
+        "cerveza 0.0",
+        "cerveza sin alcohol",
+        "low alcohol"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 2,
+          "x_engagement": 2,
+          "x_views": 53,
+          "news_articles": 2
+        }
+      ]
+    },
+    "cerveza_saborizada_frutal": {
+      "label": "Cervezas saborizadas frutales",
+      "aliases": [
+        "Brahma pomelo rosado",
+        "Brahma limon",
+        "cerveza frutal"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 1,
+          "x_engagement": 78,
+          "x_views": 4042,
+          "news_articles": 0
+        }
+      ]
+    },
+    "mujeres_cerveceras_visibilidad": {
+      "label": "Visibilidad de mujeres cerveceras",
+      "aliases": [
+        "Dia de la Mujer Cervecera",
+        "inclusion en cerveza artesanal"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 1,
+          "x_engagement": 6,
+          "x_views": 225,
+          "news_articles": 1
+        }
+      ]
+    },
+    "presion_precio_cerveza": {
+      "label": "Presión de precio sobre la cerveza",
+      "aliases": [
+        "cerveza cara",
+        "abandono por precio",
+        "caida del consumo cervecero"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 2,
+          "x_engagement": 2,
+          "x_views": 256,
+          "news_articles": 2
+        }
+      ]
+    },
+    "cerveza_ritual_social": {
+      "label": "Cerveza como ritual social",
+      "aliases": [
+        "birra con amigos",
+        "birra en bar barrial",
+        "cumpleanos cumbia y birra",
+        "bodegones de cerveza"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 4,
+          "x_engagement": 2751,
+          "x_views": 30486,
+          "news_articles": 4
+        }
+      ]
+    },
+    "cerveza_y_futbol": {
+      "label": "Cerveza, fútbol y pertenencia",
+      "aliases": [
+        "Quilmes y Messi",
+        "birra en la tribuna",
+        "sponsor de River"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 6,
+          "x_engagement": 1725,
+          "x_views": 19206,
+          "news_articles": 1
+        }
+      ]
+    },
+    "liso_santafesino_patrimonio": {
+      "label": "Liso santafesino como patrimonio",
+      "aliases": [
+        "chopp santafesino",
+        "liso sin pasteurizar",
+        "vaso de 250 cc"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 2,
+          "x_engagement": 6,
+          "x_views": 173,
+          "news_articles": 0
+        }
+      ]
+    },
+    "premium_supermercado": {
+      "label": "Cuestionamiento al premium de supermercado",
+      "aliases": [
+        "Stella premium de supermercado",
+        "marca sin autenticidad",
+        "Corona sin personalidad"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 3,
+          "x_engagement": 1643,
+          "x_views": 3413324,
+          "news_articles": 0
+        }
+      ]
+    },
+    "fernet_identidad_argentina": {
+      "label": "Fernet con Coca como código identitario",
+      "aliases": [
+        "fernet y asado",
+        "fernet en la previa",
+        "competencia de la birra"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 2,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
+        }
+      ]
+    }
+  },
+  "pillars": {
+    "Wellness": {
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 14,
+          "x_engagement": 64,
+          "x_views": 3020,
+          "news_articles": 2
+        }
+      ]
+    },
+    "Socializing": {
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 12,
+          "x_engagement": 4239,
+          "x_views": 380227,
+          "news_articles": 2
+        }
+      ]
+    },
+    "Affordability": {
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 6,
+          "x_engagement": 3,
+          "x_views": 480,
+          "news_articles": 2
+        }
+      ]
+    },
+    "Image": {
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 8,
+          "x_engagement": 1740,
+          "x_views": 3427711,
+          "news_articles": 1
+        }
+      ]
+    },
+    "Taste": {
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 8,
+          "x_engagement": 94,
+          "x_views": 8313,
+          "news_articles": 2
+        }
+      ]
+    },
+    "Sports": {
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 8,
+          "x_engagement": 4056,
+          "x_views": 34759,
+          "news_articles": 2
+        }
+      ]
+    },
+    "Events": {
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-28",
+          "to_date": "2026-09-11",
+          "x_volume": 25,
+          "x_engagement": 633,
+          "x_views": 116009,
+          "news_articles": 2
+        }
+      ]
+    }
+  }
+}
