@@ -363,39 +363,78 @@
   }
 
 
-  /* ── Slide 3 v2: Insights grid ─────────────────────────────── */
+  /* ── Slide 3 v3: Insights grid ─────────────────────────────── */
   #slide-3 { padding: 16px 20px; display: block; }
   .insights-grid { display:grid; grid-template-columns:1fr 1fr; grid-template-rows:1.18fr .82fr; gap:10px; width:100%; height:100%; }
   .insight-panel { background:var(--col-bg); border:1px solid var(--border); border-radius:var(--radius); padding:14px 16px; min-height:0; overflow:hidden; }
   .insight-title { font-family:'Outfit',sans-serif; font-weight:800; font-size:16px; margin-bottom:12px; }
-  .trend-cols { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; height:calc(100% - 34px); }
-  .trend-col { min-width:0; border-right:1px solid var(--border); padding-right:8px; }
+
+  /* Estado de señales */
+  .trend-cols { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; height:calc(100% - 34px); }
+  .trend-col { min-width:0; border-right:1px solid var(--border); padding-right:8px; overflow:hidden; }
   .trend-col:last-child { border-right:0; padding-right:0; }
   .trend-head { font-family:'Outfit',sans-serif; font-size:12px; font-weight:800; margin-bottom:8px; }
-  .mini-card { background:var(--card-bg); border:1px solid var(--border); border-radius:9px; padding:9px 10px; margin-bottom:7px; }
-  .mini-card h4 { font-family:'Outfit',sans-serif; font-size:11.5px; margin-bottom:4px; }
-  .mini-card p { font-size:9.5px; line-height:1.35; color:var(--text-secondary); }
-  .mini-badge { display:inline-block; margin-top:5px; font-size:8px; font-weight:800; padding:2px 6px; border-radius:4px; background:#173727; color:#50d994; }
-  .mini-badge.persist { background:#3b3111; color:#e7bd42; }
-  .mini-badge.down { background:#3a1b22; color:#ff6565; }
+  .trend-head.emerging { color:#50d994; }
+  .trend-head.persistent { color:#e7bd42; }
+  .trend-head.declining { color:#ff6565; }
+  .mini-card { background:var(--card-bg); border:1px solid var(--border); border-radius:9px; padding:8px 9px; margin-bottom:6px; overflow:hidden; }
+  .mini-card h4 {
+    font-family:'Outfit',sans-serif; font-size:11.5px; line-height:1.25; margin-bottom:4px;
+    display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; overflow:hidden;
+  }
+  .mini-card p {
+    font-size:9.5px; line-height:1.35; color:var(--text-secondary);
+    display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:3; overflow:hidden;
+  }
+
+  /* Territorios y posicionamientos */
   .radar-row { display:grid; grid-template-columns:86px 1fr 1fr; gap:8px; align-items:stretch; margin-bottom:8px; }
   .radar-label { border-radius:8px; display:flex; align-items:center; justify-content:center; font-family:'Outfit',sans-serif; font-weight:800; font-size:10px; background:#172442; }
-  .radar-item { background:var(--card-bg); border:1px solid var(--border); border-radius:9px; padding:9px 10px; }
-  .radar-item strong { font-family:'Outfit',sans-serif; font-size:11px; }
-  .radar-item p { font-size:9.5px; color:var(--text-secondary); margin-top:3px; line-height:1.35; }
-  .takeaway { border:1px solid var(--border); border-radius:8px; padding:7px 10px; text-align:center; font-size:10px; color:var(--text-secondary); }
+  .radar-item { background:var(--card-bg); border:1px solid var(--border); border-radius:9px; padding:9px 10px; overflow:hidden; }
+  .radar-item strong {
+    font-family:'Outfit',sans-serif; font-size:11px; line-height:1.3;
+    display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; overflow:hidden;
+  }
+  .radar-item p {
+    font-size:9.8px; color:var(--text-secondary); margin-top:4px; line-height:1.35;
+    display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:3; overflow:hidden;
+  }
+  .takeaway {
+    border:1px solid var(--border); border-radius:8px; padding:7px 10px; text-align:center;
+    font-size:10px; line-height:1.35; color:var(--text-secondary);
+    display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; overflow:hidden;
+  }
+
+  /* Radar cultural */
   .cultural-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; }
-  .culture-card { background:var(--card-bg); border:1px solid var(--border); border-radius:9px; padding:9px 10px; min-height:86px; }
-  .culture-card strong { font-family:'Outfit',sans-serif; font-size:11px; }
-  .culture-card p { color:var(--text-secondary); font-size:9.5px; line-height:1.35; margin:4px 0 7px; }
-  .strength { font-size:12px; letter-spacing:2px; }
+  .culture-card { background:var(--card-bg); border:1px solid var(--border); border-radius:9px; padding:9px 10px; min-height:86px; overflow:hidden; }
+  .culture-card strong {
+    font-family:'Outfit',sans-serif; font-size:11px; line-height:1.3;
+    display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; overflow:hidden;
+  }
+  .culture-card p {
+    color:var(--text-secondary); font-size:9.8px; line-height:1.35; margin:4px 0 7px;
+    display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:3; overflow:hidden;
+  }
+  .strength { display:flex; align-items:center; gap:6px; min-height:15px; }
+  .strength-label { font-size:8.5px; font-weight:700; color:var(--text-muted); letter-spacing:0; }
+  .strength-dots { font-size:11px; letter-spacing:2px; line-height:1; }
+
+  /* 15 días vs. histórico */
+  #comparison-panel { display:flex; flex-direction:column; }
+  .compare-title-row { display:flex; align-items:baseline; gap:10px; margin-bottom:10px; min-height:20px; }
+  .compare-title-row .insight-title { margin-bottom:0; }
+  .compare-note { font-size:9px; color:var(--text-muted); font-weight:600; }
   .compare-head,.compare-row { display:grid; grid-template-columns:1.15fr 1fr 1fr .55fr; gap:8px; align-items:center; }
-  .compare-head { color:var(--text-secondary); font-size:9px; padding:0 5px 6px; border-bottom:1px solid var(--border); }
-  .compare-row { min-height:31px; border-bottom:1px solid var(--border); font-size:10px; padding:0 5px; }
+  .compare-head { color:var(--text-secondary); font-size:9px; padding:0 5px 6px; border-bottom:1px solid var(--border); flex:0 0 auto; }
+  .compare-body { flex:1; min-height:0; display:grid; grid-template-rows:repeat(7,minmax(0,1fr)); }
+  .compare-row { min-height:0; border-bottom:1px solid var(--border); font-size:10px; padding:0 5px; }
+  .compare-row:last-child { border-bottom:0; }
   .bar-wrap { display:flex; align-items:center; gap:6px; }
   .bar { height:10px; background:#4b7ed6; min-width:2px; max-width:100%; }
   .bar.hist { background:#777d8d; }
-  .delta-pos { color:#50d994; font-weight:800; } .delta-neg { color:#ff6565; font-weight:800; }
+  .delta-pos { color:#50d994; font-weight:800; }
+  .delta-neg { color:#ff6565; font-weight:800; }
 
 </style>
 </head>
@@ -1028,17 +1067,29 @@ window.addEventListener("resize", () => {
 
 
 
-// ── Slide 3 v2 ────────────────────────────────────────────────
+// ── Slide 3 v3 ────────────────────────────────────────────────
 function esc(v){ return String(v??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m])); }
-function trendCards(items, kind){ return (items||[]).map(x=>`<div class="mini-card"><h4>${esc(x.title)}</h4><p>${esc(x.summary)}</p><span class="mini-badge ${kind}">${kind==="persist"?"ESTABLE":kind==="down"?"▼ EN BAJA":"▲ NUEVO"}</span></div>`).join(""); }
+function trendCards(items){
+  return (items||[]).map(x=>`<div class="mini-card"><h4>${esc(x.title)}</h4><p>${esc(x.summary)}</p></div>`).join("");
+}
 function renderThirdSlide(data){
   const t=data.trend_status||{};
-  document.getElementById("trend-panel").innerHTML=`<div class="insight-title">1. Emergentes / Persistentes / En descenso</div><div class="trend-cols"><div class="trend-col"><div class="trend-head">↗ EMERGENTES</div>${trendCards(t.emerging,"")}</div><div class="trend-col"><div class="trend-head">∞ PERSISTENTES</div>${trendCards(t.persistent,"persist")}</div><div class="trend-col"><div class="trend-head">↘ EN DESCENSO</div>${trendCards(t.declining,"down")}</div></div>`;
-  const r=data.market_radar||{}; const row=(label,arr)=>`<div class="radar-row"><div class="radar-label">${label}</div>${(arr||[]).slice(0,2).map(x=>`<div class="radar-item"><strong>${esc(x.entity)} – ${esc(x.headline)}</strong><p>${esc(x.summary)}</p></div>`).join("")}</div>`;
-  document.getElementById("market-panel").innerHTML=`<div class="insight-title">2. Radar Marca / Categoría / Competencia</div>${row("★ MARCA",r.brand)}${row("▣ CATEGORÍA",r.category)}${row("♟ COMPETENCIA",r.competition)}${r.takeaway?`<div class="takeaway">${esc(r.takeaway)}</div>`:""}`;
-  document.getElementById("cultural-panel").innerHTML=`<div class="insight-title">3. Radar Cultural</div><div class="cultural-grid">${(data.cultural_radar||[]).map(x=>`<div class="culture-card"><strong>${esc(x.title)}</strong><p>${esc(x.summary)}</p><div class="strength">${"●".repeat(x.strength)}${"○".repeat(5-x.strength)}</div></div>`).join("")}</div>`;
-  const rows=(data.pillar_comparison||[]); const max=Math.max(1,...rows.flatMap(x=>[x.current_value||0,x.historical_value||0]));
-  document.getElementById("comparison-panel").innerHTML=`<div class="insight-title">4. 15 días vs. histórico</div><div class="compare-head"><span>PILAR</span><span>ÚLTIMOS 15 DÍAS</span><span>HISTÓRICO</span><span>VAR.</span></div>${rows.map(x=>{const d=x.delta??((x.historical_value==null)?null:x.current_value-x.historical_value);return `<div class="compare-row"><strong>${esc(x.pillar)}</strong><div class="bar-wrap"><div class="bar" style="width:${Math.max(3,(x.current_value/max)*100)}%"></div><span>${x.current_value}</span></div><div class="bar-wrap"><div class="bar hist" style="width:${Math.max(3,((x.historical_value||0)/max)*100)}%"></div><span>${x.historical_value??"—"}</span></div><span class="${d==null?"":d>=0?"delta-pos":"delta-neg"}">${d==null?"—":(d>0?"+":"")+d}</span></div>`}).join("")}`;
+  document.getElementById("trend-panel").innerHTML=`<div class="insight-title">1. Estado de señales</div><div class="trend-cols"><div class="trend-col"><div class="trend-head emerging">↗ EMERGENTES</div>${trendCards(t.emerging)}</div><div class="trend-col"><div class="trend-head persistent">≈ ESTABLES</div>${trendCards(t.persistent)}</div><div class="trend-col"><div class="trend-head declining">↘ EN DESCENSO</div>${trendCards(t.declining)}</div></div>`;
+
+  const r=data.market_radar||{};
+  const row=(label,arr)=>`<div class="radar-row"><div class="radar-label">${label}</div>${(arr||[]).slice(0,2).map(x=>`<div class="radar-item"><strong>${esc(x.entity)} – ${esc(x.headline)}</strong><p>${esc(x.summary)}</p></div>`).join("")}</div>`;
+  document.getElementById("market-panel").innerHTML=`<div class="insight-title">2. Territorios y posicionamientos</div>${row("★ MARCA",r.brand)}${row("▣ CATEGORÍA",r.category)}${row("♟ COMPETENCIA",r.competition)}${r.takeaway?`<div class="takeaway">${esc(r.takeaway)}</div>`:""}`;
+
+  document.getElementById("cultural-panel").innerHTML=`<div class="insight-title">3. Radar Cultural</div><div class="cultural-grid">${(data.cultural_radar||[]).map(x=>`<div class="culture-card"><strong>${esc(x.title)}</strong><p>${esc(x.summary)}</p><div class="strength"><span class="strength-label">Fuerza</span><span class="strength-dots">${"●".repeat(x.strength)}${"○".repeat(5-x.strength)}</span></div></div>`).join("")}</div>`;
+
+  const rows=(data.pillar_comparison||[]);
+  const max=Math.max(1,...rows.flatMap(x=>[x.current_value||0,x.historical_value||0]));
+  const noHistory=rows.length>0 && rows.every(x=>x.historical_value==null);
+  const comparisonRows=rows.map(x=>{
+    const d=x.delta??((x.historical_value==null)?null:x.current_value-x.historical_value);
+    return `<div class="compare-row"><strong>${esc(x.pillar)}</strong><div class="bar-wrap"><div class="bar" style="width:${Math.max(3,(x.current_value/max)*100)}%"></div><span>${x.current_value}</span></div><div class="bar-wrap"><div class="bar hist" style="width:${Math.max(3,((x.historical_value||0)/max)*100)}%"></div><span>${x.historical_value??"—"}</span></div><span class="${d==null?"":d>=0?"delta-pos":"delta-neg"}">${d==null?"—":(d>0?"+":"")+d}</span></div>`;
+  }).join("");
+  document.getElementById("comparison-panel").innerHTML=`<div class="compare-title-row"><div class="insight-title">4. 15 días vs. histórico</div>${noHistory?`<div class="compare-note">Histórico en construcción</div>`:""}</div><div class="compare-head"><span>PILAR</span><span>ÚLTIMOS 15 DÍAS</span><span>HISTÓRICO</span><span>VAR.</span></div><div class="compare-body">${comparisonRows}</div>`;
 }
 async function initThirdSlide(){
   try { const r=await fetch(noCache(THIRD_SLIDE_JSON)); if(!r.ok) throw new Error("HTTP "+r.status); renderThirdSlide(await r.json()); }
