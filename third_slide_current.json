@@ -11,8 +11,8 @@
     "emerging": [
       {
         "topic_id": "innovacion_wellness_cerveza",
-        "title": "La cerveza entra en clave wellness",
-        "summary": "El lanzamiento local de Stella Artois baja en calorías, la conversación sobre 0.0 y el interés por baja graduación convierten bienestar y moderación en territorio activo de innovación.",
+        "title": "Cerveza en clave wellness",
+        "summary": "Bajas calorías, 0.0 y menor graduación activan un nuevo territorio de bienestar.",
         "current_value": 4,
         "historical_value": null,
         "source_support": [
@@ -22,8 +22,8 @@
       },
       {
         "topic_id": "cerveza_saborizada_frutal",
-        "title": "Brahma abre el juego a sabores frutales",
-        "summary": "Pomelo rosado y limón aparecen como puerta de entrada para consumidores que no conectan con el sabor tradicional de la cerveza.",
+        "title": "Brahma explora sabores frutales",
+        "summary": "Pomelo rosado y limón acercan la cerveza a quienes rechazan su sabor tradicional.",
         "current_value": 1,
         "historical_value": null,
         "source_support": [
@@ -32,8 +32,8 @@
       },
       {
         "topic_id": "mujeres_cerveceras_visibilidad",
-        "title": "Las mujeres cerveceras ganan agenda propia",
-        "summary": "El primer Día de la Mujer Cervecera articula industria, comunidad, historia e inclusión con una cocción colaborativa argentina.",
+        "title": "Mujeres cerveceras ganan visibilidad",
+        "summary": "Una cocción colaborativa une industria, historia e inclusión en Argentina.",
         "current_value": 2,
         "historical_value": null,
         "source_support": [
@@ -45,8 +45,8 @@
     "persistent": [
       {
         "topic_id": "presion_precio_cerveza",
-        "title": "El precio limita y desplaza consumo",
-        "summary": "Consumidores declaran abandonar la cerveza por su precio, mientras el IPC de bebidas alcohólicas supera al general y las promociones sostienen las salidas.",
+        "title": "El precio desplaza consumo",
+        "summary": "El costo impulsa abandono y sustitución, mientras las promociones sostienen las salidas.",
         "current_value": 4,
         "historical_value": null,
         "source_support": [
@@ -56,8 +56,8 @@
       },
       {
         "topic_id": "cerveza_ritual_social",
-        "title": "La birra sigue ordenando el encuentro",
-        "summary": "El bar barrial, la salida con amigos, el asado y la fiesta en casa mantienen a la cerveza como código cotidiano de pertenencia y sociabilidad.",
+        "title": "La birra ordena el encuentro",
+        "summary": "Bares, asados y fiestas sostienen su rol como código de pertenencia.",
         "current_value": 8,
         "historical_value": null,
         "source_support": [
@@ -67,8 +67,8 @@
       },
       {
         "topic_id": "cerveza_y_futbol",
-        "title": "Fútbol y cerveza sostienen una alianza cultural",
-        "summary": "Quilmes capitaliza el legado de Messi y los homenajes en cancha, mientras los hinchas siguen reclamando la birra como parte de la experiencia de tribuna.",
+        "title": "Fútbol y cerveza: alianza cultural",
+        "summary": "Quilmes activa el legado de Messi y la birra sigue ligada a la tribuna.",
         "current_value": 7,
         "historical_value": null,
         "source_support": [
@@ -83,28 +83,28 @@
     "brand": [
       {
         "entity": "Stella Artois",
-        "headline": "Bienestar con credenciales de marca",
-        "summary": "La primera Stella Artois baja en calorías lanzada en Argentina abre una promesa funcional sin abandonar el código premium.",
+        "headline": "Bienestar con código premium",
+        "summary": "La opción baja en calorías suma una promesa funcional sin perder posicionamiento premium.",
         "asset_key": null
       },
       {
         "entity": "Quilmes",
-        "headline": "De Messi a Quilmes Rock",
-        "summary": "La marca conecta fútbol, homenajes y música en vivo; su activo más potente sigue siendo convertir grandes pasiones argentinas en ocasión compartida.",
+        "headline": "Pasiones convertidas en ocasión",
+        "summary": "Fútbol y música refuerzan su rol en grandes ocasiones compartidas.",
         "asset_key": null
       }
     ],
     "category": [
       {
         "entity": "Liso santafesino",
-        "headline": "El formato local se vuelve patrimonio",
-        "summary": "El liso de 250 cc, tirado y sin pasteurizar, transforma un modo de servicio regional en símbolo cultural y gastronómico.",
+        "headline": "Un formato que se vuelve patrimonio",
+        "summary": "El vaso de 250 cc transforma un servicio regional en símbolo cultural y gastronómico.",
         "asset_key": null
       },
       {
         "entity": "Moderación",
-        "headline": "Menor graduación y ocasiones más selectivas",
-        "summary": "La 0.0, el low alcohol y el avance del consumo en el hogar señalan una categoría que necesita adaptarse a bienestar y menor frecuencia de salida.",
+        "headline": "Menor graduación, nuevas ocasiones",
+        "summary": "La 0.0 y el low alcohol responden a bienestar y menor frecuencia de salida.",
         "asset_key": null
       }
     ],
@@ -112,23 +112,23 @@
       {
         "entity": "Fernet con Coca",
         "headline": "El rival identitario de la ronda",
-        "summary": "Fernet, Coca y asado forman un combo argentino tan reconocible como la birra y compiten por las mismas previas y reuniones.",
+        "summary": "Fernet, Coca y asado compiten con la birra por previas y reuniones.",
         "asset_key": null
       },
       {
         "entity": "Vino y Malbec",
-        "headline": "La mesa formal conserva código de vino",
-        "summary": "El vino sostiene origen, mesa e identidad, y además incorpora el lenguaje de frescura y menor graduación que también busca la cerveza.",
+        "headline": "La mesa formal mantiene el vino",
+        "summary": "Origen y frescura sostienen su lugar en la mesa y amplían su atractivo.",
         "asset_key": null
       }
     ],
-    "takeaway": "La oportunidad es unir fútbol, música, liso y asado con formatos que alivien barreras de precio y bienestar sin resignar sabor ni autenticidad."
+    "takeaway": "Unir fútbol, música, liso y asado con formatos accesibles y de bienestar puede ampliar ocasiones sin perder autenticidad."
   },
   "cultural_radar": [
     {
       "topic_id": "cerveza_ritual_social",
-      "title": "Autenticidad del bar barrial",
-      "summary": "La birra en un bar de barrio funciona como rechazo a lo tibio y como señal de vínculos auténticos.",
+      "title": "Bar barrial auténtico",
+      "summary": "La birra en el bar de barrio simboliza vínculos genuinos.",
       "strength": 5,
       "source_support": [
         "x",
@@ -138,7 +138,7 @@
     {
       "topic_id": "premium_supermercado",
       "title": "Premium bajo sospecha",
-      "summary": "Corona y Stella son cuestionadas cuando el precio o la fama no se traducen en personalidad percibida.",
+      "summary": "El precio y la fama no siempre se traducen en personalidad percibida.",
       "strength": 5,
       "source_support": [
         "x"
@@ -147,7 +147,7 @@
     {
       "topic_id": "cerveza_y_futbol",
       "title": "Quilmes, Messi y la cancha",
-      "summary": "El homenaje futbolero concentra pertenencia, repercusión y una asociación directa con la marca.",
+      "summary": "El homenaje futbolero concentra pertenencia y repercusión para la marca.",
       "strength": 4,
       "source_support": [
         "x",
@@ -157,7 +157,7 @@
     {
       "topic_id": "presion_precio_cerveza",
       "title": "El bolsillo redefine la elección",
-      "summary": "El precio empuja abandono, sustitución y búsqueda de promociones en compra y salidas.",
+      "summary": "El precio impulsa abandono, sustitución y búsqueda de promociones.",
       "strength": 4,
       "source_support": [
         "x",
@@ -166,8 +166,8 @@
     },
     {
       "topic_id": "liso_santafesino_patrimonio",
-      "title": "Patrimonio servido en 250 cc",
-      "summary": "El liso convierte un ritual santafesino de cerveza tirada en identidad institucionalizada.",
+      "title": "Patrimonio en 250 cc",
+      "summary": "El liso convierte un ritual santafesino en identidad cultural.",
       "strength": 3,
       "source_support": [
         "x"
@@ -175,8 +175,8 @@
     },
     {
       "topic_id": "mujeres_cerveceras_visibilidad",
-      "title": "La cerveza amplía sus protagonistas",
-      "summary": "La agenda cervecera incorpora historia, producción y liderazgo femenino como parte visible de la categoría.",
+      "title": "Nuevas protagonistas cerveceras",
+      "summary": "Producción y liderazgo femenino ganan visibilidad en la categoría.",
       "strength": 3,
       "source_support": [
         "x",
