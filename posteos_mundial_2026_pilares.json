@@ -1,94 +1,100 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación en portales combina innovación cervecera, bienestar, cultura e identidad, con presión económica y nuevas ocasiones de consumo en gastronomía, deporte y eventos."
+      "summary": "Los portales muestran una categoría atravesada por moderación, presión de precios y nuevas ocasiones: experiencias gastronómicas híbridas, deporte social y eventos locales amplían los momentos de consumo, mientras la cerveza gana visibilidad desde la técnica, la inclusión y el bienestar."
     }
   },
   "pilares": {
     "AFFORDABILITY": [
       {
-        "medio": "infobae",
-        "resumen": "La inflación de agosto fue de 1,7% en CABA; alimentos y bebidas no alcohólicas subieron 1,8%, mientras restaurantes y hoteles bajaron 0,1%, señales relevantes para el gasto fuera del hogar.",
-        "titulo_corto": "Inflación porteña y consumo",
-        "url": "https://www.infobae.com/economia/2026/09/08/la-inflacion-en-la-ciudad-de-buenos-aires-fue-de-17-en-agosto-y-acumulo-un-333-en-los-ultimos-doce-meses"
+        "medio": "TN",
+        "resumen": "Con una inflación mensual de 1,7%, bebidas alcohólicas y tabaco subieron 2,1% y restaurantes y hoteles 1,8%, manteniendo la sensibilidad al precio en la categoría y el consumo fuera del hogar.",
+        "titulo_corto": "Bebidas y salidas por encima del IPC",
+        "url": "https://tn.com.ar/economia/2026/09/10/la-inflacion-de-agosto-fue-del-17-y-acumula-un-213-en-lo-que-va-del-ano"
       },
       {
-        "medio": "tn",
-        "resumen": "Supermercados nacionales ofrecen a jubilados y pensionados descuentos de hasta 20% y reintegros con distintos topes, reforzando la búsqueda de promociones frente a presupuestos ajustados.",
-        "titulo_corto": "Descuentos para sostener las compras",
-        "url": "https://tn.com.ar/economia/jubilaciones/2026/09/07/descuentos-para-jubilados-y-pensionados-de-hasta-20-y-35000-de-reintegro-en-supermercados-en-septiembre-de-2026"
+        "medio": "La Nación",
+        "resumen": "La Noche de la Pizza y la Empanada activa 50% de descuento y promociones 3x2 para impulsar ventas y nocturnidad, mostrando el peso de las ofertas en las ocasiones gastronómicas.",
+        "titulo_corto": "Descuentos sostienen la salida",
+        "url": "https://www.lanacion.com.ar/que-sale/la-noche-de-la-pizza-y-la-empanada-2026-cuando-es-y-en-que-restaurantes-habra-50-de-descuento-y-nid10092026"
       }
     ],
     "EVENTS": [
       {
-        "medio": "lanacion",
-        "resumen": "La Fiesta del Asado Criollo reunirá competencia de asadores, shows y gastronomía en Moquehuá, con cantinas y un sector que ofrecerá cerveza tirada.",
-        "titulo_corto": "Fiesta del Asado con cerveza tirada",
+        "medio": "La Nación",
+        "resumen": "La Fiesta del Asado Criollo de Moquehuá combina gastronomía, música y tradición con entrada gratuita, y proyecta más de 30.000 visitantes durante el fin de semana.",
+        "titulo_corto": "El asado convoca a 30.000 personas",
         "url": "https://www.lanacion.com.ar/que-sale/concurso-de-asadores-en-la-fiesta-del-asado-criollo-2026-en-moquehua-cuando-es-programacion-y-que-nid07092026"
       },
       {
-        "medio": "infobae",
-        "resumen": "El DJ sorprendió a miles de asistentes en el Movistar Arena al remixar un jingle argentino de los años 80 y 90, mostrando el peso de la nostalgia en eventos masivos.",
-        "titulo_corto": "Fatboy Slim conecta con la cultura local",
-        "url": "https://www.infobae.com/teleshow/2026/09/07/fatboy-slim-sorprendio-en-buenos-aires-al-remixar-el-clasico-jingle-de-el-condor-de-norbert-degoas-en-pleno-show"
+        "medio": "Olé",
+        "resumen": "La apertura gratuita de los Juegos Suramericanos en Rosario reúne artistas populares, tecnología e identidad santafesina ante una competencia con más de 4.000 atletas.",
+        "titulo_corto": "Deporte y música abren los Odesur",
+        "url": "https://www.ole.com.ar/polideportivo/juegos-suramericanos/artistas-ceremonia-apertura-juegos-suramericanos-sante-fe-2026-odesur_0_DvzB6s6MB7.html"
       }
     ],
-    "TASTE": [
+    "FLAVOR": [
       {
-        "medio": "infobae",
-        "resumen": "Una técnica de vertido gradual busca controlar la carbonatación y formar espuma, mostrando cómo el servicio puede mejorar la presentación y experiencia sensorial de la cerveza.",
-        "titulo_corto": "Cómo servir una botella como tirada",
+        "medio": "Infobae",
+        "resumen": "Un método de vertido gradual desde botella busca recrear la espuma y presentación de la cerveza tirada, reforzando el valor sensorial y ritual del servicio.",
+        "titulo_corto": "La técnica transforma el servicio",
         "url": "https://www.infobae.com/espana/2026/09/07/carlos-cervantes-experto-en-cerveza-ensena-a-como-tirar-una-de-botella-como-si-fuera-de-barril-solo-puede-tocar-la-boca-de-la-botella"
+      },
+      {
+        "medio": "La Nación",
+        "resumen": "La escena gastronómica de Villa Crespo combina recetas de inmigrantes con fermentos, ahumados, fuego y nuevas barras, señal de un paladar porteño más explorador.",
+        "titulo_corto": "Villa Crespo mezcla tradición e innovación",
+        "url": "https://www.lanacion.com.ar/revista-lugares/mesas-con-caracter-en-villa-crespo-nid10092026"
       }
     ],
     "IMAGE": [
       {
-        "medio": "tn",
-        "resumen": "El primer Día de la Mujer Cervecera en Argentina visibiliza su aporte histórico y actual, cuestiona códigos masculinos y promueve una industria más diversa.",
-        "titulo_corto": "Mujeres redefinen la cultura cervecera",
+        "medio": "TN",
+        "resumen": "El primer Día de la Mujer Cervecera en Argentina recupera el aporte histórico femenino y lo conecta con producción, catas, educación y una cocción colaborativa de estilo Grisette.",
+        "titulo_corto": "Mujeres cerveceras ganan visibilidad",
         "url": "https://tn.com.ar/cocina/gastronomia/2026/09/05/se-celebra-por-primera-vez-el-dia-de-la-mujer-cervecera-como-es-la-cerveza-especial-que-crearon-para-la-fecha"
       }
     ],
-    "SOCIALIZING": [
+    "SOCIALIZATION": [
       {
-        "medio": "lanacion",
-        "resumen": "El crecimiento de cafeterías, street food, bodegones, parrillas y terrazas consolida a Villa Crespo como un polo de salidas, con cerveza artesanal y opciones accesibles.",
-        "titulo_corto": "Villa Crespo amplía la ocasión gastronómica",
-        "url": "https://www.lanacion.com.ar/sabado/el-barrio-de-facil-acceso-y-alta-concentracion-de-comercios-que-renueva-su-perfil-gourmet-nid08092026"
+        "medio": "La Nación",
+        "resumen": "Un nuevo espacio porteño integra restaurante, coctelería y DJs para prolongar la ocasión desde la cena hasta el baile, reflejando salidas híbridas y más experienciales.",
+        "titulo_corto": "Cena, barra y baile en Recoleta",
+        "url": "https://www.lanacion.com.ar/que-sale/iggy-james-cocinero-neoyorquino-que-abrio-un-bar-de-verano-y-un-restaurante-en-buenos-aires-la-nid08092026"
       },
       {
-        "medio": "lanacion",
-        "resumen": "Cerro Castor integra esquí, actividades y ocho espacios gastronómicos con comida y bebida, ampliando las ocasiones de encuentro y consumo durante la temporada de nieve.",
-        "titulo_corto": "Montaña, gastronomía y encuentros",
-        "url": "https://www.lanacion.com.ar/lifestyle/cerro-castor-como-es-la-experiencia-de-invierno-en-el-fin-del-mundo-nid07092026"
+        "medio": "TN",
+        "resumen": "Cortínez se consolida como escapada cercana a CABA, con gastronomía familiar y grupos que convierten el almuerzo de asado en punto de encuentro fuera de la ciudad.",
+        "titulo_corto": "Escapadas de asado y encuentro",
+        "url": "https://tn.com.ar/turismo/2026/09/10/tiene-1500-habitantes-fue-fundado-en-1888-y-esta-a-1-hora-de-buenos-aires-el-pueblo-ideal-para-comer-asado-y-pasar-el-dia"
       }
     ],
     "SPORTS": [
       {
-        "medio": "infobae",
-        "resumen": "La marca acompañó los 21K de Buenos Aires y convirtió la llegada en una celebración con cerveza, música, amigos y latas personalizadas.",
-        "titulo_corto": "Michelob ULTRA activa el After Run",
+        "medio": "Infobae",
+        "resumen": "La marca acompañó los 21K de Buenos Aires con activaciones, cerveza y un after run que convirtió la llegada en una celebración social vinculada con el estilo de vida activo.",
+        "titulo_corto": "Michelob ULTRA instala el after run",
         "url": "https://www.infobae.com/inhouse/2026/08/28/21k-de-buenos-aires-el-recorrido-que-llevo-el-running-del-esfuerzo-a-la-celebracion"
       },
       {
-        "medio": "infobae",
-        "resumen": "Argentina prepara dos o tres amistosos en Buenos Aires y Córdoba tras el Mundial, con una posible despedida de Messi que puede movilizar una gran ocasión colectiva.",
-        "titulo_corto": "La Selección vuelve a jugar en el país",
-        "url": "https://www.infobae.com/deportes/2026/09/08/los-posibles-rivales-de-argentina-en-los-primeros-amistosos-tras-el-mundial-la-postura-de-la-afa-con-el-caso-messi"
+        "medio": "Olé",
+        "resumen": "El recuerdo del último partido oficial de Messi en Argentina reúne estadio lleno, homenajes, cantos y celebración colectiva, consolidando al fútbol como gran ocasión cultural.",
+        "titulo_corto": "La despedida de Messi moviliza rituales",
+        "url": "https://www.ole.com.ar/seleccion/lionel-messi-seleccion-argentina-despedida-venezuela-eliminatorias-mundial-2026_0_I9ljirlhWG.html"
       }
     ],
     "WELLNESS": [
       {
-        "medio": "lanacion",
-        "resumen": "Stella Artois amplió su portafolio argentino con una cerveza de 34 calorías cada 100 ml, libre de gluten y 100% pura malta, orientada a hábitos más equilibrados.",
-        "titulo_corto": "Stella Artois lanza Pure Gold",
-        "url": "https://www.lanacion.com.ar/lifestyle/stella-artois-presento-pure-gold-su-nueva-cerveza-con-menos-calorias-nid08092026"
+        "medio": "Infobae",
+        "resumen": "Especialistas advierten que la relajación inicial del alcohol es transitoria y puede alterar el sueño y el ánimo, fortaleciendo las barreras de bienestar y moderación.",
+        "titulo_corto": "Alcohol, descanso y estado de ánimo",
+        "url": "https://www.infobae.com/salud/ciencia/2026/09/07/los-11-alimentos-y-bebidas-que-pueden-aumentar-el-estres-segun-expertos"
       },
       {
-        "medio": "infobae",
-        "resumen": "Especialistas advierten que el alivio inicial del alcohol es transitorio y que su consumo puede interrumpir el descanso y empeorar la respuesta cotidiana al estrés.",
-        "titulo_corto": "Alcohol, sueño y estrés",
-        "url": "https://www.infobae.com/salud/ciencia/2026/09/07/los-11-alimentos-y-bebidas-que-pueden-aumentar-el-estres-segun-expertos"
+        "medio": "Infobae",
+        "resumen": "La industria europea destina algo más del 6% de su producción a cervezas sin alcohol o de baja graduación, mientras el consumidor sale menos y el hogar gana peso como canal.",
+        "titulo_corto": "Crece el espacio para baja graduación",
+        "url": "https://www.infobae.com/espana/2026/08/31/espana-en-convierte-en-la-segunda-potencia-cervecera-de-europa-produce-5300-millones-de-litros-al-ano-y-solo-la-supera-alemania"
       }
     ]
   }
