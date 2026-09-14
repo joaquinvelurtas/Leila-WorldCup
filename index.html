@@ -372,8 +372,9 @@
   /* Estado de señales: usa toda la altura disponible y admite copy algo más largo. */
   #trend-panel { display:flex; flex-direction:column; }
   .trend-cols { flex:1; min-height:0; display:grid; grid-template-columns:repeat(3,1fr); gap:8px; }
-  .trend-col { min-width:0; min-height:0; border-right:1px solid var(--border); padding-right:8px; overflow:hidden; display:flex; flex-direction:column; gap:6px; }
-  .trend-col:last-child { border-right:0; padding-right:0; }
+  .trend-col { min-width:0; min-height:0; position:relative; border-right:0; padding-right:8px; overflow:visible; display:flex; flex-direction:column; gap:6px; }
+  .trend-col:not(:last-child)::after { content:""; position:absolute; top:0; bottom:0; right:-4px; width:1px; background:var(--border); }
+  .trend-col:last-child { padding-right:0; }
   .trend-head { flex:0 0 auto; font-family:'Outfit',sans-serif; font-size:12px; font-weight:800; margin-bottom:2px; }
   .trend-head.emerging { color:#50d994; }
   .trend-head.persistent { color:#e7bd42; }
@@ -394,6 +395,8 @@
   .radar-row { flex:1 1 0; min-height:0; display:grid; grid-template-columns:86px 1fr 1fr; gap:8px; align-items:stretch; }
   .radar-label { border-radius:8px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:5px; padding:7px 6px; font-family:'Outfit',sans-serif; font-weight:800; font-size:9.5px; background:#172442; text-align:center; }
   .radar-icon { width:28px; height:28px; object-fit:contain; display:block; flex:0 0 28px; }
+  /* Sólo el logo de Marca */
+  .radar-icon[src="radar_marca.png"] { width:56px; height:30px; flex-basis:30px; }
   .radar-label-text { display:block; line-height:1.05; }
   .radar-item { background:var(--card-bg); border:1px solid var(--border); border-radius:9px; padding:9px 10px; overflow:hidden; display:flex; flex-direction:column; justify-content:center; }
   .radar-item strong {
