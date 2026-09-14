@@ -1179,7 +1179,7 @@ window.addEventListener("resize", () => {
 // ── Slide 3 v7 ────────────────────────────────────────────────
 function esc(v){ return String(v??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m])); }
 function trendCards(items){
-  return (items||[]).slice(0,4).map(x=>`<div class="mini-card"><h4>${esc(x.title)}</h4><p>${esc(x.summary)}</p></div>`).join("");
+  return (items||[]).slice(0,3).map(x=>`<div class="mini-card"><h4>${esc(x.title)}</h4><p>${esc(x.summary)}</p></div>`).join("");
 }
 function renderThirdSlide(data){
   const t=data.trend_status||{};
