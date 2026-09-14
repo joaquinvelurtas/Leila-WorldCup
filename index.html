@@ -367,7 +367,7 @@
   #slide-3 { padding:16px 20px; display:block; }
   .insights-grid {
     display:grid;
-    grid-template-columns:1.18fr .82fr;
+    grid-template-columns:55fr 45fr;
     grid-template-rows:1fr;
     gap:10px;
     width:100%;
@@ -1183,11 +1183,11 @@ function trendCards(items){
 }
 function renderThirdSlide(data){
   const t=data.trend_status||{};
-  document.getElementById("trend-panel").innerHTML=`<div class="insight-title">1. Evolución de Tendencias</div><div class="trend-cols"><div class="trend-col"><div class="trend-head emerging">↗ EMERGENTES</div>${trendCards(t.emerging)}</div><div class="trend-col"><div class="trend-head persistent">≈ ESTABLES</div>${trendCards(t.persistent)}</div><div class="trend-col"><div class="trend-head declining">↘ EN DESCENSO</div>${trendCards(t.declining)}</div></div>`;
+  document.getElementById("trend-panel").innerHTML=`<div class="insight-title">Evolución de Tendencias</div><div class="trend-cols"><div class="trend-col"><div class="trend-head emerging">↗ EMERGENTES</div>${trendCards(t.emerging)}</div><div class="trend-col"><div class="trend-head persistent">≈ ESTABLES</div>${trendCards(t.persistent)}</div><div class="trend-col"><div class="trend-head declining">↘ EN DESCENSO</div>${trendCards(t.declining)}</div></div>`;
 
   const r=data.market_radar||{};
   const row=(label,icon,arr)=>`<div class="radar-row"><div class="radar-label"><img class="radar-icon" src="${icon}" alt="" onerror="this.style.display='none'"><span class="radar-label-text">${label}</span></div>${(arr||[]).slice(0,2).map(x=>`<div class="radar-item"><strong>${esc(x.entity)} – ${esc(x.headline)}</strong><p>${esc(x.summary)}</p></div>`).join("")}</div>`;
-  document.getElementById("market-panel").innerHTML=`<div class="insight-title">2. Territorios y Passion Points</div><div class="market-body">${row("MARCA","radar_marca.png",r.brand)}${row("CATEGORÍA","radar_categoria.png",r.category)}${row("COMPETENCIA","radar_competencia.png",r.competition)}${r.takeaway?`<div class="takeaway">${esc(r.takeaway)}</div>`:""}</div>`;
+  document.getElementById("market-panel").innerHTML=`<div class="insight-title">Territorios y Passion Points</div><div class="market-body">${row("MARCA","radar_marca.png",r.brand)}${row("CATEGORÍA","radar_categoria.png",r.category)}${row("COMPETENCIA","radar_competencia.png",r.competition)}${r.takeaway?`<div class="takeaway">${esc(r.takeaway)}</div>`:""}</div>`;
 }
 async function initThirdSlide(){
   try { const r=await fetch(noCache(THIRD_SLIDE_JSON)); if(!r.ok) throw new Error("HTTP "+r.status); renderThirdSlide(await r.json()); }
