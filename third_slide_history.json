@@ -8,16 +8,18 @@
         "cerveza baja en calorias",
         "cerveza 0.0",
         "cerveza sin alcohol",
-        "low alcohol"
+        "low alcohol",
+        "cerveza baja en calorías",
+        "Stella Artois Pure Gold"
       ],
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
           "x_volume": 2,
-          "x_engagement": 2,
-          "x_views": 53,
+          "x_engagement": 71,
+          "x_views": 3179,
           "news_articles": 2
         }
       ]
@@ -45,16 +47,19 @@
       "label": "Visibilidad de mujeres cerveceras",
       "aliases": [
         "Dia de la Mujer Cervecera",
-        "inclusion en cerveza artesanal"
+        "inclusion en cerveza artesanal",
+        "Día de la Mujer Cervecera",
+        "inclusión en cerveza artesanal",
+        "Grisette colaborativa"
       ],
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 1,
-          "x_engagement": 6,
-          "x_views": 225,
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
           "news_articles": 1
         }
       ]
@@ -64,16 +69,19 @@
       "aliases": [
         "cerveza cara",
         "abandono por precio",
-        "caida del consumo cervecero"
+        "caida del consumo cervecero",
+        "comparación de precios entre marcas",
+        "lata de cerveza en oferta",
+        "accesibilidad cervecera"
       ],
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
           "x_volume": 2,
-          "x_engagement": 2,
-          "x_views": 256,
+          "x_engagement": 245,
+          "x_views": 35109,
           "news_articles": 2
         }
       ]
@@ -84,17 +92,20 @@
         "birra con amigos",
         "birra en bar barrial",
         "cumpleanos cumbia y birra",
-        "bodegones de cerveza"
+        "bodegones de cerveza",
+        "birra en el bar",
+        "juntada en casa",
+        "cerveza como plan"
       ],
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 4,
-          "x_engagement": 2751,
-          "x_views": 30486,
-          "news_articles": 4
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": 2,
+          "x_engagement": 1694,
+          "x_views": 17408,
+          "news_articles": 0
         }
       ]
     },
@@ -103,16 +114,20 @@
       "aliases": [
         "Quilmes y Messi",
         "birra en la tribuna",
-        "sponsor de River"
+        "sponsor de River",
+        "Quilmes y Colapinto",
+        "Quilmes en F1",
+        "birra en el festejo deportivo",
+        "cerveza y pasión argentina"
       ],
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 6,
-          "x_engagement": 1725,
-          "x_views": 19206,
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": 2,
+          "x_engagement": 10101,
+          "x_views": 877130,
           "news_articles": 1
         }
       ]
@@ -137,20 +152,21 @@
       ]
     },
     "premium_supermercado": {
-      "label": "Cuestionamiento al premium de supermercado",
+      "label": "Cuestionamiento al premium masivo",
       "aliases": [
         "Stella premium de supermercado",
         "marca sin autenticidad",
-        "Corona sin personalidad"
+        "Corona sin personalidad",
+        "premium sin credenciales"
       ],
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 3,
-          "x_engagement": 1643,
-          "x_views": 3413324,
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": 1,
+          "x_engagement": 1670,
+          "x_views": 3492956,
           "news_articles": 0
         }
       ]
@@ -173,6 +189,46 @@
           "news_articles": 1
         }
       ]
+    },
+    "vinos_ligeros_aire_libre": {
+      "label": "Vinos ligeros para ocasiones al aire libre",
+      "aliases": [
+        "tintos refrescados",
+        "vino de primavera",
+        "vinos de trago fresco",
+        "picada al aire libre"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
+        }
+      ]
+    },
+    "gastronomia_accesible": {
+      "label": "Gastronomía accesible bajo presión",
+      "aliases": [
+        "promociones gastronómicas",
+        "costos de salir",
+        "descuentos en restaurantes",
+        "Noche de la Pizza y la Empanada"
+      ],
+      "series": [
+        {
+          "period_id": "2026-09-H1",
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 3
+        }
+      ]
     }
   },
   "pillars": {
@@ -180,11 +236,11 @@
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 14,
-          "x_engagement": 64,
-          "x_views": 3020,
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": 20,
+          "x_engagement": 193,
+          "x_views": 11193,
           "news_articles": 2
         }
       ]
@@ -193,12 +249,12 @@
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 12,
-          "x_engagement": 4239,
-          "x_views": 380227,
-          "news_articles": 2
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": 13,
+          "x_engagement": 2612,
+          "x_views": 66400,
+          "news_articles": 1
         }
       ]
     },
@@ -206,11 +262,11 @@
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 6,
-          "x_engagement": 3,
-          "x_views": 480,
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": 11,
+          "x_engagement": 257,
+          "x_views": 35576,
           "news_articles": 2
         }
       ]
@@ -219,12 +275,12 @@
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
           "x_volume": 8,
-          "x_engagement": 1740,
-          "x_views": 3427711,
-          "news_articles": 1
+          "x_engagement": 3093,
+          "x_views": 5258944,
+          "news_articles": 2
         }
       ]
     },
@@ -232,12 +288,12 @@
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 8,
-          "x_engagement": 94,
-          "x_views": 8313,
-          "news_articles": 2
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": 16,
+          "x_engagement": 3938,
+          "x_views": 236339,
+          "news_articles": 1
         }
       ]
     },
@@ -245,12 +301,12 @@
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 8,
-          "x_engagement": 4056,
-          "x_views": 34759,
-          "news_articles": 2
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": 13,
+          "x_engagement": 16709,
+          "x_views": 1172050,
+          "news_articles": 1
         }
       ]
     },
@@ -258,11 +314,11 @@
       "series": [
         {
           "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
-          "to_date": "2026-09-11",
-          "x_volume": 25,
-          "x_engagement": 633,
-          "x_views": 116009,
+          "from_date": "2026-08-31",
+          "to_date": "2026-09-14",
+          "x_volume": 12,
+          "x_engagement": 565,
+          "x_views": 79827,
           "news_articles": 2
         }
       ]
