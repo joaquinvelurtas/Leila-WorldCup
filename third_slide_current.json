@@ -2,92 +2,115 @@
   "schema_version": 3,
   "methodology_version": "sauron_insights_v2",
   "period": {
-    "period_id": "2026-09-H1",
-    "from_date": "2026-08-31",
-    "to_date": "2026-09-14",
-    "days": 15
+    "period_id": "2026-W38",
+    "from_date": "2026-09-12",
+    "to_date": "2026-09-18",
+    "days": 7
   },
   "trend_status": {
     "emerging": [
       {
-        "topic_id": "innovacion_wellness_cerveza",
-        "title": "La cerveza liviana convierte bienestar en producto",
-        "summary": "La cerveza 0.0 y el lanzamiento bajo en calorías de Stella Artois vuelven tangibles la moderación y la liviandad, en respuesta a tensiones de sueño, ánimo y nutrición.",
-        "current_value": 2,
-        "historical_value": null,
-        "source_support": [
-          "x",
-          "news"
-        ]
-      },
-      {
         "topic_id": "presion_precio_cerveza",
-        "title": "El precio redefine la elección y la experiencia",
-        "summary": "Comparaciones entre formatos y marcas muestran una sensibilidad concreta al precio; las promociones y la presión sobre la gastronomía vuelven decisivos el valor percibido y la accesibilidad.",
-        "current_value": 2,
-        "historical_value": null,
+        "title": "El precio cervecero acelera su presión",
+        "summary": "Las menciones suben de 2 a 7: promociones de Quilmes, cerveza de bar por encima de $4.000 y tickets de salida muestran que el bolsillo ya define marca, canal y ocasión.",
+        "current_value": 7,
+        "historical_value": 2,
         "source_support": [
           "x",
           "news"
         ]
       },
       {
-        "topic_id": "premium_supermercado",
-        "title": "El premium masivo enfrenta una prueba de autenticidad",
-        "summary": "Un post de gran alcance cuestiona a Stella Artois y Corona como marcas más apoyadas en marketing que en carácter; el estatus ya no alcanza si no viene acompañado de sabor y credenciales.",
-        "current_value": 1,
+        "topic_id": "cerveza_ritual_social",
+        "title": "La cerveza escala como código de pertenencia",
+        "summary": "El volumen pasa de 2 a 16: pareja, amigas, fútbol amateur y bares confirman que la cerveza funciona como código de pertenencia; la oportunidad es diseñar encuentros, no sólo servir producto.",
+        "current_value": 16,
+        "historical_value": 2,
+        "source_support": [
+          "x",
+          "news"
+        ]
+      },
+      {
+        "topic_id": "rechazo_amargor_cerveza",
+        "title": "El amargor aparece como barrera de entrada",
+        "summary": "Once menciones de sabor exponen una barrera concreta: amargor, falta de gusto y consumo para encajar. Perfiles más accesibles pueden ampliar reclutamiento sin diluir identidad.",
+        "current_value": 11,
         "historical_value": null,
         "source_support": [
           "x"
         ]
       }
     ],
-    "persistent": [],
+    "persistent": [
+      {
+        "topic_id": "innovacion_wellness_cerveza",
+        "title": "El bienestar conserva lugar dentro de la ocasión",
+        "summary": "Se mantienen 2 menciones frente al período previo y se suma un lanzamiento local: Corona 0.0 y Stella Pure Gold integran moderación y menos calorías sin abandonar música ni gastronomía.",
+        "current_value": 2,
+        "historical_value": 2,
+        "source_support": [
+          "x",
+          "news"
+        ]
+      },
+      {
+        "topic_id": "cerveza_y_futbol",
+        "title": "Fútbol y cerveza sostienen su vínculo cultural",
+        "summary": "El cruce reaparece con 4 menciones frente a 2 en una base aún acotada: sponsors, buffet y festejos confirman permiso cultural si la marca aporta pertenencia y una estética cuidada.",
+        "current_value": 4,
+        "historical_value": 2,
+        "source_support": [
+          "x",
+          "news"
+        ]
+      }
+    ],
     "declining": []
   },
   "market_radar": {
     "brand": [
       {
-        "entity": "Quilmes",
-        "headline": "F1 y música convierten pasión en pertenencia",
-        "summary": "La marca capitaliza el orgullo por Colapinto y abre la previa de Quilmes Rock 2027 con fechas, entradas y cuotas, conectando deporte, amistad, música y celebración en dos territorios movilizadores.",
+        "entity": "Brahma",
+        "headline": "Música urbana como motor de participación",
+        "summary": "Sorteos vinculados con Un Poco de Ruido y Cazzu convierten shows y fandoms en convocatoria activa. El territorio permite entrar por participación, códigos populares y recompensa.",
         "asset_key": null
       },
       {
         "entity": "Stella Artois",
-        "headline": "Pure Gold busca permiso desde la liviandad",
-        "summary": "La llegada de una cerveza baja en calorías y su evento con creadores llevan bienestar al código premium; la oportunidad es hacer visible el beneficio sin perder sabor, ritual ni sofisticación.",
+        "headline": "Bienestar premium sin salir de la noche",
+        "summary": "Pure Gold, con 34 calorías cada 100 ml, se presentó entre DJ sets, gastronomía e influencers. La marca muestra que ligereza y premium pueden convivir con una ocasión social plena.",
         "asset_key": null
       }
     ],
     "category": [
       {
-        "entity": "Cerveza",
-        "headline": "La birra importa, pero la ocasión la completa",
-        "summary": "El bar se elige para tomar cerveza y la casa ya tiene producto disponible, pero sin amigos no hay juntada: la categoría sigue funcionando como habilitador de encuentro más que como consumo aislado.",
+        "entity": "Cerveza y vínculos",
+        "headline": "La ocasión vale más cuando se comparte",
+        "summary": "Pareja, amigas y equipos de fútbol definen el sentido del consumo: sin compañía, la cerveza pierde alegría. La oportunidad es facilitar rituales compartidos y memorables.",
         "asset_key": null
       },
       {
-        "entity": "Cultura cervecera",
-        "headline": "Las mujeres amplían los códigos de la categoría",
-        "summary": "El Día de la Mujer Cervecera visibiliza trayectorias y cuestiona la asociación entre cerveza, potencia y masculinidad, abriendo espacio para diversidad, educación, gastronomía y exploración sensorial.",
+        "entity": "Cerveza sin alcohol",
+        "headline": "La moderación entra al recital",
+        "summary": "Corona sin alcohol aparece llevada a un show, mientras Pure Gold suma ligereza al portafolio. El bienestar deja de ser renuncia cuando conserva formato, sabor y códigos de salida.",
         "asset_key": null
       }
     ],
     "competition": [
       {
-        "entity": "Vino",
-        "headline": "Los tintos ligeros disputan la ocasión informal",
-        "summary": "Vinos frescos y servidos refrescados se posicionan para primavera, picadas y encuentros al aire libre; compiten con la cerveza desde tomabilidad, versatilidad gastronómica y una imagen menos solemne.",
+        "entity": "SKYY Vodka",
+        "headline": "Los espirituosos disputan crecimiento y novedad",
+        "summary": "SKYY Jungle se comunica como parte de una categoría de espirituosos en expansión en Argentina. La novedad de producto compite por curiosidad, nocturnidad y repertorio de tragos.",
         "asset_key": null
       },
       {
-        "entity": "Mate",
-        "headline": "El ritual cotidiano se vuelve objeto de identidad",
-        "summary": "Materiales, colores y diseño convierten al mate doméstico en expresión de estilo personal; una prueba de cómo una bebida puede apropiarse simultáneamente de hábito, estética y pertenencia.",
+        "entity": "Casas de apuestas",
+        "headline": "El sponsoreo futbolero se vuelve reputación",
+        "summary": "Un hincha de River prefiere cerveza premium antes que apuestas en la camiseta. Aunque sea una señal acotada, muestra que el sponsor también debe embellecer y legitimar pertenencia.",
         "asset_key": null
       }
     ],
-    "takeaway": "Unir liviandad y precio con pasiones reales como amistad, fútbol, música y gastronomía puede dar credibilidad al sabor y a la imagen de marca."
+    "takeaway": "La oportunidad está en evitar que bienestar y precio apaguen la ocasión: música, fútbol y vínculos necesitan formatos ligeros, accesibles y culturalmente legítimos."
   }
 }
