@@ -14,9 +14,9 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 2,
           "x_engagement": 71,
           "x_views": 3179,
@@ -33,8 +33,8 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
           "to_date": "2026-09-11",
           "x_volume": 1,
           "x_engagement": 78,
@@ -54,9 +54,9 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": null,
           "x_engagement": null,
           "x_views": null,
@@ -76,9 +76,9 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 2,
           "x_engagement": 245,
           "x_views": 35109,
@@ -99,9 +99,9 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 2,
           "x_engagement": 1694,
           "x_views": 17408,
@@ -122,9 +122,9 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 2,
           "x_engagement": 10101,
           "x_views": 877130,
@@ -141,8 +141,8 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
           "to_date": "2026-09-11",
           "x_volume": 2,
           "x_engagement": 6,
@@ -161,9 +161,9 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 1,
           "x_engagement": 1670,
           "x_views": 3492956,
@@ -180,8 +180,8 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-28",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
           "to_date": "2026-09-11",
           "x_volume": 2,
           "x_engagement": null,
@@ -200,9 +200,9 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": null,
           "x_engagement": null,
           "x_views": null,
@@ -220,9 +220,9 @@
       ],
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": null,
           "x_engagement": null,
           "x_views": null,
@@ -235,9 +235,9 @@
     "Wellness": {
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 20,
           "x_engagement": 193,
           "x_views": 11193,
@@ -248,9 +248,9 @@
     "Socializing": {
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 13,
           "x_engagement": 2612,
           "x_views": 66400,
@@ -261,9 +261,9 @@
     "Affordability": {
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 11,
           "x_engagement": 257,
           "x_views": 35576,
@@ -274,9 +274,9 @@
     "Image": {
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 8,
           "x_engagement": 3093,
           "x_views": 5258944,
@@ -287,9 +287,9 @@
     "Taste": {
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 16,
           "x_engagement": 3938,
           "x_views": 236339,
@@ -300,9 +300,9 @@
     "Sports": {
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 13,
           "x_engagement": 16709,
           "x_views": 1172050,
@@ -313,9 +313,9 @@
     "Events": {
       "series": [
         {
-          "period_id": "2026-09-H1",
-          "from_date": "2026-08-31",
-          "to_date": "2026-09-14",
+          "period_id": "2026-W37",
+          "from_date": "2026-09-05",
+          "to_date": "2026-09-11",
           "x_volume": 12,
           "x_engagement": 565,
           "x_views": 79827,
