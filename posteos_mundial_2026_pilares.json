@@ -1,100 +1,88 @@
 {
   "overview": {
     "portales": {
-      "summary": "Los portales muestran una categoría atravesada por moderación, presión de precios y nuevas ocasiones: experiencias gastronómicas híbridas, deporte social y eventos locales amplían los momentos de consumo, mientras la cerveza gana visibilidad desde la técnica, la inclusión y el bienestar."
+      "summary": "La agenda combina innovación cervecera, presión sobre el bolsillo, moderación y ocasiones colectivas en bares, gastronomía, cultura y fútbol, con señales concretas para marcas y consumidores argentinos."
     }
   },
   "pilares": {
     "AFFORDABILITY": [
       {
         "medio": "TN",
-        "resumen": "Con una inflación mensual de 1,7%, bebidas alcohólicas y tabaco subieron 2,1% y restaurantes y hoteles 1,8%, manteniendo la sensibilidad al precio en la categoría y el consumo fuera del hogar.",
-        "titulo_corto": "Bebidas y salidas por encima del IPC",
-        "url": "https://tn.com.ar/economia/2026/09/10/la-inflacion-de-agosto-fue-del-17-y-acumula-un-213-en-lo-que-va-del-ano"
+        "resumen": "Una salida a Güerrín costó $57.100 por pizza, fainá y una cerveza de litro; el 10% por pago en efectivo bajó el total y expuso la sensibilidad a precio y promociones.",
+        "titulo_corto": "Pizza y cerveza por $51.390",
+        "url": "https://tn.com.ar/sociedad/2026/09/18/fue-a-guerrin-pidio-una-pizza-de-muzzarella-chica-faina-y-cerveza-de-1-litro-mostro-el-ticket-final"
       },
       {
-        "medio": "La Nación",
-        "resumen": "La Noche de la Pizza y la Empanada activa 50% de descuento y promociones 3x2 para impulsar ventas y nocturnidad, mostrando el peso de las ofertas en las ocasiones gastronómicas.",
-        "titulo_corto": "Descuentos sostienen la salida",
-        "url": "https://www.lanacion.com.ar/que-sale/la-noche-de-la-pizza-y-la-empanada-2026-cuando-es-y-en-que-restaurantes-habra-50-de-descuento-y-nid10092026"
+        "medio": "Página 12",
+        "resumen": "La inflación mayorista interanual llegó a 29,8% y el registro mensual fue el más alto desde mayo, una presión que puede trasladarse a costos, precios finales y consumos discrecionales.",
+        "titulo_corto": "Presión mayorista sobre precios",
+        "url": "https://www.pagina12.com.ar/2026/09/16/los-precios-al-alza"
       }
     ],
     "EVENTS": [
       {
-        "medio": "La Nación",
-        "resumen": "La Fiesta del Asado Criollo de Moquehuá combina gastronomía, música y tradición con entrada gratuita, y proyecta más de 30.000 visitantes durante el fin de semana.",
-        "titulo_corto": "El asado convoca a 30.000 personas",
-        "url": "https://www.lanacion.com.ar/que-sale/concurso-de-asadores-en-la-fiesta-del-asado-criollo-2026-en-moquehua-cuando-es-programacion-y-que-nid07092026"
+        "medio": "Infobae",
+        "resumen": "Stella Artois presentó su cerveza de 34 calorías cada 100 ml con una experiencia de música, gastronomía e influencers que unió bienestar, premiumización y disfrute social.",
+        "titulo_corto": "Stella Pure Gold debuta en Argentina",
+        "url": "https://www.infobae.com/inhouse/2026/09/14/una-nueva-cerveza-se-presento-con-una-celebracion-tematica-que-invito-a-disfrutar-todo-el-sabor-de-la-marca-ahora-con-menos-calorias"
       },
       {
-        "medio": "Olé",
-        "resumen": "La apertura gratuita de los Juegos Suramericanos en Rosario reúne artistas populares, tecnología e identidad santafesina ante una competencia con más de 4.000 atletas.",
-        "titulo_corto": "Deporte y música abren los Odesur",
-        "url": "https://www.ole.com.ar/polideportivo/juegos-suramericanos/artistas-ceremonia-apertura-juegos-suramericanos-sante-fe-2026-odesur_0_DvzB6s6MB7.html"
+        "medio": "La Nación",
+        "resumen": "Más de 75 bares de 25 barrios ofrecerán 130 propuestas, música, menús y promociones, transformando el patrimonio porteño en una ocasión masiva de salida y gastronomía.",
+        "titulo_corto": "La Noche de los Bares se expande",
+        "url": "https://www.lanacion.com.ar/que-sale/mas-de-130-propuestas-de-gastronomia-y-musica-en-vivo-en-25-barrios-el-mapa-de-la-noche-de-los-bares-nid18092026"
       }
     ],
     "FLAVOR": [
       {
-        "medio": "Infobae",
-        "resumen": "Un método de vertido gradual desde botella busca recrear la espuma y presentación de la cerveza tirada, reforzando el valor sensorial y ritual del servicio.",
-        "titulo_corto": "La técnica transforma el servicio",
-        "url": "https://www.infobae.com/espana/2026/09/07/carlos-cervantes-experto-en-cerveza-ensena-a-como-tirar-una-de-botella-como-si-fuera-de-barril-solo-puede-tocar-la-boca-de-la-botella"
-      },
-      {
         "medio": "La Nación",
-        "resumen": "La escena gastronómica de Villa Crespo combina recetas de inmigrantes con fermentos, ahumados, fuego y nuevas barras, señal de un paladar porteño más explorador.",
-        "titulo_corto": "Villa Crespo mezcla tradición e innovación",
-        "url": "https://www.lanacion.com.ar/revista-lugares/mesas-con-caracter-en-villa-crespo-nid10092026"
+        "resumen": "Productores de Cipolletti llevan quesos de larga maduración a un certamen mundial, reforzando el valor del origen, la elaboración artesanal y los perfiles sensoriales diferenciados.",
+        "titulo_corto": "Quesos patagónicos con identidad",
+        "url": "https://www.lanacion.com.ar/economia/campo/world-cheese-awards-los-campeones-del-mundo-por-sus-quesos-se-preparan-para-dar-otra-sorpresa-en-nid18092026"
       }
     ],
     "IMAGE": [
       {
-        "medio": "TN",
-        "resumen": "El primer Día de la Mujer Cervecera en Argentina recupera el aporte histórico femenino y lo conecta con producción, catas, educación y una cocción colaborativa de estilo Grisette.",
-        "titulo_corto": "Mujeres cerveceras ganan visibilidad",
-        "url": "https://tn.com.ar/cocina/gastronomia/2026/09/05/se-celebra-por-primera-vez-el-dia-de-la-mujer-cervecera-como-es-la-cerveza-especial-que-crearon-para-la-fecha"
+        "medio": "La Nación",
+        "resumen": "Las estrellas Michelin funcionan como señal de prestigio y convierten restaurantes en destinos buscados, mostrando cómo la excelencia gastronómica moldea imagen, elección y experiencia.",
+        "titulo_corto": "Michelin eleva la aspiración",
+        "url": "https://www.lanacion.com.ar/lifestyle/alta-cocina-que-paises-tienen-mas-restaurantes-con-estrellas-michelin-y-donde-se-ubica-la-argentina-nid17092026"
       }
     ],
     "SOCIALIZATION": [
       {
-        "medio": "La Nación",
-        "resumen": "Un nuevo espacio porteño integra restaurante, coctelería y DJs para prolongar la ocasión desde la cena hasta el baile, reflejando salidas híbridas y más experienciales.",
-        "titulo_corto": "Cena, barra y baile en Recoleta",
-        "url": "https://www.lanacion.com.ar/que-sale/iggy-james-cocinero-neoyorquino-que-abrio-un-bar-de-verano-y-un-restaurante-en-buenos-aires-la-nid08092026"
-      },
-      {
-        "medio": "TN",
-        "resumen": "Cortínez se consolida como escapada cercana a CABA, con gastronomía familiar y grupos que convierten el almuerzo de asado en punto de encuentro fuera de la ciudad.",
-        "titulo_corto": "Escapadas de asado y encuentro",
-        "url": "https://tn.com.ar/turismo/2026/09/10/tiene-1500-habitantes-fue-fundado-en-1888-y-esta-a-1-hora-de-buenos-aires-el-pueblo-ideal-para-comer-asado-y-pasar-el-dia"
+        "medio": "Olé",
+        "resumen": "El Sudamericano amateur convierte el fútbol en un viaje compartido de cinco días, combinando deporte, amistad, ocio y gastronomía como una ocasión social de alta intensidad.",
+        "titulo_corto": "Fútbol amateur entre amigos",
+        "url": "https://www.ole.com.ar/futbol-internacional/sudamericano-futbol-amateur-solanas-punta_0_CR99VopQci.html"
       }
     ],
     "SPORTS": [
       {
-        "medio": "Infobae",
-        "resumen": "La marca acompañó los 21K de Buenos Aires con activaciones, cerveza y un after run que convirtió la llegada en una celebración social vinculada con el estilo de vida activo.",
-        "titulo_corto": "Michelob ULTRA instala el after run",
-        "url": "https://www.infobae.com/inhouse/2026/08/28/21k-de-buenos-aires-el-recorrido-que-llevo-el-running-del-esfuerzo-a-la-celebracion"
+        "medio": "La Nación",
+        "resumen": "El último partido de Messi con la Selección en el país anticipa un Monumental lleno y entradas desde $100.000, una ocasión excepcional de emoción, ritual colectivo y consumo.",
+        "titulo_corto": "La despedida de Messi moviliza",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/entradas-para-la-despedida-de-messi-cuando-salen-a-la-venta-como-registrarse-y-que-se-sabe-de-los-nid17092026"
       },
       {
-        "medio": "Olé",
-        "resumen": "El recuerdo del último partido oficial de Messi en Argentina reúne estadio lleno, homenajes, cantos y celebración colectiva, consolidando al fútbol como gran ocasión cultural.",
-        "titulo_corto": "La despedida de Messi moviliza rituales",
-        "url": "https://www.ole.com.ar/seleccion/lionel-messi-seleccion-argentina-despedida-venezuela-eliminatorias-mundial-2026_0_I9ljirlhWG.html"
+        "medio": "Infobae",
+        "resumen": "River avanza hacia un estadio para 101.000 personas, con nueva identidad visual y más capacidad para partidos y recitales, ampliando las ocasiones masivas alrededor del recinto.",
+        "titulo_corto": "El Monumental amplía la experiencia",
+        "url": "https://www.infobae.com/deportes/2026/09/18/river-plate-presento-un-nuevo-avance-en-las-obras-en-el-estadio-monumental-los-proximos-cambios"
       }
     ],
     "WELLNESS": [
       {
         "medio": "Infobae",
-        "resumen": "Especialistas advierten que la relajación inicial del alcohol es transitoria y puede alterar el sueño y el ánimo, fortaleciendo las barreras de bienestar y moderación.",
-        "titulo_corto": "Alcohol, descanso y estado de ánimo",
-        "url": "https://www.infobae.com/salud/ciencia/2026/09/07/los-11-alimentos-y-bebidas-que-pueden-aumentar-el-estres-segun-expertos"
+        "resumen": "Un estudio muestra que la mortalidad por cáncer atribuible al alcohol creció con fuerza y que incluso el consumo moderado implica riesgo, elevando la presión hacia moderación y alternativas.",
+        "titulo_corto": "Alcohol y riesgo oncológico",
+        "url": "https://www.infobae.com/salud/ciencia/2026/09/13/no-es-solo-el-higado-las-muertes-por-cancer-relacionadas-con-el-alcohol-se-duplicaron-desde-1990-segun-un-estudio"
       },
       {
-        "medio": "Infobae",
-        "resumen": "La industria europea destina algo más del 6% de su producción a cervezas sin alcohol o de baja graduación, mientras el consumidor sale menos y el hogar gana peso como canal.",
-        "titulo_corto": "Crece el espacio para baja graduación",
-        "url": "https://www.infobae.com/espana/2026/08/31/espana-en-convierte-en-la-segunda-potencia-cervecera-de-europa-produce-5300-millones-de-litros-al-ano-y-solo-la-supera-alemania"
+        "medio": "TyC Sports",
+        "resumen": "Jonatan Cristaldo relató cómo el alcohol se vinculó con depresión, insomnio y aislamiento, aportando una mirada argentina sobre consumo problemático, salud mental y recuperación.",
+        "titulo_corto": "El alcohol como vía de escape",
+        "url": "https://www.tycsports.com/interes-general/jonatan-cristaldo-alcohol-pensamientos-suicidas-terapeuta-id761746.html"
       }
     ]
   }
