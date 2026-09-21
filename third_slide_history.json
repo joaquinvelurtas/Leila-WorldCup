@@ -11,7 +11,9 @@
         "low alcohol",
         "cerveza baja en calorías",
         "Stella Artois Pure Gold",
-        "Corona sin alcohol"
+        "Corona sin alcohol",
+        "moderación transgeneracional",
+        "efecto cebra"
       ],
       "series": [
         {
@@ -30,6 +32,15 @@
           "x_volume": 2,
           "x_engagement": null,
           "x_views": null,
+          "news_articles": 1
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 18,
+          "x_engagement": 82,
+          "x_views": 4393,
           "news_articles": 1
         }
       ]
@@ -84,7 +95,9 @@
         "lata de cerveza en oferta",
         "accesibilidad cervecera",
         "promo Quilmes",
-        "cerveza de bar cara"
+        "cerveza de bar cara",
+        "litro de cerveza a 20000 pesos",
+        "bar como filtro económico"
       ],
       "series": [
         {
@@ -104,6 +117,15 @@
           "x_engagement": 291,
           "x_views": 5407,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 9,
+          "x_engagement": 50,
+          "x_views": 1668,
+          "news_articles": 2
         }
       ]
     },
@@ -117,7 +139,10 @@
         "birra en el bar",
         "juntada en casa",
         "cerveza como plan",
-        "cerveza en pareja"
+        "cerveza en pareja",
+        "birras de domingo",
+        "cerveza y soledad en casa",
+        "Noche de los Bares Notables"
       ],
       "series": [
         {
@@ -137,6 +162,15 @@
           "x_engagement": 8426,
           "x_views": 187267,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 12,
+          "x_engagement": 3181,
+          "x_views": 57620,
+          "news_articles": 2
         }
       ]
     },
@@ -150,7 +184,10 @@
         "Quilmes en F1",
         "birra en el festejo deportivo",
         "cerveza y pasión argentina",
-        "cerveza en el buffet del club"
+        "cerveza en el buffet del club",
+        "Quilmes en Caminito",
+        "Stella sponsor de River",
+        "despedida de Messi"
       ],
       "series": [
         {
@@ -169,6 +206,15 @@
           "x_volume": 4,
           "x_engagement": 2,
           "x_views": 663,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 3,
+          "x_engagement": 10,
+          "x_views": 476,
           "news_articles": 2
         }
       ]
@@ -300,6 +346,43 @@
           "news_articles": 0
         }
       ]
+    },
+    "quilmes_kpop_fandom": {
+      "label": "Quilmes en el fandom K-pop",
+      "aliases": [
+        "Quilmes sponsor de Stray Kids",
+        "Quilmes y cultura pop"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 8,
+          "x_engagement": 5,
+          "x_views": 668,
+          "news_articles": 0
+        }
+      ]
+    },
+    "cerveza_flores_primavera": {
+      "label": "Cerveza en el ritual de flores de primavera",
+      "aliases": [
+        "flores amarillas y cerveza",
+        "pack de birra como regalo",
+        "Stella y flores amarillas"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 7,
+          "x_engagement": 3,
+          "x_views": 311,
+          "news_articles": 0
+        }
+      ]
     }
   },
   "pillars": {
@@ -321,6 +404,15 @@
           "x_volume": 20,
           "x_engagement": 156,
           "x_views": 141185,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 18,
+          "x_engagement": 82,
+          "x_views": 4393,
           "news_articles": 2
         }
       ]
@@ -344,6 +436,15 @@
           "x_engagement": 8426,
           "x_views": 187267,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 12,
+          "x_engagement": 3181,
+          "x_views": 57620,
+          "news_articles": 1
         }
       ]
     },
@@ -365,6 +466,15 @@
           "x_volume": 7,
           "x_engagement": 291,
           "x_views": 5407,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 9,
+          "x_engagement": 50,
+          "x_views": 1668,
           "news_articles": 2
         }
       ]
@@ -388,6 +498,15 @@
           "x_engagement": 16,
           "x_views": 1194,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 8,
+          "x_engagement": 8,
+          "x_views": 627,
+          "news_articles": 1
         }
       ]
     },
@@ -410,6 +529,15 @@
           "x_engagement": 32,
           "x_views": 2394,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 12,
+          "x_engagement": 14,
+          "x_views": 754,
+          "news_articles": 2
         }
       ]
     },
@@ -432,6 +560,15 @@
           "x_engagement": 2,
           "x_views": 663,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 3,
+          "x_engagement": 10,
+          "x_views": 476,
+          "news_articles": 2
         }
       ]
     },
@@ -453,6 +590,15 @@
           "x_volume": 5,
           "x_engagement": 11,
           "x_views": 799,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W39",
+          "from_date": "2026-09-15",
+          "to_date": "2026-09-21",
+          "x_volume": 10,
+          "x_engagement": 229,
+          "x_views": 14049,
           "news_articles": 2
         }
       ]
