@@ -2,39 +2,39 @@
   "schema_version": 3,
   "methodology_version": "sauron_insights_v2",
   "period": {
-    "period_id": "2026-W39",
-    "from_date": "2026-09-15",
-    "to_date": "2026-09-21",
+    "period_id": "2026-W41",
+    "from_date": "2026-09-29",
+    "to_date": "2026-10-05",
     "days": 7
   },
   "trend_status": {
     "emerging": [
       {
-        "topic_id": "innovacion_wellness_cerveza",
-        "title": "La moderación acelera y abre nuevas ocasiones",
-        "summary": "La cerveza 0.0 gana lugar por bienestar, costo y conveniencia: habilita almuerzos, manejo y deporte, aunque el sabor y las restricciones de venta todavía frenan su adopción.",
-        "current_value": 18,
-        "historical_value": 2,
+        "topic_id": "cerveza_ritual_social",
+        "title": "La cerveza amplía sus rituales cotidianos",
+        "summary": "La cerveza gana usos más diversos: asado y amigos, citas atravesadas por el precio y pausas individuales tras el trabajo. La aceleración amplía ocasiones, pero exige códigos distintos.",
+        "current_value": 21,
+        "historical_value": 12,
         "source_support": [
           "x",
           "news"
         ]
       },
       {
-        "topic_id": "quilmes_kpop_fandom",
-        "title": "Quilmes entra al fandom K-pop por demanda orgánica",
-        "summary": "Fans de Stray Kids piden a Quilmes como sponsor, embajador y línea temática. La marca funciona como ícono argentino capaz de cruzar fútbol, turismo y cultura pop.",
-        "current_value": 8,
-        "historical_value": null,
+        "topic_id": "premium_supermercado",
+        "title": "La cerveza opera como marcador de clase",
+        "summary": "Rankings y comentarios ubican a Quilmes, Brahma, Corona y Stella en jerarquías de estatus. El salto muestra que el valor simbólico pesa más que el producto y puede erosionar marcas masivas.",
+        "current_value": 14,
+        "historical_value": 1,
         "source_support": [
           "x"
         ]
       },
       {
-        "topic_id": "cerveza_flores_primavera",
-        "title": "La cerveza se suma al ritual de flores amarillas",
-        "summary": "Packs de Stella, Coronita y cerveza 0.0 aparecen como alternativa o complemento del regalo de primavera, abriendo una ocasión de cortejo visual, simple y compartible.",
-        "current_value": 7,
+        "topic_id": "oktoberfest_argentina",
+        "title": "Octubre reactiva la fiesta cervecera",
+        "summary": "Ocho menciones vinculan la Fiesta Nacional de la Cerveza con rock, turismo serrano e identidad local. La escala de Oktoberfest abre un territorio estacional de cultura y encuentro.",
+        "current_value": 8,
         "historical_value": null,
         "source_support": [
           "x"
@@ -44,21 +44,21 @@
     "persistent": [
       {
         "topic_id": "presion_precio_cerveza",
-        "title": "La presión de precio sigue condicionando la cerveza",
-        "summary": "Quejas por $20.000 el litro y bares usados como filtro social se combinan con ingresos cortos y bebidas en alza: la accesibilidad define salida, marca y formato.",
-        "current_value": 9,
-        "historical_value": 7,
+        "title": "El precio sigue gobernando la ocasión",
+        "summary": "La birra de $15.000 en una cita y la lata de $12.000 en un festival mantienen la accesibilidad en el centro. Con ingresos presionados, promoción y formato definen si la ocasión sucede.",
+        "current_value": 7,
+        "historical_value": 9,
         "source_support": [
           "x",
           "news"
         ]
       },
       {
-        "topic_id": "cerveza_ritual_social",
-        "title": "La cerveza sostiene su rol de ritual social",
-        "summary": "Birras con amigos, consumo en casa y noches de bares mantienen a la cerveza como código de encuentro. La tensión aparece cuando beber solo reemplaza la compañía.",
-        "current_value": 12,
-        "historical_value": 16,
+        "topic_id": "innovacion_wellness_cerveza",
+        "title": "Bienestar exige nuevas credenciales",
+        "summary": "La cerveza 0.0 aún carga estigma y una consumidora reclama comunicar que Stella Pure Gold es sin gluten. La evidencia sobre alcohol y salud refuerza una demanda estable de opciones claras.",
+        "current_value": 16,
+        "historical_value": 18,
         "source_support": [
           "x",
           "news"
@@ -66,10 +66,10 @@
       },
       {
         "topic_id": "cerveza_y_futbol",
-        "title": "Fútbol y cerveza conservan su código de pertenencia",
-        "summary": "Quilmes en Caminito, Stella como sponsor deseado y la despedida de Messi confirman que camiseta, marca y ritual deportivo siguen reforzando identidad argentina.",
-        "current_value": 3,
-        "historical_value": 4,
+        "title": "Fútbol y cerveza sostienen su alianza",
+        "summary": "Quilmes activa el clásico cordobés y el consumo aparece en el fulbito amateur. La despedida de Messi confirma al deporte como ocasión de pertenencia donde las marcas pueden participar.",
+        "current_value": 4,
+        "historical_value": 3,
         "source_support": [
           "x",
           "news"
@@ -82,45 +82,45 @@
     "brand": [
       {
         "entity": "Quilmes",
-        "headline": "El K-pop la reconoce como ícono nacional",
-        "summary": "El fandom de Stray Kids pide sponsoreo, embajador y productos temáticos. La oportunidad es participar con códigos genuinos y convertir argentinidad en cultura pop compartible.",
+        "headline": "El fútbol local vuelve a ser territorio accionable",
+        "summary": "El sorteo de entradas para el clásico cordobés y los mensajes a clubes muestran una presencia útil dentro del partido. La oportunidad es convertir patrocinio en acceso, ritual y pertenencia.",
         "asset_key": null
       },
       {
-        "entity": "Stella Artois",
-        "headline": "Romance cotidiano y sponsor deseable",
-        "summary": "Un pack funciona como premio o consuelo frente a las flores amarillas, mientras un hincha la propone para River: la marca combina cortejo accesible y aspiración deportiva.",
+        "entity": "Brahma",
+        "headline": "La dulzura entra a la fiesta popular",
+        "summary": "Brahma dulce aparece celebrada por sabor y en un brindis de cumbia con más de dos millones de vistas. El código combina cercanía, disfrute fácil y entretenimiento masivo sin pretensión premium.",
         "asset_key": null
       }
     ],
     "category": [
       {
-        "entity": "Cerveza sin alcohol",
-        "headline": "Más ocasiones, dos barreras sin resolver",
-        "summary": "La 0.0 habilita consumo entre semana, antes de manejar o hacer deporte, pero enfrenta una experiencia percibida como incompleta y restricciones de venta heredadas del alcohol.",
+        "entity": "Cerveza",
+        "headline": "Entre la fiesta masiva y la pausa personal",
+        "summary": "Oktoberfest convive con bares barriales y una cerveza solitaria al salir del trabajo. La categoría puede crecer si diseña experiencias para la celebración colectiva y para el descanso individual.",
         "asset_key": null
       },
       {
-        "entity": "Cervecerías y bares",
-        "headline": "Precio, barrio y comunidad ordenan la salida",
-        "summary": "La Noche de los Bares, el 2x1 artesanal y un festival en una cervecería muestran que promociones y pertenencia local pueden sostener el encuentro fuera del hogar.",
+        "entity": "Accesibilidad cervecera",
+        "headline": "Precio y moderación reordenan la elección",
+        "summary": "Las latas caras frenan citas y festivales, mientras la 0.0 todavía genera juicio social. Precio visible, formatos accesibles y beneficios funcionales pueden reducir esas barreras simultáneas.",
         "asset_key": null
       }
     ],
     "competition": [
       {
-        "entity": "SKYY Vodka",
-        "headline": "La expansión disputa la noche",
-        "summary": "El lanzamiento de una nueva propuesta de SKYY en Argentina refuerza al vodka como alternativa en crecimiento que compite con cerveza por atención, mezcla y nocturnidad.",
+        "entity": "Fernet",
+        "headline": "El after y el asado siguen siendo suyos",
+        "summary": "El fernet aparece en afters, planes de sábado, fútbol y fandom K-pop como un código argentino flexible. Compite por la misma sociabilidad con una identidad local simple y reconocible.",
         "asset_key": null
       },
       {
-        "entity": "Fernet",
-        "headline": "Compite por el regalo y la celebración",
-        "summary": "En el ritual del 21 de septiembre, fernet, vino y cajones de cerveza comparten el menú de regalos. La ocasión se define por significado y formato, no por una categoría fija.",
+        "entity": "Vino argentino",
+        "headline": "Prestigio, origen y mesa amplían su alcance",
+        "summary": "Los blancos suman alta gama, frescura, variedades y maridajes, mientras el vino también ocupa el imaginario de asado y fútbol. Disputa sofisticación y ocasiones sociales con gran elasticidad.",
         "asset_key": null
       }
     ],
-    "takeaway": "La oportunidad es combinar precio defendible, flexibilidad entre alcohol y 0.0 y códigos culturales precisos para que cada ocasión se sienta propia, no intercambiable."
+    "takeaway": "La oportunidad es volver concreta la pertenencia: cuidar el bolsillo, demostrar beneficios creíbles y usar códigos propios para cada ocasión, del partido a la pausa personal."
   }
 }

@@ -13,7 +13,9 @@
         "Stella Artois Pure Gold",
         "Corona sin alcohol",
         "moderación transgeneracional",
-        "efecto cebra"
+        "efecto cebra",
+        "Stella Pure Gold sin gluten",
+        "estigma de cerveza 0.0"
       ],
       "series": [
         {
@@ -41,6 +43,15 @@
           "x_volume": 18,
           "x_engagement": 82,
           "x_views": 4393,
+          "news_articles": 1
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 16,
+          "x_engagement": 43,
+          "x_views": 14891,
           "news_articles": 1
         }
       ]
@@ -97,7 +108,9 @@
         "promo Quilmes",
         "cerveza de bar cara",
         "litro de cerveza a 20000 pesos",
-        "bar como filtro económico"
+        "bar como filtro económico",
+        "lata de cerveza a 12000 pesos",
+        "birra de 15000 pesos"
       ],
       "series": [
         {
@@ -126,11 +139,20 @@
           "x_engagement": 50,
           "x_views": 1668,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 7,
+          "x_engagement": 2770,
+          "x_views": 42364,
+          "news_articles": 2
         }
       ]
     },
     "cerveza_ritual_social": {
-      "label": "Cerveza como ritual social",
+      "label": "Cerveza como ritual social cotidiano",
       "aliases": [
         "birra con amigos",
         "birra en bar barrial",
@@ -142,7 +164,9 @@
         "cerveza en pareja",
         "birras de domingo",
         "cerveza y soledad en casa",
-        "Noche de los Bares Notables"
+        "Noche de los Bares Notables",
+        "asado y cerveza",
+        "cerveza al salir del trabajo"
       ],
       "series": [
         {
@@ -171,6 +195,15 @@
           "x_engagement": 3181,
           "x_views": 57620,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 21,
+          "x_engagement": 40,
+          "x_views": 2123,
+          "news_articles": 2
         }
       ]
     },
@@ -187,7 +220,9 @@
         "cerveza en el buffet del club",
         "Quilmes en Caminito",
         "Stella sponsor de River",
-        "despedida de Messi"
+        "despedida de Messi",
+        "Quilmes en el clásico de Córdoba",
+        "fulbito y cerveza"
       ],
       "series": [
         {
@@ -216,6 +251,15 @@
           "x_engagement": 10,
           "x_views": 476,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 4,
+          "x_engagement": 157,
+          "x_views": 13299,
+          "news_articles": 2
         }
       ]
     },
@@ -239,12 +283,14 @@
       ]
     },
     "premium_supermercado": {
-      "label": "Cuestionamiento al premium masivo",
+      "label": "Cerveza como marcador de estatus",
       "aliases": [
         "Stella premium de supermercado",
         "marca sin autenticidad",
         "Corona sin personalidad",
-        "premium sin credenciales"
+        "premium sin credenciales",
+        "cerveza como marcador de clase",
+        "ranking de cerveza por estatus"
       ],
       "series": [
         {
@@ -255,6 +301,15 @@
           "x_engagement": 1670,
           "x_views": 3492956,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 14,
+          "x_engagement": 697,
+          "x_views": 257034,
+          "news_articles": 0
         }
       ]
     },
@@ -263,7 +318,9 @@
       "aliases": [
         "fernet y asado",
         "fernet en la previa",
-        "competencia de la birra"
+        "competencia de la birra",
+        "fernet en el after",
+        "fernet y fandom"
       ],
       "series": [
         {
@@ -274,6 +331,15 @@
           "x_engagement": null,
           "x_views": null,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 3,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 0
         }
       ]
     },
@@ -383,6 +449,44 @@
           "news_articles": 0
         }
       ]
+    },
+    "oktoberfest_argentina": {
+      "label": "Oktoberfest Argentina como ocasión cultural",
+      "aliases": [
+        "Fiesta Nacional de la Cerveza",
+        "Oktoberfest Villa General Belgrano",
+        "octubre cervecero"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 8,
+          "x_engagement": 18,
+          "x_views": 1396,
+          "news_articles": 0
+        }
+      ]
+    },
+    "brahma_dulce": {
+      "label": "Brahma dulce como código de fiesta",
+      "aliases": [
+        "birra dulce",
+        "Brahma en cumbia",
+        "brindis con Brahma dulce"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 4,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 0
+        }
+      ]
     }
   },
   "pillars": {
@@ -413,6 +517,15 @@
           "x_volume": 18,
           "x_engagement": 82,
           "x_views": 4393,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 16,
+          "x_engagement": 43,
+          "x_views": 14891,
           "news_articles": 2
         }
       ]
@@ -445,6 +558,15 @@
           "x_engagement": 3181,
           "x_views": 57620,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 21,
+          "x_engagement": 40,
+          "x_views": 2123,
+          "news_articles": 2
         }
       ]
     },
@@ -475,6 +597,15 @@
           "x_volume": 9,
           "x_engagement": 50,
           "x_views": 1668,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 7,
+          "x_engagement": 2770,
+          "x_views": 42364,
           "news_articles": 2
         }
       ]
@@ -507,6 +638,15 @@
           "x_engagement": 8,
           "x_views": 627,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 14,
+          "x_engagement": 697,
+          "x_views": 257034,
+          "news_articles": 2
         }
       ]
     },
@@ -537,6 +677,15 @@
           "x_volume": 12,
           "x_engagement": 14,
           "x_views": 754,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 18,
+          "x_engagement": 155,
+          "x_views": 10702,
           "news_articles": 2
         }
       ]
@@ -569,6 +718,15 @@
           "x_engagement": 10,
           "x_views": 476,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 4,
+          "x_engagement": 157,
+          "x_views": 13299,
+          "news_articles": 2
         }
       ]
     },
@@ -599,6 +757,15 @@
           "x_volume": 10,
           "x_engagement": 229,
           "x_views": 14049,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-29",
+          "to_date": "2026-10-05",
+          "x_volume": 5,
+          "x_engagement": 3809,
+          "x_views": 2118923,
           "news_articles": 2
         }
       ]
