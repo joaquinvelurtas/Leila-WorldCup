@@ -1,94 +1,106 @@
 {
   "overview": {
     "portales": {
-      "summary": "La semana combina moderación y cerveza sin alcohol, presión del bolsillo, gastronomía con identidad local y grandes rituales deportivos y culturales como ocasiones de consumo."
+      "summary": "Los portales reflejan presión sobre el bolsillo, cambios en los rituales de mesa, nuevas búsquedas de sabor y experiencias culturales y deportivas que siguen abriendo ocasiones de consumo."
     }
   },
   "pilares": {
     "AFFORDABILITY": [
       {
-        "medio": "TN",
-        "resumen": "El 65% de los argentinos llega como máximo al día 20 con sus ingresos y los jóvenes son los más afectados, reduciendo margen para salidas y consumos discrecionales.",
-        "titulo_corto": "El ingreso se agota antes",
-        "url": "https://tn.com.ar/economia/2026/09/20/familias-endeudadas-tres-de-cada-cuatro-argentinos-tomaron-creditos-para-pagar-alimentos-salud-tarifas-y-servicios"
+        "medio": "Infobae",
+        "resumen": "El 81,8% de los argentinos siente que su salario no supera la inflación y, entre los sectores de menores ingresos, el dinero suele agotarse antes del día 20.",
+        "titulo_corto": "El salario pierde la carrera",
+        "url": "https://www.infobae.com/economia/2026/10/05/ocho-de-cada-diez-argentinos-considera-que-su-salario-no-le-gana-a-la-inflacion"
       },
       {
         "medio": "Infobae",
-        "resumen": "Las bebidas explicaron el 70% de la inflación promedio de alimentos de las últimas cuatro semanas y acumularon una suba mensual de 9,3%, elevando la sensibilidad al precio.",
-        "titulo_corto": "Las bebidas presionan los precios",
-        "url": "https://www.infobae.com/economia/2026/09/21/se-dificulta-el-camino-de-la-desinflacion-los-alimentos-presionan-y-el-alza-de-precios-podria-acercarse-al-2-en-septiembre"
+        "resumen": "Las ventas minoristas cayeron 1,2% mensual y alimentos y bebidas bajaron 3,1% interanual; crecen la búsqueda de precios, las cuotas cortas y las promociones.",
+        "titulo_corto": "Consumo pyme sin tracción",
+        "url": "https://www.infobae.com/economia/2026/10/04/las-ventas-minoristas-pyme-aumentaron-03-anual-en-septiembre-que-diferencia-registro-el-consumo-online"
       }
     ],
     "EVENTS": [
       {
         "medio": "La Nación",
-        "resumen": "Más de 75 bares de 25 barrios ofrecerán 130 propuestas de gastronomía, música y promociones, generando una ocasión urbana de escala para consumo fuera del hogar.",
-        "titulo_corto": "La Noche de los Bares activa la ciudad",
-        "url": "https://www.lanacion.com.ar/que-sale/mas-de-130-propuestas-de-gastronomia-y-musica-en-vivo-en-25-barrios-el-mapa-de-la-noche-de-los-bares-nid18092026"
+        "resumen": "El festival de folklore profundiza su apertura al urbano, cuarteto y rock para ampliar públicos, con Trueno como figura de cierre y mayor capacidad para asistentes de pie.",
+        "titulo_corto": "Cosquín cruza generaciones",
+        "url": "https://www.lanacion.com.ar/espectaculos/musica/anuncio-la-particular-tendencia-que-se-acentua-en-la-programacion-del-festival-de-cosquin-nid03102026"
       },
       {
-        "medio": "Olé",
-        "resumen": "Olé y Fundación PUPI convocan una cena benéfica tras el Summit, con referentes del deporte y una entrada de $250.000 que combina pasión, comunidad y alto valor.",
-        "titulo_corto": "Fútbol, solidaridad y networking",
-        "url": "https://www.ole.com.ar/informacion-general/cumpleanos-ole-30-anos-aniversario-25-fundacion-pupi-entradas-evento-dia-horario_0_1brAsvRvSK.html"
+        "medio": "Infobae",
+        "resumen": "El Día del Estudiante Solidario cumple 20 años con un recital multigeneracional en el Teatro Ópera que une música en vivo, donaciones y conciencia vial.",
+        "titulo_corto": "Música con propósito solidario",
+        "url": "https://www.infobae.com/cultura/2026/10/03/dia-del-estudiante-solidario-leon-gieco-los-autenticos-decadentes-e-hilda-lizarazu-celebran-los-20-anos-del-festival-en-el-teatro-opera"
       }
     ],
     "FLAVOR": [
       {
         "medio": "La Nación",
-        "resumen": "Shanghai Express combina herencia china, códigos argentinos y formato de comida rápida, señalando apertura a sabores híbridos y experiencias gastronómicas accesibles.",
-        "titulo_corto": "Comida china con identidad argentina",
-        "url": "https://www.lanacion.com.ar/lifestyle/estoy-orgulloso-de-mis-origenes-se-presenta-como-argenchino-fundo-la-primera-cadena-de-comida-rapida-nid17092026"
+        "resumen": "Chefs argentinos combinan frutas, miel y fermentos con ajíes, cítricos y ahumados, señal de un paladar más abierto a contrastes intensos y sabores complejos.",
+        "titulo_corto": "Dulce y picante ganan lugar",
+        "url": "https://www.lanacion.com.ar/que-sale/hoy-la-gente-se-anima-mucho-mas-chefs-explican-por-que-los-argentinos-piden-cada-vez-mas-platos-que-nid02102026"
       },
       {
-        "medio": "La Nación",
-        "resumen": "La Tribuna une parrilla porteña, memoria de bar y pasión futbolera en un menú de $19.000, integrando sabor, tradición e identidad barrial en una misma experiencia.",
-        "titulo_corto": "Parrilla, barrio y fútbol",
-        "url": "https://www.lanacion.com.ar/revista-lugares/la-parrilla-de-caballito-con-un-menu-de-19000-que-homenajea-al-futbol-de-barrio-nid15092026"
+        "medio": "Infobae",
+        "resumen": "Siete recetas muestran al vodka compitiendo por ocasiones caseras mediante perfiles cítricos, dulces, especiados y con café, desde Moscow Mule hasta Bloody Mary.",
+        "titulo_corto": "Vodka versátil en casa",
+        "url": "https://www.infobae.com/tendencias/2026/10/04/dia-internacional-del-vodka-siete-recetas-de-cocteles-para-disfrutar-su-versatilidad"
       }
     ],
     "IMAGE": [
       {
+        "medio": "Infobae",
+        "resumen": "Los blancos argentinos amplían su lugar en alta gama con origen, guarda, frescura y variedades menos tradicionales, elevando los códigos de sofisticación de la competencia.",
+        "titulo_corto": "El vino blanco se premiumiza",
+        "url": "https://www.infobae.com/tendencias/2026/10/04/mas-alla-del-chardonnay-y-el-torrontes-11-etiquetas-para-conocer-la-diversidad-del-vino-blanco-argentino"
+      },
+      {
         "medio": "La Nación",
-        "resumen": "La Triple Corona se presentó con un cóctel en Palermo y reunió deporte, figuras y tradición, consolidando una ocasión aspiracional vinculada con prestigio y sociabilidad.",
-        "titulo_corto": "Polo, cóctel y alto hándicap",
-        "url": "https://www.lanacion.com.ar/lifestyle/en-fotos-todos-los-invitados-a-la-presentacion-de-la-triple-corona-nid18092026"
+        "resumen": "Los reestrenos recuperan público joven y convierten la sala en una experiencia presencial, colectiva y analógica, más allá de la disponibilidad de películas en plataformas.",
+        "titulo_corto": "Volver al cine por la experiencia",
+        "url": "https://www.lanacion.com.ar/espectaculos/la-experiencia-de-ir-al-cine-resurge-con-el-reestreno-de-peliculas-consagradas-nid04102026"
       }
     ],
     "SOCIALIZATION": [
       {
+        "medio": "La Nación",
+        "resumen": "Un clásico de San Martín de los Andes reabrió en la casa de su dueña y sostiene a la fondue como ritual de charla, distensión y encuentro entre generaciones.",
+        "titulo_corto": "La fondue como comida social",
+        "url": "https://www.lanacion.com.ar/revista-lugares/el-restaurante-que-es-un-clasico-de-san-martin-de-los-andes-se-incendio-y-reabrio-en-la-casa-de-la-nid05102026"
+      },
+      {
         "medio": "Infobae",
-        "resumen": "Un grupo de fanáticos organiza viajes y vacaciones alrededor de la Copa Davis, convirtiendo el deporte en una ocasión sostenida de encuentro, pertenencia y celebración.",
-        "titulo_corto": "La hinchada como ritual compartido",
-        "url": "https://www.infobae.com/deportes/2026/09/21/viajan-por-el-mundo-para-alentar-a-argentina-en-la-copa-davis-la-historia-detras-de-la-hinchada-que-llego-a-neuquen"
+        "resumen": "Parejas con horarios, dietas o gustos distintos separan sus comidas para reducir fricciones, aunque la tendencia pone en tensión uno de los pocos momentos cotidianos de conexión.",
+        "titulo_corto": "El divorcio culinario",
+        "url": "https://www.infobae.com/tendencias/2026/10/05/cuando-comer-juntos-deja-de-ser-una-obligacion-en-pareja-que-es-el-divorcio-culinario"
       }
     ],
     "SPORTS": [
       {
-        "medio": "Infobae",
-        "resumen": "La despedida de Messi moviliza una ocasión masiva con entradas de $90.000 a $480.000, donde pasión y barrera económica conviven en el mismo ritual futbolero.",
-        "titulo_corto": "El precio del último partido de Messi",
-        "url": "https://www.infobae.com/deportes/2026/09/21/todo-lo-que-hay-que-saber-sobre-la-venta-de-entradas-para-los-amistosos-de-la-seleccion-y-la-despedida-de-messi-precios-y-como-comprar"
+        "medio": "TN",
+        "resumen": "El argentino remontó ocho posiciones y terminó 13° en una carrera de F1 marcada por lluvia y fallas técnicas, manteniendo al automovilismo como foco de audiencia local.",
+        "titulo_corto": "Colapinto sostiene la atención",
+        "url": "https://tn.com.ar/deportes/formula-1/2026/10/04/franco-colapinto-largara-21-en-el-gran-premio-de-bahrein-y-buscara-la-remontada-en-malasia"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Argentina alcanzó 160 medallas y sostuvo el segundo lugar en Santa Fe 2026, mientras las sedes y Fan Fest amplían el deporte como experiencia colectiva y federal.",
-        "titulo_corto": "Los Suramericanos movilizan al país",
-        "url": "https://www.infobae.com/deportes/2026/09/21/argentina-llego-a-160-medallas-en-los-juegos-suramericanos-santa-fe-2026-la-marca-que-supero-y-como-esta-en-el-ranking"
+        "medio": "TyC Sports",
+        "resumen": "El amistoso ante Benín en el Monumental será el último partido de Messi con la Selección y concentra una ocasión deportiva excepcional cargada de ritual, identidad y emoción.",
+        "titulo_corto": "La despedida de Messi",
+        "url": "https://www.tycsports.com/amistosos-de-selecciones/amistosos-internacionales-masc-2026-argentina-vs-benin-amistosos-id764375.html"
       }
     ],
     "WELLNESS": [
       {
-        "medio": "TN",
-        "resumen": "Bienestar y costo impulsan un consumo más selectivo: se alternan bebidas con y sin alcohol según el momento, el manejo o la actividad física, sin abandonar la ocasión social.",
-        "titulo_corto": "Moderación, no abandono",
-        "url": "https://tn.com.ar/sociedad/2026/09/19/mayor-bienestar-suba-de-los-costos-y-mejores-experiencias-las-razones-detras-de-la-baja-del-consumo-de-alcohol-en-los-jovenes"
+        "medio": "Infobae",
+        "resumen": "La evidencia concentra la advertencia en el consumo elevado o intenso de alcohol, que se vincula con arritmias y fibrilación auricular, y no valida beneficios de una copa diaria.",
+        "titulo_corto": "Alcohol y ritmo cardíaco",
+        "url": "https://www.infobae.com/salud/2026/10/02/de-las-arritmias-a-la-fibrilacion-auricular-el-impacto-del-alcohol-en-el-corazon-segun-la-evidencia-cientifica"
       },
       {
         "medio": "Infobae",
-        "resumen": "Un choque en Mendoza con 3 g/l de alcohol en sangre refuerza la seguridad vial como barrera concreta para el consumo excesivo y amplifica el valor de alternativas de moderación.",
-        "titulo_corto": "El exceso vuelve visible el riesgo",
-        "url": "https://www.infobae.com/sociedad/2026/09/21/un-conductor-choco-en-mendoza-y-el-control-de-alcoholemia-dio-seis-veces-mas-que-lo-permitido-en-la-provincia"
+        "resumen": "Un ensayo con 108 adultos halló una suba de glucosa más moderada al comer junto a la pareja, reforzando que el contexto social también puede incidir en el bienestar.",
+        "titulo_corto": "Comer juntos regula mejor",
+        "url": "https://www.infobae.com/salud/2026/10/03/comer-acompanado-puede-reducir-el-aumento-de-glucosa-tras-una-comida"
       }
     ]
   }
