@@ -47,11 +47,11 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 16,
-          "x_engagement": 43,
-          "x_views": 14891,
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 1,
+          "x_engagement": 0,
+          "x_views": 32,
           "news_articles": 1
         }
       ]
@@ -61,7 +61,9 @@
       "aliases": [
         "Brahma pomelo rosado",
         "Brahma limon",
-        "cerveza frutal"
+        "cerveza frutal",
+        "Brahma dulce",
+        "Schneider limón"
       ],
       "series": [
         {
@@ -71,6 +73,15 @@
           "x_volume": 1,
           "x_engagement": 78,
           "x_views": 4042,
+          "news_articles": 0
+        },
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 3,
+          "x_engagement": null,
+          "x_views": null,
           "news_articles": 0
         }
       ]
@@ -110,7 +121,8 @@
         "litro de cerveza a 20000 pesos",
         "bar como filtro económico",
         "lata de cerveza a 12000 pesos",
-        "birra de 15000 pesos"
+        "birra de 15000 pesos",
+        "birra más barata que agua"
       ],
       "series": [
         {
@@ -142,11 +154,11 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 7,
-          "x_engagement": 2770,
-          "x_views": 42364,
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 8,
+          "x_engagement": 148,
+          "x_views": 11133,
           "news_articles": 2
         }
       ]
@@ -198,12 +210,12 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 21,
-          "x_engagement": 40,
-          "x_views": 2123,
-          "news_articles": 2
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 12,
+          "x_engagement": 500,
+          "x_views": 63071,
+          "news_articles": 0
         }
       ]
     },
@@ -304,11 +316,11 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 14,
-          "x_engagement": 697,
-          "x_views": 257034,
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 12,
+          "x_engagement": 589,
+          "x_views": 253012,
           "news_articles": 0
         }
       ]
@@ -334,9 +346,9 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 3,
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 1,
           "x_engagement": null,
           "x_views": null,
           "news_articles": 0
@@ -455,16 +467,17 @@
       "aliases": [
         "Fiesta Nacional de la Cerveza",
         "Oktoberfest Villa General Belgrano",
-        "octubre cervecero"
+        "octubre cervecero",
+        "fiestas provinciales de la cerveza"
       ],
       "series": [
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 8,
-          "x_engagement": 18,
-          "x_views": 1396,
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 5,
+          "x_engagement": 5,
+          "x_views": 1609,
           "news_articles": 0
         }
       ]
@@ -474,17 +487,38 @@
       "aliases": [
         "birra dulce",
         "Brahma en cumbia",
-        "brindis con Brahma dulce"
+        "brindis con Brahma dulce",
+        "Brahma pomelo"
       ],
       "series": [
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
           "x_volume": 4,
+          "x_engagement": 4268,
+          "x_views": 2808260,
+          "news_articles": 0
+        }
+      ]
+    },
+    "experiencias_presenciales_compartidas": {
+      "label": "Experiencias presenciales compartidas",
+      "aliases": [
+        "cine como encuentro",
+        "salidas al aire libre",
+        "ferias gastronómicas",
+        "eventos culturales masivos"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W41",
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": null,
           "x_engagement": null,
           "x_views": null,
-          "news_articles": 0
+          "news_articles": 4
         }
       ]
     }
@@ -521,12 +555,12 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 16,
-          "x_engagement": 43,
-          "x_views": 14891,
-          "news_articles": 2
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 8,
+          "x_engagement": 31,
+          "x_views": 979,
+          "news_articles": 1
         }
       ]
     },
@@ -561,11 +595,11 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 21,
-          "x_engagement": 40,
-          "x_views": 2123,
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 12,
+          "x_engagement": 500,
+          "x_views": 63071,
           "news_articles": 2
         }
       ]
@@ -601,11 +635,11 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 7,
-          "x_engagement": 2770,
-          "x_views": 42364,
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 8,
+          "x_engagement": 148,
+          "x_views": 11133,
           "news_articles": 2
         }
       ]
@@ -641,12 +675,12 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 14,
-          "x_engagement": 697,
-          "x_views": 257034,
-          "news_articles": 2
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 12,
+          "x_engagement": 589,
+          "x_views": 253012,
+          "news_articles": 1
         }
       ]
     },
@@ -681,12 +715,12 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 18,
-          "x_engagement": 155,
-          "x_views": 10702,
-          "news_articles": 2
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 11,
+          "x_engagement": 22,
+          "x_views": 3155,
+          "news_articles": 1
         }
       ]
     },
@@ -721,12 +755,12 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 4,
-          "x_engagement": 157,
-          "x_views": 13299,
-          "news_articles": 2
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 1,
+          "x_engagement": 0,
+          "x_views": 94,
+          "news_articles": 1
         }
       ]
     },
@@ -761,11 +795,11 @@
         },
         {
           "period_id": "2026-W41",
-          "from_date": "2026-09-29",
-          "to_date": "2026-10-05",
-          "x_volume": 5,
-          "x_engagement": 3809,
-          "x_views": 2118923,
+          "from_date": "2026-09-30",
+          "to_date": "2026-10-06",
+          "x_volume": 16,
+          "x_engagement": 4424,
+          "x_views": 2815660,
           "news_articles": 2
         }
       ]
