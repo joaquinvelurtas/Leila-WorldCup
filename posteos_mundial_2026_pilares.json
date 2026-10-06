@@ -1,106 +1,82 @@
 {
   "overview": {
     "portales": {
-      "summary": "Los portales reflejan presión sobre el bolsillo, cambios en los rituales de mesa, nuevas búsquedas de sabor y experiencias culturales y deportivas que siguen abriendo ocasiones de consumo."
+      "summary": "La semana combina presión sobre el consumo, regreso de experiencias presenciales, gastronomía identitaria, bienestar y grandes rituales colectivos alrededor del fútbol y la cultura."
     }
   },
   "pilares": {
     "AFFORDABILITY": [
       {
-        "medio": "Infobae",
-        "resumen": "El 81,8% de los argentinos siente que su salario no supera la inflación y, entre los sectores de menores ingresos, el dinero suele agotarse antes del día 20.",
-        "titulo_corto": "El salario pierde la carrera",
-        "url": "https://www.infobae.com/economia/2026/10/05/ocho-de-cada-diez-argentinos-considera-que-su-salario-no-le-gana-a-la-inflacion"
+        "medio": "pagina12",
+        "resumen": "La caída de ventas se asocia con menor dinamismo del ingreso disponible y límites al financiamiento con tarjeta, señales que restringen los consumos discrecionales.",
+        "titulo_corto": "El consumo pyme sigue en baja",
+        "url": "https://www.pagina12.com.ar/2026/10/04/el-consumo-pyme-sigue-en-caida-y-sin-repunte"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Las ventas minoristas cayeron 1,2% mensual y alimentos y bebidas bajaron 3,1% interanual; crecen la búsqueda de precios, las cuotas cortas y las promociones.",
-        "titulo_corto": "Consumo pyme sin tracción",
-        "url": "https://www.infobae.com/economia/2026/10/04/las-ventas-minoristas-pyme-aumentaron-03-anual-en-septiembre-que-diferencia-registro-el-consumo-online"
+        "medio": "infobae",
+        "resumen": "El menú de una parrilla emblemática de Palermo vuelve visibles los precios de una experiencia gastronómica de alta gama y la tensión de acceso para clientes locales.",
+        "titulo_corto": "La parrilla expone precios premium",
+        "url": "https://www.infobae.com/economia/2026/10/06/una-turista-fue-a-una-emblematica-parrilla-de-palermo-y-mostro-el-menu-el-precio-de-las-mollejas-y-otros-cortes-super-premium"
       }
     ],
     "EVENTS": [
       {
-        "medio": "La Nación",
-        "resumen": "El festival de folklore profundiza su apertura al urbano, cuarteto y rock para ampliar públicos, con Trueno como figura de cierre y mayor capacidad para asistentes de pie.",
-        "titulo_corto": "Cosquín cruza generaciones",
-        "url": "https://www.lanacion.com.ar/espectaculos/musica/anuncio-la-particular-tendencia-que-se-acentua-en-la-programacion-del-festival-de-cosquin-nid03102026"
+        "medio": "infobae",
+        "resumen": "La despedida de Messi suma cumbia, cuarteto, drones, homenajes y fuegos artificiales, ampliando el partido hacia una experiencia cultural de varias horas.",
+        "titulo_corto": "Fútbol, música y celebración",
+        "url": "https://www.infobae.com/deportes/2026/10/05/la-sole-los-fundamentalistas-ulises-bueno-drones-y-fuegos-artificiales-todos-los-shows-y-sorpresas-en-el-partido-despedida-de-messi"
       },
       {
-        "medio": "Infobae",
-        "resumen": "El Día del Estudiante Solidario cumple 20 años con un recital multigeneracional en el Teatro Ópera que une música en vivo, donaciones y conciencia vial.",
-        "titulo_corto": "Música con propósito solidario",
-        "url": "https://www.infobae.com/cultura/2026/10/03/dia-del-estudiante-solidario-leon-gieco-los-autenticos-decadentes-e-hilda-lizarazu-celebran-los-20-anos-del-festival-en-el-teatro-opera"
+        "medio": "infobae",
+        "resumen": "Leer y Comer convocó familias y grupos de amigos con entrada gratuita, puestos gastronómicos y contenidos de bienestar, deporte y cultura en Chacarita.",
+        "titulo_corto": "Libros y gastronomía reúnen a 7.000",
+        "url": "https://www.infobae.com/cultura/2026/10/05/leer-y-comer-volvio-a-chacarita-con-7000-personas-pese-a-las-lluvias-que-reprogramaron-la-feria"
       }
     ],
     "FLAVOR": [
       {
-        "medio": "La Nación",
-        "resumen": "Chefs argentinos combinan frutas, miel y fermentos con ajíes, cítricos y ahumados, señal de un paladar más abierto a contrastes intensos y sabores complejos.",
-        "titulo_corto": "Dulce y picante ganan lugar",
-        "url": "https://www.lanacion.com.ar/que-sale/hoy-la-gente-se-anima-mucho-mas-chefs-explican-por-que-los-argentinos-piden-cada-vez-mas-platos-que-nid02102026"
-      },
-      {
-        "medio": "Infobae",
-        "resumen": "Siete recetas muestran al vodka compitiendo por ocasiones caseras mediante perfiles cítricos, dulces, especiados y con café, desde Moscow Mule hasta Bloody Mary.",
-        "titulo_corto": "Vodka versátil en casa",
-        "url": "https://www.infobae.com/tendencias/2026/10/04/dia-internacional-del-vodka-siete-recetas-de-cocteles-para-disfrutar-su-versatilidad"
+        "medio": "lanacion",
+        "resumen": "Sodas caseras, fermentados y germinados combinan sabores frescos, burbujas naturales y fácil digestión, mostrando interés por experiencias sensoriales con códigos de bienestar.",
+        "titulo_corto": "Fermentados frescos de primavera",
+        "url": "https://www.lanacion.com.ar/revista-jardin/fermentados-y-germinados-como-incorporarlos-a-la-cocina-de-primavera-nid03102026"
       }
     ],
     "IMAGE": [
       {
-        "medio": "Infobae",
-        "resumen": "Los blancos argentinos amplían su lugar en alta gama con origen, guarda, frescura y variedades menos tradicionales, elevando los códigos de sofisticación de la competencia.",
-        "titulo_corto": "El vino blanco se premiumiza",
-        "url": "https://www.infobae.com/tendencias/2026/10/04/mas-alla-del-chardonnay-y-el-torrontes-11-etiquetas-para-conocer-la-diversidad-del-vino-blanco-argentino"
-      },
-      {
-        "medio": "La Nación",
-        "resumen": "Los reestrenos recuperan público joven y convierten la sala en una experiencia presencial, colectiva y analógica, más allá de la disponibilidad de películas en plataformas.",
-        "titulo_corto": "Volver al cine por la experiencia",
-        "url": "https://www.lanacion.com.ar/espectaculos/la-experiencia-de-ir-al-cine-resurge-con-el-reestreno-de-peliculas-consagradas-nid04102026"
+        "medio": "lanacion",
+        "resumen": "Asado, picada y chacinados artesanales se revisan desde la sustentabilidad, la técnica y el origen, renovando códigos de identidad y autenticidad gastronómica.",
+        "titulo_corto": "Tradición argentina con futuro",
+        "url": "https://www.lanacion.com.ar/lifestyle/asado-y-picada-que-puede-ensenarnos-la-tradicion-sobre-la-cocina-argentina-del-futuro-nid05102026"
       }
     ],
     "SOCIALIZATION": [
       {
-        "medio": "La Nación",
-        "resumen": "Un clásico de San Martín de los Andes reabrió en la casa de su dueña y sostiene a la fondue como ritual de charla, distensión y encuentro entre generaciones.",
-        "titulo_corto": "La fondue como comida social",
-        "url": "https://www.lanacion.com.ar/revista-lugares/el-restaurante-que-es-un-clasico-de-san-martin-de-los-andes-se-incendio-y-reabrio-en-la-casa-de-la-nid05102026"
+        "medio": "lanacion",
+        "resumen": "Los reestrenos y la conversación en redes atraen a jóvenes que buscan experiencias presenciales compartidas, una señal de recuperación de las salidas como ritual social.",
+        "titulo_corto": "El cine vuelve como encuentro",
+        "url": "https://www.lanacion.com.ar/espectaculos/la-experiencia-de-ir-al-cine-resurge-con-el-reestreno-de-peliculas-consagradas-nid04102026"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Parejas con horarios, dietas o gustos distintos separan sus comidas para reducir fricciones, aunque la tendencia pone en tensión uno de los pocos momentos cotidianos de conexión.",
-        "titulo_corto": "El divorcio culinario",
-        "url": "https://www.infobae.com/tendencias/2026/10/05/cuando-comer-juntos-deja-de-ser-una-obligacion-en-pareja-que-es-el-divorcio-culinario"
+        "medio": "lanacion",
+        "resumen": "Patios, jardines y terrazas porteñas ganan atractivo para comer al aire libre, reforzando una ocasión estacional de encuentro y consumo fuera del hogar.",
+        "titulo_corto": "La primavera impulsa las salidas",
+        "url": "https://www.lanacion.com.ar/sabado/patios-jardines-y-terrazas-ocho-lugares-ideales-para-salir-a-comer-en-primavera-nid03102026"
       }
     ],
     "SPORTS": [
       {
-        "medio": "TN",
-        "resumen": "El argentino remontó ocho posiciones y terminó 13° en una carrera de F1 marcada por lluvia y fallas técnicas, manteniendo al automovilismo como foco de audiencia local.",
-        "titulo_corto": "Colapinto sostiene la atención",
-        "url": "https://tn.com.ar/deportes/formula-1/2026/10/04/franco-colapinto-largara-21-en-el-gran-premio-de-bahrein-y-buscara-la-remontada-en-malasia"
-      },
-      {
-        "medio": "TyC Sports",
-        "resumen": "El amistoso ante Benín en el Monumental será el último partido de Messi con la Selección y concentra una ocasión deportiva excepcional cargada de ritual, identidad y emoción.",
-        "titulo_corto": "La despedida de Messi",
-        "url": "https://www.tycsports.com/amistosos-de-selecciones/amistosos-internacionales-masc-2026-argentina-vs-benin-amistosos-id764375.html"
+        "medio": "pagina12",
+        "resumen": "El último partido del capitán reúne entrenamiento abierto, festejos y expectativa nacional, convirtiendo al fútbol en una ocasión colectiva de fuerte carga emocional.",
+        "titulo_corto": "La despedida de Messi moviliza al país",
+        "url": "https://www.pagina12.com.ar/2026/10/05/las-ultimas-horas-de-messi-en-la-seleccion-asado-festejos-y-entrenamiento"
       }
     ],
     "WELLNESS": [
       {
-        "medio": "Infobae",
-        "resumen": "La evidencia concentra la advertencia en el consumo elevado o intenso de alcohol, que se vincula con arritmias y fibrilación auricular, y no valida beneficios de una copa diaria.",
-        "titulo_corto": "Alcohol y ritmo cardíaco",
+        "medio": "infobae",
+        "resumen": "La evidencia vincula el consumo elevado o concentrado de alcohol con arritmias y fibrilación auricular, reforzando la moderación como tensión concreta para la categoría.",
+        "titulo_corto": "Alcohol y salud cardíaca",
         "url": "https://www.infobae.com/salud/2026/10/02/de-las-arritmias-a-la-fibrilacion-auricular-el-impacto-del-alcohol-en-el-corazon-segun-la-evidencia-cientifica"
-      },
-      {
-        "medio": "Infobae",
-        "resumen": "Un ensayo con 108 adultos halló una suba de glucosa más moderada al comer junto a la pareja, reforzando que el contexto social también puede incidir en el bienestar.",
-        "titulo_corto": "Comer juntos regula mejor",
-        "url": "https://www.infobae.com/salud/2026/10/03/comer-acompanado-puede-reducir-el-aumento-de-glucosa-tras-una-comida"
       }
     ]
   }
