@@ -7,13 +7,13 @@
   "pilares": {
     "AFFORDABILITY": [
       {
-        "medio": "pagina12",
+        "medio": "Página 12",
         "resumen": "La caída de ventas se asocia con menor dinamismo del ingreso disponible y límites al financiamiento con tarjeta, señales que restringen los consumos discrecionales.",
         "titulo_corto": "El consumo pyme sigue en baja",
         "url": "https://www.pagina12.com.ar/2026/10/04/el-consumo-pyme-sigue-en-caida-y-sin-repunte"
       },
       {
-        "medio": "infobae",
+        "medio": "Infobae",
         "resumen": "El menú de una parrilla emblemática de Palermo vuelve visibles los precios de una experiencia gastronómica de alta gama y la tensión de acceso para clientes locales.",
         "titulo_corto": "La parrilla expone precios premium",
         "url": "https://www.infobae.com/economia/2026/10/06/una-turista-fue-a-una-emblematica-parrilla-de-palermo-y-mostro-el-menu-el-precio-de-las-mollejas-y-otros-cortes-super-premium"
@@ -21,13 +21,13 @@
     ],
     "EVENTS": [
       {
-        "medio": "infobae",
+        "medio": "Infobae",
         "resumen": "La despedida de Messi suma cumbia, cuarteto, drones, homenajes y fuegos artificiales, ampliando el partido hacia una experiencia cultural de varias horas.",
         "titulo_corto": "Fútbol, música y celebración",
         "url": "https://www.infobae.com/deportes/2026/10/05/la-sole-los-fundamentalistas-ulises-bueno-drones-y-fuegos-artificiales-todos-los-shows-y-sorpresas-en-el-partido-despedida-de-messi"
       },
       {
-        "medio": "infobae",
+        "medio": "Infobae",
         "resumen": "Leer y Comer convocó familias y grupos de amigos con entrada gratuita, puestos gastronómicos y contenidos de bienestar, deporte y cultura en Chacarita.",
         "titulo_corto": "Libros y gastronomía reúnen a 7.000",
         "url": "https://www.infobae.com/cultura/2026/10/05/leer-y-comer-volvio-a-chacarita-con-7000-personas-pese-a-las-lluvias-que-reprogramaron-la-feria"
@@ -35,7 +35,7 @@
     ],
     "FLAVOR": [
       {
-        "medio": "lanacion",
+        "medio": "La Nación",
         "resumen": "Sodas caseras, fermentados y germinados combinan sabores frescos, burbujas naturales y fácil digestión, mostrando interés por experiencias sensoriales con códigos de bienestar.",
         "titulo_corto": "Fermentados frescos de primavera",
         "url": "https://www.lanacion.com.ar/revista-jardin/fermentados-y-germinados-como-incorporarlos-a-la-cocina-de-primavera-nid03102026"
@@ -43,7 +43,7 @@
     ],
     "IMAGE": [
       {
-        "medio": "lanacion",
+        "medio": "La Nación",
         "resumen": "Asado, picada y chacinados artesanales se revisan desde la sustentabilidad, la técnica y el origen, renovando códigos de identidad y autenticidad gastronómica.",
         "titulo_corto": "Tradición argentina con futuro",
         "url": "https://www.lanacion.com.ar/lifestyle/asado-y-picada-que-puede-ensenarnos-la-tradicion-sobre-la-cocina-argentina-del-futuro-nid05102026"
@@ -51,13 +51,13 @@
     ],
     "SOCIALIZATION": [
       {
-        "medio": "lanacion",
+        "medio": "La Nación",
         "resumen": "Los reestrenos y la conversación en redes atraen a jóvenes que buscan experiencias presenciales compartidas, una señal de recuperación de las salidas como ritual social.",
         "titulo_corto": "El cine vuelve como encuentro",
         "url": "https://www.lanacion.com.ar/espectaculos/la-experiencia-de-ir-al-cine-resurge-con-el-reestreno-de-peliculas-consagradas-nid04102026"
       },
       {
-        "medio": "lanacion",
+        "medio": "La Nación",
         "resumen": "Patios, jardines y terrazas porteñas ganan atractivo para comer al aire libre, reforzando una ocasión estacional de encuentro y consumo fuera del hogar.",
         "titulo_corto": "La primavera impulsa las salidas",
         "url": "https://www.lanacion.com.ar/sabado/patios-jardines-y-terrazas-ocho-lugares-ideales-para-salir-a-comer-en-primavera-nid03102026"
@@ -65,7 +65,7 @@
     ],
     "SPORTS": [
       {
-        "medio": "pagina12",
+        "medio": "Página 12",
         "resumen": "El último partido del capitán reúne entrenamiento abierto, festejos y expectativa nacional, convirtiendo al fútbol en una ocasión colectiva de fuerte carga emocional.",
         "titulo_corto": "La despedida de Messi moviliza al país",
         "url": "https://www.pagina12.com.ar/2026/10/05/las-ultimas-horas-de-messi-en-la-seleccion-asado-festejos-y-entrenamiento"
@@ -73,7 +73,7 @@
     ],
     "WELLNESS": [
       {
-        "medio": "infobae",
+        "medio": "Infobae",
         "resumen": "La evidencia vincula el consumo elevado o concentrado de alcohol con arritmias y fibrilación auricular, reforzando la moderación como tensión concreta para la categoría.",
         "titulo_corto": "Alcohol y salud cardíaca",
         "url": "https://www.infobae.com/salud/2026/10/02/de-las-arritmias-a-la-fibrilacion-auricular-el-impacto-del-alcohol-en-el-corazon-segun-la-evidencia-cientifica"
