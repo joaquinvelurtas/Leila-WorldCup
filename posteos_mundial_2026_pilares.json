@@ -1,82 +1,94 @@
 {
   "overview": {
     "portales": {
-      "summary": "La semana combina presión sobre el consumo, regreso de experiencias presenciales, gastronomía identitaria, bienestar y grandes rituales colectivos alrededor del fútbol y la cultura."
+      "summary": "La semana combina innovación cervecera y sabores, presión sobre el gasto, nuevas ocasiones gastronómicas, cultura, fútbol y barreras de acceso a experiencias en vivo."
     }
   },
   "pilares": {
     "AFFORDABILITY": [
       {
-        "medio": "Página 12",
-        "resumen": "La caída de ventas se asocia con menor dinamismo del ingreso disponible y límites al financiamiento con tarjeta, señales que restringen los consumos discrecionales.",
-        "titulo_corto": "El consumo pyme sigue en baja",
-        "url": "https://www.pagina12.com.ar/2026/10/04/el-consumo-pyme-sigue-en-caida-y-sin-repunte"
+        "medio": "La Nación",
+        "resumen": "El ingreso disponible sigue muy por debajo de 2023 y el gasto migra desde consumo masivo y experiencias hacia bienes, mientras precio-calidad e innovación ganan peso.",
+        "titulo_corto": "Menos ingreso cambia el consumo",
+        "url": "https://www.lanacion.com.ar/economia/federico-moll-incluso-si-la-economia-no-para-de-crecer-el-consumo-masivo-tal-vez-no-recupere-los-nid18102026"
       },
       {
         "medio": "Infobae",
-        "resumen": "El menú de una parrilla emblemática de Palermo vuelve visibles los precios de una experiencia gastronómica de alta gama y la tensión de acceso para clientes locales.",
-        "titulo_corto": "La parrilla expone precios premium",
-        "url": "https://www.infobae.com/economia/2026/10/06/una-turista-fue-a-una-emblematica-parrilla-de-palermo-y-mostro-el-menu-el-precio-de-las-mollejas-y-otros-cortes-super-premium"
+        "resumen": "Dos de cada tres personas se quedan sin ingresos hacia el día 20 y más de la mitad tomó deuda, reduciendo el margen para consumos discrecionales y salidas.",
+        "titulo_corto": "El dinero se agota antes de fin de mes",
+        "url": "https://www.infobae.com/economia/2026/10/18/morosidad-dos-de-cada-tres-personas-se-quedan-sin-dinero-el-20-de-cada-mes-pero-solo-el-75-pide-condonacion-de-deudas"
       }
     ],
     "EVENTS": [
       {
-        "medio": "Infobae",
-        "resumen": "La despedida de Messi suma cumbia, cuarteto, drones, homenajes y fuegos artificiales, ampliando el partido hacia una experiencia cultural de varias horas.",
-        "titulo_corto": "Fútbol, música y celebración",
-        "url": "https://www.infobae.com/deportes/2026/10/05/la-sole-los-fundamentalistas-ulises-bueno-drones-y-fuegos-artificiales-todos-los-shows-y-sorpresas-en-el-partido-despedida-de-messi"
+        "medio": "La Nación",
+        "resumen": "Arteba celebra 35 años y coincide con Pinta BAphoto y Affair, concentrando en Buenos Aires galerías, artistas, coleccionistas y públicos culturales.",
+        "titulo_corto": "Tres ferias activan la agenda porteña",
+        "url": "https://www.lanacion.com.ar/cultura/una-oportunidad-excepcional-arteba-celebra-sus-35-anos-junto-a-otras-dos-ferias-nid14102026"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Leer y Comer convocó familias y grupos de amigos con entrada gratuita, puestos gastronómicos y contenidos de bienestar, deporte y cultura en Chacarita.",
-        "titulo_corto": "Libros y gastronomía reúnen a 7.000",
-        "url": "https://www.infobae.com/cultura/2026/10/05/leer-y-comer-volvio-a-chacarita-con-7000-personas-pese-a-las-lluvias-que-reprogramaron-la-feria"
+        "medio": "TN",
+        "resumen": "El 98% de las personas con discapacidad quiere asistir a espectáculos, pero el 47% se sintió excluido: información, ticketing y hospitalidad condicionan la experiencia.",
+        "titulo_corto": "La accesibilidad limita los eventos",
+        "url": "https://tn.com.ar/salud/noticias/2026/10/17/el-98-de-las-personas-con-discapacidad-quiere-disfrutar-de-espectaculos-pero-casi-la-mitad-se-sintio-excluida"
       }
     ],
     "FLAVOR": [
       {
-        "medio": "La Nación",
-        "resumen": "Sodas caseras, fermentados y germinados combinan sabores frescos, burbujas naturales y fácil digestión, mostrando interés por experiencias sensoriales con códigos de bienestar.",
-        "titulo_corto": "Fermentados frescos de primavera",
-        "url": "https://www.lanacion.com.ar/revista-jardin/fermentados-y-germinados-como-incorporarlos-a-la-cocina-de-primavera-nid03102026"
+        "medio": "Infobae",
+        "resumen": "Stones llega con limón y maracuyá: la combinación de fruta, menor graduación y perfiles suaves busca ampliar sabores, consumidores y ocasiones de la cerveza.",
+        "titulo_corto": "Cerveza frutal y liviana",
+        "url": "https://www.infobae.com/inhouse/2026/10/13/cerveza-y-fruta-la-combinacion-que-suma-nuevos-sabores-al-mercado-de-bebidas"
+      },
+      {
+        "medio": "Infobae",
+        "resumen": "Siete recetas combinan cítricos, frutas, hierbas y especias con gin y tónica, mostrando cómo una categoría competidora convierte la preparación doméstica en exploración sensorial.",
+        "titulo_corto": "Gin tonic de autor en casa",
+        "url": "https://www.infobae.com/tendencias/2026/10/19/como-hacer-el-gin-tonic-perfecto-las-proporciones-clave-y-siete-recetas-para-preparar-en-casa"
       }
     ],
     "IMAGE": [
       {
         "medio": "La Nación",
-        "resumen": "Asado, picada y chacinados artesanales se revisan desde la sustentabilidad, la técnica y el origen, renovando códigos de identidad y autenticidad gastronómica.",
-        "titulo_corto": "Tradición argentina con futuro",
-        "url": "https://www.lanacion.com.ar/lifestyle/asado-y-picada-que-puede-ensenarnos-la-tradicion-sobre-la-cocina-argentina-del-futuro-nid05102026"
+        "resumen": "Restaurantes y cafés de Buenos Aires combinan tradición, diseño y experiencia para atraer públicos más jóvenes y diversos sin perder identidad cultural.",
+        "titulo_corto": "La cocina judía renueva su imagen",
+        "url": "https://www.lanacion.com.ar/economia/negocios/el-boom-de-la-cocina-judia-que-conquista-nuevos-barrios-y-publicos-nid17102026"
+      },
+      {
+        "medio": "TyC Sports",
+        "resumen": "Haaland agradeció a sus excompañeros argentinos por acercarle el mate, proyectando un ritual local como código de pertenencia y camaradería en el fútbol global.",
+        "titulo_corto": "El mate cruza fronteras",
+        "url": "https://www.tycsports.com/curiosidades/el-curioso-posteo-de-haaland-tomando-mate-la-reaccion-de-sus-companeros-argentinos-id767080.html"
       }
     ],
     "SOCIALIZATION": [
       {
-        "medio": "La Nación",
-        "resumen": "Los reestrenos y la conversación en redes atraen a jóvenes que buscan experiencias presenciales compartidas, una señal de recuperación de las salidas como ritual social.",
-        "titulo_corto": "El cine vuelve como encuentro",
-        "url": "https://www.lanacion.com.ar/espectaculos/la-experiencia-de-ir-al-cine-resurge-con-el-reestreno-de-peliculas-consagradas-nid04102026"
-      },
-      {
-        "medio": "La Nación",
-        "resumen": "Patios, jardines y terrazas porteñas ganan atractivo para comer al aire libre, reforzando una ocasión estacional de encuentro y consumo fuera del hogar.",
-        "titulo_corto": "La primavera impulsa las salidas",
-        "url": "https://www.lanacion.com.ar/sabado/patios-jardines-y-terrazas-ocho-lugares-ideales-para-salir-a-comer-en-primavera-nid03102026"
+        "medio": "TN",
+        "resumen": "Zapiola atrae visitantes por sus bodegones, asados y productos regionales, reforzando la escapada corta y la mesa de campo como ocasiones de encuentro.",
+        "titulo_corto": "Escapadas de asado y bodegón",
+        "url": "https://tn.com.ar/turismo/2026/10/18/tiene-300-habitantes-pero-recibe-miles-de-turistas-al-ano-el-pueblo-famoso-por-sus-asados-y-bodegones-de-campo-a-97-km-de-caba"
       }
     ],
     "SPORTS": [
       {
-        "medio": "Página 12",
-        "resumen": "El último partido del capitán reúne entrenamiento abierto, festejos y expectativa nacional, convirtiendo al fútbol en una ocasión colectiva de fuerte carga emocional.",
-        "titulo_corto": "La despedida de Messi moviliza al país",
-        "url": "https://www.pagina12.com.ar/2026/10/05/las-ultimas-horas-de-messi-en-la-seleccion-asado-festejos-y-entrenamiento"
+        "medio": "Olé",
+        "resumen": "Los hinchas convocaron un banderazo antes de la revancha con Vasco da Gama, transformando la playa en punto de encuentro, celebración e identidad xeneize.",
+        "titulo_corto": "Boca lleva la previa a Copacabana",
+        "url": "https://www.ole.com.ar/boca-juniors/boca-quiere-copar-vez-rio-banderazo-previa-semifinal_0_LhIMA0OFod.html"
+      },
+      {
+        "medio": "Infobae",
+        "resumen": "Racing e Independiente empataron 1-1 en el Cilindro, una nueva edición de una rivalidad histórica que concentra atención, pertenencia y ritual futbolero.",
+        "titulo_corto": "El clásico movilizó Avellaneda",
+        "url": "https://www.infobae.com/deportes/2026/10/18/racing-e-independiente-se-enfrentaran-en-el-cilindro-en-una-nueva-edicion-del-clasico-de-avellaneda-hora-tv-y-formaciones"
       }
     ],
     "WELLNESS": [
       {
         "medio": "Infobae",
-        "resumen": "La evidencia vincula el consumo elevado o concentrado de alcohol con arritmias y fibrilación auricular, reforzando la moderación como tensión concreta para la categoría.",
-        "titulo_corto": "Alcohol y salud cardíaca",
-        "url": "https://www.infobae.com/salud/2026/10/02/de-las-arritmias-a-la-fibrilacion-auricular-el-impacto-del-alcohol-en-el-corazon-segun-la-evidencia-cientifica"
+        "resumen": "Endocrinólogas advierten que frutas, jugos y proteínas saborizadas pueden disparar la glucosa, una tensión para bebidas que construyen su elección desde la promesa saludable.",
+        "titulo_corto": "Azúcar oculta en batidos proteicos",
+        "url": "https://www.infobae.com/salud/2026/10/17/la-bebida-que-muchos-creen-saludable-y-puede-provocar-picos-de-azucar-en-sangre-segun-endocrinologos"
       }
     ]
   }
