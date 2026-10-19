@@ -15,7 +15,8 @@
         "moderación transgeneracional",
         "efecto cebra",
         "Stella Pure Gold sin gluten",
-        "estigma de cerveza 0.0"
+        "estigma de cerveza 0.0",
+        "Corona Cero"
       ],
       "series": [
         {
@@ -53,6 +54,15 @@
           "x_engagement": 0,
           "x_views": 32,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 3,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
         }
       ]
     },
@@ -63,7 +73,9 @@
         "Brahma limon",
         "cerveza frutal",
         "Brahma dulce",
-        "Schneider limón"
+        "Schneider limón",
+        "Stones Lemon",
+        "Stones Maracuyá"
       ],
       "series": [
         {
@@ -83,6 +95,15 @@
           "x_engagement": null,
           "x_views": null,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 1,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
         }
       ]
     },
@@ -122,7 +143,8 @@
         "bar como filtro económico",
         "lata de cerveza a 12000 pesos",
         "birra de 15000 pesos",
-        "birra más barata que agua"
+        "birra más barata que agua",
+        "descuento Corona Cero"
       ],
       "series": [
         {
@@ -160,6 +182,15 @@
           "x_engagement": 148,
           "x_views": 11133,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 1,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 0
         }
       ]
     },
@@ -178,7 +209,8 @@
         "cerveza y soledad en casa",
         "Noche de los Bares Notables",
         "asado y cerveza",
-        "cerveza al salir del trabajo"
+        "cerveza al salir del trabajo",
+        "cerveza en la previa"
       ],
       "series": [
         {
@@ -216,6 +248,15 @@
           "x_engagement": 500,
           "x_views": 63071,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 9,
+          "x_engagement": 105,
+          "x_views": 3423,
+          "news_articles": 1
         }
       ]
     },
@@ -508,13 +549,24 @@
         "cine como encuentro",
         "salidas al aire libre",
         "ferias gastronómicas",
-        "eventos culturales masivos"
+        "eventos culturales masivos",
+        "ferias de arte",
+        "banderazo de hinchas"
       ],
       "series": [
         {
           "period_id": "2026-W41",
           "from_date": "2026-09-30",
           "to_date": "2026-10-06",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 4
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
           "x_volume": null,
           "x_engagement": null,
           "x_views": null,
@@ -561,6 +613,15 @@
           "x_engagement": 31,
           "x_views": 979,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 4,
+          "x_engagement": 26,
+          "x_views": 1692,
+          "news_articles": 1
         }
       ]
     },
@@ -601,6 +662,15 @@
           "x_engagement": 500,
           "x_views": 63071,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 9,
+          "x_engagement": 105,
+          "x_views": 3423,
+          "news_articles": 1
         }
       ]
     },
@@ -640,6 +710,15 @@
           "x_volume": 8,
           "x_engagement": 148,
           "x_views": 11133,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 4,
+          "x_engagement": 1,
+          "x_views": 393,
           "news_articles": 2
         }
       ]
@@ -681,6 +760,15 @@
           "x_engagement": 589,
           "x_views": 253012,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 8,
+          "x_engagement": 1311,
+          "x_views": 214374,
+          "news_articles": 2
         }
       ]
     },
@@ -721,6 +809,15 @@
           "x_engagement": 22,
           "x_views": 3155,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 9,
+          "x_engagement": 45,
+          "x_views": 35297,
+          "news_articles": 2
         }
       ]
     },
@@ -761,6 +858,15 @@
           "x_engagement": 0,
           "x_views": 94,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 1,
+          "x_engagement": 4,
+          "x_views": 9,
+          "news_articles": 2
         }
       ]
     },
@@ -800,6 +906,15 @@
           "x_volume": 16,
           "x_engagement": 4424,
           "x_views": 2815660,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-13",
+          "to_date": "2026-10-19",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
           "news_articles": 2
         }
       ]

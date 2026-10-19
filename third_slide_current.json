@@ -2,74 +2,67 @@
   "schema_version": 3,
   "methodology_version": "sauron_insights_v2",
   "period": {
-    "period_id": "2026-W41",
-    "from_date": "2026-09-30",
-    "to_date": "2026-10-06",
+    "period_id": "2026-W43",
+    "from_date": "2026-10-13",
+    "to_date": "2026-10-19",
     "days": 7
   },
   "trend_status": {
     "emerging": [
       {
         "topic_id": "cerveza_saborizada_frutal",
-        "title": "Las cervezas frutales aceleran la conversación",
-        "summary": "Pomelo y limón reabren el debate entre innovación y tradición: crece la curiosidad, pero el rechazo al sabor muestra que la prueba necesita códigos claros y expectativas bien calibradas.",
-        "current_value": 3,
-        "historical_value": 1,
-        "source_support": [
-          "x"
-        ]
-      },
-      {
-        "topic_id": "experiencias_presenciales_compartidas",
-        "title": "Las experiencias presenciales vuelven a convocar",
-        "summary": "Cine, gastronomía y eventos masivos recuperan valor como espacios de encuentro. La oportunidad está en integrarse a rituales compartidos que combinan cultura, comida y emoción.",
-        "current_value": 4,
-        "historical_value": null,
-        "source_support": [
-          "news"
-        ]
-      }
-    ],
-    "persistent": [
-      {
-        "topic_id": "brahma_dulce",
-        "title": "Brahma dulce sostiene su código de fiesta popular",
-        "summary": "La marca vuelve a aparecer en cumbia, brindis y conversación celebrity. Mantiene volumen entre períodos, aunque la polarización sobre el sabor puede convertir el FOMO en rechazo.",
-        "current_value": 4,
-        "historical_value": 4,
-        "source_support": [
-          "x"
-        ]
-      },
-      {
-        "topic_id": "presion_precio_cerveza",
-        "title": "El precio sigue definiendo la ocasión de consumo",
-        "summary": "La comparación entre cerveza, agua y tragos convive con menor ingreso disponible y gastronomía premium. La accesibilidad sigue moldeando qué se compra y dónde se sale.",
-        "current_value": 8,
-        "historical_value": 7,
+        "title": "La cerveza frutal suma lanzamientos y debate",
+        "summary": "Stones llega con limón y maracuyá, baja graduación y alcance nacional; la crítica en X al sabor pomelo muestra que la innovación amplía opciones, pero aún tensiona códigos cerveceros.",
+        "current_value": 1,
+        "historical_value": 0,
         "source_support": [
           "x",
           "news"
         ]
       },
       {
-        "topic_id": "premium_supermercado",
-        "title": "La cerveza continúa funcionando como marcador de estatus",
-        "summary": "Rankings virales ordenan marcas por clase y credenciales, mientras las importadas se asocian con conocimiento. La imagen pesa tanto como el producto y expone reputaciones frágiles.",
-        "current_value": 12,
-        "historical_value": 14,
+        "topic_id": "innovacion_wellness_cerveza",
+        "title": "La cerveza sin alcohol gana presencia, no consenso",
+        "summary": "Un descuento de Corona Cero y comparaciones con Coca-Cola Zero elevan la visibilidad de la moderación, aunque los chistes sobre su utilidad revelan una barrera de valor y legitimidad.",
+        "current_value": 3,
+        "historical_value": 1,
         "source_support": [
-          "x"
+          "x",
+          "news"
+        ]
+      }
+    ],
+    "persistent": [
+      {
+        "topic_id": "cerveza_ritual_social",
+        "title": "La cerveza sostiene el ritual social cotidiano",
+        "summary": "Asado, música y previa de fútbol vuelven a ordenar el consumo; bodegones, citas y cines amplían escenarios, confirmando que la categoría sigue anclada en compartir y pertenecer.",
+        "current_value": 9,
+        "historical_value": 12,
+        "source_support": [
+          "x",
+          "news"
+        ]
+      },
+      {
+        "topic_id": "experiencias_presenciales_compartidas",
+        "title": "Las experiencias presenciales mantienen tracción",
+        "summary": "Ferias de arte, partidos y encuentros de hinchas sostienen cuatro noticias relevantes; la demanda existe, pero accesibilidad e ingreso disponible condicionan quién puede participar.",
+        "current_value": 4,
+        "historical_value": 4,
+        "source_support": [
+          "x",
+          "news"
         ]
       }
     ],
     "declining": [
       {
-        "topic_id": "innovacion_wellness_cerveza",
-        "title": "Cae la visibilidad local de la cerveza 0.0",
-        "summary": "La conversación observada baja frente al período anterior, aunque una señal internacional muestra demanda sin alcohol creciente. La moderación sigue relevante, pero necesita activación local.",
+        "topic_id": "presion_precio_cerveza",
+        "title": "Baja la conversación explícita sobre cerveza cara",
+        "summary": "Las menciones observadas caen de ocho a una: esta semana el precio aparece como descuento de Corona Cero, mientras la presión económica se expresa más en ingresos y deuda que en quejas de marca.",
         "current_value": 1,
-        "historical_value": 16,
+        "historical_value": 8,
         "source_support": [
           "x",
           "news"
@@ -80,46 +73,46 @@
   "market_radar": {
     "brand": [
       {
-        "entity": "Brahma",
-        "headline": "Cumbia y sabor dulce disparan prueba y debate",
-        "summary": "La lata dulce aparece en una fiesta de cumbia con celebridades y genera FOMO junto con rechazo al pomelo: alta visibilidad, pero el sabor necesita una narrativa clara para convertir curiosidad.",
+        "entity": "Quilmes",
+        "headline": "Música y orgullo argentino en una misma activación",
+        "summary": "La presencia en los Martín Fierro de la Música, junto al código “Me Gusta Argentina”, enlaza marca, entretenimiento y pertenencia nacional en una ocasión de alta visibilidad cultural.",
         "asset_key": null
       },
       {
-        "entity": "Quilmes",
-        "headline": "El potrero reactiva pertenencia futbolera",
-        "summary": "Los videos de fútbol callejero recuperan un código argentino reconocible con engagement moderado. Hay espacio para profundizar historias de barrio y juego compartido con mayor participación.",
+        "entity": "Corona",
+        "headline": "La moderación necesita demostrar valor",
+        "summary": "El descuento de Corona Cero activa accesibilidad, pero las comparaciones irónicas con gaseosa zero muestran que el territorio sin alcohol necesita construir una ocasión y un beneficio más claros.",
         "asset_key": null
       }
     ],
     "category": [
       {
-        "entity": "Cerveza saborizada",
-        "headline": "Pomelo y limón tensionan innovación y tradición",
-        "summary": "Las variantes frutales movilizan curiosidad, comparación y rechazo. La oportunidad está en guiar la prueba desde ocasiones concretas y perfiles de sabor, sin diluir la identidad cervecera.",
+        "entity": "Cerveza frutal",
+        "headline": "Nuevos sabores abren reclutamiento y polarización",
+        "summary": "Limón y maracuyá prometen liviandad y menor alcohol para atraer otras elecciones; el rechazo en X al pomelo advierte que innovar exige conservar credenciales cerveceras reconocibles.",
         "asset_key": null
       },
       {
-        "entity": "Ocasiones sociales",
-        "headline": "Salir vuelve a ser una experiencia compartida",
-        "summary": "Cine, patios gastronómicos, ferias y cerveza en pareja muestran deseo de presencialidad. Las marcas pueden integrarse como facilitadoras del encuentro, con propuestas accesibles y situacionales.",
+        "entity": "Rituales cotidianos",
+        "headline": "Asado, fútbol y entretenimiento amplían ocasiones",
+        "summary": "La cerveza aparece en la previa del Ciclón, encuentros, citas y hasta combos de cine: el crecimiento puede venir de integrar la categoría a planes simples, frecuentes y compartidos.",
         "asset_key": null
       }
     ],
     "competition": [
       {
-        "entity": "Fernet",
-        "headline": "Asado y amistad sostienen su código identitario",
-        "summary": "El fernet aparece en un asado de futbolistas y también como souvenir argentino en el exterior. Compite por la misma ocasión de pertenencia, amistad y celebración informal que la cerveza.",
+        "entity": "Vino argentino",
+        "headline": "Los festivales disputan la agenda social",
+        "summary": "Festivales y rallies en Buenos Aires, Mendoza y Salta convierten al vino en experiencia cultural itinerante, capaz de competir por escapadas, gastronomía y encuentros de fin de semana.",
         "asset_key": null
       },
       {
-        "entity": "Vino",
-        "headline": "El ritual futbolero lo presenta como bebida del pueblo",
-        "summary": "Una bandera en el Monumental une asado y vino como símbolos nacionales. Esa apropiación cultural disputa a la cerveza el territorio de hinchada, mesa compartida e identidad argentina.",
+        "entity": "Coca-Cola Zero",
+        "headline": "La referencia funcional para la moderación",
+        "summary": "Usuarios la usan para explicar o cuestionar la cerveza sin alcohol. Esa comparación instala un estándar de sabor, disponibilidad y legitimidad que la categoría cervecera debe superar.",
         "asset_key": null
       }
     ],
-    "takeaway": "La oportunidad es unir sabor, fútbol, música y encuentro con propuestas accesibles y creíbles, para que la curiosidad se convierta en elección."
+    "takeaway": "La oportunidad es innovar en sabor y moderación sin perder códigos cerveceros, anclando cada propuesta en rituales sociales reconocibles y con valor accesible."
   }
 }
