@@ -144,7 +144,9 @@
         "lata de cerveza a 12000 pesos",
         "birra de 15000 pesos",
         "birra más barata que agua",
-        "descuento Corona Cero"
+        "descuento Corona Cero",
+        "cerveza nacional a 18-20 mil pesos",
+        "cerveza a $12.000 en restaurante"
       ],
       "series": [
         {
@@ -185,12 +187,12 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
-          "x_volume": 1,
-          "x_engagement": null,
-          "x_views": null,
-          "news_articles": 0
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 4,
+          "x_engagement": 46,
+          "x_views": 3766,
+          "news_articles": 1
         }
       ]
     },
@@ -210,7 +212,8 @@
         "Noche de los Bares Notables",
         "asado y cerveza",
         "cerveza al salir del trabajo",
-        "cerveza en la previa"
+        "cerveza en la previa",
+        "cerveza ilimitada en fiestas"
       ],
       "series": [
         {
@@ -251,11 +254,11 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
-          "x_volume": 9,
-          "x_engagement": 105,
-          "x_views": 3423,
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 6,
+          "x_engagement": 50,
+          "x_views": 765,
           "news_articles": 1
         }
       ]
@@ -551,7 +554,10 @@
         "ferias gastronómicas",
         "eventos culturales masivos",
         "ferias de arte",
-        "banderazo de hinchas"
+        "banderazo de hinchas",
+        "BTS en La Plata",
+        "Noche del Diseño",
+        "Bares Notables con conciertos"
       ],
       "series": [
         {
@@ -565,12 +571,88 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
           "x_volume": null,
           "x_engagement": null,
           "x_views": null,
           "news_articles": 4
+        }
+      ]
+    },
+    "ecosistema_cervecero_local": {
+      "label": "Ecosistema cervecero local",
+      "aliases": [
+        "mapa cervecero interactivo",
+        "fábricas de cerveza argentinas",
+        "rutas cerveceras locales"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 2,
+          "x_engagement": 8,
+          "x_views": 510,
+          "news_articles": 0
+        }
+      ]
+    },
+    "quilmes_musica_argentina": {
+      "label": "Quilmes y música argentina",
+      "aliases": [
+        "Me Gusta Argentina Me Gusta Quilmes",
+        "Martín Fierro de la Música",
+        "cerveza y celebración musical"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 2,
+          "x_engagement": 2,
+          "x_views": 539,
+          "news_articles": 0
+        }
+      ]
+    },
+    "mate_identidad_global": {
+      "label": "Mate como identidad argentina global",
+      "aliases": [
+        "Haaland tomando mate",
+        "mate y fútbol internacional",
+        "ritual argentino exportado"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
+        }
+      ]
+    },
+    "cocteleria_en_bares_premium": {
+      "label": "Coctelería en bares premium",
+      "aliases": [
+        "cerveza y cócteles",
+        "barra premium",
+        "Temple Bar y platos para compartir"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W43",
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 1,
+          "x_engagement": 1,
+          "x_views": 149,
+          "news_articles": 0
         }
       ]
     }
@@ -616,11 +698,11 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
-          "x_volume": 4,
-          "x_engagement": 26,
-          "x_views": 1692,
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
           "news_articles": 1
         }
       ]
@@ -665,11 +747,11 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
-          "x_volume": 9,
-          "x_engagement": 105,
-          "x_views": 3423,
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 6,
+          "x_engagement": 50,
+          "x_views": 765,
           "news_articles": 1
         }
       ]
@@ -714,11 +796,11 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
           "x_volume": 4,
-          "x_engagement": 1,
-          "x_views": 393,
+          "x_engagement": 46,
+          "x_views": 3766,
           "news_articles": 2
         }
       ]
@@ -763,11 +845,11 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
-          "x_volume": 8,
-          "x_engagement": 1311,
-          "x_views": 214374,
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
           "news_articles": 2
         }
       ]
@@ -812,11 +894,11 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
-          "x_volume": 9,
-          "x_engagement": 45,
-          "x_views": 35297,
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 2,
+          "x_engagement": 4,
+          "x_views": 2356,
           "news_articles": 2
         }
       ]
@@ -861,11 +943,11 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
-          "x_volume": 1,
-          "x_engagement": 4,
-          "x_views": 9,
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
           "news_articles": 2
         }
       ]
@@ -910,8 +992,8 @@
         },
         {
           "period_id": "2026-W43",
-          "from_date": "2026-10-13",
-          "to_date": "2026-10-19",
+          "from_date": "2026-10-15",
+          "to_date": "2026-10-21",
           "x_volume": 0,
           "x_engagement": 0,
           "x_views": 0,

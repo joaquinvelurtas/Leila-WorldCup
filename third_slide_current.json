@@ -3,66 +3,63 @@
   "methodology_version": "sauron_insights_v2",
   "period": {
     "period_id": "2026-W43",
-    "from_date": "2026-10-13",
-    "to_date": "2026-10-19",
+    "from_date": "2026-10-15",
+    "to_date": "2026-10-21",
     "days": 7
   },
   "trend_status": {
     "emerging": [
       {
-        "topic_id": "cerveza_saborizada_frutal",
-        "title": "La cerveza frutal suma lanzamientos y debate",
-        "summary": "Stones llega con limón y maracuyá, baja graduación y alcance nacional; la crítica en X al sabor pomelo muestra que la innovación amplía opciones, pero aún tensiona códigos cerveceros.",
-        "current_value": 1,
-        "historical_value": 0,
-        "source_support": [
-          "x",
-          "news"
-        ]
-      },
-      {
-        "topic_id": "innovacion_wellness_cerveza",
-        "title": "La cerveza sin alcohol gana presencia, no consenso",
-        "summary": "Un descuento de Corona Cero y comparaciones con Coca-Cola Zero elevan la visibilidad de la moderación, aunque los chistes sobre su utilidad revelan una barrera de valor y legitimidad.",
-        "current_value": 3,
+        "topic_id": "presion_precio_cerveza",
+        "title": "El precio de la cerveza acelera la barrera de salida",
+        "summary": "La conversación sube de 1 a 4 menciones observadas y se cruza con cervezas a $12.000 en restaurantes. La tensión exige formatos y promociones que justifiquen la ocasión.",
+        "current_value": 4,
         "historical_value": 1,
         "source_support": [
           "x",
           "news"
         ]
+      },
+      {
+        "topic_id": "ecosistema_cervecero_local",
+        "title": "El mapa cervecero activa el orgullo por lo local",
+        "summary": "Un mapa interactivo reúne casi 300 fábricas argentinas y convierte la oferta artesanal en descubrimiento. La señal abre oportunidades para rutas, bares y experiencias con identidad.",
+        "current_value": 2,
+        "historical_value": null,
+        "source_support": [
+          "x"
+        ]
+      },
+      {
+        "topic_id": "quilmes_musica_argentina",
+        "title": "Quilmes vuelve la música un código de argentinidad",
+        "summary": "La presencia en Martín Fierro de la Música conecta “Me Gusta Argentina, Me Gusta Quilmes” con celebración popular. Es un territorio nuevo para reforzar cercanía cultural.",
+        "current_value": 2,
+        "historical_value": null,
+        "source_support": [
+          "x"
+        ]
       }
     ],
     "persistent": [
       {
-        "topic_id": "cerveza_ritual_social",
-        "title": "La cerveza sostiene el ritual social cotidiano",
-        "summary": "Asado, música y previa de fútbol vuelven a ordenar el consumo; bodegones, citas y cines amplían escenarios, confirmando que la categoría sigue anclada en compartir y pertenecer.",
-        "current_value": 9,
-        "historical_value": 12,
-        "source_support": [
-          "x",
-          "news"
-        ]
-      },
-      {
         "topic_id": "experiencias_presenciales_compartidas",
-        "title": "Las experiencias presenciales mantienen tracción",
-        "summary": "Ferias de arte, partidos y encuentros de hinchas sostienen cuatro noticias relevantes; la demanda existe, pero accesibilidad e ingreso disponible condicionan quién puede participar.",
+        "title": "Las experiencias presenciales sostienen su tracción",
+        "summary": "Cuatro artículos vuelven a mostrar salidas con música, diseño, fandom y encuentro, el mismo nivel del período previo. La estabilidad confirma valor para activar consumo fuera del hogar.",
         "current_value": 4,
         "historical_value": 4,
         "source_support": [
-          "x",
           "news"
         ]
       }
     ],
     "declining": [
       {
-        "topic_id": "presion_precio_cerveza",
-        "title": "Baja la conversación explícita sobre cerveza cara",
-        "summary": "Las menciones observadas caen de ocho a una: esta semana el precio aparece como descuento de Corona Cero, mientras la presión económica se expresa más en ingresos y deuda que en quejas de marca.",
-        "current_value": 1,
-        "historical_value": 8,
+        "topic_id": "cerveza_ritual_social",
+        "title": "El ritual social con cerveza pierde algo de volumen",
+        "summary": "La señal baja de 9 a 6 menciones observadas tras una trayectoria descendente, aunque sigue asociada con fiesta y mesa compartida. El precio puede estar elevando la exigencia sobre la salida.",
+        "current_value": 6,
+        "historical_value": 9,
         "source_support": [
           "x",
           "news"
@@ -74,45 +71,45 @@
     "brand": [
       {
         "entity": "Quilmes",
-        "headline": "Música y orgullo argentino en una misma activación",
-        "summary": "La presencia en los Martín Fierro de la Música, junto al código “Me Gusta Argentina”, enlaza marca, entretenimiento y pertenencia nacional en una ocasión de alta visibilidad cultural.",
+        "headline": "Argentina como hub cervecero del Cono Sur",
+        "summary": "La centralización regional y el peso de la malta y la cebada locales proyectan escala industrial con orgullo de origen, un relato capaz de unir liderazgo, empleo y pertenencia.",
         "asset_key": null
       },
       {
-        "entity": "Corona",
-        "headline": "La moderación necesita demostrar valor",
-        "summary": "El descuento de Corona Cero activa accesibilidad, pero las comparaciones irónicas con gaseosa zero muestran que el territorio sin alcohol necesita construir una ocasión y un beneficio más claros.",
+        "entity": "Quilmes",
+        "headline": "La música argentina como territorio de cercanía",
+        "summary": "La activación en Martín Fierro de la Música vincula marca, celebración y cultura popular, ofreciendo un código flexible para participar en momentos compartidos sin forzar protagonismo.",
         "asset_key": null
       }
     ],
     "category": [
       {
-        "entity": "Cerveza frutal",
-        "headline": "Nuevos sabores abren reclutamiento y polarización",
-        "summary": "Limón y maracuyá prometen liviandad y menor alcohol para atraer otras elecciones; el rechazo en X al pomelo advierte que innovar exige conservar credenciales cerveceras reconocibles.",
+        "entity": "Cerveza artesanal",
+        "headline": "Descubrimiento local y experiencias de origen",
+        "summary": "El mapa de casi 300 fábricas transforma productores dispersos en una ruta cultural visible. Hay espacio para conectar bares, turismo y relatos de procedencia con orgullo federal.",
         "asset_key": null
       },
       {
-        "entity": "Rituales cotidianos",
-        "headline": "Asado, fútbol y entretenimiento amplían ocasiones",
-        "summary": "La cerveza aparece en la previa del Ciclón, encuentros, citas y hasta combos de cine: el crecimiento puede venir de integrar la categoría a planes simples, frecuentes y compartidos.",
+        "entity": "Cerveza",
+        "headline": "El precio pone a prueba el valor de la salida",
+        "summary": "Las quejas por márgenes altos y una cuenta porteña con cervezas a $12.000 muestran que la categoría debe justificar el gasto mediante conveniencia, calidad u ocasión diferencial.",
         "asset_key": null
       }
     ],
     "competition": [
       {
-        "entity": "Vino argentino",
-        "headline": "Los festivales disputan la agenda social",
-        "summary": "Festivales y rallies en Buenos Aires, Mendoza y Salta convierten al vino en experiencia cultural itinerante, capaz de competir por escapadas, gastronomía y encuentros de fin de semana.",
+        "entity": "Mate",
+        "headline": "Identidad argentina que cruza fronteras",
+        "summary": "Haaland adoptó la infusión por influencia de compañeros argentinos, mostrando cómo una bebida cotidiana gana prestigio global y compite desde autenticidad, ritual y pertenencia.",
         "asset_key": null
       },
       {
-        "entity": "Coca-Cola Zero",
-        "headline": "La referencia funcional para la moderación",
-        "summary": "Usuarios la usan para explicar o cuestionar la cerveza sin alcohol. Esa comparación instala un estándar de sabor, disponibilidad y legitimidad que la categoría cervecera debe superar.",
+        "entity": "Coctelería y bares",
+        "headline": "La barra premium eleva la vara de experiencia",
+        "summary": "Los locales renovados combinan cócteles, cerveza y platos para compartir. La competencia ya no es sólo entre bebidas: también se disputa la experiencia completa de la salida.",
         "asset_key": null
       }
     ],
-    "takeaway": "La oportunidad es innovar en sabor y moderación sin perder códigos cerveceros, anclando cada propuesta en rituales sociales reconocibles y con valor accesible."
+    "takeaway": "La oportunidad está en unir orgullo local, música y experiencias compartidas sin desatender el precio: la cerveza gana significado cuando la ocasión justifica el gasto."
   }
 }
