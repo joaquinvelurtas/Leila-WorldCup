@@ -1,94 +1,94 @@
 {
   "overview": {
     "portales": {
-      "summary": "La semana combina innovación cervecera y sabores, presión sobre el gasto, nuevas ocasiones gastronómicas, cultura, fútbol y barreras de acceso a experiencias en vivo."
+      "summary": "La semana combina presión sobre el bolsillo, nuevas ocasiones de encuentro, cocina con cerveza, hábitos de bienestar y pasiones culturales y deportivas que movilizan a los argentinos."
     }
   },
   "pilares": {
     "AFFORDABILITY": [
       {
-        "medio": "La Nación",
-        "resumen": "El ingreso disponible sigue muy por debajo de 2023 y el gasto migra desde consumo masivo y experiencias hacia bienes, mientras precio-calidad e innovación ganan peso.",
-        "titulo_corto": "Menos ingreso cambia el consumo",
-        "url": "https://www.lanacion.com.ar/economia/federico-moll-incluso-si-la-economia-no-para-de-crecer-el-consumo-masivo-tal-vez-no-recupere-los-nid18102026"
+        "medio": "TN",
+        "resumen": "Un grupo de seis personas pagó $477.000 en un restaurante porteño; las nueve cervezas costaron $12.000 cada una, señal directa de la barrera de precio en salidas gastronómicas.",
+        "titulo_corto": "Nueve cervezas, $108.000",
+        "url": "https://tn.com.ar/sociedad/2026/10/21/fue-a-el-preferido-de-palermo-pidio-3-milanesas-9-cervezas-papas-fritas-pure-y-pollo-asado-mostro-el-ticket-final"
       },
       {
         "medio": "Infobae",
-        "resumen": "Dos de cada tres personas se quedan sin ingresos hacia el día 20 y más de la mitad tomó deuda, reduciendo el margen para consumos discrecionales y salidas.",
-        "titulo_corto": "El dinero se agota antes de fin de mes",
-        "url": "https://www.infobae.com/economia/2026/10/18/morosidad-dos-de-cada-tres-personas-se-quedan-sin-dinero-el-20-de-cada-mes-pero-solo-el-75-pide-condonacion-de-deudas"
+        "resumen": "Dos de cada tres argentinos agotan sus ingresos hacia el día 20 y recurren a deuda para sostener gastos, reduciendo el margen disponible para consumos discrecionales.",
+        "titulo_corto": "El ingreso no llega a fin de mes",
+        "url": "https://www.infobae.com/economia/2026/10/21/la-gente-no-llega-a-fin-de-mes-que-dijo-el-autor-de-la-encuesta-que-irrito-al-presidente-milei"
       }
     ],
     "EVENTS": [
       {
         "medio": "La Nación",
-        "resumen": "Arteba celebra 35 años y coincide con Pinta BAphoto y Affair, concentrando en Buenos Aires galerías, artistas, coleccionistas y públicos culturales.",
-        "titulo_corto": "Tres ferias activan la agenda porteña",
-        "url": "https://www.lanacion.com.ar/cultura/una-oportunidad-excepcional-arteba-celebra-sus-35-anos-junto-a-otras-dos-ferias-nid14102026"
+        "resumen": "Conciertos gratuitos, tango y recorridos culturales activarán 90 cafés, bares y confiterías porteñas como espacios de encuentro y consumo fuera del hogar.",
+        "titulo_corto": "Bares Notables suman música",
+        "url": "https://www.lanacion.com.ar/que-sale/dia-de-los-cafes-de-buenos-aires-2026-cuando-y-donde-habra-conciertos-gratis-en-los-bares-notables-nid20102026"
       },
       {
-        "medio": "TN",
-        "resumen": "El 98% de las personas con discapacidad quiere asistir a espectáculos, pero el 47% se sintió excluido: información, ticketing y hospitalidad condicionan la experiencia.",
-        "titulo_corto": "La accesibilidad limita los eventos",
-        "url": "https://tn.com.ar/salud/noticias/2026/10/17/el-98-de-las-personas-con-discapacidad-quiere-disfrutar-de-espectaculos-pero-casi-la-mitad-se-sintio-excluida"
+        "medio": "Infobae",
+        "resumen": "Tres shows agotados en La Plata convierten años de organización del fandom ARMY en una experiencia masiva que combina música, identidad y pertenencia colectiva.",
+        "titulo_corto": "BTS moviliza a su comunidad argentina",
+        "url": "https://www.infobae.com/teleshow/2026/10/21/las-claves-del-fenomeno-de-bts-en-argentina-el-rol-de-army-canciones-que-son-himnos-y-el-sueno-de-una-generacion"
       }
     ],
     "FLAVOR": [
       {
-        "medio": "Infobae",
-        "resumen": "Stones llega con limón y maracuyá: la combinación de fruta, menor graduación y perfiles suaves busca ampliar sabores, consumidores y ocasiones de la cerveza.",
-        "titulo_corto": "Cerveza frutal y liviana",
-        "url": "https://www.infobae.com/inhouse/2026/10/13/cerveza-y-fruta-la-combinacion-que-suma-nuevos-sabores-al-mercado-de-bebidas"
+        "medio": "TN",
+        "resumen": "Una receta usa cerveza y levadura para lograr un rebozado liviano y crocante, reforzando su valor como ingrediente que aporta textura a la experiencia gastronómica.",
+        "titulo_corto": "La cerveza entra en la cocina",
+        "url": "https://tn.com.ar/cocina/recetas/2026/10/15/con-200-g-de-harina-y-290-ml-de-cerveza-la-receta-de-pescado-frito-crocante-y-sabroso-en-9-pasos"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Siete recetas combinan cítricos, frutas, hierbas y especias con gin y tónica, mostrando cómo una categoría competidora convierte la preparación doméstica en exploración sensorial.",
-        "titulo_corto": "Gin tonic de autor en casa",
-        "url": "https://www.infobae.com/tendencias/2026/10/19/como-hacer-el-gin-tonic-perfecto-las-proporciones-clave-y-siete-recetas-para-preparar-en-casa"
+        "medio": "TyC Sports",
+        "resumen": "Sorrentinos, milanesas, pascualina y tartas concentran los pedidos de los jugadores, un repertorio de comida argentina que enlaza sabor, pertenencia y ritual deportivo.",
+        "titulo_corto": "Los sabores de la Selección",
+        "url": "https://www.tycsports.com/seleccion-argentina/la-cocinera-de-la-seleccion-argentina-revelo-los-tres-platos-que-le-piden-los-jugadores-id767386.html"
       }
     ],
     "IMAGE": [
       {
-        "medio": "La Nación",
-        "resumen": "Restaurantes y cafés de Buenos Aires combinan tradición, diseño y experiencia para atraer públicos más jóvenes y diversos sin perder identidad cultural.",
-        "titulo_corto": "La cocina judía renueva su imagen",
-        "url": "https://www.lanacion.com.ar/economia/negocios/el-boom-de-la-cocina-judia-que-conquista-nuevos-barrios-y-publicos-nid17102026"
+        "medio": "TyC Sports",
+        "resumen": "Haaland adoptó el mate y agradeció a tres compañeros argentinos, mostrando cómo una bebida cotidiana gana aspiracionalidad y alcance internacional a través del fútbol.",
+        "titulo_corto": "El mate se vuelve código global",
+        "url": "https://www.tycsports.com/curiosidades/el-curioso-posteo-de-haaland-tomando-mate-la-reaccion-de-sus-companeros-argentinos-id767080.html"
       },
       {
-        "medio": "TyC Sports",
-        "resumen": "Haaland agradeció a sus excompañeros argentinos por acercarle el mate, proyectando un ritual local como código de pertenencia y camaradería en el fútbol global.",
-        "titulo_corto": "El mate cruza fronteras",
-        "url": "https://www.tycsports.com/curiosidades/el-curioso-posteo-de-haaland-tomando-mate-la-reaccion-de-sus-companeros-argentinos-id767080.html"
+        "medio": "Infobae",
+        "resumen": "La Noche del Diseño reunirá arte, música, degustaciones y oficios nacionales en 90 locales porteños, conectando identidad local con una experiencia urbana sofisticada.",
+        "titulo_corto": "Diseño, folclore y fantasía",
+        "url": "https://www.infobae.com/cultura/2026/10/20/la-noche-del-diseno-arte-musica-y-mas-de-90-locales-en-el-distrito-arenales"
       }
     ],
     "SOCIALIZATION": [
       {
         "medio": "TN",
-        "resumen": "Zapiola atrae visitantes por sus bodegones, asados y productos regionales, reforzando la escapada corta y la mesa de campo como ocasiones de encuentro.",
-        "titulo_corto": "Escapadas de asado y bodegón",
-        "url": "https://tn.com.ar/turismo/2026/10/18/tiene-300-habitantes-pero-recibe-miles-de-turistas-al-ano-el-pueblo-famoso-por-sus-asados-y-bodegones-de-campo-a-97-km-de-caba"
+        "resumen": "Más de 60 hoteles ofrecerán turnos con 50% de descuento para incentivar que las parejas recuperen tiempo y espacio de conexión fuera del hogar.",
+        "titulo_corto": "La Noche de los Telos activa el encuentro",
+        "url": "https://tn.com.ar/sociedad/2026/10/21/la-noche-de-los-telos-ya-tiene-fecha-habra-descuentos-del-50-y-las-habitaciones-mas-caras-se-estan-agotando"
       }
     ],
     "SPORTS": [
       {
-        "medio": "Olé",
-        "resumen": "Los hinchas convocaron un banderazo antes de la revancha con Vasco da Gama, transformando la playa en punto de encuentro, celebración e identidad xeneize.",
-        "titulo_corto": "Boca lleva la previa a Copacabana",
-        "url": "https://www.ole.com.ar/boca-juniors/boca-quiere-copar-vez-rio-banderazo-previa-semifinal_0_LhIMA0OFod.html"
+        "medio": "La Nación",
+        "resumen": "La liga expande en Argentina un negocio que une deporte, música, moda y entretenimiento; su tienda de Buenos Aires lidera las ventas por metro cuadrado a nivel global.",
+        "titulo_corto": "La NBA crece como lifestyle",
+        "url": "https://www.lanacion.com.ar/economia/como-funciona-el-millonario-negocio-de-la-nba-y-su-estrategia-para-crecer-en-argentina-nid20102026"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Racing e Independiente empataron 1-1 en el Cilindro, una nueva edición de una rivalidad histórica que concentra atención, pertenencia y ritual futbolero.",
-        "titulo_corto": "El clásico movilizó Avellaneda",
-        "url": "https://www.infobae.com/deportes/2026/10/18/racing-e-independiente-se-enfrentaran-en-el-cilindro-en-una-nueva-edicion-del-clasico-de-avellaneda-hora-tv-y-formaciones"
+        "medio": "Olé",
+        "resumen": "Argentina logró su primera victoria en un Mundial femenino Sub 17, un hito que amplía la visibilidad de las juveniles y sostiene nuevas audiencias para el fútbol nacional.",
+        "titulo_corto": "Hito del fútbol femenino Sub 17",
+        "url": "https://www.ole.com.ar/futbol-femenino/seleccion-argentina-femenina-primera-victoria-mundial-sub-17-nueva-zelanda-marruecos-sueno-clasificar-octavos-final_0_1pL22MN4KO.html"
       }
     ],
     "WELLNESS": [
       {
-        "medio": "Infobae",
-        "resumen": "Endocrinólogas advierten que frutas, jugos y proteínas saborizadas pueden disparar la glucosa, una tensión para bebidas que construyen su elección desde la promesa saludable.",
-        "titulo_corto": "Azúcar oculta en batidos proteicos",
-        "url": "https://www.infobae.com/salud/2026/10/17/la-bebida-que-muchos-creen-saludable-y-puede-provocar-picos-de-azucar-en-sangre-segun-endocrinologos"
+        "medio": "TN",
+        "resumen": "Especialistas proponen alimentación variada, fibra, hidratación y seguimiento profesional, evitando restricciones innecesarias que pueden empobrecer la dieta sin resolver síntomas.",
+        "titulo_corto": "Cuidar la digestión sin restricciones",
+        "url": "https://tn.com.ar/salud/noticias/2026/10/21/como-influye-la-nutricion-en-el-cuidado-de-la-salud-digestiva"
       }
     ]
   }
