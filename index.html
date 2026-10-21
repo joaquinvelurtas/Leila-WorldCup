@@ -1198,7 +1198,6 @@ async function initThirdSlide(){
 (function() {
   const slides = [
     document.getElementById("slide-1"),
-    document.getElementById("slide-2"),
     document.getElementById("slide-3")
   ].filter(Boolean);
 
@@ -1207,7 +1206,7 @@ async function initThirdSlide(){
   let isPaused = false;
   let slideTimer = null;
 
-  const footerLabels = ["Portales de Noticias", "X (Twitter)", "X (Twitter)"];
+  const footerLabels = ["Portales de Noticias", "X (Twitter)"];
 
   function updateFooter() {
     const fl = document.getElementById("footer-left");
@@ -1221,7 +1220,7 @@ async function initThirdSlide(){
   }
 
   function renderBubbleWhenNeeded() {
-    if (current !== 2) return;
+    if (current !== 1) return;
 
     if (!bubbleRendered) {
       bubbleRendered = true;
