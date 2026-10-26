@@ -16,7 +16,8 @@
         "efecto cebra",
         "Stella Pure Gold sin gluten",
         "estigma de cerveza 0.0",
-        "Corona Cero"
+        "Corona Cero",
+        "cerveza sin alcohol en conversaciones cotidianas"
       ],
       "series": [
         {
@@ -63,6 +64,15 @@
           "x_engagement": null,
           "x_views": null,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 1,
+          "x_engagement": 0,
+          "x_views": 6,
+          "news_articles": 0
         }
       ]
     },
@@ -146,7 +156,9 @@
         "birra más barata que agua",
         "descuento Corona Cero",
         "cerveza nacional a 18-20 mil pesos",
-        "cerveza a $12.000 en restaurante"
+        "cerveza a $12.000 en restaurante",
+        "Quilmes 710 cc en oferta",
+        "bebidas caen en supermercados"
       ],
       "series": [
         {
@@ -193,6 +205,15 @@
           "x_engagement": 46,
           "x_views": 3766,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 5,
+          "x_engagement": 54,
+          "x_views": 811,
+          "news_articles": 2
         }
       ]
     },
@@ -260,6 +281,15 @@
           "x_engagement": 50,
           "x_views": 765,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 8,
+          "x_engagement": 195,
+          "x_views": 20493,
+          "news_articles": 0
         }
       ]
     },
@@ -278,7 +308,9 @@
         "Stella sponsor de River",
         "despedida de Messi",
         "Quilmes en el clásico de Córdoba",
-        "fulbito y cerveza"
+        "fulbito y cerveza",
+        "Quilmes y Franco Colapinto",
+        "cerveza en la F1"
       ],
       "series": [
         {
@@ -316,6 +348,15 @@
           "x_engagement": 157,
           "x_views": 13299,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 8,
+          "x_engagement": 2585,
+          "x_views": 57700,
+          "news_articles": 0
         }
       ]
     },
@@ -557,7 +598,8 @@
         "banderazo de hinchas",
         "BTS en La Plata",
         "Noche del Diseño",
-        "Bares Notables con conciertos"
+        "Bares Notables con conciertos",
+        "Festival Bandera y TC"
       ],
       "series": [
         {
@@ -577,6 +619,15 @@
           "x_engagement": null,
           "x_views": null,
           "news_articles": 4
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 2
         }
       ]
     },
@@ -585,7 +636,8 @@
       "aliases": [
         "mapa cervecero interactivo",
         "fábricas de cerveza argentinas",
-        "rutas cerveceras locales"
+        "rutas cerveceras locales",
+        "casi 300 fábricas artesanales"
       ],
       "series": [
         {
@@ -595,6 +647,15 @@
           "x_volume": 2,
           "x_engagement": 8,
           "x_views": 510,
+          "news_articles": 0
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 1,
+          "x_engagement": 8,
+          "x_views": 598,
           "news_articles": 0
         }
       ]
@@ -655,6 +716,63 @@
           "news_articles": 0
         }
       ]
+    },
+    "gastronomia_como_experiencia_cultural": {
+      "label": "Gastronomía como experiencia cultural",
+      "aliases": [
+        "Gastro Japo Food Week",
+        "gastronomía temática",
+        "restaurantes como experiencia cultural"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 2
+        }
+      ]
+    },
+    "bienestar_integral_y_consumo_consciente": {
+      "label": "Bienestar integral y consumo consciente",
+      "aliases": [
+        "RESET bienestar",
+        "café descafeinado",
+        "consumo consciente"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 2
+        }
+      ]
+    },
+    "cerveza_pizza_portena": {
+      "label": "Cerveza y pizza porteña",
+      "aliases": [
+        "La pizza de todas las pizzas",
+        "activación Quilmes con pizzerías",
+        "cerveza con pizza"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 1,
+          "x_engagement": 0,
+          "x_views": 31,
+          "news_articles": 0
+        }
+      ]
     }
   },
   "pillars": {
@@ -704,6 +822,15 @@
           "x_engagement": 0,
           "x_views": 0,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 4,
+          "x_engagement": 38,
+          "x_views": 3219,
+          "news_articles": 2
         }
       ]
     },
@@ -753,6 +880,15 @@
           "x_engagement": 50,
           "x_views": 765,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 8,
+          "x_engagement": 195,
+          "x_views": 20493,
+          "news_articles": 2
         }
       ]
     },
@@ -802,6 +938,15 @@
           "x_engagement": 46,
           "x_views": 3766,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 5,
+          "x_engagement": 54,
+          "x_views": 811,
+          "news_articles": 2
         }
       ]
     },
@@ -847,6 +992,15 @@
           "period_id": "2026-W43",
           "from_date": "2026-10-15",
           "to_date": "2026-10-21",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
           "x_volume": 0,
           "x_engagement": 0,
           "x_views": 0,
@@ -900,6 +1054,15 @@
           "x_engagement": 4,
           "x_views": 2356,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 5,
+          "x_engagement": 40,
+          "x_views": 37158,
+          "news_articles": 2
         }
       ]
     },
@@ -949,6 +1112,15 @@
           "x_engagement": 0,
           "x_views": 0,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
+          "x_volume": 8,
+          "x_engagement": 2585,
+          "x_views": 57700,
+          "news_articles": 2
         }
       ]
     },
@@ -994,6 +1166,15 @@
           "period_id": "2026-W43",
           "from_date": "2026-10-15",
           "to_date": "2026-10-21",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W44",
+          "from_date": "2026-10-20",
+          "to_date": "2026-10-26",
           "x_volume": 0,
           "x_engagement": 0,
           "x_views": 0,

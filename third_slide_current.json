@@ -2,67 +2,76 @@
   "schema_version": 3,
   "methodology_version": "sauron_insights_v2",
   "period": {
-    "period_id": "2026-W43",
-    "from_date": "2026-10-15",
-    "to_date": "2026-10-21",
+    "period_id": "2026-W44",
+    "from_date": "2026-10-20",
+    "to_date": "2026-10-26",
     "days": 7
   },
   "trend_status": {
     "emerging": [
       {
-        "topic_id": "presion_precio_cerveza",
-        "title": "El precio de la cerveza acelera la barrera de salida",
-        "summary": "La conversación sube de 1 a 4 menciones observadas y se cruza con cervezas a $12.000 en restaurantes. La tensión exige formatos y promociones que justifiquen la ocasión.",
-        "current_value": 4,
-        "historical_value": 1,
+        "topic_id": "cerveza_y_futbol",
+        "title": "La cerveza acelera en los códigos del deporte",
+        "summary": "Quilmes activa con Colapinto y la conversación deportiva duplica su volumen frente al último punto comparable; el cruce entre marca y pasión ofrece un territorio de alta respuesta.",
+        "current_value": 8,
+        "historical_value": 4,
         "source_support": [
-          "x",
+          "x"
+        ]
+      },
+      {
+        "topic_id": "gastronomia_como_experiencia_cultural",
+        "title": "La gastronomía temática se vuelve experiencia cultural",
+        "summary": "Gastro Japo reúne 40 locales y la tradición italiana sostiene restaurantes de largo recorrido; explorar sabores funciona como plan, identidad y motivo de encuentro.",
+        "current_value": 2,
+        "historical_value": null,
+        "source_support": [
           "news"
         ]
       },
       {
-        "topic_id": "ecosistema_cervecero_local",
-        "title": "El mapa cervecero activa el orgullo por lo local",
-        "summary": "Un mapa interactivo reúne casi 300 fábricas argentinas y convierte la oferta artesanal en descubrimiento. La señal abre oportunidades para rutas, bares y experiencias con identidad.",
+        "topic_id": "bienestar_integral_y_consumo_consciente",
+        "title": "El bienestar amplía su definición",
+        "summary": "RESET integra cuerpo, vínculos y finanzas, mientras el descafeinado mantiene el ritual sin estimulante; la oportunidad está en acompañar decisiones conscientes sin perder disfrute.",
         "current_value": 2,
         "historical_value": null,
         "source_support": [
-          "x"
-        ]
-      },
-      {
-        "topic_id": "quilmes_musica_argentina",
-        "title": "Quilmes vuelve la música un código de argentinidad",
-        "summary": "La presencia en Martín Fierro de la Música conecta “Me Gusta Argentina, Me Gusta Quilmes” con celebración popular. Es un territorio nuevo para reforzar cercanía cultural.",
-        "current_value": 2,
-        "historical_value": null,
-        "source_support": [
-          "x"
+          "news"
         ]
       }
     ],
     "persistent": [
       {
-        "topic_id": "experiencias_presenciales_compartidas",
-        "title": "Las experiencias presenciales sostienen su tracción",
-        "summary": "Cuatro artículos vuelven a mostrar salidas con música, diseño, fandom y encuentro, el mismo nivel del período previo. La estabilidad confirma valor para activar consumo fuera del hogar.",
-        "current_value": 4,
+        "topic_id": "presion_precio_cerveza",
+        "title": "La accesibilidad sigue condicionando a la cerveza",
+        "summary": "La promo de Quilmes instala un umbral concreto de valor y las bebidas lideran la caída en supermercados; precio, formato y promoción siguen definiendo la elección.",
+        "current_value": 5,
         "historical_value": 4,
         "source_support": [
+          "x",
           "news"
+        ]
+      },
+      {
+        "topic_id": "cerveza_ritual_social",
+        "title": "La cerveza conserva su rol de ritual cotidiano",
+        "summary": "El volumen social sube de 6 a 8 sin una ruptura estructural: la categoría sigue ligada a encuentro y pertenencia, un territorio vigente aunque con pocas piezas de alto engagement.",
+        "current_value": 8,
+        "historical_value": 6,
+        "source_support": [
+          "x"
         ]
       }
     ],
     "declining": [
       {
-        "topic_id": "cerveza_ritual_social",
-        "title": "El ritual social con cerveza pierde algo de volumen",
-        "summary": "La señal baja de 9 a 6 menciones observadas tras una trayectoria descendente, aunque sigue asociada con fiesta y mesa compartida. El precio puede estar elevando la exigencia sobre la salida.",
-        "current_value": 6,
-        "historical_value": 9,
+        "topic_id": "innovacion_wellness_cerveza",
+        "title": "La cerveza sin alcohol pierde tracción visible",
+        "summary": "La alternativa aparece en conversaciones cotidianas, pero baja de 3 a 1 menciones observadas frente al período anterior; necesita códigos sociales más atractivos para ganar naturalidad.",
+        "current_value": 1,
+        "historical_value": 3,
         "source_support": [
-          "x",
-          "news"
+          "x"
         ]
       }
     ]
@@ -71,45 +80,45 @@
     "brand": [
       {
         "entity": "Quilmes",
-        "headline": "Argentina como hub cervecero del Cono Sur",
-        "summary": "La centralización regional y el peso de la malta y la cebada locales proyectan escala industrial con orgullo de origen, un relato capaz de unir liderazgo, empleo y pertenencia.",
+        "headline": "De Colapinto a la pasión deportiva",
+        "summary": "El homenaje oficial a Franco Colapinto concentra la mayor respuesta de la semana y muestra cómo la marca puede traducir admiración deportiva en cercanía y pertenencia.",
         "asset_key": null
       },
       {
         "entity": "Quilmes",
-        "headline": "La música argentina como territorio de cercanía",
-        "summary": "La activación en Martín Fierro de la Música vincula marca, celebración y cultura popular, ofreciendo un código flexible para participar en momentos compartidos sin forzar protagonismo.",
+        "headline": "La pizza porteña como ritual de marca",
+        "summary": "La activación con DraftLine y pizzerías porteñas instala a la cerveza dentro de un código gastronómico masivo, reconocible y fácil de convertir en experiencia compartida.",
         "asset_key": null
       }
     ],
     "category": [
       {
         "entity": "Cerveza artesanal",
-        "headline": "Descubrimiento local y experiencias de origen",
-        "summary": "El mapa de casi 300 fábricas transforma productores dispersos en una ruta cultural visible. Hay espacio para conectar bares, turismo y relatos de procedencia con orgullo federal.",
+        "headline": "Identidad local convertida en experiencia",
+        "summary": "Un mapa cercano a 300 fábricas y el foco en origen y recorridos muestran que lo artesanal compite mediante historias, comunidad y turismo, más allá del producto.",
         "asset_key": null
       },
       {
-        "entity": "Cerveza",
-        "headline": "El precio pone a prueba el valor de la salida",
-        "summary": "Las quejas por márgenes altos y una cuenta porteña con cervezas a $12.000 muestran que la categoría debe justificar el gasto mediante conveniencia, calidad u ocasión diferencial.",
+        "entity": "Cerveza sin alcohol",
+        "headline": "La moderación busca naturalizarse",
+        "summary": "La opción aparece en charlas y contextos cotidianos, aunque con bajo volumen. La oportunidad es integrarla a ocasiones sociales sin tratarla como una elección excepcional.",
         "asset_key": null
       }
     ],
     "competition": [
       {
-        "entity": "Mate",
-        "headline": "Identidad argentina que cruza fronteras",
-        "summary": "Haaland adoptó la infusión por influencia de compañeros argentinos, mostrando cómo una bebida cotidiana gana prestigio global y compite desde autenticidad, ritual y pertenencia.",
+        "entity": "Vinos espumantes",
+        "headline": "La Patagonia disputa el territorio del brindis",
+        "summary": "La celebración del Día del Espumante activa origen, burbujas y ceremonia, apropiándose de una ocasión emocional donde la cerveza también puede construir códigos.",
         "asset_key": null
       },
       {
-        "entity": "Coctelería y bares",
-        "headline": "La barra premium eleva la vara de experiencia",
-        "summary": "Los locales renovados combinan cócteles, cerveza y platos para compartir. La competencia ya no es sólo entre bebidas: también se disputa la experiencia completa de la salida.",
+        "entity": "Café descafeinado",
+        "headline": "Bienestar sin abandonar el ritual",
+        "summary": "Conserva sabor y compuestos vegetales con menos estimulante, mostrando cómo una categoría rival sostiene hábito y disfrute mientras responde a una necesidad de moderación.",
         "asset_key": null
       }
     ],
-    "takeaway": "La oportunidad está en unir orgullo local, música y experiencias compartidas sin desatender el precio: la cerveza gana significado cuando la ocasión justifica el gasto."
+    "takeaway": "La oportunidad es unir pasión y ritual con accesibilidad: deporte y gastronomía generan deseo, pero precio y bienestar deciden qué opciones entran en la ocasión."
   }
 }
