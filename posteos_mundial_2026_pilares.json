@@ -1,94 +1,106 @@
 {
   "overview": {
     "portales": {
-      "summary": "La semana combina presión sobre el bolsillo, nuevas ocasiones de encuentro, cocina con cerveza, hábitos de bienestar y pasiones culturales y deportivas que movilizan a los argentinos."
+      "summary": "La semana combina presión sobre el bolsillo y las bebidas, búsqueda de bienestar, exploración gastronómica, experiencias premium y grandes rituales colectivos ligados al fútbol, la música y los eventos."
     }
   },
   "pilares": {
     "AFFORDABILITY": [
       {
-        "medio": "TN",
-        "resumen": "Un grupo de seis personas pagó $477.000 en un restaurante porteño; las nueve cervezas costaron $12.000 cada una, señal directa de la barrera de precio en salidas gastronómicas.",
-        "titulo_corto": "Nueve cervezas, $108.000",
-        "url": "https://tn.com.ar/sociedad/2026/10/21/fue-a-el-preferido-de-palermo-pidio-3-milanesas-9-cervezas-papas-fritas-pure-y-pollo-asado-mostro-el-ticket-final"
+        "medio": "tn",
+        "resumen": "Las ventas de bebidas en supermercados retrocedieron 13,6% interanual, mientras los consumidores hicieron más compras pero redujeron 10,2% el ticket real promedio.",
+        "titulo_corto": "Bebidas lideran la caída",
+        "url": "https://tn.com.ar/economia/2026/10/24/las-ventas-en-supermercados-cayeron-en-agosto-cuales-fueron-las-provincias-mas-afectadas"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Dos de cada tres argentinos agotan sus ingresos hacia el día 20 y recurren a deuda para sostener gastos, reduciendo el margen disponible para consumos discrecionales.",
-        "titulo_corto": "El ingreso no llega a fin de mes",
-        "url": "https://www.infobae.com/economia/2026/10/21/la-gente-no-llega-a-fin-de-mes-que-dijo-el-autor-de-la-encuesta-que-irrito-al-presidente-milei"
+        "medio": "infobae",
+        "resumen": "El 87% considera insuficiente su salario y al 73% le dura dos semanas o menos, reduciendo el margen para recreación y consumos discrecionales.",
+        "titulo_corto": "El sueldo limita el consumo",
+        "url": "https://www.infobae.com/economia/2026/10/26/casi-9-de-cada-10-argentinos-consideran-que-su-salario-es-insuficiente-para-cubrir-sus-necesidades-basicas"
       }
     ],
     "EVENTS": [
       {
-        "medio": "La Nación",
-        "resumen": "Conciertos gratuitos, tango y recorridos culturales activarán 90 cafés, bares y confiterías porteñas como espacios de encuentro y consumo fuera del hogar.",
-        "titulo_corto": "Bares Notables suman música",
-        "url": "https://www.lanacion.com.ar/que-sale/dia-de-los-cafes-de-buenos-aires-2026-cuando-y-donde-habra-conciertos-gratis-en-los-bares-notables-nid20102026"
+        "medio": "infobae",
+        "resumen": "El TC, Festival Bandera y congresos llevaron 120.604 visitantes a Rosario, alcanzaron 97% de ocupación hotelera y movilizaron más de $11.400 millones.",
+        "titulo_corto": "Rosario se activa con eventos",
+        "url": "https://www.infobae.com/sociedad/2026/10/26/rosario-alcanzo-el-97-de-ocupacion-hotelera-por-el-tc-festival-bandera-y-congresos"
       },
       {
-        "medio": "Infobae",
-        "resumen": "Tres shows agotados en La Plata convierten años de organización del fandom ARMY en una experiencia masiva que combina música, identidad y pertenencia colectiva.",
-        "titulo_corto": "BTS moviliza a su comunidad argentina",
-        "url": "https://www.infobae.com/teleshow/2026/10/21/las-claves-del-fenomeno-de-bts-en-argentina-el-rol-de-army-canciones-que-son-himnos-y-el-sueno-de-una-generacion"
+        "medio": "infobae",
+        "resumen": "Más de 60.000 personas cerraron tres shows de BTS en La Plata con símbolos argentinos, cantos y rituales colectivos tras 13 años de espera, mostrando la fuerza de los fandoms.",
+        "titulo_corto": "BTS convierte espera en comunidad",
+        "url": "https://www.infobae.com/teleshow/2026/10/25/lagrimas-camisetas-de-la-seleccion-y-la-promesa-de-regresar-al-pais-asi-fue-la-ultima-noche-de-bts-en-la-argentina"
       }
     ],
     "FLAVOR": [
       {
-        "medio": "TN",
-        "resumen": "Una receta usa cerveza y levadura para lograr un rebozado liviano y crocante, reforzando su valor como ingrediente que aporta textura a la experiencia gastronómica.",
-        "titulo_corto": "La cerveza entra en la cocina",
-        "url": "https://tn.com.ar/cocina/recetas/2026/10/15/con-200-g-de-harina-y-290-ml-de-cerveza-la-receta-de-pescado-frito-crocante-y-sabroso-en-9-pasos"
+        "medio": "lanacion",
+        "resumen": "Gastro Japo Food Week reunirá 40 locales en varias ciudades con menús y promociones centrados en sabores que van más allá del sushi, impulsando exploración gastronómica.",
+        "titulo_corto": "Japón amplía su repertorio",
+        "url": "https://www.lanacion.com.ar/que-sale/mas-alla-del-sushi-mas-de-35-restaurantes-ofreceran-menus-especiales-y-promociones-para-probar-otros-nid21102026"
       },
       {
-        "medio": "TyC Sports",
-        "resumen": "Sorrentinos, milanesas, pascualina y tartas concentran los pedidos de los jugadores, un repertorio de comida argentina que enlaza sabor, pertenencia y ritual deportivo.",
-        "titulo_corto": "Los sabores de la Selección",
-        "url": "https://www.tycsports.com/seleccion-argentina/la-cocinera-de-la-seleccion-argentina-revelo-los-tres-platos-que-le-piden-los-jugadores-id767386.html"
+        "medio": "lanacion",
+        "resumen": "Un chef de Puerto Madero explica cómo el arroz, el caldo y el socarrat definen una paella lograda, reforzando el valor de la técnica en la experiencia de sabor.",
+        "titulo_corto": "La técnica detrás de la paella",
+        "url": "https://www.lanacion.com.ar/lifestyle/fran-rosat-chef-revolver-el-arroz-arruina-todas-las-paellas-porque-soltas-el-almidon-y-te-queda-como-nid23102026"
       }
     ],
     "IMAGE": [
       {
-        "medio": "TyC Sports",
-        "resumen": "Haaland adoptó el mate y agradeció a tres compañeros argentinos, mostrando cómo una bebida cotidiana gana aspiracionalidad y alcance internacional a través del fútbol.",
-        "titulo_corto": "El mate se vuelve código global",
-        "url": "https://www.tycsports.com/curiosidades/el-curioso-posteo-de-haaland-tomando-mate-la-reaccion-de-sus-companeros-argentinos-id767080.html"
+        "medio": "lanacion",
+        "resumen": "San Martín de los Andes combina producto regional, cocina contemporánea, vinos y coctelería en propuestas que convierten origen y sofisticación en una experiencia aspiracional.",
+        "titulo_corto": "Patagonia premium y con identidad",
+        "url": "https://www.lanacion.com.ar/revista-lugares/san-martin-de-los-andes-los-clasicos-y-las-aperturas-para-disfrutar-de-la-localidad-patagonica-nid26102026"
       },
       {
-        "medio": "Infobae",
-        "resumen": "La Noche del Diseño reunirá arte, música, degustaciones y oficios nacionales en 90 locales porteños, conectando identidad local con una experiencia urbana sofisticada.",
-        "titulo_corto": "Diseño, folclore y fantasía",
-        "url": "https://www.infobae.com/cultura/2026/10/20/la-noche-del-diseno-arte-musica-y-mas-de-90-locales-en-el-distrito-arenales"
+        "medio": "lanacion",
+        "resumen": "Aunque los costos en dólares presionan la rentabilidad hotelera, casi 100 proyectos avanzan en 17 provincias impulsados por el lujo, nuevas marcas y turismo internacional.",
+        "titulo_corto": "El lujo sostiene la inversión",
+        "url": "https://www.lanacion.com.ar/economia/negocios/la-paradoja-que-vive-la-hoteleria-argentina-nid24102026"
       }
     ],
     "SOCIALIZATION": [
       {
-        "medio": "TN",
-        "resumen": "Más de 60 hoteles ofrecerán turnos con 50% de descuento para incentivar que las parejas recuperen tiempo y espacio de conexión fuera del hogar.",
-        "titulo_corto": "La Noche de los Telos activa el encuentro",
-        "url": "https://tn.com.ar/sociedad/2026/10/21/la-noche-de-los-telos-ya-tiene-fecha-habra-descuentos-del-50-y-las-habitaciones-mas-caras-se-estan-agotando"
+        "medio": "lanacion",
+        "resumen": "Una familia formada en Roma sostiene desde hace 27 años un restaurante en Buenos Aires, mostrando cómo la herencia italiana convierte la mesa en una ocasión duradera de encuentro.",
+        "titulo_corto": "La pasta como ritual porteño",
+        "url": "https://www.lanacion.com.ar/el-mundo/son-hijos-de-italianos-estudiaron-gastronomia-en-roma-y-desde-hace-27-anos-que-tienen-un-restaurante-nid25102026"
+      },
+      {
+        "medio": "lanacion",
+        "resumen": "La psicología distingue la soledad elegida de una necesidad de conexión insatisfecha, una tensión relevante para construir ocasiones sociales con sentido y pertenencia.",
+        "titulo_corto": "Conexión más allá de los contactos",
+        "url": "https://www.lanacion.com.ar/lifestyle/por-que-algunas-personas-pueden-pasar-anos-sin-tener-un-amigo-intimo-nid24102026"
       }
     ],
     "SPORTS": [
       {
-        "medio": "La Nación",
-        "resumen": "La liga expande en Argentina un negocio que une deporte, música, moda y entretenimiento; su tienda de Buenos Aires lidera las ventas por metro cuadrado a nivel global.",
-        "titulo_corto": "La NBA crece como lifestyle",
-        "url": "https://www.lanacion.com.ar/economia/como-funciona-el-millonario-negocio-de-la-nba-y-su-estrategia-para-crecer-en-argentina-nid20102026"
+        "medio": "ole",
+        "resumen": "Boca y River jugarán el partido más esperado del fútbol argentino en una instancia decisiva, reforzando al deporte como gran generador de rituales y ocasiones compartidas.",
+        "titulo_corto": "El Superclásico concentra la atención",
+        "url": "https://www.ole.com.ar/futbol-primera/boca-vs-river-superclasico-dia-horario-ver-torneo-clausura-2026-proximo-partido_0_vxte3ueGvb.html"
       },
       {
-        "medio": "Olé",
-        "resumen": "Argentina logró su primera victoria en un Mundial femenino Sub 17, un hito que amplía la visibilidad de las juveniles y sostiene nuevas audiencias para el fútbol nacional.",
-        "titulo_corto": "Hito del fútbol femenino Sub 17",
-        "url": "https://www.ole.com.ar/futbol-femenino/seleccion-argentina-femenina-primera-victoria-mundial-sub-17-nueva-zelanda-marruecos-sueno-clasificar-octavos-final_0_1pL22MN4KO.html"
+        "medio": "infobae",
+        "resumen": "El torneo juvenil duplicó participantes, reúne a clubes globales y tres argentinos, y propone competencia, amistad y cultura como experiencia deportiva internacional.",
+        "titulo_corto": "Messi Cup crece y conecta",
+        "url": "https://www.infobae.com/deportes/2026/10/26/el-divertido-momento-que-protagonizo-lionel-messi-en-la-messi-cup-con-el-traductor-la-hice-re-larga-no"
       }
     ],
     "WELLNESS": [
       {
-        "medio": "TN",
-        "resumen": "Especialistas proponen alimentación variada, fibra, hidratación y seguimiento profesional, evitando restricciones innecesarias que pueden empobrecer la dieta sin resolver síntomas.",
-        "titulo_corto": "Cuidar la digestión sin restricciones",
-        "url": "https://tn.com.ar/salud/noticias/2026/10/21/como-influye-la-nutricion-en-el-cuidado-de-la-salud-digestiva"
+        "medio": "infobae",
+        "resumen": "El café descafeinado conserva compuestos vegetales asociados con beneficios metabólicos y cardiovasculares, y ofrece una alternativa para quienes moderan estimulantes sin resignar el ritual.",
+        "titulo_corto": "Descafeinado y bienestar",
+        "url": "https://www.infobae.com/salud/2026/10/26/que-beneficios-tiene-el-cafe-descafeinado-para-la-salud-segun-estudios-cientificos"
+      },
+      {
+        "medio": "lanacion",
+        "resumen": "RESET propone pensar salud, vínculos y finanzas como partes de una vida más longeva, reflejando un bienestar que combina cuerpo, relaciones y capacidad de proyectar.",
+        "titulo_corto": "Bienestar como proyecto integral",
+        "url": "https://www.lanacion.com.ar/espectaculos/personajes/luis-majul-anticipa-reset-la-plataforma-que-creo-para-romper-paradigmas-y-apostar-por-el-bienestar-nid25102026"
       }
     ]
   }
