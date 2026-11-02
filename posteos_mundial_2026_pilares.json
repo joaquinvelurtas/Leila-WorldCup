@@ -1,106 +1,68 @@
 {
   "overview": {
     "portales": {
-      "summary": "La semana combina presión sobre el bolsillo y las bebidas, búsqueda de bienestar, exploración gastronómica, experiencias premium y grandes rituales colectivos ligados al fútbol, la música y los eventos."
+      "summary": "La conversación semanal combina presión sobre el consumo discrecional, cierre de locales gastronómicos, el Superclásico Boca-River como ocasión social masiva, bienestar y consumo consciente, y una amenaza estructural para la cerveza por el auge de los GLP-1 como Ozempic."
     }
   },
   "pilares": {
-    "AFFORDABILITY": [
-      {
-        "medio": "tn",
-        "resumen": "Las ventas de bebidas en supermercados retrocedieron 13,6% interanual, mientras los consumidores hicieron más compras pero redujeron 10,2% el ticket real promedio.",
-        "titulo_corto": "Bebidas lideran la caída",
-        "url": "https://tn.com.ar/economia/2026/10/24/las-ventas-en-supermercados-cayeron-en-agosto-cuales-fueron-las-provincias-mas-afectadas"
-      },
-      {
-        "medio": "infobae",
-        "resumen": "El 87% considera insuficiente su salario y al 73% le dura dos semanas o menos, reduciendo el margen para recreación y consumos discrecionales.",
-        "titulo_corto": "El sueldo limita el consumo",
-        "url": "https://www.infobae.com/economia/2026/10/26/casi-9-de-cada-10-argentinos-consideran-que-su-salario-es-insuficiente-para-cubrir-sus-necesidades-basicas"
-      }
-    ],
-    "EVENTS": [
-      {
-        "medio": "infobae",
-        "resumen": "El TC, Festival Bandera y congresos llevaron 120.604 visitantes a Rosario, alcanzaron 97% de ocupación hotelera y movilizaron más de $11.400 millones.",
-        "titulo_corto": "Rosario se activa con eventos",
-        "url": "https://www.infobae.com/sociedad/2026/10/26/rosario-alcanzo-el-97-de-ocupacion-hotelera-por-el-tc-festival-bandera-y-congresos"
-      },
-      {
-        "medio": "infobae",
-        "resumen": "Más de 60.000 personas cerraron tres shows de BTS en La Plata con símbolos argentinos, cantos y rituales colectivos tras 13 años de espera, mostrando la fuerza de los fandoms.",
-        "titulo_corto": "BTS convierte espera en comunidad",
-        "url": "https://www.infobae.com/teleshow/2026/10/25/lagrimas-camisetas-de-la-seleccion-y-la-promesa-de-regresar-al-pais-asi-fue-la-ultima-noche-de-bts-en-la-argentina"
-      }
-    ],
+    "SOCIALIZATION": [],
     "FLAVOR": [
       {
-        "medio": "lanacion",
-        "resumen": "Gastro Japo Food Week reunirá 40 locales en varias ciudades con menús y promociones centrados en sabores que van más allá del sushi, impulsando exploración gastronómica.",
-        "titulo_corto": "Japón amplía su repertorio",
-        "url": "https://www.lanacion.com.ar/que-sale/mas-alla-del-sushi-mas-de-35-restaurantes-ofreceran-menus-especiales-y-promociones-para-probar-otros-nid21102026"
-      },
-      {
-        "medio": "lanacion",
-        "resumen": "Un chef de Puerto Madero explica cómo el arroz, el caldo y el socarrat definen una paella lograda, reforzando el valor de la técnica en la experiencia de sabor.",
-        "titulo_corto": "La técnica detrás de la paella",
-        "url": "https://www.lanacion.com.ar/lifestyle/fran-rosat-chef-revolver-el-arroz-arruina-todas-las-paellas-porque-soltas-el-almidon-y-te-queda-como-nid23102026"
-      }
-    ],
-    "IMAGE": [
-      {
-        "medio": "lanacion",
-        "resumen": "San Martín de los Andes combina producto regional, cocina contemporánea, vinos y coctelería en propuestas que convierten origen y sofisticación en una experiencia aspiracional.",
-        "titulo_corto": "Patagonia premium y con identidad",
-        "url": "https://www.lanacion.com.ar/revista-lugares/san-martin-de-los-andes-los-clasicos-y-las-aperturas-para-disfrutar-de-la-localidad-patagonica-nid26102026"
-      },
-      {
-        "medio": "lanacion",
-        "resumen": "Aunque los costos en dólares presionan la rentabilidad hotelera, casi 100 proyectos avanzan en 17 provincias impulsados por el lujo, nuevas marcas y turismo internacional.",
-        "titulo_corto": "El lujo sostiene la inversión",
-        "url": "https://www.lanacion.com.ar/economia/negocios/la-paradoja-que-vive-la-hoteleria-argentina-nid24102026"
-      }
-    ],
-    "SOCIALIZATION": [
-      {
-        "medio": "lanacion",
-        "resumen": "Una familia formada en Roma sostiene desde hace 27 años un restaurante en Buenos Aires, mostrando cómo la herencia italiana convierte la mesa en una ocasión duradera de encuentro.",
-        "titulo_corto": "La pasta como ritual porteño",
-        "url": "https://www.lanacion.com.ar/el-mundo/son-hijos-de-italianos-estudiaron-gastronomia-en-roma-y-desde-hace-27-anos-que-tienen-un-restaurante-nid25102026"
-      },
-      {
-        "medio": "lanacion",
-        "resumen": "La psicología distingue la soledad elegida de una necesidad de conexión insatisfecha, una tensión relevante para construir ocasiones sociales con sentido y pertenencia.",
-        "titulo_corto": "Conexión más allá de los contactos",
-        "url": "https://www.lanacion.com.ar/lifestyle/por-que-algunas-personas-pueden-pasar-anos-sin-tener-un-amigo-intimo-nid24102026"
-      }
-    ],
-    "SPORTS": [
-      {
-        "medio": "ole",
-        "resumen": "Boca y River jugarán el partido más esperado del fútbol argentino en una instancia decisiva, reforzando al deporte como gran generador de rituales y ocasiones compartidas.",
-        "titulo_corto": "El Superclásico concentra la atención",
-        "url": "https://www.ole.com.ar/futbol-primera/boca-vs-river-superclasico-dia-horario-ver-torneo-clausura-2026-proximo-partido_0_vxte3ueGvb.html"
-      },
-      {
-        "medio": "infobae",
-        "resumen": "El torneo juvenil duplicó participantes, reúne a clubes globales y tres argentinos, y propone competencia, amistad y cultura como experiencia deportiva internacional.",
-        "titulo_corto": "Messi Cup crece y conecta",
-        "url": "https://www.infobae.com/deportes/2026/10/26/el-divertido-momento-que-protagonizo-lionel-messi-en-la-messi-cup-con-el-traductor-la-hice-re-larga-no"
+        "titulo_corto": "Vinos que se decantan",
+        "resumen": "El vino sube la vara sensorial con decantado, maridaje y aromas sofisticados, consolidando su rol como referencia aspiracional frente a la cerveza en sabor y ritual.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/tendencias/2026/11/01/que-vinos-conviene-decantar-10-opciones-para-realzar-sus-aromas-y-sabores"
       }
     ],
     "WELLNESS": [
       {
-        "medio": "infobae",
-        "resumen": "El café descafeinado conserva compuestos vegetales asociados con beneficios metabólicos y cardiovasculares, y ofrece una alternativa para quienes moderan estimulantes sin resignar el ritual.",
-        "titulo_corto": "Descafeinado y bienestar",
-        "url": "https://www.infobae.com/salud/2026/10/26/que-beneficios-tiene-el-cafe-descafeinado-para-la-salud-segun-estudios-cientificos"
+        "titulo_corto": "Ozempic amenaza a la cerveza",
+        "resumen": "Heineken alerta a los bares que los GLP-1 como Ozempic bajan las ganas de beber y empujan a formatos chicos y opciones sin alcohol, señal estructural para la categoría.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/27/la-cerveza-en-peligro-por-el-consumo-de-ozempic-heineken-advierte-a-los-bares-de-que-la-gente-ya-no-tiene-ganas-de-beber"
       },
       {
-        "medio": "lanacion",
-        "resumen": "RESET propone pensar salud, vínculos y finanzas como partes de una vida más longeva, reflejando un bienestar que combina cuerpo, relaciones y capacidad de proyectar.",
-        "titulo_corto": "Bienestar como proyecto integral",
-        "url": "https://www.lanacion.com.ar/espectaculos/personajes/luis-majul-anticipa-reset-la-plataforma-que-creo-para-romper-paradigmas-y-apostar-por-el-bienestar-nid25102026"
+        "titulo_corto": "Consumo consciente premium",
+        "resumen": "Bienestar Fest convierte el cuidado personal, la cosmética natural y la alimentación saludable en una ocasión aspiracional, reforzando la barrera de bienestar para el alcohol.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/salud/un-mercado-boutique-del-cuidado-personal-el-paseo-de-compras-reflejo-las-tendencias-de-consumo-nid30102026"
+      }
+    ],
+    "AFFORDABILITY": [
+      {
+        "titulo_corto": "Consumo no repunta ni con rebaja",
+        "resumen": "Un carnicero vende carne a $8.000 el kilo y aun así no se recupera: el consumo discrecional se derrumba después del día 20 del mes y presiona todas las ocasiones de gasto.",
+        "medio": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/11/02/vende-carne-a-8000-el-kilo-pero-ni-asi-el-consumo-no-repunta"
+      },
+      {
+        "titulo_corto": "Cierran bodegones y locales",
+        "resumen": "Gladys La Bomba Tucumana cerró su local de empanadas en Recoleta por los costos y el bajo consumo, señal concreta del impacto del contexto económico sobre la salida gastronómica.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/espectaculos/tras-dos-anos-en-recoleta-gladys-la-bomba-tucumana-cerro-su-local-de-empanadas-y-apunto-contra-nid01112026"
+      }
+    ],
+    "IMAGE": [],
+    "SPORTS": [
+      {
+        "titulo_corto": "Riquelme: asado y cerveza",
+        "resumen": "Tras el triunfo en el Superclásico, Riquelme asocia el festejo con asado, cerveza o vino, consolidando el fútbol como ocasión social central para el consumo en Argentina.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/02/ellos-no-atacaron-nunca-nuestro-arquero-tuvo-el-partido-mas-tranquilo-y-otras-7-frases-de-riquelme-tras-el-triunfo-de-boca-ante-river"
+      },
+      {
+        "titulo_corto": "Superclásico, cita masiva",
+        "resumen": "El historial Boca-River se actualiza con el Clausura 2026 y vuelve a convertir al Superclásico en la cita social masiva del fin de semana para hinchas, previas y encuentros.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/futbol-primera/superclasico-historial-boca-river-torneo-clausura-2026_0_bDFlNfnRvG.html"
+      }
+    ],
+    "EVENTS": [
+      {
+        "titulo_corto": "arteba, 35 años de fiesta",
+        "resumen": "La edición aniversario de arteba logró récords de ventas y reencuentros, mostrando un circuito cultural que convoca al público aspiracional en formato de celebración social.",
+        "medio": "La Nación",
+        "url": "https://www.lanacion.com.ar/cultura/una-fiesta-records-nuevos-compradores-y-reencuentros-para-celebrar-los-35-anos-de-arteba-nid01112026"
       }
     ]
   }
