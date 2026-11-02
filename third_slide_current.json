@@ -53,7 +53,18 @@
         ]
       }
     ],
-    "declining": []
+    "declining": [
+      {
+        "topic_id": "innovacion_wellness_cerveza",
+        "title": "Innovación wellness en cerveza pierde tracción conversacional",
+        "summary": "La charla sobre 0.0, baja graduación y Pure Gold se enfrió semana a semana (W39 pico 82 eng → W41 0 → W44 6 views) y esta semana no reaparece: la agenda wellness se corre de producto a Ozempic.",
+        "current_value": 0,
+        "historical_value": 6,
+        "source_support": [
+          "x"
+        ]
+      }
+    ]
   },
   "market_radar": {
     "brand": [

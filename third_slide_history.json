@@ -73,6 +73,15 @@
           "x_engagement": 0,
           "x_views": 6,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 0
         }
       ]
     },
@@ -141,8 +150,6 @@
     "presion_precio_cerveza": {
       "label": "Presión de precio sobre la cerveza",
       "aliases": [
-        "caida del consumo cervecero",
-        "comparación de precios entre marcas",
         "lata de cerveza en oferta",
         "accesibilidad cervecera",
         "promo Quilmes",
@@ -160,7 +167,9 @@
         "carne a $8.000 consumo no repunta",
         "fin de mes consumo cae",
         "cierre de bodegones",
-        "ingreso presionado"
+        "ingreso presionado",
+        "cerveza cara",
+        "abandono por precio"
       ],
       "series": [
         {
