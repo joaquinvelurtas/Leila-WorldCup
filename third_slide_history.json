@@ -141,8 +141,6 @@
     "presion_precio_cerveza": {
       "label": "Presión de precio sobre la cerveza",
       "aliases": [
-        "cerveza cara",
-        "abandono por precio",
         "caida del consumo cervecero",
         "comparación de precios entre marcas",
         "lata de cerveza en oferta",
@@ -158,7 +156,11 @@
         "cerveza nacional a 18-20 mil pesos",
         "cerveza a $12.000 en restaurante",
         "Quilmes 710 cc en oferta",
-        "bebidas caen en supermercados"
+        "bebidas caen en supermercados",
+        "carne a $8.000 consumo no repunta",
+        "fin de mes consumo cae",
+        "cierre de bodegones",
+        "ingreso presionado"
       ],
       "series": [
         {
@@ -214,6 +216,15 @@
           "x_engagement": 54,
           "x_views": 811,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 2
         }
       ]
     },
@@ -234,7 +245,10 @@
         "asado y cerveza",
         "cerveza al salir del trabajo",
         "cerveza en la previa",
-        "cerveza ilimitada en fiestas"
+        "cerveza ilimitada en fiestas",
+        "picada con cerveza",
+        "lata en la calle",
+        "birra callejera"
       ],
       "series": [
         {
@@ -290,6 +304,15 @@
           "x_engagement": 195,
           "x_views": 20493,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": 2,
+          "x_engagement": 79,
+          "x_views": 6434,
+          "news_articles": 0
         }
       ]
     },
@@ -310,7 +333,10 @@
         "Quilmes en el clásico de Córdoba",
         "fulbito y cerveza",
         "Quilmes y Franco Colapinto",
-        "cerveza en la F1"
+        "cerveza en la F1",
+        "Quilmes de botella en el Superclásico",
+        "Riquelme asado y cerveza",
+        "Boca-River festejo con cerveza"
       ],
       "series": [
         {
@@ -357,6 +383,15 @@
           "x_engagement": 2585,
           "x_views": 57700,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": 2,
+          "x_engagement": 3486,
+          "x_views": 254746,
+          "news_articles": 1
         }
       ]
     },
@@ -417,7 +452,9 @@
         "fernet en la previa",
         "competencia de la birra",
         "fernet en el after",
-        "fernet y fandom"
+        "fernet y fandom",
+        "mate y fernet en visitas",
+        "alternativa a la cerveza"
       ],
       "series": [
         {
@@ -434,6 +471,15 @@
           "from_date": "2026-09-30",
           "to_date": "2026-10-06",
           "x_volume": 1,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 0
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": null,
           "x_engagement": null,
           "x_views": null,
           "news_articles": 0
@@ -741,7 +787,12 @@
       "aliases": [
         "RESET bienestar",
         "café descafeinado",
-        "consumo consciente"
+        "consumo consciente",
+        "Bienestar Fest",
+        "mercado boutique",
+        "cosmética natural",
+        "alimentación saludable",
+        "suplementos aspiracional"
       ],
       "series": [
         {
@@ -752,6 +803,15 @@
           "x_engagement": null,
           "x_views": null,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
         }
       ]
     },
@@ -771,6 +831,48 @@
           "x_engagement": 0,
           "x_views": 31,
           "news_articles": 0
+        }
+      ]
+    },
+    "glp1_amenaza_cerveza": {
+      "label": "Amenaza de GLP-1 sobre la cerveza",
+      "aliases": [
+        "Ozempic amenaza cerveza",
+        "Wegovy baja consumo",
+        "GLP-1 reduce alcohol",
+        "Heineken alerta bares"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
+        }
+      ]
+    },
+    "vino_experiencia_sensorial": {
+      "label": "Vino como experiencia sensorial aspiracional",
+      "aliases": [
+        "decantar vinos",
+        "aromas y sabores",
+        "vinos jóvenes concentrados",
+        "espumosos de larga crianza",
+        "maridaje premium",
+        "vino aspiracional"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
         }
       ]
     }
@@ -831,6 +933,15 @@
           "x_engagement": 38,
           "x_views": 3219,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": 8,
+          "x_engagement": 6,
+          "x_views": 845,
+          "news_articles": 2
         }
       ]
     },
@@ -889,6 +1000,15 @@
           "x_engagement": 195,
           "x_views": 20493,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": 4,
+          "x_engagement": 3,
+          "x_views": 240,
+          "news_articles": 0
         }
       ]
     },
@@ -946,6 +1066,15 @@
           "x_volume": 5,
           "x_engagement": 54,
           "x_views": 811,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
           "news_articles": 2
         }
       ]
@@ -1005,6 +1134,15 @@
           "x_engagement": 0,
           "x_views": 0,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": 1,
+          "x_engagement": 0,
+          "x_views": 2,
+          "news_articles": 0
         }
       ]
     },
@@ -1063,6 +1201,15 @@
           "x_engagement": 40,
           "x_views": 37158,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": 5,
+          "x_engagement": 12,
+          "x_views": 205,
+          "news_articles": 1
         }
       ]
     },
@@ -1120,6 +1267,15 @@
           "x_volume": 8,
           "x_engagement": 2585,
           "x_views": 57700,
+          "news_articles": 2
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
           "news_articles": 2
         }
       ]
@@ -1179,6 +1335,15 @@
           "x_engagement": 0,
           "x_views": 0,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W45",
+          "from_date": "2026-10-27",
+          "to_date": "2026-11-02",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
+          "news_articles": 1
         }
       ]
     }

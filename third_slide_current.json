@@ -2,38 +2,18 @@
   "schema_version": 3,
   "methodology_version": "sauron_insights_v2",
   "period": {
-    "period_id": "2026-W44",
-    "from_date": "2026-10-20",
-    "to_date": "2026-10-26",
+    "period_id": "2026-W45",
+    "from_date": "2026-10-27",
+    "to_date": "2026-11-02",
     "days": 7
   },
   "trend_status": {
     "emerging": [
       {
-        "topic_id": "cerveza_y_futbol",
-        "title": "La cerveza acelera en los códigos del deporte",
-        "summary": "Quilmes activa con Colapinto y la conversación deportiva duplica su volumen frente al último punto comparable; el cruce entre marca y pasión ofrece un territorio de alta respuesta.",
-        "current_value": 8,
-        "historical_value": 4,
-        "source_support": [
-          "x"
-        ]
-      },
-      {
-        "topic_id": "gastronomia_como_experiencia_cultural",
-        "title": "La gastronomía temática se vuelve experiencia cultural",
-        "summary": "Gastro Japo reúne 40 locales y la tradición italiana sostiene restaurantes de largo recorrido; explorar sabores funciona como plan, identidad y motivo de encuentro.",
-        "current_value": 2,
-        "historical_value": null,
-        "source_support": [
-          "news"
-        ]
-      },
-      {
-        "topic_id": "bienestar_integral_y_consumo_consciente",
-        "title": "El bienestar amplía su definición",
-        "summary": "RESET integra cuerpo, vínculos y finanzas, mientras el descafeinado mantiene el ritual sin estimulante; la oportunidad está en acompañar decisiones conscientes sin perder disfrute.",
-        "current_value": 2,
+        "topic_id": "glp1_amenaza_cerveza",
+        "title": "GLP-1 como Ozempic amenazan la demanda de cerveza",
+        "summary": "Heineken avisa a los bares que los GLP-1 bajan las ganas de beber y empujan a formatos chicos y sin alcohol: una señal estructural de riesgo para la categoría que llegó a la agenda local.",
+        "current_value": 1,
         "historical_value": null,
         "source_support": [
           "news"
@@ -42,83 +22,76 @@
     ],
     "persistent": [
       {
-        "topic_id": "presion_precio_cerveza",
-        "title": "La accesibilidad sigue condicionando a la cerveza",
-        "summary": "La promo de Quilmes instala un umbral concreto de valor y las bebidas lideran la caída en supermercados; precio, formato y promoción siguen definiendo la elección.",
-        "current_value": 5,
-        "historical_value": 4,
+        "topic_id": "cerveza_y_futbol",
+        "title": "Fútbol y cerveza siguen fundidos como ritual argentino",
+        "summary": "El Superclásico reactivó Quilmes-cerveza-identidad: Riquelme festejó con asado y cerveza y la 'Quilmes de botella' alcanzó 246k views, confirmando el pull cervecero del fútbol.",
+        "current_value": 2,
+        "historical_value": 8,
         "source_support": [
           "x",
           "news"
         ]
       },
       {
-        "topic_id": "cerveza_ritual_social",
-        "title": "La cerveza conserva su rol de ritual cotidiano",
-        "summary": "El volumen social sube de 6 a 8 sin una ruptura estructural: la categoría sigue ligada a encuentro y pertenencia, un territorio vigente aunque con pocas piezas de alto engagement.",
-        "current_value": 8,
-        "historical_value": 6,
+        "topic_id": "presion_precio_cerveza",
+        "title": "Ingreso presionado recorta el consumo discrecional",
+        "summary": "Un carnicero no logra que repunte el consumo ni con carne a $8.000 y bodegones de referencia cierran por costos: la plata del mes sigue achicando salidas, gastronomía y bebidas discrecionales.",
+        "current_value": 2,
+        "historical_value": 2,
         "source_support": [
-          "x"
+          "news"
+        ]
+      },
+      {
+        "topic_id": "bienestar_integral_y_consumo_consciente",
+        "title": "Bienestar y consumo consciente ganan terreno aspiracional",
+        "summary": "El Bienestar Fest con cosmética natural, suplementos y alimentación saludable crece como ocasión aspiracional, extendiendo la barrera del wellness sobre categorías con alcohol.",
+        "current_value": 1,
+        "historical_value": 2,
+        "source_support": [
+          "news"
         ]
       }
     ],
-    "declining": [
-      {
-        "topic_id": "innovacion_wellness_cerveza",
-        "title": "La cerveza sin alcohol pierde tracción visible",
-        "summary": "La alternativa aparece en conversaciones cotidianas, pero baja de 3 a 1 menciones observadas frente al período anterior; necesita códigos sociales más atractivos para ganar naturalidad.",
-        "current_value": 1,
-        "historical_value": 3,
-        "source_support": [
-          "x"
-        ]
-      }
-    ]
+    "declining": []
   },
   "market_radar": {
     "brand": [
       {
         "entity": "Quilmes",
-        "headline": "De Colapinto a la pasión deportiva",
-        "summary": "El homenaje oficial a Franco Colapinto concentra la mayor respuesta de la semana y muestra cómo la marca puede traducir admiración deportiva en cercanía y pertenencia.",
-        "asset_key": null
-      },
-      {
-        "entity": "Quilmes",
-        "headline": "La pizza porteña como ritual de marca",
-        "summary": "La activación con DraftLine y pizzerías porteñas instala a la cerveza dentro de un código gastronómico masivo, reconocible y fácil de convertir en experiencia compartida.",
+        "headline": "Quilmes se consolida como cerveza argenta en el Superclásico",
+        "summary": "Riquelme asoció tomar Quilmes de botella con ser 'argento de verdad' tras el triunfo de Boca: un endoso espontáneo que amplifica el territorio de identidad futbolera que la marca ya ocupa.",
         "asset_key": null
       }
     ],
     "category": [
       {
-        "entity": "Cerveza artesanal",
-        "headline": "Identidad local convertida en experiencia",
-        "summary": "Un mapa cercano a 300 fábricas y el foco en origen y recorridos muestran que lo artesanal compite mediante historias, comunidad y turismo, más allá del producto.",
+        "entity": "Cerveza en supermercado",
+        "headline": "La promo del super sostiene el canal frente a la caída",
+        "summary": "Disco empujó 35% off en cervezas del 30/10 al 1/11 justo antes del Superclásico: cuando el ingreso aprieta, el supermercado y la promo se vuelven palanca clave de la ocasión cervecera.",
         "asset_key": null
       },
       {
-        "entity": "Cerveza sin alcohol",
-        "headline": "La moderación busca naturalizarse",
-        "summary": "La opción aparece en charlas y contextos cotidianos, aunque con bajo volumen. La oportunidad es integrarla a ocasiones sociales sin tratarla como una elección excepcional.",
+        "entity": "Picada callejera",
+        "headline": "Picada y lata en la calle emergen como ritual accesible",
+        "summary": "La semana muestra birra en picadas y lata en la vereda como código cotidiano porteño: una ocasión informal y barata que capitaliza la caída de la salida nocturna y la previa cara.",
         "asset_key": null
       }
     ],
     "competition": [
       {
-        "entity": "Vinos espumantes",
-        "headline": "La Patagonia disputa el territorio del brindis",
-        "summary": "La celebración del Día del Espumante activa origen, burbujas y ceremonia, apropiándose de una ocasión emocional donde la cerveza también puede construir códigos.",
+        "entity": "Vino",
+        "headline": "El vino sube la vara sensorial con decantado y aromas",
+        "summary": "La prensa gastronómica aconseja decantar vinos jóvenes y espumosos con crianza para elevar aromas y textura, reforzando al vino como territorio aspiracional con credenciales sensoriales.",
         "asset_key": null
       },
       {
-        "entity": "Café descafeinado",
-        "headline": "Bienestar sin abandonar el ritual",
-        "summary": "Conserva sabor y compuestos vegetales con menos estimulante, mostrando cómo una categoría rival sostiene hábito y disfrute mientras responde a una necesidad de moderación.",
+        "entity": "Fernet y mate",
+        "headline": "Fernet y mate disputan la ocasión social argentina",
+        "summary": "El fernet con Coca y los mates aparecen como opciones predilectas para encuentros entre amigos y visitas, un recordatorio de que la cerveza compite con rituales profundamente arraigados.",
         "asset_key": null
       }
     ],
-    "takeaway": "La oportunidad es unir pasión y ritual con accesibilidad: deporte y gastronomía generan deseo, pero precio y bienestar deciden qué opciones entran en la ocasión."
+    "takeaway": "El fútbol relanza la asociación Quilmes-identidad, pero el ingreso presionado y la amenaza GLP-1 empujan al consumidor hacia promos, formatos chicos y menos alcohol."
   }
 }
