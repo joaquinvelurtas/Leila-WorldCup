@@ -2,52 +2,51 @@
   "schema_version": 3,
   "methodology_version": "sauron_insights_v2",
   "period": {
-    "period_id": "2026-W45",
-    "from_date": "2026-10-27",
-    "to_date": "2026-11-02",
+    "period_id": "2026-W47",
+    "from_date": "2026-11-10",
+    "to_date": "2026-11-16",
     "days": 7
   },
   "trend_status": {
     "emerging": [
       {
-        "topic_id": "glp1_amenaza_cerveza",
-        "title": "GLP-1 como Ozempic amenazan la demanda de cerveza",
-        "summary": "Heineken avisa a los bares que los GLP-1 bajan las ganas de beber y empujan a formatos chicos y sin alcohol: una señal estructural de riesgo para la categoría que llegó a la agenda local.",
+        "topic_id": "sommelier_expertise_cerveza",
+        "title": "Sommelier de cerveza como capital social emergente",
+        "summary": "María Sol Cravello (TN) posiciona al sommelier de cerveza como figura de prestigio. La sofisticación artesanal se convierte en identidad aspiracional con potencial de redefinir quién es el experto.",
         "current_value": 1,
         "historical_value": null,
         "source_support": [
           "news"
         ]
+      },
+      {
+        "topic_id": "downtrading_segundas_marcas_bebidas",
+        "title": "Downtrading masivo: 6 de 10 argentinos eligen segundas marcas",
+        "summary": "Clarín reporta (5.3K views) que la mayoría ya cambió a segundas marcas en bebidas. La señal escala de percepción de precio a comportamiento real de compra: amenaza directa a la lealtad de marca.",
+        "current_value": 6,
+        "historical_value": null,
+        "source_support": [
+          "x"
+        ]
       }
     ],
     "persistent": [
       {
+        "topic_id": "premium_supermercado",
+        "title": "Cerveza y clase social: tensión de marca vigente",
+        "summary": "Post viral (164K views) instala públicamente que la marca elegida revela clase social. Con 65 replies y críticas a Stella como 'sobrevalorada', el estatus de marca sigue siendo un código vivo y disputado.",
+        "current_value": 4,
+        "historical_value": 12,
+        "source_support": [
+          "x"
+        ]
+      },
+      {
         "topic_id": "cerveza_y_futbol",
-        "title": "Fútbol y cerveza siguen fundidos como ritual argentino",
-        "summary": "El Superclásico reactivó Quilmes-cerveza-identidad: Riquelme festejó con asado y cerveza y la 'Quilmes de botella' alcanzó 246k views, confirmando el pull cervecero del fútbol.",
-        "current_value": 2,
-        "historical_value": 8,
-        "source_support": [
-          "x",
-          "news"
-        ]
-      },
-      {
-        "topic_id": "presion_precio_cerveza",
-        "title": "Ingreso presionado recorta el consumo discrecional",
-        "summary": "Un carnicero no logra que repunte el consumo ni con carne a $8.000 y bodegones de referencia cierran por costos: la plata del mes sigue achicando salidas, gastronomía y bebidas discrecionales.",
-        "current_value": 2,
-        "historical_value": 2,
-        "source_support": [
-          "news"
-        ]
-      },
-      {
-        "topic_id": "bienestar_integral_y_consumo_consciente",
-        "title": "Bienestar y consumo consciente ganan terreno aspiracional",
-        "summary": "El Bienestar Fest con cosmética natural, suplementos y alimentación saludable crece como ocasión aspiracional, extendiendo la barrera del wellness sobre categorías con alcohol.",
+        "title": "Fútbol y celebración como territorio permanente",
+        "summary": "El éxodo masivo xeneize a Barranquilla para la Final de Copa Sudamericana reactiva la conexión histórica cerveza-fútbol. El evento crea una ocasión de consumo colectiva excepcional sostenida semana a semana.",
         "current_value": 1,
-        "historical_value": 2,
+        "historical_value": 1,
         "source_support": [
           "news"
         ]
@@ -55,11 +54,11 @@
     ],
     "declining": [
       {
-        "topic_id": "innovacion_wellness_cerveza",
-        "title": "Innovación wellness en cerveza pierde tracción conversacional",
-        "summary": "La charla sobre 0.0, baja graduación y Pure Gold se enfrió semana a semana (W39 pico 82 eng → W41 0 → W44 6 views) y esta semana no reaparece: la agenda wellness se corre de producto a Ozempic.",
+        "topic_id": "cerveza_saborizada_frutal",
+        "title": "Cervezas saborizadas: sin señal en plena primavera",
+        "summary": "Las cervezas saborizadas (Brahma pomelo, Stones Lemon) dominaron conversación en W37–W43 pero no registran señales en W47. La categoría pierde visibilidad justamente en el pico estacional de mayor oportunidad.",
         "current_value": 0,
-        "historical_value": 6,
+        "historical_value": 1,
         "source_support": [
           "x"
         ]
@@ -70,39 +69,39 @@
     "brand": [
       {
         "entity": "Quilmes",
-        "headline": "Quilmes se consolida como cerveza argenta en el Superclásico",
-        "summary": "Riquelme asoció tomar Quilmes de botella con ser 'argento de verdad' tras el triunfo de Boca: un endoso espontáneo que amplifica el territorio de identidad futbolera que la marca ya ocupa.",
+        "headline": "Rock 2027: activación cultural anticipada",
+        "summary": "El anuncio 'Henry y La Palangana' ubica a Quilmes Rock 2027 como escenario del reencuentro de Bersuit. La marca toma posición anticipada en el evento de rock más esperado, construyendo vínculo emocional antes que nadie.",
+        "asset_key": null
+      },
+      {
+        "entity": "Andes Origen",
+        "headline": "Autenticidad percibida sobre Stella Artois",
+        "summary": "Post de 21K views contrasta Andes (maltoso, honesto, buena relación precio-calidad) versus Stella (sobrevalorada, aguada). La autenticidad percibida construye capital de marca de forma orgánica, sin inversión directa.",
         "asset_key": null
       }
     ],
     "category": [
       {
-        "entity": "Cerveza en supermercado",
-        "headline": "La promo del super sostiene el canal frente a la caída",
-        "summary": "Disco empujó 35% off en cervezas del 30/10 al 1/11 justo antes del Superclásico: cuando el ingreso aprieta, el supermercado y la promo se vuelven palanca clave de la ocasión cervecera.",
+        "entity": "Categoría cerveza",
+        "headline": "Eventos masivos como detonadores de consumo",
+        "summary": "Final de Copa Sudamericana y Marcha del Orgullo 2026 generaron grandes ocasiones sociales: éxodo festivo a Colombia y after Peaches como epicentro nocturno. La categoría puede capitalizar ambas narrativas de pertenencia.",
         "asset_key": null
       },
       {
-        "entity": "Picada callejera",
-        "headline": "Picada y lata en la calle emergen como ritual accesible",
-        "summary": "La semana muestra birra en picadas y lata en la vereda como código cotidiano porteño: una ocasión informal y barata que capitaliza la caída de la salida nocturna y la previa cara.",
+        "entity": "Consumidor artesanal",
+        "headline": "Expertise como nuevo diferenciador de identidad",
+        "summary": "El auge del sommelier y el debate de marcas por estatus muestran que el consumidor premium busca conocimiento real, no solo etiquetas. La cerveza artesanal tiene espacio para crear un lenguaje de expertise genuino.",
         "asset_key": null
       }
     ],
     "competition": [
       {
-        "entity": "Vino",
-        "headline": "El vino sube la vara sensorial con decantado y aromas",
-        "summary": "La prensa gastronómica aconseja decantar vinos jóvenes y espumosos con crianza para elevar aromas y textura, reforzando al vino como territorio aspiracional con credenciales sensoriales.",
-        "asset_key": null
-      },
-      {
-        "entity": "Fernet y mate",
-        "headline": "Fernet y mate disputan la ocasión social argentina",
-        "summary": "El fernet con Coca y los mates aparecen como opciones predilectas para encuentros entre amigos y visitas, un recordatorio de que la cerveza compite con rituales profundamente arraigados.",
+        "entity": "Segundas marcas de bebidas",
+        "headline": "Trade-down presiona lealtad de marca en góndola",
+        "summary": "Con 6 de 10 argentinos eligiendo segundas marcas en bebidas, el principal competidor de las cervezas líderes es el precio. Las marcas que no justifiquen su premium con valores concretos perderán consumidores.",
         "asset_key": null
       }
     ],
-    "takeaway": "El fútbol relanza la asociación Quilmes-identidad, pero el ingreso presionado y la amenaza GLP-1 empujan al consumidor hacia promos, formatos chicos y menos alcohol."
+    "takeaway": "Semana de doble presión: downtrading masivo y debates virales de estatus obligan a las marcas a justificar su premium con autenticidad real, identidad y experiencia."
   }
 }

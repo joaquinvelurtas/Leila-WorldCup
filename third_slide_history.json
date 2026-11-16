@@ -123,6 +123,15 @@
           "x_engagement": null,
           "x_views": null,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 0
         }
       ]
     },
@@ -328,7 +337,6 @@
     "cerveza_y_futbol": {
       "label": "Cerveza, fútbol y pertenencia",
       "aliases": [
-        "Quilmes y Messi",
         "birra en la tribuna",
         "sponsor de River",
         "Quilmes y Colapinto",
@@ -345,7 +353,10 @@
         "cerveza en la F1",
         "Quilmes de botella en el Superclásico",
         "Riquelme asado y cerveza",
-        "Boca-River festejo con cerveza"
+        "Boca-River festejo con cerveza",
+        "birra en el festejo",
+        "cerveza y Copa",
+        "hinchas y cerveza"
       ],
       "series": [
         {
@@ -401,6 +412,15 @@
           "x_engagement": 3486,
           "x_views": 254746,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
         }
       ]
     },
@@ -424,14 +444,16 @@
       ]
     },
     "premium_supermercado": {
-      "label": "Cerveza como marcador de estatus",
+      "label": "Cerveza como marcador de estatus y clase social",
       "aliases": [
         "Stella premium de supermercado",
         "marca sin autenticidad",
         "Corona sin personalidad",
         "premium sin credenciales",
         "cerveza como marcador de clase",
-        "ranking de cerveza por estatus"
+        "ranking de cerveza por estatus",
+        "cerveza y clase social",
+        "estatus por marca de cerveza"
       ],
       "series": [
         {
@@ -450,6 +472,15 @@
           "x_volume": 12,
           "x_engagement": 589,
           "x_views": 253012,
+          "news_articles": 0
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 4,
+          "x_engagement": 170,
+          "x_views": 187393,
           "news_articles": 0
         }
       ]
@@ -884,6 +915,46 @@
           "news_articles": 1
         }
       ]
+    },
+    "sommelier_expertise_cerveza": {
+      "label": "Sommelier de cerveza como expertise aspiracional",
+      "aliases": [
+        "sommelier de cerveza",
+        "pericia artesanal",
+        "mujeres cerveceras experta",
+        "jueza de cerveza"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
+        }
+      ]
+    },
+    "downtrading_segundas_marcas_bebidas": {
+      "label": "Downtrading a segundas marcas en bebidas",
+      "aliases": [
+        "segundas marcas",
+        "trade-down bebidas",
+        "cambio de marca por precio",
+        "marcas blancas bebidas"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 6,
+          "x_engagement": 218,
+          "x_views": 6830,
+          "news_articles": 0
+        }
+      ]
     }
   },
   "pillars": {
@@ -951,6 +1022,15 @@
           "x_engagement": 6,
           "x_views": 845,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 4,
+          "x_engagement": 15,
+          "x_views": 500,
+          "news_articles": 1
         }
       ]
     },
@@ -1018,6 +1098,15 @@
           "x_engagement": 3,
           "x_views": 240,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 4,
+          "x_engagement": 24,
+          "x_views": 894,
+          "news_articles": 2
         }
       ]
     },
@@ -1085,6 +1174,15 @@
           "x_engagement": 0,
           "x_views": 0,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 6,
+          "x_engagement": 218,
+          "x_views": 6830,
+          "news_articles": 0
         }
       ]
     },
@@ -1151,6 +1249,15 @@
           "x_volume": 1,
           "x_engagement": 0,
           "x_views": 2,
+          "news_articles": 0
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 4,
+          "x_engagement": 170,
+          "x_views": 187393,
           "news_articles": 0
         }
       ]
@@ -1219,6 +1326,15 @@
           "x_engagement": 12,
           "x_views": 205,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 8,
+          "x_engagement": 114,
+          "x_views": 24500,
+          "news_articles": 1
         }
       ]
     },
@@ -1286,6 +1402,15 @@
           "x_engagement": 0,
           "x_views": 0,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
+          "news_articles": 1
         }
       ]
     },
@@ -1353,6 +1478,15 @@
           "x_engagement": 0,
           "x_views": 0,
           "news_articles": 1
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
+          "news_articles": 2
         }
       ]
     }
