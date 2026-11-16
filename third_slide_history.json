@@ -17,7 +17,9 @@
         "Stella Pure Gold sin gluten",
         "estigma de cerveza 0.0",
         "Corona Cero",
-        "cerveza sin alcohol en conversaciones cotidianas"
+        "cerveza sin alcohol en conversaciones cotidianas",
+        "moderación cerveza",
+        "cerveza y salud cardiovascular"
       ],
       "series": [
         {
@@ -82,6 +84,15 @@
           "x_engagement": null,
           "x_views": null,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
         }
       ]
     },
@@ -243,6 +254,15 @@
           "x_engagement": null,
           "x_views": null,
           "news_articles": 2
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 0
         }
       ]
     },
@@ -266,7 +286,9 @@
         "cerveza ilimitada en fiestas",
         "picada con cerveza",
         "lata en la calle",
-        "birra callejera"
+        "birra callejera",
+        "cerveza en éxodo futbolero",
+        "cerveza en after de evento masivo"
       ],
       "series": [
         {
@@ -331,14 +353,21 @@
           "x_engagement": 79,
           "x_views": 6434,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": 8,
+          "x_engagement": 68,
+          "x_views": 14657,
+          "news_articles": 2
         }
       ]
     },
     "cerveza_y_futbol": {
       "label": "Cerveza, fútbol y pertenencia",
       "aliases": [
-        "birra en la tribuna",
-        "sponsor de River",
         "Quilmes y Colapinto",
         "Quilmes en F1",
         "birra en el festejo deportivo",
@@ -356,7 +385,9 @@
         "Boca-River festejo con cerveza",
         "birra en el festejo",
         "cerveza y Copa",
-        "hinchas y cerveza"
+        "hinchas y cerveza",
+        "Copa Sudamericana y cerveza",
+        "cerveza en el éxodo hincha"
       ],
       "series": [
         {
@@ -453,7 +484,10 @@
         "cerveza como marcador de clase",
         "ranking de cerveza por estatus",
         "cerveza y clase social",
-        "estatus por marca de cerveza"
+        "estatus por marca de cerveza",
+        "downtrading por calidad percibida",
+        "Stella Artois sobrevalorada",
+        "ranking viral de cervezas"
       ],
       "series": [
         {
@@ -478,9 +512,9 @@
           "period_id": "2026-W47",
           "from_date": "2026-11-10",
           "to_date": "2026-11-16",
-          "x_volume": 4,
-          "x_engagement": 170,
-          "x_views": 187393,
+          "x_volume": 5,
+          "x_engagement": 115,
+          "x_views": 24472,
           "news_articles": 0
         }
       ]
@@ -751,7 +785,9 @@
       "aliases": [
         "Me Gusta Argentina Me Gusta Quilmes",
         "Martín Fierro de la Música",
-        "cerveza y celebración musical"
+        "cerveza y celebración musical",
+        "Quilmes Rock 2027",
+        "rock argentino y Quilmes"
       ],
       "series": [
         {
@@ -762,6 +798,15 @@
           "x_engagement": 2,
           "x_views": 539,
           "news_articles": 0
+        },
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
         }
       ]
     },
@@ -922,7 +967,8 @@
         "sommelier de cerveza",
         "pericia artesanal",
         "mujeres cerveceras experta",
-        "jueza de cerveza"
+        "jueza de cerveza",
+        "María Sol Cravello"
       ],
       "series": [
         {
@@ -942,17 +988,38 @@
         "segundas marcas",
         "trade-down bebidas",
         "cambio de marca por precio",
-        "marcas blancas bebidas"
+        "marcas blancas bebidas",
+        "Andes Origen como top de valor",
+        "ranking precio-calidad cerveza"
       ],
       "series": [
         {
           "period_id": "2026-W47",
           "from_date": "2026-11-10",
           "to_date": "2026-11-16",
-          "x_volume": 6,
-          "x_engagement": 218,
-          "x_views": 6830,
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
           "news_articles": 0
+        }
+      ]
+    },
+    "festival_cerveza_primavera": {
+      "label": "Festivales de cerveza en primavera",
+      "aliases": [
+        "fiestas regionales cerveza noviembre",
+        "cerveza artesanal al aire libre",
+        "festival cerveza primavera"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W47",
+          "from_date": "2026-11-10",
+          "to_date": "2026-11-16",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 4
         }
       ]
     }
@@ -1027,9 +1094,9 @@
           "period_id": "2026-W47",
           "from_date": "2026-11-10",
           "to_date": "2026-11-16",
-          "x_volume": 4,
-          "x_engagement": 15,
-          "x_views": 500,
+          "x_volume": 5,
+          "x_engagement": 12,
+          "x_views": 4188,
           "news_articles": 1
         }
       ]
@@ -1103,9 +1170,9 @@
           "period_id": "2026-W47",
           "from_date": "2026-11-10",
           "to_date": "2026-11-16",
-          "x_volume": 4,
-          "x_engagement": 24,
-          "x_views": 894,
+          "x_volume": 8,
+          "x_engagement": 68,
+          "x_views": 14657,
           "news_articles": 2
         }
       ]
@@ -1179,9 +1246,9 @@
           "period_id": "2026-W47",
           "from_date": "2026-11-10",
           "to_date": "2026-11-16",
-          "x_volume": 6,
-          "x_engagement": 218,
-          "x_views": 6830,
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
           "news_articles": 0
         }
       ]
@@ -1255,9 +1322,9 @@
           "period_id": "2026-W47",
           "from_date": "2026-11-10",
           "to_date": "2026-11-16",
-          "x_volume": 4,
-          "x_engagement": 170,
-          "x_views": 187393,
+          "x_volume": 5,
+          "x_engagement": 115,
+          "x_views": 24472,
           "news_articles": 0
         }
       ]
@@ -1332,8 +1399,8 @@
           "from_date": "2026-11-10",
           "to_date": "2026-11-16",
           "x_volume": 8,
-          "x_engagement": 114,
-          "x_views": 24500,
+          "x_engagement": 9,
+          "x_views": 2746,
           "news_articles": 1
         }
       ]

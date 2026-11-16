@@ -10,98 +10,88 @@
   "trend_status": {
     "emerging": [
       {
-        "topic_id": "sommelier_expertise_cerveza",
-        "title": "Sommelier de cerveza como capital social emergente",
-        "summary": "María Sol Cravello (TN) posiciona al sommelier de cerveza como figura de prestigio. La sofisticación artesanal se convierte en identidad aspiracional con potencial de redefinir quién es el experto.",
-        "current_value": 1,
+        "topic_id": "festival_cerveza_primavera",
+        "title": "Ola de festivales de cerveza artesanal en noviembre",
+        "summary": "Ola de festivales regionales de cerveza (Quilmes, Salta, San Luis, La Plata) consolida noviembre como pico estacional de consumo presencial; cerveza artesanal y gastronomía local son el eje del formato.",
+        "current_value": 4,
         "historical_value": null,
         "source_support": [
           "news"
         ]
       },
       {
-        "topic_id": "downtrading_segundas_marcas_bebidas",
-        "title": "Downtrading masivo: 6 de 10 argentinos eligen segundas marcas",
-        "summary": "Clarín reporta (5.3K views) que la mayoría ya cambió a segundas marcas en bebidas. La señal escala de percepción de precio a comportamiento real de compra: amenaza directa a la lealtad de marca.",
-        "current_value": 6,
+        "topic_id": "quilmes_musica_argentina",
+        "title": "Quilmes Rock 2027 genera expectativa orgánica",
+        "summary": "El anuncio 'Henry y La Palangana' (posible reencuentro Cordera/Bersuit) reactiva a Quilmes en el territorio de rock argentino, generando expectativa masiva antes de confirmar el Quilmes Rock 2027.",
+        "current_value": 1,
         "historical_value": null,
         "source_support": [
-          "x"
+          "news"
         ]
       }
     ],
     "persistent": [
       {
-        "topic_id": "premium_supermercado",
-        "title": "Cerveza y clase social: tensión de marca vigente",
-        "summary": "Post viral (164K views) instala públicamente que la marca elegida revela clase social. Con 65 replies y críticas a Stella como 'sobrevalorada', el estatus de marca sigue siendo un código vivo y disputado.",
-        "current_value": 4,
-        "historical_value": 12,
+        "topic_id": "cerveza_ritual_social",
+        "title": "Cerveza en las grandes ocasiones sociales",
+        "summary": "Copa Sud (éxodo masivo) y Marcha del Orgullo (after Peaches) confirman que los eventos de alta intensidad emocional son el principal activador del consumo social de cerveza, presente desde W37.",
+        "current_value": 8,
+        "historical_value": 4,
         "source_support": [
-          "x"
+          "x",
+          "news"
         ]
       },
       {
-        "topic_id": "cerveza_y_futbol",
-        "title": "Fútbol y celebración como territorio permanente",
-        "summary": "El éxodo masivo xeneize a Barranquilla para la Final de Copa Sudamericana reactiva la conexión histórica cerveza-fútbol. El evento crea una ocasión de consumo colectiva excepcional sostenida semana a semana.",
-        "current_value": 1,
-        "historical_value": 1,
-        "source_support": [
-          "news"
-        ]
-      }
-    ],
-    "declining": [
-      {
-        "topic_id": "cerveza_saborizada_frutal",
-        "title": "Cervezas saborizadas: sin señal en plena primavera",
-        "summary": "Las cervezas saborizadas (Brahma pomelo, Stones Lemon) dominaron conversación en W37–W43 pero no registran señales en W47. La categoría pierde visibilidad justamente en el pico estacional de mayor oportunidad.",
-        "current_value": 0,
-        "historical_value": 1,
+        "topic_id": "premium_supermercado",
+        "title": "Calidad vs estatus de marca en debate activo",
+        "summary": "El debate sobre calidad percibida de cervezas (viral ranking: Stella 'sobrevalorada', Andes 'top maltoso') continúa siendo uno de los temas más activos en X, con 21k views; señal presente desde W37.",
+        "current_value": 5,
+        "historical_value": 4,
         "source_support": [
           "x"
         ]
       }
-    ]
+    ],
+    "declining": []
   },
   "market_radar": {
     "brand": [
       {
         "entity": "Quilmes",
-        "headline": "Rock 2027: activación cultural anticipada",
-        "summary": "El anuncio 'Henry y La Palangana' ubica a Quilmes Rock 2027 como escenario del reencuentro de Bersuit. La marca toma posición anticipada en el evento de rock más esperado, construyendo vínculo emocional antes que nadie.",
+        "headline": "Quilmes Rock 2027: anticipación cultural",
+        "summary": "El anuncio 'Henry y La Palangana' instala a Quilmes Rock 2027 como marco del posible reencuentro Cordera/Bersuit, generando expectativa orgánica de alto impacto antes de cualquier confirmación oficial.",
         "asset_key": null
       },
       {
         "entity": "Andes Origen",
-        "headline": "Autenticidad percibida sobre Stella Artois",
-        "summary": "Post de 21K views contrasta Andes (maltoso, honesto, buena relación precio-calidad) versus Stella (sobrevalorada, aguada). La autenticidad percibida construye capital de marca de forma orgánica, sin inversión directa.",
+        "headline": "Liderazgo de valor en rankings de consumidores",
+        "summary": "Ranking viral (21k views) posiciona a Andes como líder de valor y calidad real frente a Stella Artois 'sobrevalorada', reforzando autenticidad como diferenciador vs premium percibido.",
         "asset_key": null
       }
     ],
     "category": [
       {
-        "entity": "Categoría cerveza",
-        "headline": "Eventos masivos como detonadores de consumo",
-        "summary": "Final de Copa Sudamericana y Marcha del Orgullo 2026 generaron grandes ocasiones sociales: éxodo festivo a Colombia y after Peaches como epicentro nocturno. La categoría puede capitalizar ambas narrativas de pertenencia.",
+        "entity": "Cerveza artesanal",
+        "headline": "Noviembre: pico de festivales presenciales",
+        "summary": "Ola de festivales (Quilmes, Salta, San Luis, La Plata) confirma noviembre como pico de consumo presencial; artesanales y gastronomía local articulan eventos de alta convocatoria familiar y cultural.",
         "asset_key": null
       },
       {
-        "entity": "Consumidor artesanal",
-        "headline": "Expertise como nuevo diferenciador de identidad",
-        "summary": "El auge del sommelier y el debate de marcas por estatus muestran que el consumidor premium busca conocimiento real, no solo etiquetas. La cerveza artesanal tiene espacio para crear un lenguaje de expertise genuino.",
+        "entity": "Sommelier de cerveza",
+        "headline": "Expertise sensorial gana visibilidad mainstream",
+        "summary": "Sommelier argentina reconocida internacionalmente como experta en cerveza (cobertura TN) señala que la pericia sensorial supera nichos artesanales y empieza a generar estatus en medios masivos.",
         "asset_key": null
       }
     ],
     "competition": [
       {
-        "entity": "Segundas marcas de bebidas",
-        "headline": "Trade-down presiona lealtad de marca en góndola",
-        "summary": "Con 6 de 10 argentinos eligiendo segundas marcas en bebidas, el principal competidor de las cervezas líderes es el precio. Las marcas que no justifiquen su premium con valores concretos perderán consumidores.",
+        "entity": "Vermut y vino",
+        "headline": "Presencia en festivales mixtos premium",
+        "summary": "El festival de Palermo combina cerveza con vermut, vino y más de 100 bebidas; la cerveza comparte la ocasión con alternativas que también crecen en valor cultural y gastronómico.",
         "asset_key": null
       }
     ],
-    "takeaway": "Semana de doble presión: downtrading masivo y debates virales de estatus obligan a las marcas a justificar su premium con autenticidad real, identidad y experiencia."
+    "takeaway": "Ocasiones masivas (Copa Sud, Marcha, festivales) impulsan consumo; la tensión precio-calidad transforma el portfolio, el consumidor que celebra también elige con criterio."
   }
 }
