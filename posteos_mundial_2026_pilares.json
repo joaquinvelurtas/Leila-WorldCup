@@ -1,68 +1,62 @@
 {
   "overview": {
     "portales": {
-      "summary": "La conversación semanal combina presión sobre el consumo discrecional, cierre de locales gastronómicos, el Superclásico Boca-River como ocasión social masiva, bienestar y consumo consciente, y una amenaza estructural para la cerveza por el auge de los GLP-1 como Ozempic."
+      "summary": "La semana combina señales de salud y moderación (cerveza como unidad estándar de alcohol), valorización del expertise sensorial en cerveza artesanal, activaciones de marca Quilmes en cultura rock, vida nocturna y fútbol como grandes generadores de ocasiones sociales de consumo."
     }
   },
   "pilares": {
-    "SOCIALIZATION": [],
-    "FLAVOR": [
-      {
-        "titulo_corto": "Vinos que se decantan",
-        "resumen": "El vino sube la vara sensorial con decantado, maridaje y aromas sofisticados, consolidando su rol como referencia aspiracional frente a la cerveza en sabor y ritual.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/tendencias/2026/11/01/que-vinos-conviene-decantar-10-opciones-para-realzar-sus-aromas-y-sabores"
-      }
-    ],
     "WELLNESS": [
       {
-        "titulo_corto": "Ozempic amenaza a la cerveza",
-        "resumen": "Heineken alerta a los bares que los GLP-1 como Ozempic bajan las ganas de beber y empujan a formatos chicos y opciones sin alcohol, señal estructural para la categoría.",
+        "titulo_corto": "Cerveza y presión arterial",
+        "resumen": "El consumo excesivo de alcohol —con la cerveza (354 ml) como unidad estándar— emerge como factor de riesgo cardiovascular; expertos recomiendan moderación como parte del control de la hipertensión.",
         "medio": "Infobae",
-        "url": "https://www.infobae.com/espana/2026/10/27/la-cerveza-en-peligro-por-el-consumo-de-ozempic-heineken-advierte-a-los-bares-de-que-la-gente-ya-no-tiene-ganas-de-beber"
-      },
-      {
-        "titulo_corto": "Consumo consciente premium",
-        "resumen": "Bienestar Fest convierte el cuidado personal, la cosmética natural y la alimentación saludable en una ocasión aspiracional, reforzando la barrera de bienestar para el alcohol.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/salud/un-mercado-boutique-del-cuidado-personal-el-paseo-de-compras-reflejo-las-tendencias-de-consumo-nid30102026"
+        "url": "https://www.infobae.com/salud/2026/11/16/hipertension-por-que-puede-pasar-inadvertida-y-que-recomiendan-los-expertos-para-prevenir-complicaciones"
       }
     ],
-    "AFFORDABILITY": [
+    "SOCIALIZING": [
       {
-        "titulo_corto": "Consumo no repunta ni con rebaja",
-        "resumen": "Un carnicero vende carne a $8.000 el kilo y aun así no se recupera: el consumo discrecional se derrumba después del día 20 del mes y presiona todas las ocasiones de gasto.",
-        "medio": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/11/02/vende-carne-a-8000-el-kilo-pero-ni-asi-el-consumo-no-repunta"
+        "titulo_corto": "Éxodo xeneize a la final",
+        "resumen": "Miles de hinchas de Boca viajan a Barranquilla para la Final de la Copa Sudamericana en un éxodo festivo con cánticos en el avión, activando una ocasión social masiva de celebración colectiva.",
+        "medio": "Olé",
+        "url": "https://www.ole.com.ar/boca-juniors/boca-juniors-final-atletico-mineiro-colombia-barranquilla-vuelo-cancion-avion_0_d1ZzGJnQDk.html"
       },
       {
-        "titulo_corto": "Cierran bodegones y locales",
-        "resumen": "Gladys La Bomba Tucumana cerró su local de empanadas en Recoleta por los costos y el bajo consumo, señal concreta del impacto del contexto económico sobre la salida gastronómica.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/espectaculos/tras-dos-anos-en-recoleta-gladys-la-bomba-tucumana-cerro-su-local-de-empanadas-y-apunto-contra-nid01112026"
+        "titulo_corto": "After de la Marcha del Orgullo",
+        "resumen": "La Marcha del Orgullo 2026 en Buenos Aires genera un after masivo en el boliche Peaches, confirmando la nocturnidad y los espacios LGBTQ+ como ocasiones sociales de alta convocatoria.",
+        "medio": "Página 12",
+        "url": "https://www.pagina12.com.ar/2026/11/16/peaches-el-mejor-after-para-la-marcha-del-orgullo"
       }
     ],
+    "AFFORDABILITY": [],
     "IMAGE": [],
+    "TASTE": [
+      {
+        "titulo_corto": "Sommelier de cerveza en auge",
+        "resumen": "María Sol Cravello desafió los consejos y se convirtió en sommelier de cerveza de proyección internacional, visibilizando el crecimiento del expertise sensorial y la sofisticación del consumo artesanal.",
+        "medio": "TN",
+        "url": "https://tn.com.ar/campo/2026/11/14/le-recomendaron-que-no-se-dedicara-a-la-cerveza-pero-desafio-el-consejo-y-ahora-brilla-como-sommelier-todo-depende-del-campo"
+      }
+    ],
     "SPORTS": [
       {
-        "titulo_corto": "Riquelme: asado y cerveza",
-        "resumen": "Tras el triunfo en el Superclásico, Riquelme asocia el festejo con asado, cerveza o vino, consolidando el fútbol como ocasión social central para el consumo en Argentina.",
-        "medio": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/11/02/ellos-no-atacaron-nunca-nuestro-arquero-tuvo-el-partido-mas-tranquilo-y-otras-7-frases-de-riquelme-tras-el-triunfo-de-boca-ante-river"
-      },
-      {
-        "titulo_corto": "Superclásico, cita masiva",
-        "resumen": "El historial Boca-River se actualiza con el Clausura 2026 y vuelve a convertir al Superclásico en la cita social masiva del fin de semana para hinchas, previas y encuentros.",
+        "titulo_corto": "F1: brindis para festejar el título",
+        "resumen": "Kimi Antonelli celebró su título de Fórmula 1 en la sede de Mercedes con brindis, música y fotos, reforzando el vínculo entre logros deportivos de alto perfil y momentos de celebración con bebidas.",
         "medio": "Olé",
-        "url": "https://www.ole.com.ar/futbol-primera/superclasico-historial-boca-river-torneo-clausura-2026_0_bDFlNfnRvG.html"
+        "url": "https://www.ole.com.ar/autos/formula-1-kimi-antonelli-pelo-look-italia-george-russell-toto-wolff_0_MIS2yhwOsL.html"
       }
     ],
     "EVENTS": [
       {
-        "titulo_corto": "arteba, 35 años de fiesta",
-        "resumen": "La edición aniversario de arteba logró récords de ventas y reencuentros, mostrando un circuito cultural que convoca al público aspiracional en formato de celebración social.",
-        "medio": "La Nación",
-        "url": "https://www.lanacion.com.ar/cultura/una-fiesta-records-nuevos-compradores-y-reencuentros-para-celebrar-los-35-anos-de-arteba-nid01112026"
+        "titulo_corto": "Quilmes Rock 2027 genera expectativa",
+        "resumen": "El misterioso anuncio 'Henry y La Palangana' reaviva la ilusión del reencuentro de Gustavo Cordera con Bersuit, con pistas que apuntan al Quilmes Rock 2027 como escenario de la reunión.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/teleshow/2026/11/14/henry-y-la-palangana-el-enigmatico-nombre-que-desperto-la-ilusion-del-reencuentro-entre-gustavo-cordera-y-bersuit"
+      },
+      {
+        "titulo_corto": "Agenda cultural: bares y degustaciones",
+        "resumen": "La semana porteña combina el recorrido de bares del barrio 'Chaca y vino', degustaciones gastronómicas y el festival 'Como un rayo', mostrando activa actividad social en torno a gastronomía y bebidas.",
+        "medio": "Infobae",
+        "url": "https://www.infobae.com/cultura/agenda-cultura/2026/11/13/guia-de-arte-y-cultura-semana-del-13-al-20-de-noviembre-2026"
       }
     ]
   }
